@@ -58,16 +58,21 @@ def deserialize_data(data_file):
 @click.option("--test_file", "test_file", type=click.File("r"), help="Path to test file", required=True)
 @click.option("--debug", "debug", flag_value="debug", help="Enable debug message.",)
 def main(tagger_name, model, train_file, test_file, debug):
+    if tagger_name not in ["hmm", "brill"]:
+        print('Try "tagger.py --help" for help.')
+        sys.exit(1)
+
     init_logger(debug)
 
-    model_name = model or "{}.hmm.tagger".format(os.path.splitext(ntpath.basename(train_file.name)))
-    logger.info("Model: {}, Train file: {}, Test file: {}".format(model_name, train_file.name, test_file.name))
+    model_name = model or "{}.{}.tagger".format(os.path.splitext(ntpath.basename(train_file.name))[0], tagger_name)
 
     # train and test tagger
     tagger = Tagger.factory(tagger_name)
     tagger.train(deserialize_data(train_file))
-    tagger.test(deserialize_data(test_file))
+    accuracy = tagger.test(deserialize_data(test_file))
+    logger.info("Model: {}, Train file: {}, Test file: {}, Accuracy: {:.2f}%".format(model_name, train_file.name, test_file.name, accuracy * 100.0))
 
+    # save trained model to disk
     # save_object(tagger.tagger, model_name)
 
 
