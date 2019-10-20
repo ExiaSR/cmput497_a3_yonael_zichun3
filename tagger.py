@@ -30,13 +30,16 @@ def init_logger(debug):
     else:
         logging.basicConfig(level=logging.INFO)
 
+
 def save_object(obj, filename):
-    with open(filename, 'wb') as output:  # Overwrites any existing file.
+    with open(filename, "wb") as output:  # Overwrites any existing file.
         dill.dump(obj, output)
 
+
 def read_object(filename):
-    with open(filename, 'rb') as file:
-       return dill.load(file)
+    with open(filename, "rb") as file:
+        return dill.load(file)
+
 
 def deserialize_data(data_file):
     sentences_raw = [sentence_raw.split("\n") for sentence_raw in data_file.read().split("\n\n")]
@@ -54,9 +57,13 @@ def deserialize_data(data_file):
 @click.command()
 @click.option("--tagger", "tagger_name", help="Tagger name, [hmm|brill]", required=True)
 @click.option("--model", "model", help="Model file to read or write")
-@click.option("--train_file", "train_file", type=click.File("r"), help="Path to train file", required=True)
-@click.option("--test_file", "test_file", type=click.File("r"), help="Path to test file", required=True)
-@click.option("--debug", "debug", flag_value="debug", help="Enable debug message.",)
+@click.option(
+    "--train_file", "train_file", type=click.File("r"), help="Path to train file", required=True
+)
+@click.option(
+    "--test_file", "test_file", type=click.File("r"), help="Path to test file", required=True
+)
+@click.option("--debug", "debug", flag_value="debug", help="Enable debug message.")
 def main(tagger_name, model, train_file, test_file, debug):
     if tagger_name not in ["hmm", "brill"]:
         print('Try "tagger.py --help" for help.')
@@ -64,13 +71,19 @@ def main(tagger_name, model, train_file, test_file, debug):
 
     init_logger(debug)
 
-    model_name = model or "{}.{}.tagger".format(os.path.splitext(ntpath.basename(train_file.name))[0], tagger_name)
+    model_name = model or "{}.{}.tagger".format(
+        os.path.splitext(ntpath.basename(train_file.name))[0], tagger_name
+    )
 
     # train and test tagger
     tagger = Tagger.factory(tagger_name)
     tagger.train(deserialize_data(train_file))
     accuracy = tagger.test(deserialize_data(test_file))
-    logger.info("Model: {}, Train file: {}, Test file: {}, Accuracy: {:.2f}%".format(model_name, train_file.name, test_file.name, accuracy * 100.0))
+    logger.info(
+        "Model: {}, Train file: {}, Test file: {}, Accuracy: {:.2f}%".format(
+            model_name, train_file.name, test_file.name, accuracy * 100.0
+        )
+    )
 
     # save trained model to disk
     # save_object(tagger.tagger, model_name)

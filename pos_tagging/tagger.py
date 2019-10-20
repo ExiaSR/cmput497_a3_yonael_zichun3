@@ -3,7 +3,14 @@ import logging
 import nltk
 
 from nltk.tbl.template import Template
-from nltk.tag.hmm import HiddenMarkovModelTrainer, HiddenMarkovModelTagger
+from nltk.tag.hmm import (
+    HiddenMarkovModelTrainer,
+    HiddenMarkovModelTagger,
+    _identity,
+    LidstoneProbDist,
+    LazyMap,
+    unique_list,
+)
 from nltk.tag.brill_trainer import BrillTaggerTrainer, BrillTagger
 from nltk.tag.brill import Word, Pos
 from nltk.tag import UnigramTagger
@@ -29,12 +36,28 @@ class Tagger(object):
     def test(self, test_data):
         pass
 
-class HMMTagger(Tagger):
-    def __init__(self):
-        self.trainer = HiddenMarkovModelTrainer()
 
-    def train(self, train_data):
-        self.tagger = self.trainer.train_supervised(train_data)
+class HMMTagger(Tagger):
+    # https://github.com/nltk/nltk/blob/3.4.5/nltk/tag/hmm.py#L157
+    def train(self, labeled_sequence):
+        def estimator(fd, bins):
+            return LidstoneProbDist(fd, 0.1, bins)
+
+        labeled_sequence = LazyMap(_identity, labeled_sequence)
+        symbols = unique_list(word for sent in labeled_sequence for word, tag in sent)
+        tag_set = unique_list(tag for sent in labeled_sequence for word, tag in sent)
+
+        trainer = HiddenMarkovModelTrainer(tag_set, symbols)
+        hmm = trainer.train_supervised(labeled_sequence, estimator=estimator)
+        hmm = HiddenMarkovModelTagger(
+            hmm._symbols,
+            hmm._states,
+            hmm._transitions,
+            hmm._outputs,
+            hmm._priors,
+            transform=_identity,
+        )
+        self.tagger = hmm
 
     def test(self, test_data):
         return self.tagger.evaluate(test_data)
