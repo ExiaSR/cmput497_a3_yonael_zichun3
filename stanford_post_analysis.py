@@ -27,7 +27,7 @@ def get_files(dir="output"):
     return files
 
 def deserialize_data(data):
-    sentences_raw = [sentence_raw.split("\n") for sentence_raw in data.split("\n\n")]
+    sentences_raw = [sentence_raw.split(" ") for sentence_raw in data.split("\n")]
     sequences = []
     for sentence in sentences_raw:
         tmp = []
