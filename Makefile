@@ -27,3 +27,15 @@ test:
 	java -classpath stanford-postagger/stanford-postagger.jar edu.stanford.nlp.tagger.maxent.MaxentTagger -model Domain2.tagger -testFile A3DataCleaned/Domain2Test.cleaned.txt > output/Domain2Test-tagged.Domain2Train.txt
 	java -classpath stanford-postagger/stanford-postagger.jar edu.stanford.nlp.tagger.maxent.MaxentTagger -model Domain1.tagger -testFile A3DataCleaned/Domain2Test.cleaned.txt > output/Domain2Test-tagged.Domain1Train.txt
 	java -classpath stanford-postagger/stanford-postagger.jar edu.stanford.nlp.tagger.maxent.MaxentTagger -model Domain2.tagger -testFile A3DataCleaned/Domain1Test.cleaned.txt > output/Domain1Test-tagged.Domain2Train.txt
+
+test-hmm:
+	python tagger.py --train_file A3DataCleaned/Domain1Train.txt --test_file A3DataCleaned/Domain1Test.txt --tagger hmm
+	python tagger.py --train_file A3DataCleaned/Domain1Train.txt --test_file A3DataCleaned/Domain2Test.txt --tagger hmm
+	python tagger.py --train_file A3DataCleaned/Domain2Train.txt --test_file A3DataCleaned/Domain2Test.txt --tagger hmm
+	python tagger.py --train_file A3DataCleaned/Domain2Train.txt --test_file A3DataCleaned/Domain1Test.txt --tagger hmm
+
+test-brill:
+	python tagger.py --train_file A3DataCleaned/Domain1Train.txt --test_file A3DataCleaned/Domain1Test.txt --tagger brill
+	python tagger.py --train_file A3DataCleaned/Domain1Train.txt --test_file A3DataCleaned/Domain2Test.txt --tagger brill
+	python tagger.py --train_file A3DataCleaned/Domain2Train.txt --test_file A3DataCleaned/Domain2Test.txt --tagger brill
+	python tagger.py --train_file A3DataCleaned/Domain2Train.txt --test_file A3DataCleaned/Domain1Test.txt --tagger brill
