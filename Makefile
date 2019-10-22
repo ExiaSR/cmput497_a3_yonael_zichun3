@@ -22,5 +22,8 @@ train:
 
 test:
 	# test model
-	java -classpath stanford-postagger/stanford-postagger.jar edu.stanford.nlp.tagger.maxent.MaxentTagger -model Domain1.tagger -testFile A3DataCleaned/Domain1Test.cleaned.txt
-	java -classpath stanford-postagger/stanford-postagger.jar edu.stanford.nlp.tagger.maxent.MaxentTagger -model Domain2.tagger -testFile A3DataCleaned/Domain2Test.cleaned.txt
+	mkdir -p output
+	java -classpath stanford-postagger/stanford-postagger.jar edu.stanford.nlp.tagger.maxent.MaxentTagger -model Domain1.tagger -testFile A3DataCleaned/Domain1Test.cleaned.txt > output/Domain1Test-tagged.Domain1Train.txt
+	java -classpath stanford-postagger/stanford-postagger.jar edu.stanford.nlp.tagger.maxent.MaxentTagger -model Domain2.tagger -testFile A3DataCleaned/Domain2Test.cleaned.txt > output/Domain2Test-tagged.Domain2Train.txt
+	java -classpath stanford-postagger/stanford-postagger.jar edu.stanford.nlp.tagger.maxent.MaxentTagger -model Domain1.tagger -testFile A3DataCleaned/Domain2Test.cleaned.txt > output/Domain2Test-tagged.Domain1Train.txt
+	java -classpath stanford-postagger/stanford-postagger.jar edu.stanford.nlp.tagger.maxent.MaxentTagger -model Domain2.tagger -testFile A3DataCleaned/Domain1Test.cleaned.txt > output/Domain1Test-tagged.Domain2Train.txt
