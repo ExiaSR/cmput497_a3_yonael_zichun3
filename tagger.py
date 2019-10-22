@@ -55,6 +55,67 @@ def deserialize_data(data_file):
     return sequences
 
 
+# goes through Dictionary with POS tagged sentences
+# Returns :
+# (1) a dictionary with occurences for each POS tag found
+# (2) a list of the original sentences without their POS tags
+# https://www.nltk.org/_modules/nltk/tag/hmm.html#HiddenMarkovModelTagger.test - to detag the POS tags
+def analyze_test(data):
+    occurences_dict = {}
+    original_sentences = []
+    for sentence in data:
+        for word, tag in sentence:
+            orig_sent = ""
+            if tag not in occurences_dict:
+                occurences_dict[tag] = 1
+
+            else:
+                occurences_dict[tag] += 1
+
+        original_sentence = " ".join("%s" % token for (token, tag) in sentence)
+        original_sentences.append(original_sentence)
+
+    return occurences_dict, original_sentences
+
+
+# returns a dictionary with the mistakes in the tagger, and tagged_sentences using the custom tagger
+# Format = Keys are tuples of (Test, CustomerTagger), values are occurences
+def analyze_mistagged(original_sentences, tagger, test_deserialized):
+    tagged_sentences = []
+    mislabelled = {}
+
+    # https://stackoverflow.com/questions/43747451/stanford-nlp-tagger-via-nltk-tag-sents-splits-everything-into-chars
+    # fixed bug where tagger was reading by char
+
+    # uses our custom trained tagger on the original sentences
+    tagged_sentences = tagger.tag_sents(word_tokenize(sent) for sent in original_sentences)
+    count = 0
+    for test, tagged in zip(tagged_sentences, test_deserialized):
+        tag = str(test[1][1])
+        mistagged = str(tagged[1][1])
+        if tag != mistagged:
+            count += 1
+            if (tag, mistagged) in mislabelled:
+                mislabelled[(tag, mistagged)] += 1
+            else:
+                mislabelled[(tag, mistagged)] = 1
+
+    print("Number of mistagged word tokens = {}".format(count))
+    return mislabelled, tagged_sentences
+
+
+def analyze(tagger, test_deserialized):
+    test_analysis = analyze_test(test_deserialized)
+    occurences_dict = test_analysis[0]
+    original_sentences = test_analysis[1]
+    mistagged_data = analyze_mistagged(original_sentences, tagger, test_deserialized)
+    mislabelled_dict = mistagged_data[0]
+    tag_occurences_dict = analyze_test(mistagged_data[1])[0]
+    print("Occurences in Custom Tagger= {}\n".format(tag_occurences_dict))
+    print("Occurences in Test (Gold standard) = {}\n".format(occurences_dict))
+    print("Dictionary of mislabelled tags = {}\n".format(mislabelled_dict))
+
+
 @click.command()
 @click.option("--tagger", "tagger_name", help="Tagger name, [hmm|brill]", required=True)
 @click.option("--model", "model", help="Model file to read or write")
@@ -89,73 +150,9 @@ def main(tagger_name, model, train_file, test_file, debug):
 
     # save trained model to disk
     save_object(tagger.tagger, model_name)
+
+    # error analysis
     analyze(tagger.tagger, test_deserialized)
-
-def analyze(tagger, test_deserialized):
-    test_analysis = analyze_test(test_deserialized)
-    occurences_dict = test_analysis[0]
-    original_sentences = test_analysis[1]
-    # print(occurences_dict)
-    # print(original_sentences)
-    mistagged_data = analyze_mistagged(original_sentences, tagger, test_deserialized)
-    mislabelled_dict = mistagged_data[0]
-    tag_occurences_dict = analyze_test(mistagged_data[1])[0]
-    print("Occurences in Custom Tagger= {}\n".format(tag_occurences_dict))
-    print("Occurences in Test = {}\n".format(occurences_dict))
-    print("Dictionary of mislabelled tags = {}\n".format(mislabelled_dict))
-    #print(mistagged)
-
-# goes through Dictionary with POS tagged sentences 
-# Returns : 
-# (1) a dictionary with occurences for each POS tag found 
-# (2) a list of the original sentences without their POS tags
-# https://www.nltk.org/_modules/nltk/tag/hmm.html#HiddenMarkovModelTagger.test - to detag the POS tags
-
-def analyze_test(data):
-    occurences_dict = {}
-    original_sentences = []
-    for sentence in data:
-        for word, tag in sentence: 
-            orig_sent = ''
-            if tag not in occurences_dict:
-                occurences_dict[tag] = 1 
-            
-            else: 
-                occurences_dict[tag] += 1 
-            
-        original_sentence = ' '.join("%s" % token for (token, tag) in sentence)
-        original_sentences.append(original_sentence)
-
-    return occurences_dict, original_sentences
-
-
-# returns a dictionary with the mistakes in the tagger, and tagged_sentences using the custom tagger
-# Format = Keys are tuples of (Test, CustomerTagger), values are occurences
-def analyze_mistagged(original_sentences, tagger, test_deserialized):
-    tagged_sentences = []
-    mislabelled = {}
-
-    #https://stackoverflow.com/questions/43747451/stanford-nlp-tagger-via-nltk-tag-sents-splits-everything-into-chars
-    # fixed bug where tagger was reading by char 
-
-    # uses our custom trained tagger on the original sentences
-    tagged_sentences =  tagger.tag_sents(word_tokenize(sent) for sent in original_sentences)
-    count = 0 
-    for test, tagged in zip(tagged_sentences, test_deserialized):
-        tag = str(test[1][1])
-        mistagged = str(tagged[1][1]) 
-        if tag != mistagged:
-            count += 1 
-            if (tag, mistagged) in mislabelled:
-                mislabelled[(tag, mistagged)] += 1
-            else:
-                mislabelled[(tag, mistagged)] = 1
-    
-    print("Mistagged POS tags = {}".format(count))
-    return mislabelled, tagged_sentences
-    
-
-
 
 
 if __name__ == "__main__":
