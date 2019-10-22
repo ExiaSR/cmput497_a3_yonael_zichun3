@@ -8,6 +8,7 @@ forget#VB
 Ann#NNP
 Turner#NNP
 .#.
+
 He#PRP
 was#VBD
 well#RB
@@ -15,6 +16,7 @@ rid#JJ
 of#IN
 her#PRP
 .#.
+
 He#PRP
 certainly#RB
 did#VBD
@@ -28,6 +30,7 @@ fickle#JJ
 as#IN
 Ann#NNP
 .#.
+
 If#IN
 he#PRP
 had#VBD
@@ -42,12 +45,14 @@ asking#VBG
 for#IN
 trouble#NN
 .#.
+
 all#DT
 of#IN
 this#DT
 was#VBD
 rationalization#NN
 .#.
+
 Sometimes#RB
 he#PRP
 woke#VBD
@@ -71,6 +76,7 @@ back#RB
 to#TO
 sleep#VB
 .#.
+
 His#PRP$
 plans#NNS
 and#CC
@@ -95,6 +101,7 @@ he#PRP
 had#VBD
 nothing#NN
 .#.
+
 The#DT
 easiest#JJS
 thing#NN
@@ -125,6 +132,7 @@ n't#RB
 allow#VB
 it#PRP
 .#.
+
 The#DT
 best#JJS
 antidote#NN
@@ -140,6 +148,7 @@ was#VBD
 hard#JJ
 work#NN
 .#.
+
 He#PRP
 found#VBD
 that#IN
@@ -165,6 +174,7 @@ to#TO
 stay#VB
 awake#RB
 .#.
+
 Each#DT
 day#NN
 he#PRP
@@ -191,6 +201,7 @@ little#RB
 less#RBR
 poignant#JJ
 .#.
+
 He#PRP
 had#VBD
 plenty#NN
@@ -199,6 +210,7 @@ work#NN
 to#TO
 do#VB
 .#.
+
 Because#IN
 the#DT
 summer#NN
@@ -219,6 +231,7 @@ in#IN
 ordinary#JJ
 years#NNS
 .#.
+
 The#DT
 grass#NN
 in#IN
@@ -235,6 +248,7 @@ weather#NN
 was#VBD
 here#RB
 .#.
+
 He#PRP
 could#MD
 not#RB
@@ -263,6 +277,7 @@ in#IN
 his#PRP$
 meadows#NNS
 .#.
+
 He#PRP
 had#VBD
 no#DT
@@ -275,6 +290,7 @@ would#MD
 give#VB
 him#PRP
 .#.
+
 In#IN
 any#DT
 case#NN
@@ -313,6 +329,7 @@ against#IN
 the#DT
 fence#NN
 .#.
+
 He#PRP
 stopped#VBD
 every#DT
@@ -341,6 +358,7 @@ with#IN
 monotonous#JJ
 calm#NN
 .#.
+
 late#JJ
 afternoon#NN
 on#IN
@@ -376,6 +394,7 @@ to#TO
 his#PRP$
 rifle#NN
 .#.
+
 It#PRP
 could#MD
 be#VB
@@ -388,6 +407,7 @@ had#VBD
 thought#VBN
 up#IN
 .#.
+
 No#DT
 one#NN
 walked#VBD
@@ -414,6 +434,7 @@ Bar#NNP
 B#NNP
 crew#NN
 .#.
+
 Morgan#NNP
 watched#VBD
 the#DT
@@ -425,6 +446,7 @@ time#NN
 ,#,
 puzzled#VBN
 .#.
+
 When#WRB
 they#PRP
 were#VBD
@@ -445,6 +467,7 @@ puzzled#JJ
 than#IN
 ever#RB
 .#.
+
 He#PRP
 cleaned#VBD
 his#PRP$
@@ -465,6 +488,7 @@ and#CC
 started#VBD
 downstream#RB
 .#.
+
 His#PRP$
 visitors#NNS
 had#VBD
@@ -484,6 +508,7 @@ toward#IN
 the#DT
 house#NN
 .#.
+
 Now#RB
 he#PRP
 saw#VBD
@@ -514,6 +539,7 @@ on#IN
 their#PRP$
 feet#NNS
 .#.
+
 the#DT
 house#NN
 ahead#RB
@@ -529,6 +555,7 @@ in#IN
 his#PRP$
 hands#NNS
 .#.
+
 They#PRP
 crawled#VBD
 through#IN
@@ -557,6 +584,7 @@ nineteen#CD
 or#CC
 twenty#CD
 .#.
+
 They#PRP
 were#VBD
 dirty#JJ
@@ -586,6 +614,7 @@ the#DT
 front#JJ
 door#NN
 .#.
+
 She#PRP
 lay#VBD
 there#EX
@@ -600,6 +629,7 @@ on#IN
 her#PRP$
 feet#NNS
 .#.
+
 The#DT
 boy#NN
 came#VBD
@@ -627,6 +657,7 @@ not#RB
 really#RB
 caring#VBG
 .#.
+
 Morgan#NNP
 hesitated#VBD
 ,#,
@@ -644,6 +675,7 @@ a#DT
 good#JJ
 one#CD
 .#.
+
 He#PRP
 did#VBD
 n't#RB
@@ -658,6 +690,7 @@ to#TO
 be#VB
 pretending#VBG
 .#.
+
 The#DT
 boy#NN
 licked#VBD
@@ -665,6 +698,7 @@ his#PRP$
 dry#JJ
 lips#NNS
 .#.
+
 He#PRP
 asked#VBD
 ,#,
@@ -677,6 +711,7 @@ drink#NN
 ''#''
 ?#.
 ?#.
+
 Morgan#NNP
 jerked#VBD
 his#PRP$
@@ -686,6 +721,7 @@ the#DT
 front#JJ
 door#NN
 .#.
+
 ``#``
 In#IN
 the#DT
@@ -695,6 +731,7 @@ kitchen#NN
 he#PRP
 said#VBD
 .#.
+
 Leaning#VBG
 his#PRP$
 Winchester#NNP
@@ -711,10 +748,12 @@ to#TO
 the#DT
 girl#NN
 .#.
+
 ``#``
 Get#VB
 up#IN
 .#.
+
 There#EX
 's#VBZ
 water#NN
@@ -723,6 +762,7 @@ the#DT
 house#NN
 ''#''
 .#.
+
 She#PRP
 did#VBD
 n't#RB
@@ -731,6 +771,7 @@ or#CC
 say#VB
 anything#NN
 .#.
+
 Her#PRP$
 eyes#NNS
 were#VBD
@@ -746,6 +787,7 @@ even#RB
 see#VB
 him#PRP
 .#.
+
 She#PRP
 had#VBD
 reached#VBN
@@ -762,6 +804,7 @@ how#WRB
 she#PRP
 looked#VBD
 .#.
+
 Her#PRP$
 face#NN
 was#VBD
@@ -792,6 +835,7 @@ red#JJ
 and#CC
 angry#JJ
 .#.
+
 Her#PRP$
 blond#NN
 hair#NN
@@ -820,6 +864,7 @@ practically#RB
 no#DT
 protection#NN
 .#.
+
 It#PRP
 must#MD
 have#VB
@@ -848,6 +893,7 @@ bruised#VBN
 and#CC
 bleeding#VBG
 .#.
+
 He#PRP
 picked#VBD
 her#PRP
@@ -873,6 +919,7 @@ into#IN
 the#DT
 house#NN
 .#.
+
 She#PRP
 was#VBD
 amazingly#RB
@@ -894,6 +941,7 @@ she#PRP
 was#VBD
 conscious#JJ
 .#.
+
 Any#DT
 lingering#VBG
 suspicion#NN
@@ -910,6 +958,7 @@ up#IN
 was#VBD
 dispelled#VBN
 .#.
+
 No#DT
 girl#NN
 would#MD
@@ -926,6 +975,7 @@ could#MD
 kill#VB
 him#PRP
 .#.
+
 Besides#IN
 ,#,
 she#PRP
@@ -937,6 +987,7 @@ that#WP
 attracted#VBD
 him#PRP
 .#.
+
 He#PRP
 put#VBD
 her#PRP
@@ -964,6 +1015,7 @@ beside#IN
 the#DT
 table#NN
 .#.
+
 They#PRP
 looked#VBD
 a#DT
@@ -974,6 +1026,7 @@ alike#RB
 Morgan#NNP
 thought#VBD
 .#.
+
 Both#DT
 had#VBD
 blonde#JJ
@@ -992,6 +1045,7 @@ similarity#NN
 of#IN
 features#NNS
 .#.
+
 Morgan#NNP
 filled#VBD
 the#DT
@@ -1028,6 +1082,7 @@ to#TO
 her#PRP$
 mouth#NN
 .#.
+
 She#PRP
 drank#VBD
 greedily#RB
@@ -1046,6 +1101,7 @@ lowered#VBD
 her#PRP$
 head#NN
 .#.
+
 He#PRP
 stood#VBD
 looking#VBG
@@ -1066,6 +1122,7 @@ to#TO
 this#DT
 condition#NN
 .#.
+
 He#PRP
 had#VBD
 seen#VBN
@@ -1103,6 +1160,7 @@ as#IN
 these#DT
 two#CD
 .#.
+
 The#DT
 girl#NN
 dropped#VBD
@@ -1110,6 +1168,7 @@ off#IN
 to#TO
 sleep#VB
 .#.
+
 Morgan#NNP
 returned#VBD
 to#TO
@@ -1145,6 +1204,7 @@ on#IN
 the#DT
 stove#NN
 .#.
+
 He#PRP
 brought#VBD
 his#PRP$
@@ -1162,6 +1222,7 @@ faced#VBD
 the#DT
 boy#NN
 .#.
+
 Who#WP
 are#VBP
 you#PRP
@@ -1173,9 +1234,11 @@ you#PRP
 ''#''
 ?#.
 ?#.
+
 He#PRP
 asked#VBD
 .#.
+
 I#PRP
 'm#VBP
 Billy#NNP
@@ -1186,6 +1249,7 @@ the#DT
 boy#NN
 answered#VBD
 .#.
+
 ``#``
 That#DT
 's#VBZ
@@ -1193,6 +1257,7 @@ my#PRP$
 wife#NN
 Sharon#NNP
 .#.
+
 We#PRP
 ran#VBD
 out#IN
@@ -1208,6 +1273,7 @@ two#CD
 days#NNS
 ''#''
 .#.
+
 What#WDT
 are#VBP
 you#PRP
@@ -1216,15 +1282,18 @@ here#RB
 ''#''
 ?#.
 ?#.
+
 we#PRP
 in#IN
 Wyoming#VBG
 ''#''
 ?#.
 ?#.
+
 Morgan#NNP
 nodded#VBD
 .#.
+
 ``#``
 About#IN
 five#CD
@@ -1235,12 +1304,14 @@ the#DT
 line#NN
 ''#''
 .#.
+
 Jones#NNP
 sighed#VBD
 as#IN
 if#IN
 relieved#VBN
 .#.
+
 ``#``
 We#PRP
 've#VB
@@ -1259,6 +1330,7 @@ us#PRP
 down#IN
 ''#''
 .#.
+
 You#PRP
 mean#VB
 you#PRP
@@ -1276,9 +1348,11 @@ work#NN
 ''#''
 ?#.
 ?#.
+
 Morgan#NNP
 demanded#VBD
 .#.
+
 ``#``
 The#DT
 town#NN
@@ -1292,6 +1366,7 @@ miles#NNS
 from#IN
 here#RB
 .#.
+
 Why#WRB
 did#VBD
 n't#RB
@@ -1301,6 +1376,7 @@ there#RB
 ''#''
 ?#.
 ?#.
+
 We#PRP
 did#VBD
 n't#RB
@@ -1312,6 +1388,7 @@ work#NN
 Jones#NNP
 said#VBD
 .#.
+
 This#DT
 is#VBZ
 a#DT
@@ -1323,6 +1400,7 @@ country#NN
 Morgan#NNP
 said#VBD
 .#.
+
 ``#``
 There#EX
 's#VBZ
@@ -1336,6 +1414,7 @@ north#JJ
 of#IN
 here#RB
 .#.
+
 You#PRP
 'd#MD
 have#VB
@@ -1350,6 +1429,7 @@ both#DT
 places#NNS
 ''#''
 .#.
+
 we#PRP
 're#VBP
 lucky#JJ
@@ -1357,6 +1437,7 @@ we#PRP
 got#VBD
 here#RB
 .#.
+
 Could#MD
 you#PRP
 give#VB
@@ -1369,10 +1450,12 @@ Mr.#NNP
 ``#``
 Morgan#NNP
 .#.
+
 Dan#NNP
 Morgan#NNP
 ''#''
 .#.
+
 He#PRP
 was#VBD
 silent#JJ
@@ -1415,6 +1498,7 @@ about#IN
 the#DT
 couple#NN
 .#.
+
 They#PRP
 might#MD
 kill#VB
@@ -1431,6 +1515,7 @@ in#IN
 the#DT
 house#NN
 .#.
+
 He#PRP
 dismissed#VBD
 the#DT
@@ -1438,6 +1523,7 @@ possibility#NN
 at#IN
 once#RB
 .#.
+
 The#DT
 girl#NN
 's#POS
@@ -1446,6 +1532,7 @@ face#NN
 haunted#VBD
 him#PRP
 .#.
+
 It#PRP
 was#VBD
 n't#RB
@@ -1455,6 +1542,7 @@ of#IN
 a#DT
 killer#NN
 .#.
+
 He#PRP
 was#VBD
 n't#RB
@@ -1464,6 +1552,7 @@ about#IN
 the#DT
 boy#NN
 .#.
+
 He#PRP
 had#VBD
 n't#RB
@@ -1484,6 +1573,7 @@ pathetic#JJ
 woebegone#JJ
 expression#NN
 .#.
+
 There#EX
 was#VBD
 more#JJR
@@ -1495,12 +1585,14 @@ had#VBD
 told#VBN
 him#PRP
 .#.
+
 They#PRP
 were#VBD
 running#VBG
 from#IN
 something#NN
 .#.
+
 He#PRP
 'd#MD
 be#VB
@@ -1523,6 +1615,7 @@ on#IN
 ,#,
 either#RB
 .#.
+
 I#PRP
 could#MD
 use#VB
@@ -1545,6 +1638,7 @@ pay#VB
 you#PRP
 anything#NN
 .#.
+
 I#PRP
 guess#VB
 you#PRP
@@ -1557,6 +1651,7 @@ the#DT
 morning#NN
 ''#''
 .#.
+
 We#PRP
 'll#MD
 work#VB
@@ -1570,6 +1665,7 @@ boy#NN
 said#VBD
 eagerly#RB
 .#.
+
 ``#``
 I#PRP
 've#VB
@@ -1592,6 +1688,7 @@ on#IN
 a#DT
 ranch#NN
 .#.
+
 Sharon#NNP
 ,#,
 she#PRP
@@ -1601,6 +1698,7 @@ in#IN
 a#DT
 restaurant#NN
 .#.
+
 We#PRP
 'll#MD
 work#VB
@@ -1610,6 +1708,7 @@ Mr.#NNP
 Morgan#NNP
 ''#''
 .#.
+
 I#PRP
 'll#MD
 see#VB
@@ -1618,6 +1717,7 @@ see#VB
 Morgan#NNP
 said#VBD
 .#.
+
 ``#``
 Right#RB
 now#RB
@@ -1629,6 +1729,7 @@ and#CC
 a#DT
 bath#NN
 .#.
+
 Your#PRP$
 wife#NN
 's#VBZ
@@ -1637,6 +1738,7 @@ terrible#JJ
 shape#NN
 ''#''
 .#.
+
 I#PRP
 know#VB
 ''#''
@@ -1645,6 +1747,7 @@ Jones#NNP
 said#VBD
 dejectedly#RB
 .#.
+
 Morgan#NNP
 filled#VBD
 the#DT
@@ -1662,6 +1765,7 @@ set#VBD
 the#DT
 table#NN
 .#.
+
 When#WRB
 the#DT
 meal#NN
@@ -1686,6 +1790,7 @@ woke#VBD
 the#DT
 girl#NN
 .#.
+
 He#PRP
 said#VBD
 ,#,
@@ -1698,6 +1803,7 @@ supper#NN
 ready#JJ
 ''#''
 .#.
+
 She#PRP
 rubbed#VBD
 her#PRP$
@@ -1716,6 +1822,7 @@ to#TO
 her#PRP$
 hair#NN
 .#.
+
 ``#``
 I#PRP
 'm#VBP
@@ -1732,12 +1839,14 @@ she#PRP
 was#VBD
 alarmed#VBN
 .#.
+
 ``#``
 Who#WP
 are#VBP
 you#PRP
 ?#.
 ?#.
+
 How#WRB
 did#VBD
 we#PRP
@@ -1746,17 +1855,20 @@ here#RB
 ''#''
 ?#.
 ?#.
+
 I#PRP
 'm#VBP
 Dan#NNP
 Morgan#NNP
 .#.
+
 This#DT
 is#VBZ
 the#DT
 Rafter#NNP
 A[fj]#SYM
 .#.
+
 You#PRP
 fell#VBD
 down#IN
@@ -1772,6 +1884,7 @@ carried#VBD
 you#PRP
 in#IN
 .#.
+
 I#PRP
 gave#VBD
 you#PRP
@@ -1785,6 +1898,7 @@ to#TO
 sleep#VB
 ''#''
 .#.
+
 it#PRP
 was#VBD
 n't#RB
@@ -1800,6 +1914,7 @@ village#NN
 ''#''
 !#.
 !#.
+
 She#PRP
 was#VBD
 carrying#VBG
@@ -1824,6 +1939,7 @@ from#IN
 her#PRP$
 wrist#NN
 .#.
+
 I#PRP
 saw#VBD
 your#PRP$
@@ -1844,6 +1960,7 @@ control#VB
 her#PRP$
 anger#NN
 .#.
+
 ``#``
 You#PRP
 could#MD
@@ -1858,6 +1975,7 @@ fire#NN
 that#DT
 size#NN
 .#.
+
 It#PRP
 would#MD
 n't#RB
@@ -1868,16 +1986,19 @@ fool#NN
 like#IN
 you#PRP
 .#.
+
 It#PRP
 would#MD
 to#TO
 me#PRP
 ''#''
 .#.
+
 Wilson#NNP
 said#VBD
 quickly#RB
 .#.
+
 ``#``
 The#DT
 fire#NN
@@ -1885,6 +2006,7 @@ fire#NN
 too#RB
 big#JJ
 .#.
+
 And#CC
 I#PRP
 appreciate#VBP
@@ -1892,12 +2014,14 @@ the#DT
 advice#NN
 ''#''
 .#.
+
 He#PRP
 was#VBD
 losing#VBG
 patience#NN
 again#RB
 .#.
+
 An#DT
 hour#NN
 before#RB
@@ -1919,6 +2043,7 @@ have#VB
 appreciated#VBN
 company#NN
 .#.
+
 She#PRP
 had#VBD
 helped#VBN
@@ -1927,6 +2052,7 @@ change#VB
 his#PRP$
 mind#NN
 .#.
+
 I#PRP
 'm#VBP
 not#RB
@@ -1937,23 +2063,27 @@ you#PRP
 she#PRP
 said#VBD
 .#.
+
 ``#``
 I#PRP
 'm#VBP
 telling#VBG
 you#PRP
 .#.
+
 That#DT
 fire#NN
 's#VBZ
 too#RB
 big#JJ
 .#.
+
 Let#VB
 it#PRP
 burn#VB
 down#RB
 .#.
+
 And#CC
 make#VB
 sure#JJ
@@ -1968,11 +2098,13 @@ the#DT
 morning#NN
 ''#''
 .#.
+
 He#PRP
 was#VBD
 taken#VBN
 aback#RB
 .#.
+
 It#PRP
 took#VBD
 him#PRP
@@ -1983,6 +2115,7 @@ to#TO
 compose#VB
 himself#PRP
 .#.
+
 There#EX
 's#VBZ
 some#DT
@@ -1993,6 +2126,7 @@ he#PRP
 said#VBD
 finally#RB
 .#.
+
 ``#``
 You#PRP
 're#VBP
@@ -2001,6 +2135,7 @@ about#IN
 the#DT
 fire#NN
 .#.
+
 It#PRP
 's#VBZ
 bigger#JJR
@@ -2022,6 +2157,7 @@ doing#VBG
 any#DT
 harm#NN
 .#.
+
 But#CC
 you#PRP
 're#VBP
@@ -2032,6 +2168,7 @@ rest#NN
 of#IN
 it#PRP
 .#.
+
 I#PRP
 'm#VBP
 not#RB
@@ -2040,17 +2177,20 @@ in#IN
 the#DT
 morning#NN
 .#.
+
 Why#WRB
 should#MD
 I#PRP
 ?#.
 ?#.
+
 I#PRP
 own#VBP
 the#DT
 place#NN
 ''#''
 .#.
+
 She#PRP
 showed#VBD
 her#PRP$
@@ -2076,6 +2216,7 @@ at#IN
 his#PRP$
 face#NN
 .#.
+
 It#PRP
 did#VBD
 n't#RB
@@ -2085,6 +2226,7 @@ tell#VB
 her#PRP
 anything#NN
 .#.
+
 She#PRP
 glanced#VBD
 around#IN
@@ -2128,6 +2270,7 @@ of#IN
 the#DT
 firelight#NN
 .#.
+
 She#PRP
 studied#VBD
 it#PRP
@@ -2136,6 +2279,7 @@ a#DT
 long#JJ
 time#NN
 .#.
+
 Then#RB
 she#PRP
 turned#VBD
@@ -2157,6 +2301,7 @@ meant#VBD
 by#IN
 it#PRP
 .#.
+
 You#PRP
 own#VBP
 this#DT
@@ -2164,6 +2309,7 @@ place#NN
 ''#''
 ?#.
 ?#.
+
 She#PRP
 said#VBD
 ,#,
@@ -2178,6 +2324,7 @@ was#VBD
 almost#RB
 friendly#JJ
 .#.
+
 ``#``
 You#PRP
 bought#VBD
@@ -2185,6 +2332,7 @@ it#PRP
 ''#''
 ?#.
 ?#.
+
 a#DT
 man#NN
 in#IN
@@ -2195,29 +2343,35 @@ Louis#NNP
 Wilson#NNP
 said#VBD
 .#.
+
 ``#``
 Jake#NNP
 Carwood#NNP
 .#.
+
 Maybe#RB
 you#PRP
 know#VBP
 him#PRP
 ''#''
 .#.
+
 The#DT
 girl#NN
 laughed#VBD
 .#.
+
 ``#``
 I#PRP
 know#VBP
 him#PRP
 .#.
+
 I#PRP
 ought#MD
 to#TO
 .#.
+
 My#PRP$
 father#NN
 ran#VBD
@@ -2229,12 +2383,14 @@ years#NNS
 ago#RB
 ''#''
 .#.
+
 Wilson#NNP
 did#VBD
 n't#RB
 say#VB
 anything#NN
 .#.
+
 He#PRP
 stood#VBD
 watching#VBG
@@ -2247,6 +2403,7 @@ was#VBD
 coming#VBG
 next#JJ
 .#.
+
 She#PRP
 had#VBD
 picked#VBD
@@ -2265,6 +2422,7 @@ smiling#VBG
 at#IN
 him#PRP
 .#.
+
 Carwood#NNP
 did#VBD
 n't#RB
@@ -2276,15 +2434,18 @@ that#IN
 she#PRP
 said#VBD
 .#.
+
 Wilson#NNP
 said#VBD
 .#.
+
 ``#``
 But#CC
 it#PRP
 's#VBZ
 understandable#JJ
 .#.
+
 It#PRP
 's#VBZ
 not#RB
@@ -2300,6 +2461,7 @@ be#VB
 proud#JJ
 of#IN
 .#.
+
 And#CC
 it#PRP
 does#VBZ
@@ -2308,6 +2470,7 @@ make#VB
 any#DT
 difference#NN
 .#.
+
 He#PRP
 sold#VBD
 me#PRP
@@ -2315,6 +2478,7 @@ a#DT
 clear#JJ
 title#NN
 .#.
+
 I#PRP
 have#VBP
 it#PRP
@@ -2324,6 +2488,7 @@ me#PRP
 right#RB
 here#RB
 .#.
+
 If#IN
 you#PRP
 want#VB
@@ -2340,6 +2505,7 @@ she#PRP
 said#VBD
 sternly#RB
 .#.
+
 ``#``
 It#PRP
 would#MD
@@ -2354,6 +2520,7 @@ not#RB
 to#TO
 me#PRP
 .#.
+
 I#PRP
 meant#VBD
 what#WP
@@ -2363,6 +2530,7 @@ about#IN
 that#DT
 fire#NN
 .#.
+
 Be#VB
 sure#JJ
 it#PRP
@@ -2372,10 +2540,12 @@ when#WRB
 you#PRP
 leave#VBP
 .#.
+
 That#DT
 's#VBZ
 all#DT
 .#.
+
 I#PRP
 'll#MD
 let#VB
@@ -2389,6 +2559,7 @@ dishes#NNS
 now#RB
 ''#''
 .#.
+
 It#PRP
 was#VBD
 meant#VBN
@@ -2402,6 +2573,7 @@ n't#RB
 quite#RB
 succeed#VB
 .#.
+
 He#PRP
 took#VBD
 the#DT
@@ -2424,6 +2596,7 @@ to#TO
 smile#VB
 now#RB
 .#.
+
 ``#``
 I#PRP
 do#VBP
@@ -2440,12 +2613,14 @@ he#PRP
 said#VBD
 pleasantly#RB
 .#.
+
 ``#``
 It#PRP
 does#VBZ
 n't#RB
 hurt#VB
 .#.
+
 It#PRP
 might#MD
 hurt#VB
@@ -2453,6 +2628,7 @@ you#PRP
 ,#,
 though#RB
 .#.
+
 Somebody#NN
 might#MD
 mistake#VB
@@ -2462,6 +2638,7 @@ a#DT
 woman#NN
 ''#''
 .#.
+
 He#PRP
 meant#VBD
 to#TO
@@ -2475,10 +2652,12 @@ got#VBD
 the#DT
 chance#NN
 .#.
+
 She#PRP
 was#VBD
 quick#JJ
 .#.
+
 She#PRP
 brought#VBD
 the#DT
@@ -2498,6 +2677,7 @@ to#TO
 step#VB
 back#RB
 .#.
+
 She#PRP
 swung#VBD
 the#DT
@@ -2519,6 +2699,7 @@ of#IN
 the#DT
 saddle#NN
 .#.
+
 She#PRP
 came#VBD
 down#RB
@@ -2533,6 +2714,7 @@ break#VB
 her#PRP$
 fall#NN
 .#.
+
 He#PRP
 grabbed#VBD
 her#PRP
@@ -2561,6 +2743,7 @@ out#RB
 of#IN
 him#PRP
 .#.
+
 It#PRP
 made#VBD
 him#PRP
@@ -2575,6 +2758,7 @@ go#VB
 of#IN
 her#PRP
 .#.
+
 He#PRP
 got#VBD
 up#RB
@@ -2594,6 +2778,7 @@ stood#VBD
 facing#VBG
 her#PRP
 .#.
+
 He#PRP
 wiped#VBD
 the#DT
@@ -2602,6 +2787,7 @@ from#IN
 his#PRP$
 cheek#NN
 .#.
+
 I#PRP
 ought#MD
 to#TO
@@ -2610,6 +2796,7 @@ to#TO
 he#PRP
 said#VBD
 .#.
+
 He#PRP
 was#VBD
 shaking#VBG
@@ -2625,6 +2812,7 @@ long#JJ
 painful#JJ
 gasps#NNS
 .#.
+
 ``#``
 That#DT
 quirt#NN
@@ -2645,6 +2833,7 @@ the#DT
 most#RBS
 good#JJ
 .#.
+
 If#IN
 you#PRP
 were#VBD
@@ -2660,6 +2849,7 @@ n't#RB
 mister#NN
 ''#''
 .#.
+
 The#DT
 voice#NN
 came#VBD
@@ -2671,6 +2861,7 @@ and#CC
 Wilson#NNP
 turned#VBD
 .#.
+
 The#DT
 fire#NN
 had#VBD
@@ -2688,6 +2879,7 @@ against#IN
 the#DT
 trees#NNS
 .#.
+
 But#CC
 a#DT
 moment#NN
@@ -2710,6 +2902,7 @@ look#NN
 at#IN
 him#PRP
 .#.
+
 He#PRP
 was#VBD
 tall#JJ
@@ -2722,6 +2915,7 @@ half-breed#NN
 Wilson#NNP
 thought#VBD
 .#.
+
 And#CC
 he#PRP
 was#VBD
@@ -2738,6 +2932,7 @@ across#IN
 his#PRP$
 cheek#NN
 .#.
+
 She#PRP
 's#VBZ
 not#RB
@@ -2750,10 +2945,12 @@ mister#NN
 he#PRP
 said#VBD
 .#.
+
 ``#``
 I#PRP
 am#VBP
 .#.
+
 If#IN
 you#PRP
 've#VBP
@@ -2762,6 +2959,7 @@ any#DT
 ideas#NNS
 ''#''
 .#.
+
 He#PRP
 raised#VBD
 the#DT
@@ -2774,6 +2972,7 @@ Wilson#NNP
 's#POS
 chest#NN
 .#.
+
 the#DT
 rifle#NN
 down#IN
@@ -2785,10 +2984,12 @@ the#DT
 girl#NN
 said#VBD
 .#.
+
 She#PRP
 seemed#VBD
 irritated#VBN
 .#.
+
 ``#``
 I#PRP
 thought#VBD
@@ -2800,6 +3001,7 @@ stay#VB
 home#NN
 ''#''
 .#.
+
 The#DT
 half-breed#NN
 eased#VBD
@@ -2813,6 +3015,7 @@ across#IN
 his#PRP$
 lap#NN
 .#.
+
 The#DT
 scar#NN
 looked#VBD
@@ -2833,6 +3036,7 @@ deep-set#JJ
 and#CC
 expressionless#JJ
 .#.
+
 ``#``
 You#PRP
 should#MD
@@ -2851,6 +3055,7 @@ he#PRP
 said#VBD
 quietly#RB
 .#.
+
 I#PRP
 can#MD
 take#VB
@@ -2858,6 +3063,7 @@ care#VB
 of#IN
 this#DT
 .#.
+
 It#PRP
 's#VBZ
 no#DT
@@ -2866,6 +3072,7 @@ for#IN
 you#PRP
 ''#''
 .#.
+
 The#DT
 girl#NN
 tapped#VBD
@@ -2880,12 +3087,14 @@ glared#VBD
 at#IN
 him#PRP
 .#.
+
 He#PRP
 took#VBD
 it#PRP
 without#IN
 flinching#VBG
 .#.
+
 I#PRP
 said#VBD
 go#VB
@@ -2893,6 +3102,7 @@ home#NN
 ,#,
 Joseph#NNP
 .#.
+
 You#PRP
 've#VB
 got#VBD
@@ -2902,6 +3112,7 @@ up#IN
 here#RB
 ''#''
 .#.
+
 The#DT
 half-breed#NN
 did#VBD
@@ -2910,6 +3121,7 @@ answer#NN
 this#DT
 time#NN
 .#.
+
 But#CC
 the#DT
 scar#NN
@@ -2932,11 +3144,13 @@ hurt#JJ
 and#CC
 angry#JJ
 .#.
+
 It#PRP
 made#VBD
 Wilson#NNP
 wonder#NN
 .#.
+
 He#PRP
 watched#VBD
 the#DT
@@ -2946,6 +3160,7 @@ he#PRP
 turned#VBD
 silently#RB
 .#.
+
 They#PRP
 could#MD
 hear#VB
@@ -2967,6 +3182,7 @@ sound#NN
 faded#VBD
 out#RP
 .#.
+
 Wilson#NNP
 brushed#VBD
 the#DT
@@ -2975,6 +3191,7 @@ from#IN
 his#PRP$
 coat#NN
 .#.
+
 ``#``
 Who#WP
 was#VBD
@@ -2982,15 +3199,18 @@ that#DT
 ''#''
 ?#.
 ?#.
+
 He#PRP
 asked#VBD
 .#.
+
 ``#``
 Your#PRP$
 personal#NN
 guard#NN
 ?#.
 ?#.
+
 You#PRP
 're#VBP
 pretty#RB
@@ -2999,6 +3219,7 @@ on#IN
 him#PRP
 ''#''
 .#.
+
 He#PRP
 works#VBZ
 for#IN
@@ -3018,18 +3239,21 @@ change#VB
 her#PRP$
 mind#NN
 .#.
+
 ``#``
 He#PRP
 's#VBZ
 a#DT
 friend#NN
 .#.
+
 His#PRP$
 name#NN
 's#POS
 Joseph#NNP
 Sanchez#NNP
 .#.
+
 Is#VBZ
 there#EX
 anything#NN
@@ -3041,9 +3265,11 @@ know#VB
 ''#''
 ?#.
 ?#.
+
 Wilson#NNP
 said#VBD
 .#.
+
 ``#``
 I#PRP
 guess#VBP
@@ -3054,6 +3280,7 @@ out#RP
 soon#RB
 enough#RB
 .#.
+
 You#PRP
 've#VBP
 got#VBN
@@ -3062,11 +3289,14 @@ on#IN
 your#PRP$
 cheek#NN
 .#.
+
 Not#RB
 yours#PRP
 .#.
+
 Mine#PRP
 .#.
+
 It#PRP
 must#MD
 have#VB
@@ -3079,6 +3309,7 @@ against#IN
 me#PRP
 ''#''
 .#.
+
 She#PRP
 wiped#VBD
 it#PRP
@@ -3090,6 +3321,7 @@ of#IN
 her#PRP$
 coat#NN
 .#.
+
 I#PRP
 'll#MD
 bet#VB
@@ -3114,6 +3346,7 @@ baby#NN
 Wilson#NNP
 said#VBD
 .#.
+
 He#PRP
 saw#VBD
 her#PRP$
@@ -3138,6 +3371,7 @@ grabbed#VBD
 her#PRP$
 wrist#NN
 .#.
+
 ``#``
 Oh#UH
 ,#,
@@ -3154,6 +3388,7 @@ without#IN
 humor#NN
 now#RB
 .#.
+
 ``#``
 I#PRP
 've#VBP
@@ -3162,6 +3397,7 @@ enough#RB
 of#IN
 that#DT
 .#.
+
 I#PRP
 've#VBP
 had#VBN
@@ -3169,6 +3405,7 @@ enough#RB
 of#IN
 you#PRP
 .#.
+
 I#PRP
 do#VBP
 n't#RB
@@ -3185,6 +3422,7 @@ do#VBP
 n't#RB
 care#VB
 .#.
+
 I#PRP
 do#VBP
 n't#RB
@@ -3213,12 +3451,14 @@ that#DT
 ,#,
 either#RB
 .#.
+
 You#PRP
 took#VBD
 me#PRP
 by#IN
 surprise#NN
 .#.
+
 But#CC
 I#PRP
 'll#MD
@@ -3231,6 +3471,7 @@ next#JJ
 time#NN
 ''#''
 .#.
+
 She#PRP
 brought#VBD
 up#IN
@@ -3248,6 +3489,7 @@ he#PRP
 was#VBD
 quicker#JJR
 .#.
+
 He#PRP
 side-stepped#VBD
 her#PRP$
@@ -3261,6 +3503,7 @@ against#IN
 the#DT
 gelding#NN
 .#.
+
 She#PRP
 finally#RB
 regained#VBD
@@ -3273,6 +3516,7 @@ in#IN
 the#DT
 saddle#NN
 .#.
+
 Her#PRP$
 hat#NN
 had#VBD
@@ -3305,6 +3549,7 @@ any#DT
 time#NN
 before#RB
 .#.
+
 He#PRP
 had#VBD
 forgotten#VBN
@@ -3314,6 +3559,7 @@ was#VBD
 so#RB
 pretty#JJ
 .#.
+
 But#CC
 her#PRP$
 prettiness#NN
@@ -3339,6 +3585,7 @@ meanness#NN
 ,#,
 self-will#NN
 .#.
+
 He#PRP
 had#VBD
 known#VBN
@@ -3351,6 +3598,7 @@ woman#NN
 in#IN
 particular#NN
 .#.
+
 And#CC
 one#CD
 had#VBD
@@ -3358,6 +3606,7 @@ been#VBN
 too#RB
 many#JJ
 .#.
+
 He#PRP
 watched#VBD
 the#DT
@@ -3395,6 +3644,7 @@ children#NNS
 were#VBD
 sleeping#VBG
 .#.
+
 They#PRP
 were#VBD
 n't#RB
@@ -3415,6 +3665,7 @@ favor#NN
 by#IN
 pretending#VBG
 .#.
+
 He#PRP
 had#VBD
 n't#RB
@@ -3434,6 +3685,7 @@ by#IN
 a#DT
 woman#NN
 .#.
+
 They#PRP
 expected#VBD
 greater#JJR
@@ -3453,6 +3705,7 @@ they#PRP
 were#VBD
 disappointed#VBN
 .#.
+
 And#CC
 determined#VBN
 not#RB
@@ -3460,6 +3713,7 @@ to#TO
 show#VB
 it#PRP
 .#.
+
 They#PRP
 lay#VBD
 a#DT
@@ -3475,14 +3729,17 @@ to#TO
 stay#VB
 closed#VBN
 .#.
+
 he#PRP
 said#VBD
 .#.
+
 ``#``
 Both#DT
 of#IN
 you#PRP
 .#.
+
 There#EX
 's#VBZ
 better#JJR
@@ -3496,6 +3753,7 @@ something#NN
 like#IN
 that#DT
 .#.
+
 I#PRP
 'll#MD
 be#VB
@@ -3513,6 +3771,7 @@ want#VBP
 me#PRP
 ''#''
 .#.
+
 He#PRP
 found#VBD
 the#DT
@@ -3531,6 +3790,7 @@ to#TO
 the#DT
 stream#NN
 .#.
+
 The#DT
 coyote#NN
 was#VBD
@@ -3553,9 +3813,11 @@ to#TO
 interrupt#VB
 it#PRP
 .#.
+
 any#DT
 rate#NN
 .#.
+
 He#PRP
 had#VBD
 a#DT
@@ -3566,6 +3828,7 @@ girl#NN
 meant#VBD
 trouble#NN
 .#.
+
 If#IN
 she#PRP
 did#VBD
@@ -3579,6 +3842,7 @@ in#IN
 the#DT
 light#NN
 .#.
+
 He#PRP
 scrubbed#VBD
 absent-mindedly#RB
@@ -3594,6 +3858,7 @@ had#VBD
 turned#VBN
 out#RP
 .#.
+
 That#DT
 afternoon#NN
 when#WRB
@@ -3615,6 +3880,7 @@ had#VBD
 been#VBN
 high#JJ
 .#.
+
 some#DT
 of#IN
 the#DT
@@ -3626,11 +3892,13 @@ Amelia#NNP
 's#POS
 death#NN
 .#.
+
 Not#RB
 all#DT
 of#IN
 it#PRP
 .#.
+
 There#EX
 would#MD
 still#RB
@@ -3646,6 +3914,7 @@ and#CC
 guilty#JJ
 relief#NN
 .#.
+
 But#CC
 they#PRP
 were#VBD
@@ -3654,6 +3923,7 @@ a#DT
 new#JJ
 life#NN
 .#.
+
 And#CC
 they#PRP
 had#VBD
@@ -3674,6 +3944,7 @@ bulls#NNS
 three#CD
 horses#NNS
 .#.
+
 The#DT
 land#NN
 was#VBD
@@ -3685,6 +3956,7 @@ expected#VBN
 of#IN
 it#PRP
 .#.
+
 Six#CD
 hundred#CD
 and#CC
@@ -3708,6 +3980,7 @@ grass#NN
 good#JJ
 water#NN
 .#.
+
 Well#RB
 ,#,
 the#DT
@@ -3732,6 +4005,7 @@ get#VB
 to#TO
 it#PRP
 .#.
+
 The#DT
 water#NN
 was#VBD
@@ -3750,6 +4024,7 @@ the#DT
 dead#JJ
 orchard#NN
 .#.
+
 And#CC
 there#EX
 was#VBD
@@ -3767,6 +4042,7 @@ need#NN
 of#IN
 repairs#NNS
 .#.
+
 the#DT
 last#JJ
 analysis#NN
@@ -3780,6 +4056,7 @@ cause#NN
 to#TO
 complain#VB
 .#.
+
 The#DT
 place#NN
 had#VBD
@@ -3804,6 +4081,7 @@ serve#VB
 its#PRP$
 purpose#NN
 .#.
+
 There#EX
 was#VBD
 only#RB
@@ -3824,6 +4102,7 @@ peace#NN
 and#CC
 quiet#NN
 .#.
+
 It#PRP
 had#VBD
 n't#RB
@@ -3832,6 +4111,7 @@ out#RP
 that#DT
 way#NN
 .#.
+
 And#CC
 he#PRP
 had#VBD
@@ -3853,6 +4133,7 @@ they#PRP
 got#VBD
 better#RBR
 .#.
+
 2#CD
 They#PRP
 had#VBD
@@ -3878,6 +4159,7 @@ in#IN
 the#DT
 horses#NNS
 .#.
+
 He#PRP
 stood#VBD
 on#IN
@@ -3900,6 +4182,7 @@ to#TO
 help#VB
 him#PRP
 .#.
+
 Kathy#NNP
 was#VBD
 already#RB
@@ -3907,6 +4190,7 @@ in#IN
 the#DT
 wagon#NN
 .#.
+
 They#PRP
 were#VBD
 going#VBG
@@ -3919,6 +4203,7 @@ were#VBD
 both#DT
 excited#VBN
 .#.
+
 Wilson#NNP
 backed#VBD
 the#DT
@@ -3938,6 +4223,7 @@ town#NN
 at#IN
 all#DT
 .#.
+
 He#PRP
 had#VBD
 an#DT
@@ -3946,6 +4232,7 @@ feeling#NN
 about#IN
 it#PRP
 .#.
+
 That#DT
 girl#NN
 last#JJ
@@ -3957,9 +4244,11 @@ her#PRP$
 name#NN
 ?#.
 ?#.
+
 Judith#NNP
 Pierce#NNP
 .#.
+
 It#PRP
 was#VBD
 the#DT
@@ -3976,6 +4265,7 @@ hard#RB
 to#TO
 remember#VB
 .#.
+
 He#PRP
 finished#VBD
 with#IN
@@ -3991,6 +4281,7 @@ looking#VBG
 about#IN
 him#PRP
 .#.
+
 He#PRP
 had#VBD
 spent#VBN
@@ -4020,6 +4311,7 @@ made#VBN
 it#PRP
 seem#VB
 .#.
+
 There#EX
 was#VBD
 brush#NN
@@ -4047,11 +4339,13 @@ stop#VB
 to#TO
 graze#VB
 .#.
+
 But#CC
 there#EX
 was#VBD
 water#NN
 .#.
+
 There#EX
 was#VBD
 an#DT
@@ -4085,6 +4379,7 @@ the#DT
 hillside#NN
 orchard#NN
 .#.
+
 Yes#RB
 ,#,
 there#EX
@@ -4103,6 +4398,7 @@ probably#RB
 the#DT
 trouble#NN
 .#.
+
 There#EX
 were#VBD
 tracks#NNS
@@ -4117,6 +4413,7 @@ and#CC
 forty#CD
 acres#NNS
 .#.
+
 The#DT
 first#JJ
 part#NN
@@ -4141,6 +4438,7 @@ into#IN
 the#DT
 valley#NN
 .#.
+
 It#PRP
 was#VBD
 hotter#JJR
@@ -4159,6 +4457,7 @@ grass#NN
 was#VBD
 better#JJR
 .#.
+
 A#DT
 warm#JJ
 breeze#NN
@@ -4171,6 +4470,7 @@ it#PRP
 like#IN
 waves#NNS
 .#.
+
 A#DT
 red-tailed#JJ
 hawk#NN
@@ -4200,6 +4500,7 @@ of#IN
 the#DT
 road#NN
 .#.
+
 It#PRP
 took#VBD
 them#PRP
@@ -4215,6 +4516,7 @@ houses#NNS
 of#IN
 Kelseyville#NNP
 .#.
+
 The#DT
 town#NN
 was#VBD
@@ -4251,11 +4553,13 @@ dusty#JJ
 and#CC
 sunbaked#JJ
 .#.
+
 The#DT
 place#NN
 was#VBD
 quiet#JJ
 .#.
+
 Such#DT
 was#VBD
 my#PRP$
@@ -4285,6 +4589,7 @@ to#TO
 confess#VB
 all#DT
 .#.
+
 I#PRP
 was#VBD
 nearly#RB
@@ -4293,6 +4598,7 @@ at#IN
 the#DT
 time#NN
 .#.
+
 I#PRP
 went#VBD
 to#TO
@@ -4308,6 +4614,7 @@ these#DT
 preliminary#JJ
 matters#NNS
 .#.
+
 It#PRP
 was#VBD
 dark#JJ
@@ -4338,6 +4645,7 @@ directly#RB
 above#IN
 it#PRP
 .#.
+
 Sometimes#RB
 I#PRP
 was#VBD
@@ -4350,6 +4658,7 @@ in#IN
 the#DT
 darkness#NN
 .#.
+
 I#PRP
 would#MD
 turn#VB
@@ -4373,6 +4682,7 @@ never#RB
 quite#RB
 succeeded#VBD
 .#.
+
 A#DT
 glimpse#NN
 of#IN
@@ -4386,17 +4696,20 @@ at#IN
 the#DT
 most#JJS
 .#.
+
 Drifting#VBG
 here#RB
 and#CC
 there#RB
 .#.
+
 Squatting#VBG
 ,#,
 as#IN
 if#IN
 waiting#VBG
 .#.
+
 The#DT
 pulsing#VBG
 glow#NN
@@ -4404,6 +4717,7 @@ of#IN
 a#DT
 cigarette#NN
 .#.
+
 they#PRP
 could#MD
 see#VB
@@ -4421,6 +4735,7 @@ hall#NN
 disturbed#VBD
 me#PRP
 .#.
+
 The#DT
 clerk#NN
 paid#VBD
@@ -4428,6 +4743,7 @@ them#PRP
 no#DT
 attention#NN
 .#.
+
 This#DT
 impressed#VBD
 me#PRP
@@ -4443,6 +4759,7 @@ sphere#NN
 of#IN
 influence#NN
 .#.
+
 His#PRP$
 job#NN
 simply#RB
@@ -4452,6 +4769,7 @@ registering#VBG
 new#JJ
 men#NNS
 .#.
+
 When#WRB
 the#DT
 phone#NN
@@ -4460,6 +4778,7 @@ he#PRP
 answered#VBD
 it#PRP
 .#.
+
 His#PRP$
 authority#NN
 extended#VBN
@@ -4474,6 +4793,7 @@ counter#NN
 no#RB
 further#RB
 .#.
+
 None#NN
 of#IN
 the#DT
@@ -4488,12 +4808,14 @@ speak#VB
 to#TO
 him#PRP
 .#.
+
 Baldness#NN
 was#VBD
 attacking#VBG
 his#PRP$
 pate#NN
 .#.
+
 He#PRP
 spoke#VBD
 to#TO
@@ -4511,6 +4833,7 @@ belied#VBD
 his#PRP$
 personality#NN
 .#.
+
 He#PRP
 wore#VBD
 his#PRP$
@@ -4530,6 +4853,7 @@ pale#JJ
 chest#NN
 underneath#NN
 .#.
+
 It#PRP
 was#VBD
 obvious#JJ
@@ -4548,6 +4872,7 @@ thought#VBD
 he#PRP
 was#VBD
 .#.
+
 But#CC
 it#PRP
 was#VBD
@@ -4560,6 +4885,7 @@ he#PRP
 often#RB
 slipped#VBD
 .#.
+
 When#WRB
 one#CD
 of#IN
@@ -4590,6 +4916,7 @@ the#DT
 clerk#NN
 winced#VBD
 .#.
+
 I#PRP
 felt#VBD
 certain#JJ
@@ -4601,6 +4928,7 @@ spineless#JJ
 little#JJ
 man#NN
 .#.
+
 His#PRP$
 hat#NN
 (#(
@@ -4611,6 +4939,7 @@ his#PRP$
 baldness#NN
 ?#.
 ?#.
+
 )#)
 hung#VBD
 on#IN
@@ -4654,6 +4983,7 @@ left#VBN
 his#PRP$
 neck#NN
 .#.
+
 The#DT
 morning#NN
 's#POS
@@ -4672,6 +5002,7 @@ men#NNS
 's#POS
 magazines#NNS
 .#.
+
 On#IN
 a#DT
 shelf#NN
@@ -4700,6 +5031,7 @@ cheap#JJ
 popular#JJ
 music#NN
 .#.
+
 Everything#NN
 about#IN
 the#DT
@@ -4707,6 +5039,7 @@ clerk#NN
 was#VBD
 trivial#JJ
 .#.
+
 Once#RB
 ,#,
 pressing#VBG
@@ -4732,6 +5065,7 @@ in#IN
 the#DT
 hall#NN
 .#.
+
 Noticing#VBG
 my#PRP$
 disappointment#NN
@@ -4755,6 +5089,7 @@ to#TO
 his#PRP$
 person#NN
 .#.
+
 With#IN
 distaste#NN
 I#PRP
@@ -4765,6 +5100,7 @@ a#DT
 pompous#JJ
 air#NN
 .#.
+
 When#WRB
 he#PRP
 saw#VBD
@@ -4776,6 +5112,7 @@ his#PRP$
 radio#NN
 off#RP
 .#.
+
 He#PRP
 made#VBD
 a#DT
@@ -4788,6 +5125,7 @@ on#IN
 the#DT
 shelf#NN
 .#.
+
 He#PRP
 would#MD
 pick#VB
@@ -4807,6 +5145,7 @@ with#IN
 gruff#JJ
 importance#NN
 .#.
+
 What#WP
 limited#VBD
 knowledge#NN
@@ -4817,6 +5156,7 @@ forced#VBD
 upon#IN
 me#PRP
 .#.
+
 In#IN
 the#DT
 mornings#NNS
@@ -4841,6 +5181,7 @@ the#DT
 entire#NN
 hall#NN
 .#.
+
 They#PRP
 ,#,
 and#CC
@@ -4882,6 +5223,7 @@ inside#IN
 the#DT
 office#NN
 .#.
+
 He#PRP
 pointed#VBD
 out#RP
@@ -4904,6 +5246,7 @@ deed#NN
 follow#VB
 words#NNS
 .#.
+
 I#PRP
 was#VBD
 shown#VBN
@@ -4928,6 +5271,7 @@ me#PRP
 every#DT
 morning#NN
 .#.
+
 Now#RB
 ,#,
 here#RB
@@ -4954,6 +5298,7 @@ from#IN
 my#PRP$
 hand#NN
 .#.
+
 He#PRP
 could#MD
 n't#RB
@@ -4969,6 +5314,7 @@ them#PRP
 he#PRP
 said#VBD
 .#.
+
 Each#DT
 of#IN
 those#DT
@@ -4982,11 +5328,13 @@ its#PRP$
 rightful#JJ
 recipient#NN
 .#.
+
 I#PRP
 withdrew#VBD
 my#PRP$
 hand#NN
 .#.
+
 Later#RB
 I#PRP
 would#MD
@@ -5006,6 +5354,7 @@ of#IN
 a#DT
 ticket#NN
 .#.
+
 nothing#NN
 else#RB
 to#TO
@@ -5030,6 +5379,7 @@ the#DT
 hall#NN
 itself#PRP
 .#.
+
 When#WRB
 suitably#RB
 lighted#VBN
@@ -5041,6 +5391,7 @@ look#VB
 like#VB
 ?#.
 ?#.
+
 The#DT
 presence#NN
 of#IN
@@ -5060,6 +5411,7 @@ crowded#VBN
 for#IN
 air#NN
 .#.
+
 One#CD
 afternoon#NN
 ,#,
@@ -5083,6 +5435,7 @@ adjoining#VBG
 the#DT
 hall#NN
 .#.
+
 By#IN
 counting#VBG
 the#DT
@@ -5110,6 +5463,7 @@ at#IN
 one#CD
 time#NN
 .#.
+
 For#IN
 although#IN
 I#PRP
@@ -5142,6 +5496,7 @@ the#DT
 darkness#NN
 extended#VBD
 .#.
+
 I#PRP
 could#MD
 observe#VB
@@ -5172,6 +5527,7 @@ measure#NN
 of#IN
 comparison#NN
 .#.
+
 I#PRP
 had#VBD
 for#IN
@@ -5198,6 +5554,7 @@ vents#NNS
 and#CC
 myself#PRP
 .#.
+
 I#PRP
 knew#VBD
 that#IN
@@ -5229,6 +5586,7 @@ could#MD
 not#RB
 tell#VB
 .#.
+
 It#PRP
 was#VBD
 ,#,
@@ -5273,6 +5631,7 @@ its#PRP$
 overhead#JJ
 light#NN
 .#.
+
 This#DT
 light#NN
 did#VBD
@@ -5321,6 +5680,7 @@ the#DT
 floor#NN
 below#RB
 .#.
+
 Also#RB
 the#DT
 clerk#NN
@@ -5337,6 +5697,7 @@ over#IN
 my#PRP$
 shoulder#NN
 .#.
+
 No#RB
 sooner#RB
 would#MD
@@ -5367,6 +5728,7 @@ back#RB
 my#PRP$
 attention#NN
 .#.
+
 And#CC
 I#PRP
 had#VBD
@@ -5406,6 +5768,7 @@ and#CC
 on#RB
 impatiently#RB
 .#.
+
 This#DT
 sort#NN
 of#IN
@@ -5414,6 +5777,7 @@ vigilance#NN
 annoyed#VBD
 me#PRP
 .#.
+
 I#PRP
 felt#VBD
 certain#JJ
@@ -5421,6 +5785,7 @@ it#PRP
 was#VBD
 self-appointed#VBN
 .#.
+
 It#PRP
 sprang#VBD
 from#IN
@@ -5442,6 +5807,7 @@ to#TO
 find#VB
 here#RB
 .#.
+
 I#PRP
 decided#VBD
 to#TO
@@ -5460,6 +5826,7 @@ papers#NNS
 was#VBD
 completed#VBN
 .#.
+
 I#PRP
 felt#VBD
 strongly#RB
@@ -5488,6 +5855,7 @@ from#IN
 a#DT
 distance#NN
 .#.
+
 I#PRP
 lived#VBD
 in#IN
@@ -5499,6 +5867,7 @@ because#IN
 of#IN
 it#PRP
 .#.
+
 I#PRP
 could#MD
 not#RB
@@ -5512,6 +5881,7 @@ I#PRP
 wish#VB
 to#TO
 .#.
+
 I#PRP
 had#VBD
 signed#VBN
@@ -5521,6 +5891,7 @@ on#IN
 the#DT
 forms#NNS
 .#.
+
 My#PRP$
 future#NN
 lay#VBD
@@ -5542,6 +5913,7 @@ this#DT
 point#NN
 ?#.
 ?#.
+
 Although#IN
 I#PRP
 had#VBD
@@ -5556,6 +5928,7 @@ seen#VBN
 it#PRP
 functioning#VBG
 .#.
+
 I#PRP
 wished#VBD
 to#TO
@@ -5576,6 +5949,7 @@ to#TO
 be#VB
 wearing#VBG
 .#.
+
 I#PRP
 did#VBD
 not#RB
@@ -5589,6 +5963,7 @@ from#IN
 it#PRP
 !#.
 !#.
+
 I#PRP
 was#VBD
 constantly#RB
@@ -5602,6 +5977,7 @@ of#IN
 the#DT
 hall#NN
 .#.
+
 Though#IN
 only#RB
 a#DT
@@ -5625,6 +6001,7 @@ foreign#JJ
 to#TO
 me#PRP
 .#.
+
 Large#JJ
 warehouses#NNS
 flanked#VBD
@@ -5636,6 +6013,7 @@ the#DT
 hall#NN
 fronted#VBD
 .#.
+
 The#DT
 river#NN
 was#VBD
@@ -5656,6 +6034,7 @@ from#IN
 seeing#VBG
 it#PRP
 .#.
+
 Sometimes#RB
 I#PRP
 noticed#VBD
@@ -5673,6 +6052,7 @@ the#DT
 pier#NN
 roofs#NNS
 .#.
+
 The#DT
 sounds#NNS
 issuing#VBG
@@ -5692,6 +6072,7 @@ and#CC
 excited#VBD
 me#PRP
 .#.
+
 The#DT
 hall#NN
 ,#,
@@ -5710,6 +6091,7 @@ long#JJ
 waterfront#NN
 afternoons#NNS
 .#.
+
 It#PRP
 resembled#VBD
 nothing#NN
@@ -5719,6 +6101,7 @@ ever#RB
 seen#VBN
 before#RB
 .#.
+
 Its#PRP$
 front#NN
 was#VBD
@@ -5747,6 +6130,7 @@ upon#IN
 the#DT
 street#NN
 .#.
+
 I#PRP
 kept#VBD
 circling#VBG
@@ -5768,6 +6152,7 @@ of#IN
 the#DT
 hall#NN
 .#.
+
 But#CC
 it#PRP
 was#VBD
@@ -5781,6 +6166,7 @@ buildings#NNS
 concealed#VBD
 it#PRP
 .#.
+
 For#IN
 weeks#NNS
 I#PRP
@@ -5820,6 +6206,7 @@ a#DT
 stranger#NN
 there#RB
 .#.
+
 I#PRP
 returned#VBD
 to#TO
@@ -5833,6 +6220,7 @@ for#IN
 the#DT
 clerk#NN
 .#.
+
 As#IN
 I#PRP
 had#VBD
@@ -5857,6 +6245,7 @@ of#IN
 my#PRP$
 application#NN
 .#.
+
 Meanwhile#RB
 spring#NN
 had#VBD
@@ -5865,6 +6254,7 @@ well#RB
 into#IN
 summer#NN
 .#.
+
 At#IN
 last#JJ
 ,#,
@@ -5891,6 +6281,7 @@ case#NN
 was#VBD
 unusual#JJ
 .#.
+
 When#WRB
 I#PRP
 asked#VBD
@@ -5919,6 +6310,7 @@ of#IN
 the#DT
 hall#NN
 .#.
+
 I#PRP
 could#MD
 consult#VB
@@ -5935,6 +6327,7 @@ before#IN
 ten#CD
 o'clock#NN
 .#.
+
 The#DT
 clerk#NN
 impressed#VBD
@@ -5954,6 +6347,7 @@ before#IN
 ten#CD
 o'clock#NN
 .#.
+
 When#WRB
 I#PRP
 went#VBD
@@ -5967,6 +6361,7 @@ I#PRP
 saw#VBD
 why#WRB
 .#.
+
 Although#IN
 it#PRP
 was#VBD
@@ -5988,12 +6383,14 @@ great#JJ
 many#JJ
 people#NNS
 .#.
+
 Cigarette#NN
 butts#NNS
 littered#VBD
 the#DT
 floor#NN
 .#.
+
 The#DT
 big#JJ
 fans#NNS
@@ -6020,6 +6417,7 @@ underneath#IN
 the#DT
 ceiling#NN
 .#.
+
 I#PRP
 had#VBD
 felt#VBN
@@ -6033,6 +6431,7 @@ mounting#VBG
 the#DT
 stairs#NNS
 .#.
+
 The#DT
 staircase#NN
 itself#PRP
@@ -6048,12 +6447,14 @@ of#IN
 many#JJ
 men#NNS
 .#.
+
 I#PRP
 stopped#VBD
 by#IN
 the#DT
 counter#NN
 .#.
+
 No#NN
 one#NN
 was#VBD
@@ -6085,6 +6486,7 @@ left#VBN
 partially#RB
 open#JJ
 .#.
+
 Past#IN
 it#PRP
 I#PRP
@@ -6108,11 +6510,13 @@ on#IN
 the#DT
 floor#NN
 .#.
+
 The#DT
 director#NN
 's#POS
 office#NN
 .#.
+
 I#PRP
 rapped#VBD
 my#PRP$
@@ -6121,6 +6525,7 @@ on#IN
 the#DT
 counter#NN
 .#.
+
 The#DT
 director#NN
 came#VBD
@@ -6128,6 +6533,7 @@ to#TO
 the#DT
 door#NN
 .#.
+
 I#PRP
 was#VBD
 at#IN
@@ -6150,6 +6556,7 @@ not#RB
 have#VB
 explained#VBN
 .#.
+
 He#PRP
 was#VBD
 a#DT
@@ -6185,6 +6592,7 @@ green-tinted#JJ
 soft#JJ
 collar#NN
 .#.
+
 He#PRP
 wore#VBD
 perforated#JJ
@@ -6210,6 +6618,7 @@ routine#NN
 any#DT
 moment#NN
 .#.
+
 But#CC
 he#PRP
 came#VBD
@@ -6244,6 +6653,7 @@ out#IN
 my#PRP$
 application#NN
 .#.
+
 I#PRP
 had#VBD
 the#DT
@@ -6259,6 +6669,7 @@ perhaps#RB
 several#JJ
 times#NNS
 .#.
+
 He#PRP
 did#VBD
 not#RB
@@ -6267,6 +6678,7 @@ at#IN
 them#PRP
 now#RB
 .#.
+
 As#IN
 he#PRP
 lowered#VBD
@@ -6298,6 +6710,7 @@ of#IN
 the#DT
 hall#NN
 .#.
+
 He#PRP
 spoke#VBD
 ,#,
@@ -6310,12 +6723,14 @@ as#IN
 his#PRP$
 appearance#NN
 .#.
+
 Why#WRB
 had#VBD
 I#PRP
 registered#VBN
 ?#.
 ?#.
+
 Begging#VBG
 my#PRP$
 pardon#VB
@@ -6337,6 +6752,7 @@ at#IN
 the#DT
 hall#NN
 .#.
+
 He#PRP
 had#VBD
 looked#VBN
@@ -6374,6 +6790,7 @@ envy#VB
 me#PRP
 them#PRP
 .#.
+
 Was#VBD
 I#PRP
 sure#JJ
@@ -6391,6 +6808,7 @@ applying#VBG
 for#IN
 ?#.
 ?#.
+
 What#WDT
 sort#NN
 of#IN
@@ -6407,6 +6825,7 @@ the#DT
 hall#NN
 ?#.
 ?#.
+
 These#DT
 questions#NNS
 did#VBD
@@ -6450,6 +6869,7 @@ and#CC
 unwelcome#JJ
 place#NN
 .#.
+
 Though#IN
 I#PRP
 doubted#VBD
@@ -6468,6 +6888,7 @@ motives#NNS
 for#IN
 applying#VBG
 .#.
+
 I#PRP
 had#VBD
 always#RB
@@ -6483,6 +6904,7 @@ with#IN
 my#PRP$
 hands#NNS
 .#.
+
 This#DT
 desire#NN
 ,#,
@@ -6524,6 +6946,7 @@ my#PRP$
 spiritual#JJ
 wellbeing#NN
 .#.
+
 To#TO
 this#DT
 effect#NN
@@ -6541,6 +6964,7 @@ my#PRP$
 former#JJ
 existence#NN
 .#.
+
 The#DT
 flat#JJ
 ,#,
@@ -6560,15 +6984,18 @@ of#IN
 his#PRP$
 head#NN
 .#.
+
 him#PRP
 up#RP
 ''#''
 .#.
+
 Hell#UH
 with#IN
 it#PRP
 ''#''
 .#.
+
 they#PRP
 could#MD
 guess#VB
@@ -6591,6 +7018,7 @@ head#NN
 ,#,
 hard#RB
 .#.
+
 The#DT
 man#NN
 went#VBD
@@ -6604,6 +7032,7 @@ the#DT
 bare#JJ
 floor#NN
 .#.
+
 Barton#NNP
 said#VBD
 harshly#RB
@@ -6617,11 +7046,13 @@ that#DT
 ''#''
 ?#.
 ?#.
+
 Rankin#NNP
 sneered#VBD
 at#IN
 him#PRP
 .#.
+
 ``#``
 What#WP
 did#VBD
@@ -6635,6 +7066,7 @@ kiss#VB
 him#PRP
 ?#.
 ?#.
+
 He#PRP
 dumped#VBD
 me#PRP
@@ -6643,6 +7075,7 @@ solitary#NN
 twice#RB
 ''#''
 .#.
+
 Barton#NNP
 caught#VBD
 the#DT
@@ -6655,6 +7088,7 @@ swung#VBD
 him#PRP
 around#RB
 .#.
+
 's#PRP
 get#VB
 one#CD
@@ -6665,6 +7099,7 @@ you#PRP
 and#CC
 me#PRP
 .#.
+
 The#DT
 only#JJ
 reason#NN
@@ -6677,6 +7112,7 @@ get#VB
 Miller#NNP
 out#RB
 .#.
+
 If#IN
 you#PRP
 ever#RB
@@ -6691,12 +7127,14 @@ kill#VB
 you#PRP
 ''#''
 .#.
+
 Fred#NNP
 Rankin#NNP
 looked#VBD
 at#IN
 him#PRP
 .#.
+
 It#PRP
 seemed#VBD
 to#TO
@@ -6723,6 +7161,7 @@ to#TO
 waste#VB
 now#RB
 .#.
+
 she#PRP
 sensed#VBD
 any#DT
@@ -6742,6 +7181,7 @@ comment#NN
 upon#IN
 it#PRP
 .#.
+
 they#PRP
 had#VBD
 finished#VBN
@@ -6779,6 +7219,7 @@ beside#IN
 her#PRP$
 mother#NN
 .#.
+
 She#PRP
 had#VBD
 offered#VBN
@@ -6819,6 +7260,7 @@ called#VBN
 Auntie#NNP
 ''#''
 .#.
+
 they#PRP
 reached#VBD
 their#PRP$
@@ -6871,6 +7313,7 @@ one#CD
 another#DT
 again#RB
 .#.
+
 Then#RB
 she#PRP
 turned#VBD
@@ -6894,6 +7337,7 @@ her#PRP$
 ostensible#JJ
 destination#NN
 .#.
+
 she#PRP
 drove#VBD
 ,#,
@@ -6903,12 +7347,14 @@ about#IN
 her#PRP$
 plan#NN
 .#.
+
 It#PRP
 was#VBD
 really#RB
 quite#RB
 simple#JJ
 .#.
+
 So#RB
 simple#JJ
 ,#,
@@ -6942,6 +7388,7 @@ too#RB
 much#JJ
 assurance#NN
 .#.
+
 That#DT
 mistake#NN
 ,#,
@@ -6977,6 +7424,7 @@ set#VB
 for#IN
 her#PRP
 .#.
+
 She#PRP
 must#MD
 be#VB
@@ -6990,6 +7438,7 @@ the#DT
 scheming#JJ
 forest#NN
 .#.
+
 the#DT
 station#NN
 wagon#NN
@@ -7032,6 +7481,7 @@ house#NN
 and#CC
 stopped#VBD
 .#.
+
 All#DT
 of#IN
 her#PRP$
@@ -7076,6 +7526,7 @@ of#IN
 his#PRP$
 crime#NN
 .#.
+
 She#PRP
 locked#VBD
 the#DT
@@ -7096,6 +7547,7 @@ into#IN
 the#DT
 house#NN
 .#.
+
 Here#RB
 ,#,
 she#PRP
@@ -7116,6 +7568,7 @@ to#TO
 her#PRP$
 bedroom#NN
 .#.
+
 her#PRP$
 bureau#NN
 lay#VBD
@@ -7152,6 +7605,7 @@ Hiram#NNP
 Munroe#NNP
 Culver#NNP
 .#.
+
 He#PRP
 had#VBD
 belonged#VBN
@@ -7178,6 +7632,7 @@ remained#VBD
 of#IN
 him#PRP
 .#.
+
 If#IN
 she#PRP
 ,#,
@@ -7201,6 +7656,7 @@ act#NN
 of#IN
 expiation#NN
 .#.
+
 She#PRP
 would#MD
 return#VB
@@ -7230,6 +7686,7 @@ annual#JJ
 human#JJ
 sacrifice#NN
 .#.
+
 she#PRP
 slipped#VBD
 the#DT
@@ -7251,6 +7708,7 @@ of#IN
 the#DT
 house#NN
 .#.
+
 There#EX
 was#VBD
 only#RB
@@ -7274,6 +7732,7 @@ its#PRP$
 secret#JJ
 bosom#NN
 .#.
+
 Atonement#NN
 ,#,
 if#IN
@@ -7292,6 +7751,7 @@ sacred#JJ
 sacrificial#JJ
 basin#NN
 .#.
+
 It#PRP
 was#VBD
 there#RB
@@ -7307,6 +7767,7 @@ renunciation#NN
 beg#VB
 forgiveness#NN
 .#.
+
 it#PRP
 was#VBD
 insane#JJ
@@ -7314,6 +7775,7 @@ insane#JJ
 Pamela#NNP
 thought#VBD
 .#.
+
 Perhaps#RB
 it#PRP
 was#VBD
@@ -7323,6 +7785,7 @@ vividly#RB
 conceived#VBN
 dream#NN
 .#.
+
 But#CC
 she#PRP
 was#VBD
@@ -7354,6 +7817,7 @@ might#MD
 never#RB
 awaken#VB
 .#.
+
 the#DT
 forest#NN
 now#RB
@@ -7387,6 +7851,7 @@ of#IN
 the#DT
 pool#NN
 .#.
+
 She#PRP
 remembered#VBD
 little#RB
@@ -7416,6 +7881,7 @@ to#TO
 accomplish#VB
 it#PRP
 .#.
+
 The#DT
 forest#NN
 was#VBD
@@ -7429,6 +7895,7 @@ an#DT
 enchanted#VBN
 hand#NN
 .#.
+
 The#DT
 ground#NN
 was#VBD
@@ -7443,6 +7910,7 @@ slope#NN
 was#VBD
 gentle#JJ
 .#.
+
 Birds#NNS
 chirped#VBD
 and#CC
@@ -7468,6 +7936,7 @@ time#NN
 to#TO
 time#NN
 .#.
+
 It#PRP
 was#VBD
 not#RB
@@ -7482,6 +7951,7 @@ place#NN
 after#IN
 all#DT
 .#.
+
 No#DT
 wonder#NN
 Melissa#NNP
@@ -7492,6 +7962,7 @@ to#TO
 its#PRP$
 beckoning#NN
 .#.
+
 she#PRP
 had#VBD
 no#DT
@@ -7511,6 +7982,7 @@ as#IN
 she#PRP
 passed#VBD
 .#.
+
 Was#VBD
 it#PRP
 not#RB
@@ -7548,6 +8020,7 @@ understand#VB
 this#DT
 ?#.
 ?#.
+
 Pamela#NNP
 felt#VBD
 calm#JJ
@@ -7558,6 +8031,7 @@ she#PRP
 walked#VBD
 along#RB
 .#.
+
 The#DT
 slight#JJ
 flutter#NN
@@ -7596,6 +8070,7 @@ reawaken#VB
 her#PRP$
 fear#NN
 .#.
+
 She#PRP
 regarded#VBD
 them#PRP
@@ -7635,6 +8110,7 @@ its#PRP$
 darkling#JJ
 inhabitants#NNS
 .#.
+
 deliberate#JJ
 ignorance#NN
 and#CC
@@ -7665,6 +8141,7 @@ grappling#VBG
 with#IN
 them#PRP
 .#.
+
 A#DT
 few#JJ
 days#NNS
@@ -7694,6 +8171,7 @@ seemed#VBD
 utterly#RB
 reasonable#JJ
 .#.
+
 She#PRP
 did#VBD
 not#RB
@@ -7726,6 +8204,7 @@ this#DT
 one#CD
 goal#NN
 .#.
+
 If#IN
 ,#,
 as#IN
@@ -7747,6 +8226,7 @@ ignore#VB
 that#DT
 omen#NN
 .#.
+
 If#IN
 the#DT
 slope#NN
@@ -7764,6 +8244,7 @@ not#RB
 to#TO
 heed#VB
 .#.
+
 Success#NN
 depended#VBD
 upon#IN
@@ -7793,6 +8274,7 @@ was#VBD
 in#IN
 earnest#NN
 .#.
+
 The#DT
 forest#NN
 took#VBD
@@ -7801,6 +8283,7 @@ an#DT
 impersonal#JJ
 aspect#NN
 .#.
+
 It#PRP
 did#VBD
 not#RB
@@ -7825,6 +8308,7 @@ from#IN
 its#PRP$
 bushes#NNS
 .#.
+
 Unconcerned#JJ
 ,#,
 indifferent#JJ
@@ -7856,6 +8340,7 @@ musical#JJ
 evening#NN
 laughter#NN
 .#.
+
 Red#JJ
 man#NN
 or#CC
@@ -7904,11 +8389,13 @@ to#TO
 any#DT
 man#NN
 .#.
+
 Pamela#NNP
 shook#VBD
 her#PRP$
 head#NN
 .#.
+
 She#PRP
 must#MD
 not#RB
@@ -7916,6 +8403,7 @@ think#VB
 about#IN
 time#NN
 .#.
+
 That#DT
 was#VBD
 another#DT
@@ -7924,6 +8412,7 @@ of#IN
 those#DT
 traps#NNS
 .#.
+
 her#PRP$
 grim#JJ
 pursuit#NN
@@ -7938,6 +8427,7 @@ on#IN
 her#PRP$
 husband#NN
 .#.
+
 If#IN
 ,#,
 when#WRB
@@ -7964,6 +8454,7 @@ would#MD
 ever#RB
 understand#VB
 .#.
+
 How#WRB
 could#MD
 he#PRP
@@ -7977,6 +8468,7 @@ was#VBD
 innocent#JJ
 ?#.
 ?#.
+
 Indian#JJ
 ghosts#NNS
 would#MD
@@ -8003,6 +8495,7 @@ her#PRP$
 benighted#JJ
 ancestor#NN
 .#.
+
 His#PRP$
 bright#JJ
 ,#,
@@ -8024,6 +8517,7 @@ face#VB
 his#PRP$
 scoffing#NN
 .#.
+
 Pamela#NNP
 was#VBD
 glad#JJ
@@ -8032,6 +8526,7 @@ was#VBD
 nowhere#RB
 near#JJ
 .#.
+
 His#PRP$
 presence#NN
 would#MD
@@ -8041,6 +8536,7 @@ with#IN
 her#PRP$
 duty#NN
 .#.
+
 The#DT
 mountainside#NN
 grew#VBD
@@ -8057,6 +8553,7 @@ smooth#JJ
 pine#NN
 needles#NNS
 .#.
+
 The#DT
 trees#NNS
 huddled#VBD
@@ -8077,6 +8574,7 @@ against#IN
 the#DT
 sun#NN
 .#.
+
 Bushes#NNS
 and#CC
 vines#NNS
@@ -8115,12 +8613,14 @@ of#IN
 her#PRP$
 direction#NN
 .#.
+
 she#PRP
 continued#VBD
 to#TO
 move#VB
 upward#RB
 .#.
+
 She#PRP
 was#VBD
 sure#JJ
@@ -8145,6 +8645,7 @@ number#NN
 of#IN
 obstacles#NNS
 .#.
+
 The#DT
 forest#NN
 had#VBD
@@ -8170,6 +8671,7 @@ hindrances#NNS
 were#VBD
 offered#VBN
 .#.
+
 It#PRP
 was#VBD
 a#DT
@@ -8194,6 +8696,7 @@ and#CC
 human#JJ
 time#NN
 .#.
+
 At#IN
 one#CD
 and#CC
@@ -8217,6 +8720,7 @@ give#VB
 her#PRP$
 entry#NN
 .#.
+
 Silence#NN
 came#VBD
 into#IN
@@ -8245,6 +8749,7 @@ of#IN
 the#DT
 trees#NNS
 .#.
+
 Silence#NN
 walked#VBD
 at#IN
@@ -8265,6 +8770,7 @@ her#PRP
 to#TO
 hear#VB
 .#.
+
 Silence#NN
 stood#VBD
 in#IN
@@ -8284,6 +8790,7 @@ blocking#VBG
 her#PRP$
 retreat#NN
 .#.
+
 She#PRP
 stumbled#VBD
 over#IN
@@ -8299,6 +8806,7 @@ above#IN
 the#DT
 earth#NN
 .#.
+
 In#IN
 spite#NN
 of#IN
@@ -8320,6 +8828,7 @@ a#DT
 naked#JJ
 stone#NN
 .#.
+
 For#IN
 a#DT
 moment#NN
@@ -8350,6 +8859,7 @@ her#PRP$
 feet#NNS
 laboriously#RB
 .#.
+
 She#PRP
 started#VBD
 to#TO
@@ -8364,6 +8874,7 @@ off#IN
 her#PRP$
 clothes#NNS
 .#.
+
 Her#PRP$
 arm#NN
 bled#VBD
@@ -8378,14 +8889,17 @@ out#RP
 in#IN
 pain#NN
 .#.
+
 She#PRP
 looked#VBD
 around#RB
 .#.
+
 She#PRP
 was#VBD
 bewildered#VBN
 .#.
+
 She#PRP
 seemed#VBD
 to#TO
@@ -8415,6 +8929,7 @@ of#IN
 the#DT
 trees#NNS
 .#.
+
 She#PRP
 stood#VBD
 quite#RB
@@ -8442,6 +8957,7 @@ to#TO
 guide#VB
 her#PRP
 .#.
+
 She#PRP
 was#VBD
 standing#VBG
@@ -8450,6 +8966,7 @@ a#DT
 thick#JJ
 grove#NN
 .#.
+
 The#DT
 trees#NNS
 were#VBD
@@ -8469,6 +8986,7 @@ the#DT
 sun#NN
 completely#RB
 .#.
+
 The#DT
 earth#NN
 smelled#VBD
@@ -8492,6 +9010,7 @@ sun#NN
 's#POS
 rays#NNS
 .#.
+
 She#PRP
 had#VBD
 the#DT
@@ -8523,12 +9042,14 @@ to#TO
 the#DT
 mountain#NN
 .#.
+
 The#DT
 thought#NN
 made#VBD
 Pamela#NNP
 shudder#VB
 .#.
+
 A#DT
 terrible#JJ
 chill#NN
@@ -8537,6 +9058,7 @@ through#IN
 the#DT
 grove#NN
 .#.
+
 Not#RB
 a#DT
 breeze#NN
@@ -8569,6 +9091,7 @@ a#DT
 leering#VBG
 embrace#NN
 .#.
+
 There#EX
 was#VBD
 a#DT
@@ -8592,6 +9115,7 @@ never#RB
 actually#RB
 perceived#VBN
 .#.
+
 she#PRP
 felt#VBN
 or#CC
@@ -8603,6 +9127,7 @@ a#DT
 scene#NN
 ?#.
 ?#.
+
 She#PRP
 already#RB
 knew#VBD
@@ -8617,6 +9142,7 @@ somehow#RB
 grotesquely#RB
 alive#JJ
 .#.
+
 It#PRP
 enclosed#VBD
 her#PRP$
@@ -8628,6 +9154,7 @@ around#IN
 her#PRP$
 ankles#NNS
 .#.
+
 It#PRP
 crept#VBD
 into#IN
@@ -8656,6 +9183,7 @@ of#IN
 her#PRP$
 skin#NN
 .#.
+
 It#PRP
 crawled#VBD
 across#IN
@@ -8669,6 +9197,7 @@ in#IN
 her#PRP$
 nipples#NNS
 .#.
+
 It#PRP
 circled#VBD
 her#PRP$
@@ -8680,6 +9209,7 @@ its#PRP$
 icy#JJ
 tentacles#NNS
 .#.
+
 It#PRP
 entered#VBD
 her#PRP$
@@ -8772,6 +9302,7 @@ of#IN
 her#PRP$
 jaws#NNS
 .#.
+
 She#PRP
 had#VBD
 to#TO
@@ -8806,6 +9337,7 @@ reason#NN
 and#CC
 sight#NN
 .#.
+
 But#CC
 she#PRP
 did#VBD
@@ -8816,6 +9348,7 @@ way#NN
 to#TO
 go#VB
 .#.
+
 The#DT
 shadows#NNS
 of#IN
@@ -8832,6 +9365,7 @@ from#IN
 the#DT
 grove#NN
 .#.
+
 She#PRP
 had#VBD
 been#VBN
@@ -8850,6 +9384,7 @@ in#IN
 ever-tightening#JJ
 circles#NNS
 .#.
+
 She#PRP
 could#MD
 not#RB
@@ -8877,20 +9412,24 @@ would#MD
 listen#VB
 ?#.
 ?#.
+
 the#DT
 mountain#NN
 listen#VB
 ?#.
 ?#.
+
 Pamela#NNP
 groped#VBD
 blindly#RB
 .#.
+
 She#PRP
 had#VBD
 to#TO
 escape#VB
 .#.
+
 She#PRP
 had#VBD
 to#TO
@@ -8911,6 +9450,7 @@ this#DT
 evil#JJ
 place#NN
 .#.
+
 She#PRP
 thrust#VBD
 forward#RB
@@ -8930,6 +9470,7 @@ fling#VB
 her#PRP
 back#RB
 .#.
+
 Her#PRP$
 own#JJ
 body#NN
@@ -8955,6 +9496,7 @@ clung#VBD
 and#CC
 caressed#VBD
 .#.
+
 Every#DT
 movement#NN
 she#PRP
@@ -8963,6 +9505,7 @@ seemed#VBD
 unnecessarily#RB
 noisy#JJ
 .#.
+
 Twigs#NNS
 cracked#VBD
 loudly#RB
@@ -8992,6 +9535,7 @@ away#RB
 from#IN
 her#PRP
 .#.
+
 she#PRP
 found#VBD
 exactly#RB
@@ -8999,6 +9543,7 @@ the#DT
 right#JJ
 statement#NN
 .#.
+
 She#PRP
 began#VBD
 it#PRP
@@ -9016,6 +9561,7 @@ lost#VBN
 on#IN
 him#PRP
 .#.
+
 I#PRP
 want#VBP
 to#TO
@@ -9026,6 +9572,7 @@ Thomas#NNP
 DeMontez#NNP
 Lord#NNP
 .#.
+
 I#PRP
 'm#VBP
 well#RB
@@ -9051,6 +9598,7 @@ amount#VB
 to#TO
 anything#NN
 .#.
+
 But#CC
 ''#''
 --#:
@@ -9067,6 +9615,7 @@ Lord#NNP
 supplied#VBD
 fondly#RB
 .#.
+
 ``#``
 To#TO
 me#PRP
@@ -9090,6 +9639,7 @@ that#WP
 grows#VBZ
 ''#''
 .#.
+
 he#PRP
 pooched#VBD
 out#RP
@@ -9101,6 +9651,7 @@ to#TO
 kiss#VB
 her#PRP
 .#.
+
 She#PRP
 yanked#VBD
 away#RB
@@ -9108,15 +9659,18 @@ from#IN
 him#PRP
 furiously#RB
 .#.
+
 You#PRP
 shut#VB
 up#RP
 !#.
 !#.
+
 Shu-tt#VB
 up-pp#RP
 !#.
 !#.
+
 I#PRP
 've#VBP
 got#VBD
@@ -9135,12 +9689,14 @@ going#VBG
 to#TO
 listen#VB
 .#.
+
 Do#VBP
 you#PRP
 hear#VB
 me#PRP
 ?#.
 ?#.
+
 You#PRP
 're#VBP
 going#VBG
@@ -9149,10 +9705,12 @@ listen#VB
 ''#''
 !#.
 !#.
+
 Lord#NNP
 nodded#VBD
 agreeably#RB
 .#.
+
 He#PRP
 said#VBD
 he#PRP
@@ -9162,6 +9720,7 @@ much#JJ
 to#TO
 listen#VB
 .#.
+
 He#PRP
 knew#VBD
 that#IN
@@ -9201,6 +9760,7 @@ word#NN
 of#IN
 it#PRP
 .#.
+
 So#RB
 would#MD
 she#PRP
@@ -9211,6 +9771,7 @@ little#RB
 louder#JJR
 ?#.
 ?#.
+
 I#PRP
 think#VBP
 you#PRP
@@ -9220,6 +9781,7 @@ Tom#NNP
 Lord#NNP
 !#.
 !#.
+
 I#PRP
 think#VBP
 you#PRP
@@ -9236,11 +9798,14 @@ louder#JJR
 ''#''
 ?#.
 ?#.
+
 Said#VBD
 Joyce#NNP
 .#.
+
 Uh-huh#UH
 .#.
+
 So#IN
 I#PRP
 can#MD
@@ -9254,6 +9819,7 @@ checkin#VBG
 the#DT
 car#NN
 .#.
+
 Looks#VBZ
 like#IN
 we#PRP
@@ -9267,6 +9833,7 @@ of#IN
 trouble#NN
 ''#''
 .#.
+
 He#PRP
 opened#VBD
 the#DT
@@ -9275,6 +9842,7 @@ and#CC
 got#VBD
 out#RB
 .#.
+
 He#PRP
 waited#VBD
 at#IN
@@ -9291,6 +9859,7 @@ at#IN
 her#PRP
 expectantly#RB
 .#.
+
 The#DT
 Brannon#NNP
 outfit#NN
@@ -9310,6 +9879,7 @@ Creek#NNP
 before#IN
 sundown#NN
 .#.
+
 The#DT
 herd#NN
 was#VBD
@@ -9332,6 +9902,7 @@ night#NN
 's#POS
 bedground#NN
 .#.
+
 Two#CD
 of#IN
 the#DT
@@ -9362,6 +9933,7 @@ riding#VBG
 night#NN
 herd#NN
 .#.
+
 The#DT
 rest#NN
 of#IN
@@ -9377,6 +9949,7 @@ into#IN
 the#DT
 remuda#NN
 .#.
+
 They#PRP
 got#VBD
 tin#NN
@@ -9402,6 +9975,7 @@ cigarettes#NNS
 lounged#VBD
 about#RB
 .#.
+
 There#EX
 was#VBD
 some#DT
@@ -9423,6 +9997,7 @@ day#NN
 's#POS
 drive#NN
 .#.
+
 But#CC
 they#PRP
 deliberately#RB
@@ -9450,6 +10025,7 @@ join#VB
 the#DT
 outfit#NN
 .#.
+
 It#PRP
 especially#RB
 bothered#VBD
@@ -9457,6 +10033,7 @@ the#DT
 older#JJR
 hands#NNS
 .#.
+
 The#DT
 cook#NN
 ,#,
@@ -9471,6 +10048,7 @@ before#IN
 the#DT
 herd#NN
 .#.
+
 He#PRP
 'd#MD
 started#VBD
@@ -9494,6 +10072,7 @@ his#PRP$
 chuck#NN
 wagon#NN
 .#.
+
 He#PRP
 was#VBD
 readying#VBG
@@ -9507,6 +10086,7 @@ the#DT
 Dutch#JJ
 oven#NN
 .#.
+
 Supper#NN
 would#MD
 be#VB
@@ -9515,6 +10095,7 @@ within#IN
 the#DT
 hour#NN
 .#.
+
 The#DT
 Maguire#NNP
 family#NN
@@ -9526,6 +10107,7 @@ separate#JJ
 camp#NN
 nearby#RB
 .#.
+
 Billie#NNP
 had#VBD
 unhitched#VBN
@@ -9542,6 +10124,7 @@ father#NN
 's#POS
 wagon#NN
 .#.
+
 Hank#NNP
 had#VBD
 gathered#VBN
@@ -9559,6 +10142,7 @@ at#IN
 it#PRP
 now#RB
 .#.
+
 Conchita#NNP
 kept#VBD
 an#DT
@@ -9586,6 +10170,7 @@ persisted#VBD
 in#IN
 playing#NN
 .#.
+
 Conchita#NNP
 nagged#VBD
 at#IN
@@ -9604,6 +10189,7 @@ off#IN
 Tom#NNP
 Brannon#NNP
 .#.
+
 Tom#NNP
 Brannon#NNP
 had#VBD
@@ -9625,6 +10211,7 @@ been#VBN
 at#IN
 midday#NN
 .#.
+
 He#PRP
 'd#MD
 come#VB
@@ -9636,6 +10223,7 @@ wife#NN
 and#CC
 child#NN
 .#.
+
 He#PRP
 'd#MD
 been#VBN
@@ -9657,6 +10245,7 @@ anger#NN
 in#IN
 him#PRP
 .#.
+
 She#PRP
 wondered#VBD
 what#WP
@@ -9672,6 +10261,7 @@ and#CC
 his#PRP$
 wife#NN
 .#.
+
 She#PRP
 wished#VBD
 that#IN
@@ -9684,6 +10274,7 @@ mother#NN
 about#IN
 it#PRP
 .#.
+
 Not#RB
 that#IN
 her#PRP$
@@ -9700,6 +10291,7 @@ speculate#VB
 upon#IN
 it#PRP
 .#.
+
 But#CC
 her#PRP$
 mother#NN
@@ -9721,6 +10313,7 @@ of#IN
 her#PRP$
 concern#NN
 .#.
+
 Pat#NNP
 ,#,
 get#VB
@@ -9730,12 +10323,14 @@ that#DT
 creek#NN
 !#.
 !#.
+
 You#PRP
 too#RB
 ,#,
 Sean#NNP
 !#.
 !#.
+
 Elena#NNP
 ,#,
 you#PRP
@@ -9749,6 +10344,7 @@ dress#NN
 ''#''
 !#.
 !#.
+
 she#PRP
 called#VBD
 to#TO
@@ -9763,6 +10359,7 @@ seek#VB
 Tom#NNP
 Brannon#NNP
 .#.
+
 Tomas#NNP
 ,#,
 she#PRP
@@ -9775,6 +10372,7 @@ Mexican#NNP
 hands#NNS
 did#VBD
 .#.
+
 He#PRP
 was#VBD
 in#IN
@@ -9791,6 +10389,7 @@ vaquero#NN
 Luis#NNP
 Hernandez#NNP
 .#.
+
 Whatever#WDT
 they#PRP
 are#VBP
@@ -9798,9 +10397,11 @@ talking#VBG
 about#IN
 ?#.
 ?#.
+
 Conchita#NNP
 wondered#VBD
 .#.
+
 It#PRP
 bothered#VBD
 her#PRP
@@ -9811,6 +10412,7 @@ would#MD
 never#RB
 know#VB
 .#.
+
 Certainly#RB
 ,#,
 she#PRP
@@ -9822,6 +10424,7 @@ her#PRP$
 father#NN
 afterward#RB
 .#.
+
 He#PRP
 would#MD
 tell#VB
@@ -9845,6 +10448,7 @@ like#IN
 Elena#NNP
 !#.
 !#.
+
 the#DT
 moment#NN
 ,#,
@@ -9858,6 +10462,7 @@ much#RB
 of#IN
 anything#NN
 .#.
+
 They#PRP
 were#VBD
 sitting#VBG
@@ -9875,6 +10480,7 @@ empty#JJ
 calf#NN
 wagon#NN
 .#.
+
 Brannon#NNP
 was#VBD
 hunkered#VBN
@@ -9896,6 +10502,7 @@ two#CD
 facing#VBG
 him#PRP
 .#.
+
 He#PRP
 held#VBD
 a#DT
@@ -9905,6 +10512,7 @@ his#PRP$
 right#JJ
 hand#NN
 .#.
+
 It#PRP
 was#VBD
 burning#VBG
@@ -9912,6 +10520,7 @@ away#RB
 ,#,
 forgotten#VBN
 .#.
+
 His#PRP$
 face#NN
 was#VBD
@@ -9919,6 +10528,7 @@ clouded#VBN
 with#IN
 unhappiness#NN
 .#.
+
 He#PRP
 'd#MD
 told#VBD
@@ -9945,6 +10555,7 @@ intended#VBD
 to#TO
 do#VB
 .#.
+
 They#PRP
 were#VBD
 considering#VBG
@@ -9959,6 +10570,7 @@ what#WP
 he#PRP
 planned#VBD
 .#.
+
 Hernandez#NNP
 said#VBD
 ,#,
@@ -9979,6 +10591,7 @@ heed#VB
 it#PRP
 ''#''
 .#.
+
 's#PRP
 hear#VB
 it#PRP
@@ -9986,10 +10599,12 @@ it#PRP
 anyway#RB
 ''#''
 .#.
+
 a#DT
 little#JJ
 while#NN
 .#.
+
 Let#VB
 Senora#NNP
 Brannon#NNP
@@ -10003,6 +10618,7 @@ for#IN
 a#DT
 time#NN
 .#.
+
 Give#VB
 her#PRP$
 time#NN
@@ -10010,6 +10626,7 @@ to#TO
 miss#VB
 you#PRP
 .#.
+
 Maybe#RB
 she#PRP
 will#MD
@@ -10018,6 +10635,7 @@ come#VB
 to#TO
 you#PRP
 .#.
+
 After#IN
 all#DT
 ,#,
@@ -10033,6 +10651,7 @@ want#VBP
 the#DT
 boy#NN
 .#.
+
 You#PRP
 need#VBP
 her#PRP
@@ -10044,6 +10663,7 @@ need#VBP
 him#PRP
 ''#''
 .#.
+
 She#PRP
 wo#MD
 n't#RB
@@ -10055,6 +10675,7 @@ mind#NN
 Brannon#NNP
 said#VBD
 .#.
+
 ``#``
 John#NNP
 Clayton#NNP
@@ -10064,12 +10685,14 @@ to#TO
 that#DT
 ''#''
 .#.
+
 a#DT
 time#NN
 away#RB
 from#IN
 you#PRP
 .#.
+
 ''#''
 ``#``
 A#DT
@@ -10078,12 +10701,15 @@ year#NN
 Luis#NNP
 ?#.
 ?#.
+
 Five#CD
 ?#.
 ?#.
+
 Ten#CD
 ?#.
 ?#.
+
 How#WRB
 long#RB
 should#MD
@@ -10092,6 +10718,7 @@ wait#VB
 ''#''
 ?#.
 ?#.
+
 ``#``
 Maybe#RB
 in#IN
@@ -10100,6 +10727,7 @@ year#NN
 ,#,
 Tomas#NNP
 .#.
+
 ''#''
 ``#``
 In#IN
@@ -10126,6 +10754,7 @@ Brannon#NNP
 said#VBD
 flatly#RB
 .#.
+
 ``#``
 And#CC
 the#DT
@@ -10140,6 +10769,7 @@ influence#NN
 by#IN
 then#RB
 .#.
+
 I#PRP
 've#VBP
 got#VBD
@@ -10155,6 +10785,7 @@ lose#VBP
 him#PRP
 altogether#RB
 .#.
+
 Hell#UH
 ,#,
 in#IN
@@ -10178,6 +10809,7 @@ father#NN
 ''#''
 !#.
 !#.
+
 him#PRP
 and#CC
 leave#VB
@@ -10189,6 +10821,7 @@ not#RB
 good#JJ
 ''#''
 .#.
+
 my#PRP$
 place#NN
 ,#,
@@ -10204,11 +10837,13 @@ me#PRP
 ''#''
 ?#.
 ?#.
+
 Hernandez#NNP
 looked#VBN
 suddenly#RB
 uncertain#JJ
 .#.
+
 ``#``
 That#DT
 I#PRP
@@ -10228,6 +10863,7 @@ happening#VBG
 to#TO
 me#PRP
 .#.
+
 Maybe#RB
 I#PRP
 should#MD
@@ -10239,17 +10875,20 @@ no#UH
 ''#''
 ?#.
 ?#.
+
 Brannon#NNP
 looked#VBD
 at#IN
 Hank#NNP
 Maguire#NNP
 .#.
+
 ``#``
 And#CC
 you#PRP
 ?#.
 ?#.
+
 What#WP
 would#MD
 you#PRP
@@ -10260,11 +10899,13 @@ place#NN
 ''#''
 ?#.
 ?#.
+
 Hank#NNP
 shook#VBD
 his#PRP$
 head#NN
 .#.
+
 ``#``
 I#PRP
 do#VBP
@@ -10273,6 +10914,7 @@ know#VB
 ,#,
 Tom#NNP
 .#.
+
 Like#IN
 Luis#NNP
 ,#,
@@ -10287,6 +10929,7 @@ happening#VBG
 to#TO
 me#PRP
 .#.
+
 With#IN
 Maria#NNP
 and#CC
@@ -10298,6 +10941,7 @@ never#RB
 any#DT
 problem#NN
 .#.
+
 Where#WRB
 I#PRP
 go#VBP
@@ -10311,6 +10955,7 @@ kids#NNS
 with#IN
 us#PRP
 .#.
+
 You#PRP
 're#VBP
 going#VBG
@@ -10319,6 +10964,7 @@ need#VB
 your#PRP$
 woman#NN
 .#.
+
 And#CC
 the#DT
 boy#NN
@@ -10327,6 +10973,7 @@ need#VB
 his#PRP$
 mother#NN
 .#.
+
 If#IN
 you#PRP
 take#VBP
@@ -10340,11 +10987,13 @@ take#VB
 both#DT
 ''#''
 .#.
+
 Brannon#NNP
 shook#VBD
 his#PRP$
 head#NN
 .#.
+
 ``#``
 I#PRP
 wo#MD
@@ -10357,6 +11006,7 @@ against#IN
 her#PRP$
 will#NN
 .#.
+
 But#CC
 I#PRP
 'm#VBP
@@ -10367,6 +11017,7 @@ my#PRP$
 son#NN
 ''#''
 .#.
+
 They#PRP
 were#VBD
 silent#JJ
@@ -10379,6 +11030,7 @@ each#DT
 looking#VBG
 glum#NN
 .#.
+
 Luis#NNP
 Hernandez#NNP
 said#VBD
@@ -10391,6 +11043,7 @@ be#VB
 must#MD
 be#VB
 .#.
+
 I#PRP
 am#VBP
 with#IN
@@ -10402,6 +11055,7 @@ course#NN
 Tomas#NNP
 ''#''
 .#.
+
 Hank#NNP
 Maguire#NNP
 added#VBD
@@ -10414,11 +11068,13 @@ I#PRP
 Tom#NNP
 ''#''
 .#.
+
 Brannon#NNP
 said#VBD
 ,#,
 rising#VBG
 .#.
+
 ``#``
 We#PRP
 'll#MD
@@ -10433,6 +11089,7 @@ had#VBD
 chuck#NN
 ''#''
 .#.
+
 Brannon#NNP
 timed#VBD
 it#PRP
@@ -10446,6 +11103,7 @@ hour#NN
 after#IN
 nightfall#NN
 .#.
+
 They#PRP
 had#VBD
 for#IN
@@ -10457,6 +11115,7 @@ a#DT
 summer#NN
 storm#NN
 .#.
+
 During#IN
 much#RB
 of#IN
@@ -10478,6 +11137,7 @@ to#TO
 the#DT
 east#JJ
 .#.
+
 Later#RB
 ,#,
 they#PRP
@@ -10499,6 +11159,7 @@ ran#VBD
 into#IN
 rain#NN
 .#.
+
 Those#DT
 who#WP
 had#VBD
@@ -10506,6 +11167,7 @@ slickers#NNS
 donned#VBD
 them#PRP
 .#.
+
 The#DT
 others#NNS
 put#VBD
@@ -10524,6 +11186,7 @@ their#PRP$
 saddle#NN
 cantles#NNS
 .#.
+
 There#EX
 were#VBD
 seven#CD
@@ -10542,6 +11205,7 @@ run#VB
 a#DT
 bluff#NN
 .#.
+
 It#PRP
 was#VBD
 to#TO
@@ -10551,6 +11215,7 @@ more#RBR
 than#IN
 that#DT
 .#.
+
 There#EX
 was#VBD
 to#TO
@@ -10558,6 +11223,7 @@ be#VB
 no#DT
 gunplay#NN
 .#.
+
 If#IN
 the#DT
 bluff#NN
@@ -10588,6 +11254,7 @@ son#NN
 another#DT
 time#NN
 .#.
+
 He#PRP
 did#VBD
 n't#RB
@@ -10599,6 +11266,7 @@ outside#IN
 the#DT
 law#NN
 .#.
+
 him#PRP
 were#VBD
 Hank#NNP
@@ -10613,6 +11281,7 @@ Luis#NNP
 son#NN
 Pedro#NNP
 .#.
+
 The#DT
 Ramirez#NNP
 brothers#NNS
@@ -10620,6 +11289,7 @@ were#VBD
 also#RB
 along#RB
 .#.
+
 The#DT
 seventh#JJ
 man#NN
@@ -10641,12 +11311,14 @@ liking#NN
 for#IN
 hell-raising#NN
 .#.
+
 They#PRP
 were#VBD
 all#DT
 good#JJ
 men#NNS
 .#.
+
 It#PRP
 was#VBD
 dark#JJ
@@ -10657,6 +11329,7 @@ of#IN
 the#DT
 storm#NN
 .#.
+
 Also#RB
 because#IN
 of#IN
@@ -10670,6 +11343,7 @@ Rockfork#NNP
 were#VBD
 deserted#VBN
 .#.
+
 Lighted#JJ
 windows#NNS
 glowed#VBD
@@ -10678,6 +11352,7 @@ through#IN
 the#DT
 downpour#NN
 .#.
+
 They#PRP
 reined#VBD
 in#RB
@@ -10695,6 +11370,7 @@ on#IN
 Main#NNP
 Street#NNP
 .#.
+
 A#DT
 lamp#NN
 burned#VBN
@@ -10715,6 +11391,7 @@ office#NN
 was#VBD
 empty#JJ
 .#.
+
 He#PRP
 'd#MD
 hoped#VBD
@@ -10724,20 +11401,24 @@ Jesse#NNP
 Macklin#NNP
 there#RB
 .#.
+
 he#PRP
 said#VBD
 .#.
+
 ``#``
 Maybe#RB
 to#TO
 have#VB
 supper#NN
 .#.
+
 Red#NNP
 ,#,
 come#VB
 along#RB
 .#.
+
 The#DT
 rest#NN
 of#IN
@@ -10746,6 +11427,7 @@ wait#VB
 here#RB
 ''#''
 .#.
+
 Red#NNP
 Hogan#NNP
 ,#,
@@ -10756,6 +11438,7 @@ the#DT
 Welcome#NNP
 Cafe#NNP
 .#.
+
 Hogan#NNP
 got#VBD
 down#RB
@@ -10768,6 +11451,7 @@ a#DT
 look#NN
 inside#RB
 .#.
+
 ``#``
 Not#RB
 there#EX
@@ -10782,6 +11466,7 @@ onto#IN
 his#PRP$
 horse#NN
 .#.
+
 ``#``
 Maybe#RB
 he#PRP
@@ -10791,6 +11476,7 @@ the#DT
 hotel#NN
 ''#''
 .#.
+
 They#PRP
 rode#VBD
 to#TO
@@ -10809,6 +11495,7 @@ of#IN
 the#DT
 street#NN
 .#.
+
 They#PRP
 reined#VBD
 in#RB
@@ -10833,11 +11520,13 @@ hotel#NN
 dining#VBG
 room#NN
 .#.
+
 Brannon#NNP
 had#VBD
 no#DT
 slicker#NN
 .#.
+
 He#PRP
 'd#MD
 put#VB
@@ -10853,6 +11542,7 @@ was#VBD
 already#RB
 soaked#VBN
 .#.
+
 But#CC
 he#PRP
 felt#VBD
@@ -10860,6 +11550,7 @@ no#DT
 physical#JJ
 discomfort#NN
 .#.
+
 He#PRP
 was#VBD
 only#RB
@@ -10870,6 +11561,7 @@ the#DT
 sluicing#VBG
 rain#NN
 .#.
+
 He#PRP
 hardly#RB
 noticed#VBD
@@ -10885,6 +11577,7 @@ claps#NNS
 of#IN
 thunder#NN
 .#.
+
 Hogan#NNP
 reappeared#VBD
 ,#,
@@ -10900,6 +11593,7 @@ hand#NN
 in#IN
 signal#NN
 .#.
+
 Brannon#NNP
 dismounted#VBD
 and#CC
@@ -10907,6 +11601,7 @@ climbed#VBD
 the#DT
 steps#NNS
 .#.
+
 He#PRP
 's#VBZ
 finished#VBN
@@ -10916,6 +11611,7 @@ eating#VBG
 Hogan#NNP
 said#VBD
 .#.
+
 ``#``
 Sitting#VBG
 with#IN
@@ -10925,6 +11621,7 @@ of#IN
 coffee#NN
 now#RB
 .#.
+
 It#PRP
 should#MD
 n't#RB
@@ -10932,6 +11629,7 @@ be#VB
 long#JJ
 ''#''
 .#.
+
 It#PRP
 seemed#VBD
 long#RB
@@ -10942,6 +11640,7 @@ to#TO
 Tom#NNP
 Brannon#NNP
 .#.
+
 He#PRP
 and#CC
 Hogan#NNP
@@ -10955,6 +11654,7 @@ to#TO
 either#DT
 side#NN
 .#.
+
 Macklin#NNP
 was#VBD
 the#DT
@@ -10969,6 +11669,7 @@ he#PRP
 came#VBD
 unhurriedly#RB
 .#.
+
 He#PRP
 was#VBD
 puffing#VBG
@@ -10988,6 +11689,7 @@ against#IN
 the#DT
 rain#NN
 .#.
+
 It#PRP
 was#VBD
 not#RB
@@ -11011,6 +11713,7 @@ was#VBD
 too#RB
 late#JJ
 .#.
+
 They#PRP
 closed#VBD
 in#IN
@@ -11027,10 +11730,12 @@ for#IN
 his#PRP$
 gun#NN
 .#.
+
 Brannon#NNP
 told#VBD
 him#PRP
 .#.
+
 ``#``
 Do#VBP
 n't#RB
@@ -11042,9 +11747,11 @@ n't#RB
 finish#VB
 ''#''
 .#.
+
 Macklin#NNP
 began#VBD
 .#.
+
 We#PRP
 'll#MD
 talk#VB
@@ -11054,6 +11761,7 @@ your#PRP$
 office#NN
 ''#''
 .#.
+
 Brannon#NNP
 ,#,
 I#PRP
@@ -11062,6 +11770,7 @@ you#PRP
 ''#''
 !#.
 !#.
+
 ``#``
 Let#VB
 's#PRP
@@ -11080,6 +11789,7 @@ by#IN
 the#DT
 arm#NN
 .#.
+
 Hogan#NNP
 gripped#VBD
 the#DT
@@ -11088,6 +11798,7 @@ lawman#NN
 other#JJ
 arm#NN
 .#.
+
 They#PRP
 escorted#VBD
 him#PRP
@@ -11103,6 +11814,7 @@ to#TO
 his#PRP$
 office#NN
 .#.
+
 The#DT
 other#JJ
 five#CD
@@ -11117,6 +11829,7 @@ the#DT
 small#JJ
 room#NN
 .#.
+
 His#PRP$
 face#NN
 was#VBD
@@ -11131,6 +11844,7 @@ of#IN
 his#PRP$
 arms#NNS
 .#.
+
 He#PRP
 looked#VBD
 at#IN
@@ -11145,6 +11859,7 @@ last#JJ
 of#IN
 all#DT
 .#.
+
 I#PRP
 'll#MD
 remember#VB
@@ -11154,6 +11869,7 @@ you#PRP
 he#PRP
 said#VBD
 .#.
+
 ``#``
 Every#DT
 last#JJ
@@ -11161,6 +11877,7 @@ one#CD
 of#IN
 you#PRP
 .#.
+
 As#IN
 for#IN
 you#PRP
@@ -11179,6 +11896,7 @@ desk#NN
 Marshal#NNP
 ''#''
 .#.
+
 it#PRP
 ;#:
 ;#:
@@ -11194,6 +11912,7 @@ patience#NN
 ran#VBD
 out#RB
 .#.
+
 He#PRP
 lifted#VBD
 the#DT
@@ -11216,6 +11935,7 @@ onto#IN
 the#DT
 desk#NN
 .#.
+
 ``#``
 Too#RB
 much#RB
@@ -11226,6 +11946,7 @@ around#RB
 he#PRP
 said#VBD
 .#.
+
 ``#``
 Do#VBP
 n't#RB
@@ -11236,6 +11957,7 @@ luck#NN
 badge-toter#NN
 ''#''
 .#.
+
 Brannon#NNP
 said#VBD
 ,#,
@@ -11250,27 +11972,33 @@ lockup#NN
 Marshal#NNP
 ''#''
 .#.
+
 Key#NN
 ''#''
 ?#.
 ?#.
+
 Macklin#NNP
 said#VBD
 .#.
+
 ``#``
 What#WP
 for#IN
 ''#''
 ?#.
 ?#.
+
 you#PRP
 guess#VB
 ''#''
 ?#.
 ?#.
+
 Brannon#NNP
 said#VBD
 .#.
+
 ``#``
 We#PRP
 're#VBP
@@ -11284,21 +12012,25 @@ come#VB
 to#TO
 harm#VB
 .#.
+
 Come#VB
 on#IN
 --#:
 the#DT
 key#NN
 .#.
+
 Get#VB
 it#PRP
 out#RP
 ''#''
 !#.
 !#.
+
 I#PRP
 will#MD
 .#.
+
 Brannon#NNP
 ,#,
 you#PRP
@@ -11322,6 +12054,7 @@ from#IN
 all#DT
 sides#NNS
 .#.
+
 No#DT
 man#NN
 laid#VBD
@@ -11338,6 +12071,7 @@ violence#NN
 was#VBD
 there#RB
 .#.
+
 His#PRP$
 face#NN
 took#VBD
@@ -11361,6 +12095,7 @@ with#IN
 his#PRP$
 breathing#NN
 .#.
+
 He#PRP
 held#VBD
 out#RP
@@ -11376,6 +12111,7 @@ under#IN
 the#DT
 pressure#NN
 .#.
+
 He#PRP
 swore#VBD
 ,#,
@@ -11386,6 +12122,7 @@ said#VBD
 All#RB
 right#JJ
 .#.
+
 It#PRP
 's#VBZ
 here#RB
@@ -11394,6 +12131,7 @@ my#PRP$
 pocket#NN
 ''#''
 .#.
+
 it#PRP
 out#RP
 ''#''
@@ -11401,6 +12139,7 @@ out#RP
 Brannon#NNP
 ordered#VBD
 .#.
+
 Then#RB
 ,#,
 as#IN
@@ -11416,6 +12155,7 @@ out#RB
 back#RB
 ''#''
 .#.
+
 Resignedly#RB
 ,#,
 Macklin#NNP
@@ -11425,6 +12165,7 @@ the#DT
 back#JJ
 door#NN
 .#.
+
 They#PRP
 followed#VBD
 him#PRP
@@ -11444,6 +12185,7 @@ to#TO
 the#DT
 rear#NN
 .#.
+
 The#DT
 door#NN
 of#IN
@@ -11459,6 +12201,7 @@ with#IN
 strap#JJ
 iron#NN
 .#.
+
 It#PRP
 was#VBD
 secured#VBN
@@ -11467,6 +12210,7 @@ an#DT
 oversized#JJ
 padlock#NN
 .#.
+
 Macklin#NNP
 balked#VBD
 again#RB
@@ -11480,6 +12224,7 @@ open#VB
 the#DT
 door#NN
 .#.
+
 They#PRP
 crowded#VBD
 him#PRP
@@ -11496,6 +12241,7 @@ to#TO
 give#VB
 in#RP
 .#.
+
 Once#RB
 the#DT
 door#NN
@@ -11510,6 +12256,7 @@ the#DT
 dark#JJ
 building#NN
 .#.
+
 He#PRP
 was#VBD
 uttering#VBG
@@ -11528,6 +12275,7 @@ padlocked#VBD
 the#DT
 door#NN
 .#.
+
 They#PRP
 returned#VBD
 to#TO
@@ -11550,12 +12298,14 @@ on#IN
 Houston#NNP
 Street#NNP
 .#.
+
 Its#PRP$
 windows#NNS
 glowed#VBD
 with#IN
 lamplight#NN
 .#.
+
 Deputy#NNP
 Marshal#NNP
 Luke#NNP
@@ -11577,6 +12327,7 @@ the#DT
 murky#JJ
 dark#NN
 .#.
+
 He#PRP
 came#VBD
 to#TO
@@ -11597,6 +12348,7 @@ on#IN
 his#PRP$
 gun#NN
 .#.
+
 it#PRP
 ''#''
 ,#,
@@ -11615,6 +12367,7 @@ his#PRP$
 men#NNS
 following#VBG
 .#.
+
 ``#``
 Do#VBP
 n't#RB
@@ -11630,6 +12383,7 @@ concern#VB
 you#PRP
 ''#''
 .#.
+
 He#PRP
 strode#VBD
 past#IN
@@ -11642,6 +12396,7 @@ entered#VBD
 the#DT
 house#NN
 .#.
+
 Miguel#NNP
 and#CC
 Arturo#NNP
@@ -11656,12 +12411,14 @@ Harper#NNP
 from#IN
 interfering#VBG
 .#.
+
 The#DT
 others#NNS
 followed#VBD
 Brannon#NNP
 inside#NN
 .#.
+
 They#PRP
 trailed#VBD
 him#PRP
@@ -11690,6 +12447,7 @@ such#DT
 a#DT
 house#NN
 .#.
+
 They#PRP
 brought#VBD
 to#TO
@@ -11719,6 +12477,7 @@ horses#NNS
 and#CC
 cattle#NNS
 .#.
+
 They#PRP
 tracked#VBD
 mud#NN
@@ -11731,6 +12490,7 @@ on#IN
 the#DT
 carpet#NN
 .#.
+
 Their#PRP$
 presence#NN
 fouled#VBD
@@ -11740,6 +12500,7 @@ of#IN
 that#DT
 room#NN
 .#.
+
 their#PRP$
 arrival#NN
 caught#VBD
@@ -11751,6 +12512,7 @@ Ansley#NNP
 off#JJ
 guard#JJ
 .#.
+
 The#DT
 author#NN
 of#IN
@@ -11762,6 +12524,7 @@ to#TO
 be#VB
 all-knowing#JJ
 .#.
+
 men#NNS
 who#WP
 had#VBD
@@ -11778,6 +12541,7 @@ received#VBN
 no#DT
 second#JJ
 .#.
+
 But#CC
 the#DT
 day#NN
@@ -11801,6 +12565,7 @@ laughed#VBD
 with#IN
 satisfaction#NN
 .#.
+
 a#DT
 single#JJ
 exception#NN
@@ -11811,6 +12576,7 @@ happened#VBN
 to#TO
 them#PRP
 .#.
+
 The#DT
 exception#NN
 was#VBD
@@ -11822,6 +12588,7 @@ named#VBN
 William#NNP
 Lewis#NNP
 .#.
+
 After#IN
 walking#VBG
 out#IN
@@ -11847,6 +12614,7 @@ of#IN
 his#PRP$
 feet#NNS
 .#.
+
 A#DT
 split#JJ
 second#NN
@@ -11861,6 +12629,7 @@ rifle#NN
 had#VBD
 sounded#VBN
 .#.
+
 He#PRP
 'd#MD
 mounted#VBD
@@ -11885,6 +12654,7 @@ shot#NN
 had#VBD
 come#VBN
 .#.
+
 But#CC
 he#PRP
 had#VBD
@@ -11899,6 +12669,7 @@ of#IN
 cover#NN
 deserted#VBN
 .#.
+
 There#EX
 had#VBD
 been#VBN
@@ -11920,6 +12691,7 @@ had#VBD
 been#VBN
 near#JJ
 .#.
+
 Lewis#NNP
 was#VBD
 a#DT
@@ -11934,6 +12706,7 @@ of#IN
 cow#NN
 stealing#NN
 .#.
+
 He#PRP
 had#VBD
 n't#RB
@@ -11945,6 +12718,7 @@ farming#VBG
 his#PRP$
 spread#NN
 .#.
+
 His#PRP$
 land#NN
 had#VBD
@@ -11952,6 +12726,7 @@ never#RB
 been#VBN
 plowed#VBN
 .#.
+
 He#PRP
 had#VBD
 done#VBN
@@ -11963,6 +12738,7 @@ boasted#VBN
 about#IN
 it#PRP
 .#.
+
 He#PRP
 had#VBD
 received#VBN
@@ -11985,6 +12761,7 @@ of#IN
 writing#VBG
 them#PRP
 .#.
+
 He#PRP
 had#VBD
 cursed#VBN
@@ -11994,6 +12771,7 @@ and#CC
 threatened#VBD
 them#PRP
 .#.
+
 He#PRP
 was#VBD
 a#DT
@@ -12014,6 +12792,7 @@ in#IN
 the#DT
 world#NN
 .#.
+
 William#NNP
 Lewis#NNP
 made#VBD
@@ -12047,6 +12826,7 @@ and#CC
 threatened#VBD
 everyone#NN
 .#.
+
 I#PRP
 'll#MD
 be#VB
@@ -12056,9 +12836,11 @@ time#NN
 ''#''
 !#.
 !#.
+
 He#PRP
 raged#VBD
 .#.
+
 ``#``
 I#PRP
 'll#MD
@@ -12069,6 +12851,7 @@ right#RB
 back#RB
 ''#''
 .#.
+
 He#PRP
 had#VBD
 his#PRP$
@@ -12086,6 +12869,7 @@ thing#NN
 happened#VBD
 again#RB
 .#.
+
 This#DT
 time#NN
 Lewis#NNP
@@ -12121,6 +12905,7 @@ out#RP
 the#DT
 area#NN
 .#.
+
 He#PRP
 found#VBD
 nothing#NN
@@ -12136,6 +12921,7 @@ and#CC
 move#VB
 out#RB
 .#.
+
 me#PRP
 meet#VB
 up#RP
@@ -12149,9 +12935,11 @@ face-to-face#RB
 ''#''
 !#.
 !#.
+
 He#PRP
 exploded#VBD
 .#.
+
 ``#``
 That#DT
 's#VBZ
@@ -12161,12 +12949,14 @@ ask#VBP
 ''#''
 !#.
 !#.
+
 He#PRP
 never#RB
 got#VBD
 that#DT
 chance#NN
 .#.
+
 For#IN
 the#DT
 unseen#JJ
@@ -12181,6 +12971,7 @@ the#DT
 third#JJ
 time#NN
 .#.
+
 A#DT
 bullet#NN
 smashed#VBD
@@ -12194,6 +12985,7 @@ Lewis#NNP
 '#POS
 chest#NN
 .#.
+
 He#PRP
 slumped#VBD
 against#IN
@@ -12208,6 +13000,7 @@ to#TO
 lift#VB
 himself#PRP
 .#.
+
 Two#CD
 more#JJR
 shots#NNS
@@ -12225,6 +13018,7 @@ on#IN
 the#DT
 ground#NN
 .#.
+
 An#DT
 inquest#NN
 was#VBD
@@ -12259,6 +13053,7 @@ of#IN
 300#CD
 yards#NNS
 .#.
+
 Rumors#NNS
 of#IN
 the#DT
@@ -12310,6 +13105,7 @@ summoned#VBN
 for#IN
 questioning#NN
 .#.
+
 It#PRP
 took#VBD
 some#DT
@@ -12318,6 +13114,7 @@ to#TO
 locate#VB
 Horn#NNP
 .#.
+
 He#PRP
 was#VBD
 finally#RB
@@ -12335,6 +13132,7 @@ two#CD
 counties#NNS
 away#RB
 .#.
+
 Prosecutor#NNP
 Baird#NNP
 immediately#RB
@@ -12353,6 +13151,7 @@ preparing#VBG
 an#DT
 indictment#NN
 .#.
+
 But#CC
 that#DT
 indictment#NN
@@ -12360,6 +13159,7 @@ was#VBD
 never#RB
 made#VBN
 .#.
+
 For#IN
 Tom#NNP
 Horn#NNP
@@ -12397,6 +13197,7 @@ of#IN
 the#DT
 killing#NN
 .#.
+
 The#DT
 former#JJ
 scout#NN
@@ -12407,6 +13208,7 @@ n't#RB
 be#VB
 shaken#VBN
 .#.
+
 The#DT
 authorities#NNS
 had#VBD
@@ -12414,6 +13216,7 @@ to#TO
 release#VB
 him#PRP
 .#.
+
 He#PRP
 immediately#RB
 rode#VBD
@@ -12435,6 +13238,7 @@ hints#NNS
 among#IN
 friends#NNS
 .#.
+
 Dead#JJ
 center#NN
 at#IN
@@ -12448,10 +13252,12 @@ said#VBD
 ''#''
 !#.
 !#.
+
 He#PRP
 'd#MD
 grin#VB
 .#.
+
 ``#``
 Three#CD
 shots#NNS
@@ -12465,6 +13271,7 @@ the#DT
 ground#NN
 !#.
 !#.
+
 You#PRP
 reckon#VBP
 there#EX
@@ -12481,10 +13288,12 @@ that#DT
 ''#''
 ?#.
 ?#.
+
 he#PRP
 denied#VBD
 everything#NN
 .#.
+
 Privately#RB
 ,#,
 he#PRP
@@ -12500,6 +13309,7 @@ a#DT
 hired#JJ
 assassin#NN
 .#.
+
 For#IN
 a#DT
 blood-chilling#JJ
@@ -12527,6 +13337,7 @@ promised#VBD
 to#TO
 do#VB
 .#.
+
 Tom#NNP
 Horn#NNP
 was#VBD
@@ -12544,6 +13355,7 @@ money#NN
 's#POS
 worth#NN
 .#.
+
 A#DT
 good#JJ
 many#JJ
@@ -12567,6 +13379,7 @@ not#RB
 idle#JJ
 threats#NNS
 .#.
+
 The#DT
 company#NN
 herds#NNS
@@ -12588,6 +13401,7 @@ were#VBD
 standing#VBG
 deserted#VBN
 .#.
+
 But#CC
 there#EX
 were#VBD
@@ -12613,6 +13427,7 @@ of#IN
 his#PRP$
 neighbors#NNS
 .#.
+
 The#DT
 rustling#NN
 problem#NN
@@ -12622,6 +13437,7 @@ no#DT
 means#NNS
 solved#VBN
 .#.
+
 the#DT
 very#JJ
 area#NN
@@ -12637,6 +13453,7 @@ were#VBD
 still#RB
 disappearing#VBG
 .#.
+
 For#IN
 less#JJR
 than#IN
@@ -12676,6 +13493,7 @@ named#VBN
 Fred#NNP
 Powell#NNP
 .#.
+
 Fred#NNP
 was#VBD
 mighty#JJ
@@ -12699,6 +13517,7 @@ Ross#NNP
 mentioned#VBD
 later#RB
 .#.
+
 ``#``
 Everyone#NN
 knew#VBD
@@ -12748,6 +13567,7 @@ hisself#PRP
 ''#''
 !#.
 !#.
+
 the#DT
 morning#NN
 of#IN
@@ -12769,6 +13589,7 @@ day#NN
 's#POS
 work#NN
 .#.
+
 Haying#NN
 time#NN
 was#VBD
@@ -12788,6 +13609,7 @@ a#DT
 hay#NN
 rack#NN
 .#.
+
 a#DT
 team#NN
 to#TO
@@ -12813,6 +13635,7 @@ and#CC
 began#VBD
 chopping#VBG
 .#.
+
 Andy#NNP
 Ross#NNP
 had#VBD
@@ -12834,6 +13657,7 @@ a#DT
 rifle#NN
 sounded#VBD
 .#.
+
 He#PRP
 looked#VBD
 around#RB
@@ -12850,6 +13674,7 @@ clutching#VBG
 his#PRP$
 chest#NN
 .#.
+
 The#DT
 hired#JJ
 man#NN
@@ -12860,6 +13685,7 @@ help#VB
 his#PRP$
 boss#NN
 .#.
+
 My#PRP$
 God#NNP
 ,#,
@@ -12869,9 +13695,11 @@ shot#VBN
 ''#''
 !#.
 !#.
+
 Powell#NNP
 gasped#VBD
 .#.
+
 And#CC
 he#PRP
 collapsed#VBD
@@ -12879,6 +13707,7 @@ and#CC
 died#VBD
 instantly#RB
 .#.
+
 Ross#NNP
 had#VBD
 no#DT
@@ -12889,6 +13718,7 @@ for#IN
 the#DT
 assassin#NN
 .#.
+
 He#PRP
 heaved#VBD
 the#DT
@@ -12911,6 +13741,7 @@ of#IN
 there#RB
 fast#RB
 .#.
+
 But#CC
 he#PRP
 brought#VBD
@@ -12936,6 +13767,7 @@ the#DT
 Lewis#NNP
 killing#NN
 .#.
+
 A#DT
 detailed#JJ
 scouring#NN
@@ -12960,6 +13792,7 @@ rifleman#NN
 hiding#NN
 place#NN
 .#.
+
 There#EX
 were#VBD
 no#DT
@@ -12970,6 +13803,7 @@ hoofs#NNS
 or#CC
 boots#NNS
 .#.
+
 Not#RB
 even#RB
 an#DT
@@ -12980,6 +13814,7 @@ could#MD
 be#VB
 found#VBN
 .#.
+
 Tom#NNP
 Horn#NNP
 was#VBD
@@ -12999,6 +13834,7 @@ for#IN
 questioning#NN
 immediately#RB
 .#.
+
 Once#RB
 again#RB
 ,#,
@@ -13025,6 +13861,7 @@ supported#JJ
 alibi#NN
 ready#JJ
 .#.
+
 Later#RB
 ,#,
 riding#VBG
@@ -13055,6 +13892,7 @@ insinuations#NNS
 he#PRP
 made#VBD
 .#.
+
 Exterminatin#VBG
 '#''
 cow#NN
@@ -13073,6 +13911,7 @@ he#PRP
 blandly#RB
 announce#VB
 .#.
+
 ``#``
 And#CC
 I#PRP
@@ -13087,6 +13926,7 @@ the#DT
 market#NN
 ''#''
 .#.
+
 Tom#NNP
 ''#''
 ,#,
@@ -13105,6 +13945,7 @@ them#PRP
 rustlers#NNS
 ?#.
 ?#.
+
 They#PRP
 would#MD
 n't#RB
@@ -13123,6 +13964,7 @@ straight-out#JJ
 shoot-down#NN
 ''#''
 .#.
+
 He#PRP
 had#VBD
 lots#NNS
@@ -13133,6 +13975,7 @@ then#RB
 as#IN
 always#RB
 .#.
+
 Even#RB
 as#IN
 he#PRP
@@ -13159,6 +14002,7 @@ him#PRP
 a#DT
 friend#NN
 .#.
+
 No#DT
 man#NN
 's#POS
@@ -13174,6 +14018,7 @@ in#IN
 a#DT
 rodeo#NN
 .#.
+
 he#PRP
 explained#VBD
 ,#,
@@ -13191,6 +14036,7 @@ long#JJ
 rope#NN
 ?#.
 ?#.
+
 Which#WDT
 would#MD
 you#PRP
@@ -13208,6 +14054,7 @@ shoot-down#NN
 ''#''
 ?#.
 ?#.
+
 Yeah#UH
 ,#,
 I#PRP
@@ -13223,6 +14070,7 @@ forced#VBN
 to#TO
 agree#VB
 .#.
+
 it#PRP
 just#RB
 do#VBP
@@ -13234,11 +14082,13 @@ somehow#RB
 ''#''
 !#.
 !#.
+
 Sportin#VBG
 '#''
 ''#''
 !#.
 !#.
+
 The#DT
 tall#JJ
 sunburnt#JJ
@@ -13247,12 +14097,14 @@ stared#VBD
 in#IN
 amazement#NN
 .#.
+
 ``#``
 Sportin#VBG
 '#''
 ''#''
 !#.
 !#.
+
 He#PRP
 echoed#VBD
 again#RB
@@ -13260,6 +14112,7 @@ in#IN
 soft#JJ
 wonder#NN
 .#.
+
 ``#``
 I#PRP
 seen#VBD
@@ -13272,6 +14125,7 @@ in#IN
 my#PRP$
 time#NN
 .#.
+
 I#PRP
 found#VBD
 a#DT
@@ -13321,6 +14175,7 @@ o#IN
 their#PRP$
 skulls#NNS
 .#.
+
 I#PRP
 heard#VBD
 o#IN
@@ -13349,6 +14204,7 @@ him#PRP
 to#TO
 death#NN
 .#.
+
 But#CC
 there#EX
 's#VBZ
@@ -13387,6 +14243,7 @@ man#NN
 ''#''
 !#.
 !#.
+
 the#DT
 first#JJ
 two#CD
@@ -13399,17 +14256,20 @@ were#VBD
 rarely#RB
 ignored#VBN
 .#.
+
 The#DT
 lesson#NN
 had#VBD
 been#VBN
 learned#VBN
 .#.
+
 The#DT
 examples#NNS
 were#VBD
 plain#JJ
 .#.
+
 When#WRB
 Fred#NNP
 Powell#NNP
@@ -13475,6 +14335,7 @@ Powell#NNP
 's#POS
 was#VBD
 .#.
+
 This#DT
 was#VBD
 the#DT
@@ -13486,6 +14347,7 @@ the#DT
 cabin#NN
 door#NN
 .#.
+
 Keane#NNP
 left#VBD
 ,#,
@@ -13493,6 +14355,7 @@ within#IN
 three#CD
 days#NNS
 .#.
+
 All#DT
 through#IN
 Albany#NNP
@@ -13507,6 +14370,7 @@ doing#VBG
 the#DT
 same#JJ
 .#.
+
 Houses#NNS
 of#IN
 settlers#NNS
@@ -13538,6 +14402,7 @@ in#IN
 their#PRP$
 yards#NNS
 .#.
+
 The#DT
 small#JJ
 half-heartedly#JJ
@@ -13558,6 +14423,7 @@ were#VBD
 lying#VBG
 fallow#JJ
 .#.
+
 No#DT
 cow#NN
 thief#NN
@@ -13576,6 +14442,7 @@ him#PRP
 any#RB
 longer#RB
 .#.
+
 Jury#NN
 ,#,
 judge#NN
@@ -13620,6 +14487,7 @@ believed#VBN
 long#RB
 outdated#JJ
 .#.
+
 three#CD
 straight#JJ
 years#NNS
@@ -13655,6 +14523,7 @@ never#RB
 be#VB
 known#VBN
 .#.
+
 It#PRP
 is#VBZ
 possible#JJ
@@ -13687,6 +14556,7 @@ in#IN
 the#DT
 state#NN
 .#.
+
 It#PRP
 is#VBZ
 also#RB
@@ -13712,6 +14582,7 @@ legend#NN
 credits#VBZ
 him#PRP
 .#.
+
 that#DT
 legend#NN
 was#VBD
@@ -13731,6 +14602,7 @@ $#$
 a#DT
 man#NN
 .#.
+
 (#(
 The#DT
 best#JJS
@@ -13763,6 +14635,7 @@ $#$
 and#CC
 found#VBN
 .#.
+
 )#)
 Rumor#NN
 had#VBD
@@ -13783,6 +14656,7 @@ sort#NN
 of#IN
 trademark#NN
 .#.
+
 (#(
 A#DT
 detailed#JJ
@@ -13800,6 +14674,7 @@ in#IN
 the#DT
 slightest#JJS
 .#.
+
 )#)
 One#CD
 thing#NN
@@ -13825,6 +14700,7 @@ were#VBD
 often#RB
 unnecessary#JJ
 .#.
+
 The#DT
 mere#JJ
 fact#NN
@@ -13862,6 +14738,7 @@ a#DT
 single#JJ
 week#NN
 .#.
+
 My#PRP$
 reputation#NN
 's#POS
@@ -13877,6 +14754,7 @@ more#RBR
 than#IN
 once#RB
 .#.
+
 He#PRP
 evidently#RB
 could#MD
@@ -13892,6 +14770,7 @@ in#IN
 the#DT
 end#NN
 .#.
+
 He#PRP
 had#VBD
 made#VBN
@@ -13905,6 +14784,7 @@ to#TO
 the#DT
 homesteaders#NNS
 .#.
+
 But#CC
 to#TO
 the#DT
@@ -13943,6 +14823,7 @@ of#IN
 legendary#JJ
 figure#NN
 .#.
+
 Such#DT
 ranchers#NNS
 as#IN
@@ -13974,6 +14855,7 @@ from#IN
 parties#NNS
 unknown#JJ
 .#.
+
 He#PRP
 made#VBD
 their#PRP$
@@ -13989,6 +14871,7 @@ in#IN
 their#PRP$
 roundups#NNS
 .#.
+
 the#DT
 cow#NN
 camps#NNS
@@ -14019,6 +14902,7 @@ the#DT
 local#JJ
 rodeos#NNS
 .#.
+
 The#DT
 hands#NNS
 and#CC
@@ -14052,6 +14936,7 @@ way#NN
 of#IN
 life#NN
 .#.
+
 The#DT
 wailing#VBG
 ,#,
@@ -14067,6 +14952,7 @@ songs#NNS
 about#IN
 him#PRP
 .#.
+
 1898#CD
 ,#,
 rustling#NN
@@ -14084,6 +14970,7 @@ seen#VBN
 in#IN
 Wyoming#NNP
 .#.
+
 several#JJ
 minutes#NNS
 had#VBD
@@ -14109,6 +14996,7 @@ across#IN
 the#DT
 counter#NN
 .#.
+
 I#PRP
 have#VBP
 a#DT
@@ -14119,6 +15007,7 @@ you#PRP
 ,#,
 Charlie#NNP
 .#.
+
 I#PRP
 'm#VBP
 sure#JJ
@@ -14133,6 +15022,7 @@ small#JJ
 favor#NN
 ''#''
 .#.
+
 Brenner#NNP
 's#POS
 voice#NN
@@ -14145,12 +15035,14 @@ was#VBD
 n't#RB
 fooled#VBN
 .#.
+
 He#PRP
 moistened#VBD
 his#PRP$
 lips#NNS
 uneasily#RB
 .#.
+
 What#WP
 is#VBZ
 it#PRP
@@ -14165,15 +15057,18 @@ Brenner#NNP
 ''#''
 ?#.
 ?#.
+
 Brenner#NNP
 shrugged#VBD
 carelessly#RB
 .#.
+
 It#PRP
 's#VBZ
 very#RB
 simple#JJ
 .#.
+
 I#PRP
 just#RB
 want#VBP
@@ -14186,6 +15081,7 @@ to#TO
 Diane#NNP
 Molinari#NNP
 .#.
+
 Tell#VB
 her#PRP
 to#TO
@@ -14196,6 +15092,7 @@ the#DT
 hotel#NN
 ''#''
 .#.
+
 Summers#NNP
 nodded#VBD
 and#CC
@@ -14204,6 +15101,7 @@ toward#IN
 the#DT
 door#NN
 .#.
+
 One#CD
 thing#NN
 ,#,
@@ -14213,6 +15111,7 @@ Summers#NNP
 Brenner#NNP
 said#VBD
 .#.
+
 ``#``
 You#PRP
 're#VBP
@@ -14222,6 +15121,7 @@ mention#VB
 my#PRP$
 name#NN
 .#.
+
 Tell#VB
 her#PRP
 Curt#NNP
@@ -14232,6 +15132,7 @@ see#VB
 her#PRP
 ''#''
 .#.
+
 Summers#NNP
 pulled#VBD
 up#RP
@@ -14241,6 +15142,7 @@ and#CC
 turned#VBD
 around#RB
 .#.
+
 I#PRP
 do#VBP
 n't#RB
@@ -14264,6 +15166,7 @@ Brenner#NNP
 's#POS
 plans#NNS
 .#.
+
 ``#``
 It#PRP
 does#VBZ
@@ -14279,6 +15182,7 @@ thing#NN
 like#IN
 that#DT
 .#.
+
 Could#MD
 n't#RB
 I#PRP
@@ -14292,6 +15196,7 @@ off#RB
 into#IN
 silence#NN
 .#.
+
 Brenner#NNP
 continued#VBD
 to#TO
@@ -14303,6 +15208,7 @@ eyes#NNS
 were#VBD
 cold#JJ
 .#.
+
 He#PRP
 turned#VBD
 and#CC
@@ -14321,6 +15227,7 @@ n't#RB
 before#IN
 noticed#VBN
 .#.
+
 You#PRP
 know#VBP
 ,#,
@@ -14331,6 +15238,7 @@ he#PRP
 said#VBD
 thoughtfully#RB
 .#.
+
 ``#``
 Eagle#NNP
 's#POS
@@ -14342,6 +15250,7 @@ a#DT
 fire#NN
 company#NN
 .#.
+
 If#IN
 someone#NN
 were#VBD
@@ -14362,6 +15271,7 @@ a#DT
 haystack#NN
 ''#''
 .#.
+
 He#PRP
 started#VBD
 toward#IN
@@ -14389,15 +15299,18 @@ is#VBZ
 in#IN
 trouble#NN
 .#.
+
 Tell#VB
 her#PRP
 to#TO
 hurry#VB
 ''#''
 .#.
+
 sir#NN
 ''#''
 .#.
+
 His#PRP$
 face#NN
 pale#JJ
@@ -14408,6 +15321,7 @@ for#IN
 the#DT
 street#NN
 .#.
+
 Curt#NNP
 's#POS
 visit#NN
@@ -14427,6 +15341,7 @@ should#MD
 be#VB
 watching#VBG
 .#.
+
 He#PRP
 paused#VBD
 only#RB
@@ -14463,6 +15378,7 @@ the#DT
 ground#NN
 outside#RB
 .#.
+
 The#DT
 fact#NN
 that#IN
@@ -14495,6 +15411,7 @@ it#PRP
 this#DT
 way#NN
 .#.
+
 A#DT
 man#NN
 like#IN
@@ -14514,6 +15431,7 @@ it#PRP
 was#VBD
 needed#VBN
 .#.
+
 Probably#RB
 his#PRP$
 horse#NN
@@ -14526,6 +15444,7 @@ he#PRP
 was#VBD
 hiding#VBG
 .#.
+
 the#DT
 back#NN
 of#IN
@@ -14546,6 +15465,7 @@ using#VBG
 the#DT
 street#NN
 .#.
+
 Curt#NNP
 approached#VBD
 the#DT
@@ -14566,6 +15486,7 @@ grove#NN
 of#IN
 trees#NNS
 .#.
+
 There#EX
 was#VBD
 a#DT
@@ -14586,6 +15507,7 @@ of#IN
 the#DT
 interior#NN
 .#.
+
 Curt#NNP
 circled#VBD
 the#DT
@@ -14597,6 +15519,7 @@ barn#NN
 out#IN
 back#RB
 .#.
+
 He#PRP
 could#MD
 hear#VB
@@ -14609,6 +15532,7 @@ and#CC
 nothing#NN
 else#RB
 .#.
+
 There#EX
 was#VBD
 no#DT
@@ -14625,6 +15549,7 @@ which#WDT
 he#PRP
 unfastened#VBD
 .#.
+
 He#PRP
 opened#VBD
 the#DT
@@ -14639,6 +15564,7 @@ shut#VB
 behind#IN
 him#PRP
 .#.
+
 he#PRP
 stood#VBD
 in#IN
@@ -14661,6 +15587,7 @@ a#DT
 plank#NN
 floor#NN
 .#.
+
 He#PRP
 moved#VBD
 ahead#RB
@@ -14681,6 +15608,7 @@ a#DT
 wooden#JJ
 partition#NN
 .#.
+
 Horse#NN
 smell#NN
 was#VBD
@@ -14701,6 +15629,7 @@ between#IN
 strong#JJ
 jaws#NNS
 .#.
+
 He#PRP
 found#VBD
 a#DT
@@ -14712,6 +15641,7 @@ and#CC
 lit#VBD
 it#PRP
 .#.
+
 There#EX
 were#VBD
 two#CD
@@ -14729,12 +15659,14 @@ Crouch#NNP
 's#POS
 buckskin#NN
 .#.
+
 Curt#NNP
 snuffed#VBD
 out#RP
 the#DT
 match#NN
 .#.
+
 It#PRP
 was#VBD
 certain#JJ
@@ -14755,6 +15687,7 @@ was#VBD
 Stacey#NNP
 Black#NNP
 .#.
+
 Curt#NNP
 wanted#VBD
 to#TO
@@ -14777,6 +15710,7 @@ the#DT
 store#NN
 owner#NN
 .#.
+
 He#PRP
 studied#VBD
 the#DT
@@ -14797,6 +15731,7 @@ might#MD
 be#VB
 solved#VBN
 .#.
+
 Reaching#VBG
 across#IN
 the#DT
@@ -14813,6 +15748,7 @@ on#IN
 the#DT
 rump#NN
 .#.
+
 The#DT
 startled#VBN
 animal#NN
@@ -14828,6 +15764,7 @@ in#IN
 the#DT
 stall#NN
 .#.
+
 Curt#NNP
 had#VBD
 hoped#VBN
@@ -14838,6 +15775,7 @@ door#NN
 banged#VBD
 open#JJ
 .#.
+
 He#PRP
 slapped#VBD
 the#DT
@@ -14857,6 +15795,7 @@ of#IN
 the#DT
 stall#NN
 .#.
+
 Curt#NNP
 moved#VBD
 over#IN
@@ -14866,6 +15805,7 @@ door#NN
 and#CC
 waited#VBD
 .#.
+
 Presently#RB
 he#PRP
 heard#VBD
@@ -14880,6 +15820,7 @@ Jess#NNP
 smothered#JJ
 curses#NNS
 .#.
+
 The#DT
 door#NN
 swung#VBD
@@ -14901,6 +15842,7 @@ with#IN
 you#PRP
 ?#.
 ?#.
+
 ''#''
 The#DT
 horse#NN
@@ -14908,6 +15850,7 @@ continued#VBD
 to#TO
 snort#VB
 .#.
+
 Curt#NNP
 doubted#VBD
 that#IN
@@ -14926,6 +15869,7 @@ owner#NN
 's#POS
 voice#NN
 .#.
+
 Jess#NNP
 cursed#VBD
 again#RB
@@ -14935,6 +15879,7 @@ entered#VBD
 the#DT
 barn#NN
 .#.
+
 A#DT
 match#NN
 flared#VBD
@@ -14956,6 +15901,7 @@ a#DT
 wire#NN
 loop#NN
 .#.
+
 As#IN
 he#PRP
 crossed#VBD
@@ -14976,6 +15922,7 @@ back#RB
 the#DT
 hammer#NN
 .#.
+
 you#PRP
 try#VBP
 anything#NN
@@ -14984,6 +15931,7 @@ anything#NN
 he#PRP
 said#VBD
 .#.
+
 ``#``
 Remember#VB
 what#WP
@@ -14992,6 +15940,7 @@ to#TO
 Gruller#NNP
 ''#''
 .#.
+
 Jess#NNP
 caught#VBD
 his#PRP$
@@ -14999,6 +15948,7 @@ breath#NN
 in#IN
 surprise#NN
 .#.
+
 He#PRP
 started#VBD
 to#TO
@@ -15014,6 +15964,7 @@ better#RBR
 of#IN
 it#PRP
 .#.
+
 That#DT
 's#VBZ
 the#DT
@@ -15023,6 +15974,7 @@ stuff#NN
 Curt#NNP
 said#VBD
 .#.
+
 ``#``
 Just#RB
 hold#VB
@@ -15031,6 +15983,7 @@ that#IN
 way#NN
 ''#''
 .#.
+
 He#PRP
 reached#VBD
 out#RB
@@ -15047,6 +16000,7 @@ a#DT
 sliding#VBG
 bolt#NN
 .#.
+
 ``#``
 You#PRP
 and#CC
@@ -15060,6 +16014,7 @@ do#VB
 ,#,
 Jess#NNP
 .#.
+
 You#PRP
 wo#MD
 n't#RB
@@ -15068,6 +16023,7 @@ needing#VBG
 this#DT
 ''#''
 .#.
+
 He#PRP
 moved#VBD
 up#RB
@@ -15081,6 +16037,7 @@ of#IN
 its#PRP$
 holster#NN
 .#.
+
 you#PRP
 ,#,
 Adams#NNP
@@ -15096,6 +16053,7 @@ his#PRP$
 initial#JJ
 shock#NN
 .#.
+
 ``#``
 We#PRP
 ai#VBP
@@ -15106,6 +16064,7 @@ to#TO
 talk#VB
 about#IN
 .#.
+
 I#PRP
 do#VBP
 n't#RB
@@ -15131,6 +16090,7 @@ in#IN
 the#DT
 house#NN
 .#.
+
 About#IN
 now#RB
 he#PRP
@@ -15139,6 +16099,7 @@ probably#RB
 having#VBG
 supper#NN
 .#.
+
 That#IN
 long#RB
 ride#VB
@@ -15155,6 +16116,7 @@ a#DT
 good#JJ
 appetite#NN
 .#.
+
 Now#RB
 turn#VB
 around#RB
@@ -15166,9 +16128,11 @@ your#PRP$
 face#NN
 ''#''
 .#.
+
 Jess#NNP
 turned#VBD
 .#.
+
 There#EX
 was#VBD
 raw#JJ
@@ -15186,6 +16150,7 @@ neck#NN
 were#VBD
 swollen#VBN
 .#.
+
 You#PRP
 're#VBP
 about#IN
@@ -15197,6 +16162,7 @@ come#VBP
 ,#,
 Adams#NNP
 .#.
+
 I#PRP
 do#VBP
 n't#RB
@@ -15225,6 +16191,7 @@ too#RB
 Curt#NNP
 said#VBD
 .#.
+
 ``#``
 It#PRP
 's#VBZ
@@ -15238,13 +16205,16 @@ talk#VB
 about#IN
 ''#''
 .#.
+
 Arbuckle#NNP
 ''#''
 ?#.
 ?#.
+
 Jess#NNP
 stiffened#VBD
 .#.
+
 ``#``
 I#PRP
 do#VBP
@@ -15256,6 +16226,7 @@ about#IN
 him#PRP
 ''#''
 .#.
+
 Over#IN
 his#PRP$
 shoulder#NN
@@ -15312,6 +16283,7 @@ by#IN
 ourselves#PRP
 ''#''
 .#.
+
 ``#``
 Sally#NNP
 ''#''
@@ -15338,6 +16310,7 @@ dressing#VBG
 now#RB
 ''#''
 .#.
+
 Mrs.#NNP
 Jackson#NNP
 's#POS
@@ -15432,6 +16405,7 @@ he#PRP
 assured#VBD
 her#PRP
 .#.
+
 Dan#NNP
 could#MD
 hear#VB
@@ -15487,6 +16461,7 @@ two-bits#NNS
 '#POS
 worth#NN
 .#.
+
 Soon#RB
 as#IN
 the#DT
@@ -15560,6 +16535,7 @@ to#TO
 hell#NN
 !#.
 !#.
+
 He#PRP
 stooped#VBD
 ,#,
@@ -15613,6 +16589,7 @@ Nate#NNP
 He#PRP
 shouted#VBD
 .#.
+
 The#DT
 Burnsides#NNPS
 ,#,
@@ -15628,6 +16605,7 @@ to#TO
 his#PRP$
 cry#NN
 .#.
+
 ``#``
 Nate#NNP
 ''#''
@@ -15645,6 +16623,7 @@ front#NN
 of#IN
 him#PRP
 .#.
+
 ``#``
 I#PRP
 ai#VBP
@@ -15670,6 +16649,7 @@ a#DT
 soothing#VBG
 voice#NN
 .#.
+
 ``#``
 I#PRP
 know#VBP
@@ -15754,6 +16734,7 @@ by#IN
 ''#''
 !#.
 !#.
+
 Sally#NNP
 left#VBD
 her#PRP
@@ -15809,6 +16790,7 @@ seeing#VBG
 them#PRP
 go#VB
 .#.
+
 At#IN
 first#JJ
 Matilda#NNP
@@ -15870,6 +16852,7 @@ their#PRP$
 trail-worn#JJ
 wagon#NN
 .#.
+
 Seeing#VBG
 them#PRP
 waiting#VBG
@@ -15977,6 +16960,7 @@ Jacksons#NNPS
 ''#''
 !#.
 !#.
+
 ``#``
 What#WP
 about#IN
@@ -15997,6 +16981,7 @@ them#PRP
 to#TO
 lick#VB
 .#.
+
 ``#``
 They#PRP
 ai#VBP
@@ -16010,6 +16995,7 @@ sight#NN
 She#PRP
 replied#VBD
 .#.
+
 By#IN
 then#RB
 Hez#NNP
@@ -16229,6 +17215,7 @@ the#DT
 nosebag#NN
 ''#''
 .#.
+
 After#IN
 their#PRP$
 supper#NN
@@ -16321,6 +17308,7 @@ a#DT
 real#JJ
 celebration#NN
 .#.
+
 ``#``
 Golly#UH
 ''#''
@@ -16362,6 +17350,7 @@ dance#VB
 ''#''
 ?#.
 ?#.
+
 ``#``
 Nor#CC
 Methodists#NNPS
@@ -16386,6 +17375,7 @@ far#RB
 along#RB
 ''#''
 .#.
+
 Rod#NNP
 gave#VBD
 her#PRP
@@ -16419,6 +17409,7 @@ too#RB
 gal#NN
 ''#''
 .#.
+
 At#IN
 these#DT
 words#NNS
@@ -16452,6 +17443,7 @@ the#DT
 games#NNS
 ''#''
 .#.
+
 Rod#NNP
 shifted#VBD
 his#PRP$
@@ -16534,6 +17526,7 @@ me#PRP
 Harmony#NNP
 ''#''
 .#.
+
 With#IN
 Rod#NNP
 on#IN
@@ -16642,6 +17635,7 @@ the#DT
 dell#NN
 ''#''
 .#.
+
 At#IN
 the#DT
 sight#NN
@@ -16744,6 +17738,7 @@ holding#VBG
 her#PRP
 close#RB
 .#.
+
 Out#RB
 in#IN
 the#DT
@@ -16846,6 +17841,7 @@ in#IN
 the#DT
 circle#NN
 .#.
+
 By#IN
 now#RB
 Harmony#NNP
@@ -16969,6 +17965,7 @@ to#TO
 join#VB
 them#PRP
 .#.
+
 No#RB
 sooner#RBR
 were#VBD
@@ -17068,6 +18065,7 @@ those#DT
 other#JJ
 mountains#NNS
 .#.
+
 Next#JJ
 morning#NN
 ,#,
@@ -17076,6 +18074,7 @@ moved#VBD
 on#RP
 again#RB
 .#.
+
 ``#``
 My#PRP$
 souls#NNS
@@ -17119,6 +18118,7 @@ cloud#NN
 ''#''
 !#.
 !#.
+
 Rod#NNP
 and#CC
 Dan#NNP
@@ -17159,6 +18159,7 @@ all#DT
 ''#''
 !#.
 !#.
+
 Leaning#VBG
 forward#RB
 in#IN
@@ -17190,6 +18191,7 @@ a-raising#VBG
 ''#''
 ?#.
 ?#.
+
 ``#``
 Quit#VB
 ragging#VBG
@@ -17201,6 +18203,7 @@ Gran#NNP
 Rod#NNP
 protested#VBD
 .#.
+
 ``#``
 I#PRP
 ai#VBP
@@ -17243,6 +18246,7 @@ o#IN
 bacon#NN
 ''#''
 .#.
+
 The#DT
 two#CD
 tall#JJ
@@ -17283,6 +18287,7 @@ wagon#NN
 with#IN
 Alice#NNP
 .#.
+
 ``#``
 Rheumatics#NN|NNS
 worse#JJR
@@ -17325,6 +18330,7 @@ at#IN
 the#DT
 ends#NNS
 .#.
+
 ``#``
 My#PRP$
 right#JJ
@@ -17357,6 +18363,7 @@ to#TO
 rolling#VBG
 ''#''
 .#.
+
 The#DT
 three#CD
 men#NNS
@@ -17373,6 +18380,7 @@ Clemens#NNP
 '#POS
 signal#NN
 .#.
+
 Hez#NNP
 looked#VBD
 up#RP
@@ -17412,6 +18420,7 @@ up#RB
 thar#RB
 ''#''
 .#.
+
 ``#``
 Wonder#VBP
 what#WP
@@ -17430,6 +18439,7 @@ a#DT
 sly#JJ
 wink#NN
 .#.
+
 Dan#NNP
 grinned#VBD
 ,#,
@@ -17470,6 +18480,7 @@ Rod#NNP
 outfit#NN
 ''#''
 .#.
+
 ``#``
 Ai#VBZ
 n't#RB
@@ -17484,6 +18495,7 @@ dust#NN
 Rod#NNP
 protested#VBD
 .#.
+
 ``#``
 Sally#NNP
 and#CC
@@ -17579,6 +18591,7 @@ a#DT
 pinch#NN
 ''#''
 .#.
+
 Captain#NNP
 Clemens#NNP
 '#POS
@@ -17593,6 +18606,7 @@ their#PRP$
 waiting#VBG
 teams#NNS
 .#.
+
 ``#``
 Reckon#VBP
 ye#PRP
@@ -17627,6 +18641,7 @@ the#DT
 canyon#NN
 ''#''
 .#.
+
 Rod#NNP
 looked#VBD
 apprehensively#RB
@@ -17678,6 +18693,7 @@ by#IN
 sundown#NN
 ''#''
 .#.
+
 Out#IN
 of#IN
 the#DT
@@ -17697,6 +18713,7 @@ beginning#VBG
 to#TO
 turn#VB
 .#.
+
 the#DT
 rattling#NN
 of#IN
@@ -17720,6 +18737,7 @@ and#CC
 tiny#JJ
 giggles#NNS
 .#.
+
 Cool#JJ
 air#NN
 moving#VBG
@@ -17750,6 +18768,7 @@ the#DT
 back#NN
 seat#NN
 .#.
+
 Moriarty#NNP
 ''#''
 ,#,
@@ -17785,6 +18804,7 @@ to#TO
 sound#VB
 convinced#VBN
 .#.
+
 We#PRP
 were#VBD
 coming#VBG
@@ -17800,6 +18820,7 @@ to#TO
 a#DT
 stop#NN
 .#.
+
 this#DT
 was#VBD
 the#DT
@@ -17836,8 +18857,10 @@ Moriarty#NNP
 New#NNP
 Mexico#NNP
 .#.
+
 Gracias#FW
 .#.
+
 Adios#FW
 ''#''
 ,#,
@@ -17866,6 +18889,7 @@ host#NN
 's#POS
 daughters#NNS
 .#.
+
 I#PRP
 waved#VBD
 with#IN
@@ -17890,6 +18914,7 @@ back#JJ
 window#NN
 glass#NN
 .#.
+
 Then#RB
 I#PRP
 saw#VBD
@@ -17911,10 +18936,12 @@ ovals#NNS
 of#IN
 gold#NN
 .#.
+
 Autos#NNS
 whizzed#VBD
 past#RB
 .#.
+
 White-shirted#JJ
 and#CC
 conservatively-cravated#JJ
@@ -17933,6 +18960,7 @@ and#CC
 accusing#VBG
 gaze#NN
 .#.
+
 a#DT
 treble#JJ
 auto#NN
@@ -17979,6 +19007,7 @@ of#IN
 old#JJ
 Herry#NNP
 .#.
+
 Mor-ee-air-teeeee#NNP
 ''#''
 ,#,
@@ -17996,6 +19025,7 @@ the#DT
 glittering#VBG
 blonde#NN
 .#.
+
 the#DT
 rapidly-diminishing#JJ
 outline#NN
@@ -18055,10 +19085,12 @@ and#CC
 engine#NN
 fumes#NNS
 .#.
+
 Damn#VB
 his#PRP$
 luck#NN
 .#.
+
 I#PRP
 would#MD
 have#VB
@@ -18089,6 +19121,7 @@ back#RB
 a#DT
 taunt#NN
 .#.
+
 anger#NN
 I#PRP
 listlessly#RB
@@ -18107,10 +19140,12 @@ nearly#RB
 blinding#VBG
 me#PRP
 .#.
+
 It#PRP
 was#VBD
 stopping#VBG
 .#.
+
 I#PRP
 straightened#VBD
 up#RB
@@ -18134,6 +19169,7 @@ A.#NNP
 Roebuck#NNP
 ''#''
 .#.
+
 The#DT
 voice#NN
 was#VBD
@@ -18147,6 +19183,7 @@ off#IN
 another#DT
 crew#NN
 .#.
+
 a#DT
 look#NN
 between#IN
@@ -18171,9 +19208,11 @@ drahve#VB
 ''#''
 ?#.
 ?#.
+
 I#PRP
 nodded#VBD
 .#.
+
 one#CD
 thiihng#NN
 ''#''
@@ -18182,6 +19221,7 @@ Mrs.#NNP
 Roebuck#NNP
 continued#VBD
 .#.
+
 ``#``
 Ah-#PRP
 m#VBP
@@ -18203,6 +19243,7 @@ the#DT
 suhthuhn#JJ
 rewt#NN
 .#.
+
 But#CC
 Corporal#NNP
 Johnson#NNP
@@ -18219,6 +19260,7 @@ t'-#TO
 hi-im#PRP
 ''#''
 .#.
+
 I#PRP
 said#VBD
 that#IN
@@ -18238,6 +19280,7 @@ as#IN
 I#PRP
 knew#VBD
 .#.
+
 I#PRP
 knew#VBD
 will#MD
@@ -18245,6 +19288,7 @@ shortly#RB
 become#VB
 apparent#JJ
 .#.
+
 Let#VB
 me#PRP
 pass#VB
@@ -18283,6 +19327,7 @@ in#IN
 ee-faket#NN
 ''#''
 .#.
+
 I#PRP
 let#VB
 up#RB
@@ -18358,6 +19403,7 @@ in#IN
 Sante#NNP
 Fe#NNP
 .#.
+
 Johnson#NNP
 ejaculated#VBD
 ``#``
@@ -18375,6 +19421,7 @@ Ma'am#NN
 ''#''
 ?#.
 ?#.
+
 Mrs.#NNP
 Roebuck#NNP
 smilingly#RB
@@ -18401,6 +19448,7 @@ you#PRP
 bawhs#NNS
 ''#''
 .#.
+
 Johnson#NNP
 never#RB
 would#MD
@@ -18413,6 +19461,7 @@ son#NN
 that#DT
 age#NN
 .#.
+
 Mrs.#NNP
 Roebuck#NNP
 thought#VBD
@@ -18445,6 +19494,7 @@ getting#VBG
 around#IN
 it#PRP
 .#.
+
 ``#``
 Just#RB
 befoh#RB
@@ -18478,6 +19528,7 @@ too#RB
 '#''
 ?#.
 ?#.
+
 Just#RB
 as#IN
 p'lite#NN
@@ -18511,6 +19562,7 @@ one#CD
 '#''
 ?#.
 ?#.
+
 An#CC
 Ah#PRP
 coud-#MD
@@ -18596,6 +19648,7 @@ you#PRP
 ''#''
 ?#.
 ?#.
+
 I#PRP
 do#VBP
 n't#RB
@@ -18604,6 +19657,7 @@ n't#RB
 Johnson#NNP
 said#VBD
 .#.
+
 ``#``
 I#PRP
 'm#VBP
@@ -18649,6 +19703,7 @@ of#IN
 New#NNP
 Mexico#NNP
 .#.
+
 How#WRB
 lightly#RB
 her#PRP$
@@ -18678,9 +19733,11 @@ word#NN
 would#MD
 echo#VB
 .#.
+
 And#CC
 re-echo#VB
 .#.
+
 Mrs.#NNP
 Roebuck#NNP
 driven#VBN
@@ -18730,12 +19787,15 @@ the#DT
 side#NN
 window#NN
 .#.
+
 buddies#NNS
 .#.
+
 Get#VB
 in#IN
 ''#''
 .#.
+
 The#DT
 straight#JJ
 ,#,
@@ -18759,6 +19819,7 @@ drew#VBD
 safely#RB
 back#RB
 .#.
+
 Johnson#NNP
 unwired#VBD
 the#DT
@@ -18799,6 +19860,7 @@ cases#NNS
 of#IN
 beer#NN
 .#.
+
 back#RB
 ,#,
 buddy#NN
@@ -18810,6 +19872,7 @@ said#VBD
 to#TO
 me#PRP
 .#.
+
 my#PRP$
 duffel#NN
 bag#NN
@@ -18838,12 +19901,14 @@ gouged#VBD
 my#PRP$
 shin#NN
 .#.
+
 The#DT
 truck#NN
 was#VBD
 hurtling#VBG
 forward#RB
 .#.
+
 I#PRP
 seized#VBD
 the#DT
@@ -18899,6 +19964,7 @@ no#DT
 medical#JJ
 report#NN
 .#.
+
 I#PRP
 was#VBD
 again#RB
@@ -18921,6 +19987,7 @@ X#NNP
 Ford#NNP
 turtle#NN
 .#.
+
 Maybe#RB
 I#PRP
 would#MD
@@ -18932,17 +19999,20 @@ Siberia#NNP
 after#IN
 all#DT
 .#.
+
 Whatever#WDT
 satisfaction#NN
 that#WP
 might#MD
 offer#VB
 .#.
+
 Something#NN
 pulled#VBD
 my#PRP$
 leg#NN
 .#.
+
 I#PRP
 drew#VBD
 back#RB
@@ -18955,6 +20025,7 @@ for#IN
 a#DT
 kick#NN
 .#.
+
 But#CC
 it#PRP
 was#VBD
@@ -18978,6 +20049,7 @@ glassless#JJ
 rear#JJ
 window#NN
 .#.
+
 The#DT
 way#NN
 his#PRP$
@@ -19025,10 +20097,12 @@ into#IN
 my#PRP$
 ear#NN
 .#.
+
 beer#NN
 ''#''
 ?#.
 ?#.
+
 Hell#UH
 ,#,
 yes#UH
@@ -19041,6 +20115,7 @@ between#IN
 dusty#JJ
 lips#NNS
 .#.
+
 Did#VBD
 I#PRP
 want#VB
@@ -19048,6 +20123,7 @@ a#DT
 beer#NN
 ?#.
 ?#.
+
 Did#VBD
 an#DT
 anteater#NN
@@ -19055,10 +20131,12 @@ want#VB
 ants#NNS
 ?#.
 ?#.
+
 Bueno#FW
 ,#,
 amigo#FW
 .#.
+
 Gracias#FW
 ''#''
 ,#,
@@ -19083,6 +20161,7 @@ my#PRP$
 Spanish#NNP
 vocabulary#NN
 .#.
+
 my#PRP$
 ears#NNS
 were#VBD
@@ -19145,6 +20224,7 @@ known#VBN
 the#DT
 difference#NN
 .#.
+
 Johnson#NNP
 was#VBD
 trying#VBG
@@ -19166,6 +20246,7 @@ away#RB
 from#IN
 it#PRP
 .#.
+
 White#JJ
 teeth#NNS
 suddenly#RB
@@ -19184,6 +20265,7 @@ Johnson#NNP
 's#POS
 ear#NN
 .#.
+
 We#PRP
 were#VBD
 off#IN
@@ -19196,6 +20278,7 @@ wire#NN
 pulling#VBG
 taut#RB
 .#.
+
 I#PRP
 ducked#VBD
 just#RB
@@ -19215,6 +20298,7 @@ over#IN
 the#DT
 sideboards#NNS
 .#.
+
 We#PRP
 were#VBD
 in#IN
@@ -19228,6 +20312,7 @@ tight#JJ
 screeching#VBG
 turn#NN
 .#.
+
 Prairie#NN
 dogs#NNS
 were#VBD
@@ -19237,6 +20322,7 @@ and#CC
 popping#VBG
 down#RB
 .#.
+
 I#PRP
 fell#VBD
 on#IN
@@ -19249,6 +20335,7 @@ a#DT
 vulture#NN
 hovering#VBG
 .#.
+
 I#PRP
 got#VBD
 to#TO
@@ -19278,6 +20365,7 @@ kneeling#VBG
 posture#NN
 seriously#RB
 .#.
+
 This#DT
 time#NN
 no#DT
@@ -19288,6 +20376,7 @@ into#IN
 the#DT
 truck#NN
 .#.
+
 We#PRP
 were#VBD
 back#RB
@@ -19295,6 +20384,7 @@ on#IN
 the#DT
 road#NN
 .#.
+
 I#PRP
 regained#VBD
 my#PRP$
@@ -19308,6 +20398,7 @@ cab#NN
 rear#JJ
 window#NN
 .#.
+
 Johnson#NNP
 's#POS
 left#JJ
@@ -19328,6 +20419,7 @@ beneath#IN
 his#PRP$
 fingers#NNS
 .#.
+
 Tee-wah#NNP
 ''#''
 ,#,
@@ -19345,6 +20437,7 @@ silver#JJ
 chicken#NN
 fencing#NN
 .#.
+
 ``#``
 That#DT
 was#VBD
@@ -19353,6 +20446,7 @@ I#PRP
 was#VBD
 talking#VBG
 .#.
+
 You#PRP
 thought#VBD
 I#PRP
@@ -19368,9 +20462,11 @@ buddy#NN
 ''#''
 ?#.
 ?#.
+
 I#PRP
 nodded#VBD
 .#.
+
 Hell#UH
 ,#,
 that#WP
@@ -19390,12 +20486,14 @@ guessed#VBD
 )#)
 said#VBD
 .#.
+
 ``#``
 Drink#VB
 your#PRP$
 beer#NN
 ''#''
 .#.
+
 the#DT
 bottle#NN
 was#VBD
@@ -19415,6 +20513,7 @@ luckily#RB
 waterproof#NN
 watch#NN
 .#.
+
 No#RB
 sooner#RB
 had#VBD
@@ -19429,23 +20528,28 @@ zigzagging#VBG
 the#DT
 truck#NN
 .#.
+
 The#DT
 beer#NN
 foamed#VBD
 furiously#RB
 .#.
+
 I#PRP
 drank#VBD
 furiously#RB
 .#.
+
 A#DT
 long#JJ
 time#NN
 .#.
+
 Emptied#VBD
 the#DT
 bottle#NN
 .#.
+
 Teeth#NNS
 again#RB
 flashing#VBG
@@ -19480,6 +20584,7 @@ of#IN
 surrounding#VBG
 sound#NN
 .#.
+
 I#PRP
 bobbed#VBD
 my#PRP$
@@ -19489,6 +20594,7 @@ time#NN
 it#PRP
 appeared#VBD
 .#.
+
 the#DT
 Spanish#NNP
 became#VBD
@@ -19527,6 +20633,7 @@ Johnson#NNP
 quivering#VBG
 ribs#NNS
 .#.
+
 A#DT
 big#JJ
 car#NN
@@ -19538,6 +20645,7 @@ chrome#NN
 teeth#NNS
 grinning#VBG
 .#.
+
 Beyond#IN
 it#PRP
 the#DT
@@ -19550,6 +20658,7 @@ long#JJ
 long#JJ
 way#NN
 .#.
+
 The#DT
 car#NN
 was#VBD
@@ -19597,11 +20706,13 @@ desperately#RB
 needed#VBN
 rescue#NN
 .#.
+
 I#PRP
 tossed#VBD
 the#DT
 bottle#NN
 .#.
+
 High#RB
 ,#,
 so#IN
@@ -19619,9 +20730,11 @@ car#NN
 steel#NN
 roof#NN
 .#.
+
 Too#RB
 high#JJ
 .#.
+
 On#IN
 unoccupied#JJ
 roadway#NN
@@ -19634,10 +20747,12 @@ small#JJ
 amber#JJ
 flash#NN
 .#.
+
 Aye-yah-ah-ah#UH
 ''#''
 !#.
 !#.
+
 The#DT
 Indian#NNP
 was#VBD
@@ -19671,6 +20786,7 @@ Indian#NNP
 's#POS
 lips#NNS
 .#.
+
 Another#DT
 car#NN
 was#VBD
@@ -19686,6 +20802,7 @@ a#DT
 far#JJ
 hill#NN
 .#.
+
 I#PRP
 started#VBD
 looking#VBG
@@ -19720,10 +20837,12 @@ the#DT
 beer#NN
 bottle#NN
 .#.
+
 We#PRP
 were#VBD
 slowing#VBG
 .#.
+
 In#IN
 the#DT
 ditch#NN
@@ -19742,6 +20861,7 @@ discernible#JJ
 faintly#RB
 gleaming#VBG
 .#.
+
 But#CC
 Johnson#NNP
 could#MD
@@ -19761,12 +20881,14 @@ he#PRP
 might#MD
 suffer#VB
 .#.
+
 The#DT
 car#NN
 was#VBD
 approaching#VBG
 fast#RB
 .#.
+
 On#IN
 the#DT
 truck#NN
@@ -19813,6 +20935,7 @@ in#IN
 my#PRP$
 pocket#NN
 .#.
+
 There#EX
 was#VBD
 no#DT
@@ -19856,6 +20979,7 @@ my#PRP$
 little#JJ
 missile#NN
 .#.
+
 There#EX
 was#VBD
 a#DT
@@ -19890,6 +21014,7 @@ in#IN
 the#DT
 center#NN
 .#.
+
 I#PRP
 heard#VBD
 the#DT
@@ -19907,6 +21032,7 @@ laughter#NN
 beneath#IN
 me#PRP
 .#.
+
 Looking#VBG
 back#RB
 I#PRP
@@ -19928,9 +21054,11 @@ our#PRP$
 license#NN
 number#NN
 .#.
+
 S-s-sahjunt#NN
 ''#''
 .#.
+
 Johnson#NNP
 's#POS
 fat#JJ
@@ -19959,6 +21087,7 @@ his#PRP$
 own#JJ
 lips#NNS
 .#.
+
 Two#CD
 cars#NNS
 came#VBD
@@ -19972,6 +21101,7 @@ and#CC
 glass#NN
 flashing#NN
 .#.
+
 The#DT
 Indian#NNP
 's#POS
@@ -20002,11 +21132,13 @@ the#DT
 first#JJ
 car#NN
 .#.
+
 Brakes#NNS
 shrieked#VBD
 behind#IN
 us#PRP
 .#.
+
 I#PRP
 saw#VBD
 Johnson#NNP
@@ -20031,6 +21163,7 @@ the#DT
 second#JJ
 car#NN
 .#.
+
 This#DT
 time#NN
 there#EX
@@ -20045,6 +21178,7 @@ shrieking#NN
 of#IN
 women#NNS
 .#.
+
 I#PRP
 looked#VBD
 back#RB
@@ -20063,6 +21197,7 @@ car#NN
 rear#JJ
 window#NN
 .#.
+
 you#PRP
 son#NN
 of#IN
@@ -20071,6 +21206,7 @@ bitch#NN
 ''#''
 !#.
 !#.
+
 I#PRP
 quickly#RB
 turned#VBD
@@ -20080,6 +21216,7 @@ began#VBD
 to#TO
 drink#VB
 .#.
+
 But#CC
 the#DT
 Indian#NNP
@@ -20090,6 +21227,7 @@ bottle#NN
 toward#IN
 Johnson#NNP
 .#.
+
 Too#RB
 many#JJ
 people#NNS
@@ -20145,6 +21283,7 @@ with#IN
 his#PRP$
 wife#NN
 .#.
+
 If#IN
 it#PRP
 were#VBD
@@ -20191,6 +21330,7 @@ made#VBN
 people#NNS
 tick#VB
 .#.
+
 I#PRP
 worked#VBD
 for#IN
@@ -20233,6 +21373,7 @@ old#JJ
 French#NNP
 Quarter#NNP
 .#.
+
 The#DT
 arrangement#NN
 I#PRP
@@ -20247,6 +21388,7 @@ hours#NNS
 a#DT
 day#NN
 .#.
+
 The#DT
 rest#NN
 of#IN
@@ -20273,6 +21415,7 @@ college#NN
 finds#VBZ
 interesting#JJ
 .#.
+
 I#PRP
 had#VBD
 a#DT
@@ -20296,6 +21439,7 @@ the#DT
 southern#JJ
 sun#NN
 .#.
+
 I#PRP
 had#VBD
 come#VBN
@@ -20327,6 +21471,7 @@ art#NN
 colony#NN
 there#RB
 .#.
+
 When#WRB
 my#PRP$
 Uncle#NN
@@ -20352,6 +21497,7 @@ paint#VB
 I#PRP
 accepted#VBD
 .#.
+
 The#DT
 arrangement#NN
 turned#VBD
@@ -20360,6 +21506,7 @@ to#TO
 be#VB
 excellent#JJ
 .#.
+
 I#PRP
 loved#VBD
 the#DT
@@ -20376,6 +21523,7 @@ of#IN
 Mardi#NNP
 Gras#NNP
 .#.
+
 I#PRP
 had#VBD
 seen#VBN
@@ -20424,6 +21572,7 @@ the#DT
 next#JJ
 corner#NN
 .#.
+
 The#DT
 very#JJ
 faces#NNS
@@ -20438,6 +21587,7 @@ fun#NN
 and#CC
 pleasure#NN
 .#.
+
 It#PRP
 was#VBD
 as#IN
@@ -20461,6 +21611,7 @@ and#CC
 go#VB
 adventuring#NN
 .#.
+
 My#PRP$
 Uncle#NN
 and#CC
@@ -20478,6 +21629,7 @@ in#IN
 our#PRP$
 ages#NNS
 .#.
+
 Sometimes#RB
 I#PRP
 wondered#VBD
@@ -20507,6 +21659,7 @@ us#PRP
 said#VBD
 anything#NN
 .#.
+
 One#CD
 Monday#NNP
 morning#NN
@@ -20529,6 +21682,7 @@ my#PRP$
 new#JJ
 Aunt#NN
 .#.
+
 They#PRP
 were#VBD
 married#VBN
@@ -20550,6 +21704,7 @@ been#VBN
 even#RB
 thirty#CD
 .#.
+
 She#PRP
 looked#VBD
 more#JJR
@@ -20558,6 +21713,7 @@ twenty-five#CD
 or#CC
 six#CD
 .#.
+
 It#PRP
 was#VBD
 really#RB
@@ -20567,6 +21723,7 @@ and#CC
 December#NNP
 combination#NN
 .#.
+
 My#PRP$
 new#JJ
 Aunt#NN
@@ -20598,6 +21755,7 @@ who#WP
 oozed#VBD
 sex#NN
 .#.
+
 There#EX
 was#VBD
 something#NN
@@ -20641,6 +21799,7 @@ not#RB
 fascinate#VB
 me#PRP
 .#.
+
 Her#PRP$
 legs#NNS
 were#VBD
@@ -20674,6 +21833,7 @@ the#DT
 ankle#NN
 perfect#JJ
 .#.
+
 You#PRP
 must#MD
 forgive#VB
@@ -20702,6 +21862,7 @@ the#DT
 physical#JJ
 body#NN
 .#.
+
 The#DT
 true#JJ
 artist#NN
@@ -20725,6 +21886,7 @@ animal#NN
 entire#NN
 body#NN
 .#.
+
 The#DT
 artist#NN
 looks#VBZ
@@ -20758,6 +21920,7 @@ she#PRP
 really#RB
 is#VBZ
 .#.
+
 that#DT
 is#VBZ
 the#DT
@@ -20776,6 +21939,7 @@ his#PRP$
 antique#JJ
 store#NN
 .#.
+
 she#PRP
 impressed#VBD
 me#PRP
@@ -20798,6 +21962,7 @@ quickly#RB
 averted#VBD
 them#PRP
 .#.
+
 I#PRP
 thought#VBD
 I#PRP
@@ -20817,6 +21982,7 @@ suffuse#VB
 her#PRP$
 cheeks#NNS
 .#.
+
 True#JJ
 ,#,
 she#PRP
@@ -20859,6 +22025,7 @@ or#CC
 much#RB
 care#VB
 .#.
+
 She#PRP
 was#VBD
 standing#VBG
@@ -20870,6 +22037,7 @@ the#DT
 glass#NN
 door#NN
 .#.
+
 Her#PRP$
 form#NN
 was#VBD
@@ -20900,6 +22068,7 @@ would#MD
 have#VB
 admired#VBN
 .#.
+
 it#PRP
 is#VBZ
 in#IN
@@ -20920,6 +22089,7 @@ and#CC
 something#NN
 clicks#VBZ
 .#.
+
 Something#NN
 clicked#VBD
 in#IN
@@ -20946,6 +22116,7 @@ kept#VBD
 our#PRP$
 distance#NN
 .#.
+
 she#PRP
 appeared#VBD
 at#IN
@@ -20971,6 +22142,7 @@ Uncle#NN
 notice#VB
 it#PRP
 .#.
+
 I#PRP
 became#VBD
 aware#JJ
@@ -20984,6 +22156,7 @@ at#IN
 me#PRP
 surreptitiously#RB
 .#.
+
 I#PRP
 felt#VBD
 that#IN
@@ -21004,6 +22177,7 @@ a#DT
 nude#JJ
 model#NN
 .#.
+
 I#PRP
 dismissed#VBD
 these#DT
@@ -21044,6 +22218,7 @@ of#IN
 our#PRP$
 relationship#NN
 .#.
+
 When#WRB
 our#PRP$
 eyes#NNS
@@ -21063,12 +22238,14 @@ Me#PRP
 too#RB
 ''#''
 .#.
+
 You#PRP
 have#VBP
 probably#RB
 experienced#VBN
 this#DT
 .#.
+
 It#PRP
 is#VBZ
 nothing#NN
@@ -21090,6 +22267,7 @@ charge#NN
 of#IN
 electricity#NN
 .#.
+
 she#PRP
 married#VBD
 him#PRP
@@ -21098,6 +22276,7 @@ do#VBP
 not#RB
 know#VB
 .#.
+
 I#PRP
 myself#PRP
 was#VBD
@@ -21121,6 +22300,7 @@ mystery#NN
 to#TO
 me#PRP
 .#.
+
 He#PRP
 already#RB
 had#VBD
@@ -21149,6 +22329,7 @@ joys#NNS
 of#IN
 living#NN
 .#.
+
 my#PRP$
 Uncle#NN
 ,#,
@@ -21184,6 +22365,7 @@ father#NN
 fixations#NNS
 do#VBP
 .#.
+
 several#JJ
 weeks#NNS
 we#PRP
@@ -21214,6 +22396,7 @@ opened#VBD
 the#DT
 store#NN
 .#.
+
 I#PRP
 was#VBD
 waiting#VBG
@@ -21234,6 +22417,7 @@ Uncle#NN
 's#POS
 indisposition#NN
 .#.
+
 Even#RB
 as#IN
 she#PRP
@@ -21278,6 +22462,7 @@ on#IN
 the#DT
 lights#NNS
 .#.
+
 The#DT
 cavernous#JJ
 depth#NN
@@ -21309,6 +22494,7 @@ at#IN
 his#PRP$
 desk#NN
 .#.
+
 She#PRP
 placed#VBD
 her#PRP$
@@ -21337,6 +22523,7 @@ next#JJ
 ''#''
 ?#.
 ?#.
+
 I#PRP
 was#VBD
 aware#JJ
@@ -21355,6 +22542,7 @@ time#NN
 was#VBD
 opportune#JJ
 .#.
+
 There#EX
 was#VBD
 little#JJ
@@ -21368,6 +22556,7 @@ at#IN
 that#DT
 hour#NN
 .#.
+
 I#PRP
 was#VBD
 standing#VBG
@@ -21394,6 +22583,7 @@ he#PRP
 sometimes#RB
 napped#VBD
 .#.
+
 I#PRP
 bent#VBD
 and#CC
@@ -21419,6 +22609,7 @@ a#DT
 bear-like#JJ
 crush#NN
 .#.
+
 Her#PRP$
 mouth#NN
 ,#,
@@ -21438,6 +22629,7 @@ moist#JJ
 and#CC
 tender#JJ
 .#.
+
 I#PRP
 heard#VBD
 her#PRP
@@ -21452,6 +22644,7 @@ the#DT
 door#NN
 ''#''
 .#.
+
 It#PRP
 did#VBD
 not#RB
@@ -21472,6 +22665,7 @@ and#CC
 its#PRP$
 couch#NN
 .#.
+
 we#PRP
 opened#VBD
 the#DT
@@ -21496,15 +22690,18 @@ be#VB
 indisposed#JJ
 ''#''
 .#.
+
 I#PRP
 know#VBP
 .#.
+
 I#PRP
 was#VBD
 thinking#VBG
 about#IN
 that#DT
 .#.
+
 How#WRB
 will#MD
 we#PRP
@@ -21514,6 +22711,7 @@ out#RP
 ''#''
 ?#.
 ?#.
+
 I#PRP
 do#VBP
 n't#RB
@@ -21523,17 +22721,20 @@ know#VB
 she#PRP
 said#VBD
 .#.
+
 ``#``
 You#PRP
 're#VBP
 the#DT
 man#NN
 .#.
+
 You#PRP
 figure#VBP
 it#PRP
 out#RP
 .#.
+
 I#PRP
 've#VBP
 noticed#VBN
@@ -21551,6 +22752,7 @@ we#PRP
 met#VBD
 ''#''
 .#.
+
 I#PRP
 guess#VBP
 we#PRP
@@ -21559,9 +22761,11 @@ felt#VBD
 it#PRP
 ''#''
 .#.
+
 I#PRP
 said#VBD
 .#.
+
 I#PRP
 guess#VBP
 so#RB
@@ -21570,10 +22774,12 @@ so#RB
 she#PRP
 said#VBD
 .#.
+
 what#WP
 ''#''
 ?#.
 ?#.
+
 I#PRP
 said#VBD
 it#PRP
@@ -21586,6 +22792,7 @@ can#MD
 be#VB
 invaluable#JJ
 .#.
+
 I#PRP
 know#VBP
 what#WP
@@ -21597,6 +22804,7 @@ do#VB
 I#PRP
 said#VBD
 .#.
+
 ``#``
 Tell#VB
 him#PRP
@@ -21608,6 +22816,7 @@ at#IN
 you#PRP
 ''#''
 .#.
+
 She#PRP
 raised#VBD
 a#DT
@@ -21618,6 +22827,7 @@ a#DT
 startled#JJ
 air#NN
 .#.
+
 What#WP
 are#VBP
 you#PRP
@@ -21626,11 +22836,13 @@ to#TO
 do#VB
 ?#.
 ?#.
+
 Get#VB
 thrown#VBN
 out#RB
 ?#.
 ?#.
+
 If#IN
 I#PRP
 even#RB
@@ -21658,6 +22870,7 @@ nephew#NN
 ''#''
 ?#.
 ?#.
+
 I#PRP
 do#VBP
 n't#RB
@@ -21674,6 +22887,7 @@ think#VB
 I#PRP
 will#MD
 .#.
+
 I#PRP
 think#VBP
 I#PRP
@@ -21691,6 +22905,7 @@ suspecting#VBG
 us#PRP
 ''#''
 .#.
+
 him#PRP
 you#PRP
 are#VBP
@@ -21701,10 +22916,12 @@ me#PRP
 ''#''
 ?#.
 ?#.
+
 She#PRP
 said#VBD
 incredulously#RB
 .#.
+
 I#PRP
 was#VBD
 in#IN
@@ -21728,6 +22945,7 @@ my#PRP$
 lit#NN
 class#NN
 .#.
+
 I#PRP
 do#VBP
 n't#RB
@@ -21748,6 +22966,7 @@ or#CC
 century#NN
 poets#NNS
 .#.
+
 In#IN
 those#DT
 days#NNS
@@ -21783,12 +23002,14 @@ on#IN
 to#TO
 us#PRP
 .#.
+
 Tomorrow#RB
 Mardi#NNP
 Gras#NNP
 opens#VBZ
 officially#RB
 .#.
+
 A#DT
 lot#NN
 of#IN
@@ -21807,6 +23028,7 @@ having#VBG
 a#DT
 ball#NN
 .#.
+
 There#EX
 will#MD
 be#VB
@@ -21814,6 +23036,7 @@ romance#NN
 and#CC
 flirtation#NN
 .#.
+
 If#IN
 you#PRP
 tell#VBP
@@ -21869,6 +23092,7 @@ I#PRP
 really#RB
 am#VBP
 .#.
+
 We#PRP
 made#VBD
 a#DT
@@ -21884,6 +23108,7 @@ near#IN
 Lake#NNP
 Ponchartrain#NNP
 .#.
+
 And#CC
 to#TO
 prove#VB
@@ -21902,6 +23127,7 @@ the#DT
 date#NN
 instead#RB
 .#.
+
 You#PRP
 are#VBP
 both#DT
@@ -21909,6 +23135,7 @@ the#DT
 same#JJ
 size#NN
 .#.
+
 He#PRP
 could#MD
 use#VB
@@ -21925,6 +23152,7 @@ for#IN
 a#DT
 mask#NN
 .#.
+
 When#WRB
 I#PRP
 show#VBP
@@ -21945,14 +23173,17 @@ about#IN
 it#PRP
 ''#''
 .#.
+
 you#PRP
 ''#''
 --#:
 she#PRP
 began#VBD
 .#.
+
 me#PRP
 .#.
+
 It#PRP
 will#MD
 turn#VB
@@ -21961,6 +23192,7 @@ all#RB
 right#JJ
 ''#''
 .#.
+
 I#PRP
 do#VBP
 n't#RB
@@ -21970,6 +23202,7 @@ understand#VB
 she#PRP
 insisted#VBD
 .#.
+
 ``#``
 Are#VBP
 you#PRP
@@ -21981,6 +23214,7 @@ throat#NN
 ''#''
 ?#.
 ?#.
+
 I#PRP
 chuckled#VBD
 ,#,
@@ -21999,6 +23233,7 @@ in#IN
 education#NN
 ''#''
 .#.
+
 we#PRP
 expected#VBD
 ,#,
@@ -22023,6 +23258,7 @@ in#IN
 the#DT
 morning#NN
 .#.
+
 I#PRP
 felt#VBD
 that#IN
@@ -22067,6 +23303,7 @@ to#TO
 his#PRP$
 wife#NN
 .#.
+
 I#PRP
 quit#VBD
 work#NN
@@ -22085,6 +23322,7 @@ from#IN
 other#JJ
 days#NNS
 .#.
+
 I#PRP
 heard#VBD
 subsequently#RB
@@ -22118,6 +23356,7 @@ keep#VB
 the#DT
 date#NN
 .#.
+
 Shortly#RB
 before#IN
 nine#CD
@@ -22155,6 +23394,7 @@ in#IN
 clear#JJ
 view#NN
 .#.
+
 A#DT
 few#JJ
 minutes#NNS
@@ -22179,6 +23419,7 @@ to#TO
 the#DT
 corner#NN
 .#.
+
 I#PRP
 must#MD
 say#VB
@@ -22189,6 +23430,7 @@ well#RB
 made#VBN
 up#RP
 .#.
+
 If#IN
 it#PRP
 were#VBD
@@ -22215,6 +23457,7 @@ clothes#NNS
 fit#VB
 him#PRP
 .#.
+
 In#IN
 one#CD
 hand#NN
@@ -22232,6 +23475,7 @@ indication#NN
 of#IN
 rain#NN
 .#.
+
 I#PRP
 suspected#VBD
 why#WRB
@@ -22240,6 +23484,7 @@ brought#VBD
 it#PRP
 along#RP
 .#.
+
 the#DT
 half#JJ
 darkness#NN
@@ -22255,6 +23500,7 @@ not#RB
 see#VB
 me#PRP
 .#.
+
 He#PRP
 was#VBD
 looking#VBG
@@ -22283,15 +23529,18 @@ across#IN
 the#DT
 face#NN
 .#.
+
 You#PRP
 cheap#RB
 bitch#VB
 ''#''
 !#.
 !#.
+
 I#PRP
 exclaimed#VBD
 .#.
+
 ``#``
 You#PRP
 cheap#JJ
@@ -22303,6 +23552,7 @@ two-timing#JJ
 bitch#NN
 !#.
 !#.
+
 You#PRP
 get#VBP
 a#DT
@@ -22314,6 +23564,7 @@ husband#NN
 smack#UH
 !#.
 !#.
+
 --#:
 and#CC
 you#PRP
@@ -22327,18 +23578,21 @@ own#JJ
 nephew#NN
 !#.
 !#.
+
 You#PRP
 should#MD
 --#:
 smack#UH
 !#.
 !#.
+
 --#:
 be#VB
 ashamed#JJ
 of#IN
 yourself#PRP
 .#.
+
 He#PRP
 had#VBD
 better#RB
@@ -22348,6 +23602,7 @@ postcard#NN
 to#TO
 Walter#NNP
 .#.
+
 He#PRP
 opened#VBD
 the#DT
@@ -22391,6 +23646,7 @@ Wilder#NNP
 's#POS
 address#NN
 .#.
+
 The#DT
 bars#NNS
 were#VBD
@@ -22412,6 +23668,7 @@ nearly#RB
 secret#JJ
 drawer#NN
 .#.
+
 The#DT
 code#NN
 ,#,
@@ -22439,6 +23696,7 @@ put#VBD
 to#TO
 use#VB
 .#.
+
 A#DT
 card#NN
 to#TO
@@ -22460,6 +23718,7 @@ good#JJ
 for#IN
 something#NN
 .#.
+
 Nicolas#NNP
 called#VBD
 on#IN
@@ -22485,6 +23744,7 @@ crummy#JJ
 Palasts#NNPS
 ''#''
 .#.
+
 That#DT
 ought#MD
 to#TO
@@ -22510,6 +23770,7 @@ was#VBD
 his#PRP$
 mind#NN
 .#.
+
 his#PRP$
 postcard#NN
 did#VBD
@@ -22533,6 +23794,7 @@ friend#NN
 Meredith#NNP
 Wilder#NNP
 .#.
+
 Five#CD
 days#NNS
 later#RB
@@ -22551,13 +23813,16 @@ his#PRP$
 writing#NN
 table#NN
 .#.
+
 Dammit#UH
 !#.
 !#.
+
 He#PRP
 inwardly#RB
 cried#VBD
 .#.
+
 His#PRP$
 hand#NN
 was#VBD
@@ -22568,6 +23833,7 @@ and#CC
 heavily#RB
 tanned#VBN
 .#.
+
 The#DT
 voice#NN
 crying#VBG
@@ -22579,6 +23845,7 @@ voice#NN
 of#IN
 guilt#NN
 .#.
+
 His#PRP$
 four#CD
 weeks#NNS
@@ -22591,6 +23858,7 @@ nearer#JJR
 three#CD
 months#NNS
 .#.
+
 He#PRP
 had#VBD
 returned#VBN
@@ -22601,6 +23869,7 @@ a#DT
 week#NN
 ago#RB
 .#.
+
 Now#RB
 ,#,
 he#PRP
@@ -22630,6 +23899,7 @@ semester#NN
 class#NN
 preparation#NN
 .#.
+
 He#PRP
 was#VBD
 determined#VBN
@@ -22639,6 +23909,7 @@ an#DT
 industrious#JJ
 summer#NN
 .#.
+
 Well#RB
 ,#,
 maybe#RB
@@ -22647,6 +23918,7 @@ would#MD
 n't#RB
 call#VB
 .#.
+
 Meredith#NNP
 's#POS
 fingers#NNS
@@ -22666,6 +23938,7 @@ die#FW
 Schwarzen#FW
 Hexen#FW
 .#.
+
 The#DT
 menace#NN
 of#IN
@@ -22690,6 +23963,7 @@ laughed#VBD
 '#''
 ?#.
 ?#.
+
 Or#CC
 ,#,
 more#RBR
@@ -22704,6 +23978,7 @@ laughing#VBG
 '#''
 ?#.
 ?#.
+
 he#PRP
 missed#VBD
 the#DT
@@ -22724,6 +23999,7 @@ escape#VB
 Nicolas#NNP
 Manas#NNP
 .#.
+
 Nicolas#NNP
 ,#,
 too#RB
@@ -22735,6 +24011,7 @@ interrupted#VBD
 that#DT
 morning#NN
 .#.
+
 the#DT
 11:00#JJ
 sun#NN
@@ -22781,12 +24058,14 @@ tenderly#RB
 regarded#VBD
 him#PRP
 .#.
+
 Should#MD
 she#PRP
 wake#VB
 him#PRP
 ?#.
 ?#.
+
 She#PRP
 did#VBD
 n't#RB
@@ -22794,6 +24073,7 @@ have#VB
 the#DT
 heart#NN
 .#.
+
 Her#PRP$
 heart#NN
 ,#,
@@ -22835,6 +24115,7 @@ scene#NN
 from#IN
 Poussin#NNP
 .#.
+
 She#PRP
 was#VBD
 just#RB
@@ -22845,6 +24126,7 @@ break#VB
 the#DT
 spell#NN
 .#.
+
 (#(
 Would#MD
 she#PRP
@@ -22879,6 +24161,7 @@ marked#VBN
 bars#NNS
 ?#.
 ?#.
+
 Nicolas#NNP
 :#:
 ``#``
@@ -22899,6 +24182,7 @@ sex#NN
 see#VB
 ?#.
 ?#.
+
 So#RB
 if#IN
 all#PDT
@@ -22922,6 +24206,7 @@ of#IN
 money#NN
 ''#''
 .#.
+
 Ballet#NN
 dancer#NN
 :#:
@@ -22954,6 +24239,7 @@ all#RB
 beautiful#JJ
 ''#''
 .#.
+
 To#TO
 this#DT
 meek#JJ
@@ -22970,6 +24256,7 @@ use#VB
 this#DT
 blanket#NN
 .#.
+
 And#CC
 when#WRB
 you#PRP
@@ -22990,6 +24277,7 @@ to#TO
 eat#VB
 ''#''
 .#.
+
 And#CC
 ,#,
 as#IN
@@ -23026,6 +24314,7 @@ laden#JJ
 with#IN
 dew#NN
 .#.
+
 He#PRP
 had#VBD
 always#RB
@@ -23042,6 +24331,7 @@ his#PRP$
 own#JJ
 terms#NNS
 .#.
+
 He#PRP
 used#VBD
 the#DT
@@ -23075,6 +24365,7 @@ their#PRP$
 few#JJ
 possessions#NNS
 .#.
+
 Mary#NNP
 Jane#NNP
 Lerner#NNP
@@ -23083,6 +24374,7 @@ none#NN
 of#IN
 this#DT
 .#.
+
 )#)
 Her#PRP
 Nicolas#NNP
@@ -23102,6 +24394,7 @@ over#IN
 his#PRP$
 eyes#NNS
 .#.
+
 She#PRP
 was#VBD
 telling#VBG
@@ -23124,6 +24417,7 @@ search#NN
 for#IN
 truth#NN
 .#.
+
 This#DT
 was#VBD
 surely#RB
@@ -23139,6 +24433,7 @@ that#DT
 poetry#NN
 promised#VBD
 .#.
+
 That#DT
 long#JJ
 night#NN
@@ -23153,6 +24448,7 @@ opened#VBN
 her#PRP$
 eyes#NNS
 .#.
+
 His#PRP$
 advice#NN
 ,#,
@@ -23196,6 +24492,7 @@ was#VBD
 all#RB
 new#JJ
 .#.
+
 Her#PRP$
 eyes#NNS
 had#VBD
@@ -23211,6 +24508,7 @@ a#DT
 new#JJ
 faith#NN
 .#.
+
 The#DT
 next#JJ
 day#NN
@@ -23218,6 +24516,7 @@ he#PRP
 was#VBD
 gone#VBN
 .#.
+
 Mary#NNP
 Jane#NNP
 might#MD
@@ -23237,6 +24536,7 @@ the#DT
 most#RBS
 determined#JJ
 .#.
+
 Even#RB
 so#RB
 ,#,
@@ -23255,6 +24555,7 @@ Nicolas#NNP
 's#POS
 whereabouts#NN
 .#.
+
 Packing#VBG
 a#DT
 small#JJ
@@ -23307,6 +24608,7 @@ her#PRP
 two#CD
 hours#NNS
 .#.
+
 She#PRP
 had#VBD
 arrived#VBN
@@ -23320,6 +24622,7 @@ the#DT
 English#NNPS
 Gardens#NNPS
 .#.
+
 ``#``
 Dear#JJ
 girl#NN
@@ -23344,16 +24647,19 @@ English#NNP
 Gardens#NNPS
 ''#''
 .#.
+
 him#PRP
 ''#''
 !#.
 !#.
+
 Mary#NNP
 Jane#NNP
 had#VBD
 smilingly#RB
 said#VBD
 .#.
+
 ``#``
 His#PRP$
 address#NN
@@ -23373,6 +24679,7 @@ the#DT
 American#NNP
 Express#NNP
 .#.
+
 And#CC
 I#PRP
 will#MD
@@ -23387,6 +24694,7 @@ tell#VB
 your#PRP$
 husband#NN
 .#.
+
 ''#''
 For#IN
 the#DT
@@ -23413,6 +24721,7 @@ upon#IN
 her#PRP$
 knight#NN
 .#.
+
 His#PRP$
 presence#NN
 there#RB
@@ -23462,20 +24771,24 @@ with#IN
 the#DT
 angels#NNS
 .#.
+
 She#PRP
 set#VBD
 down#RB
 her#PRP$
 suitcase#NN
 .#.
+
 Should#MD
 she#PRP
 wake#VB
 him#PRP
 ?#.
 ?#.
+
 No#UH
 .#.
+
 she#PRP
 sat#VBD
 down#RB
@@ -23487,6 +24800,7 @@ waited#VBD
 and#CC
 watched#VBD
 .#.
+
 The#DT
 sun#NN
 grew#VBD
@@ -23497,6 +24811,7 @@ approached#VBD
 the#DT
 midday#NN
 .#.
+
 Nicolas#NNP
 was#VBD
 dreaming#VBG
@@ -23513,10 +24828,12 @@ a#DT
 speeding#VBG
 car#NN
 .#.
+
 He#PRP
 began#VBD
 sweating#VBG
 .#.
+
 In#IN
 his#PRP$
 dream#NN
@@ -23532,6 +24849,7 @@ Chrissake#UH
 ''#''
 !#.
 !#.
+
 He#PRP
 half#RB
 woke#VBD
@@ -23546,14 +24864,17 @@ the#DT
 cooler#JJR
 grass#NN
 .#.
+
 His#PRP$
 nose#NN
 was#VBD
 tickled#VBN
 .#.
+
 He#PRP
 sneezed#VBD
 .#.
+
 He#PRP
 blew#VBD
 his#PRP$
@@ -23563,9 +24884,11 @@ between#IN
 his#PRP$
 fingers#NNS
 .#.
+
 He#PRP
 spit#VBD
 .#.
+
 He#PRP
 half#DT
 sat#VBD
@@ -23588,12 +24911,14 @@ between#IN
 his#PRP$
 legs#NNS
 .#.
+
 He#PRP
 belched#VBD
 ,#,
 he#PRP
 stretched#VBD
 .#.
+
 Mary#NNP
 Jane#NNP
 got#VBD
@@ -23605,6 +24930,7 @@ and#CC
 walked#VBD
 away#RB
 .#.
+
 Twenty#CD
 minutes#NNS
 later#RB
@@ -23633,6 +24959,7 @@ for#IN
 a#DT
 bath#NN
 .#.
+
 Mary#NNP
 Jane#NNP
 belonged#VBD
@@ -23654,6 +24981,7 @@ and#CC
 minor#JJ
 cities#NNS
 .#.
+
 She#PRP
 had#VBD
 retreated#VBN
@@ -23661,6 +24989,7 @@ to#TO
 this#DT
 world#NN
 .#.
+
 The#DT
 Grafin#NNP
 ,#,
@@ -23687,11 +25016,13 @@ quite#RB
 dark#JJ
 hair#NN
 .#.
+
 Families#NNS
 are#VBP
 very#RB
 interesting#JJ
 .#.
+
 Nevertheless#RB
 ,#,
 there#EX
@@ -23699,6 +25030,7 @@ is#VBZ
 no#DT
 bath#NN
 .#.
+
 But#CC
 a#DT
 young#JJ
@@ -23723,12 +25055,14 @@ it#PRP
 this#DT
 once#RB
 .#.
+
 And#CC
 then#RB
 we#PRP
 shall#MD
 see#VB
 .#.
+
 ''#''
 (#(
 The#DT
@@ -23740,6 +25074,7 @@ the#DT
 word#NN
 shall#MD
 .#.
+
 )#)
 Meredith#NNP
 was#VBD
@@ -23763,6 +25098,7 @@ great#JJ
 beauty#NN
 !#.
 !#.
+
 Shall#MD
 we#PRP
 allow#VB
@@ -23774,6 +25110,7 @@ a#DT
 bath#NN
 ?#.
 ?#.
+
 Actually#RB
 ,#,
 she#PRP
@@ -23785,6 +25122,7 @@ beauty#NN
 I#PRP
 believe#VBP
 .#.
+
 You#PRP
 shall#MD
 see#VB
@@ -23793,6 +25131,7 @@ at#IN
 dinner#NN
 ''#''
 .#.
+
 Rather#RB
 erotically#RB
 he#PRP
@@ -23819,6 +25158,7 @@ a#DT
 virtuous#JJ
 way#NN
 .#.
+
 Before#IN
 dinner#NN
 ,#,
@@ -23831,6 +25171,7 @@ time#NN
 that#DT
 day#NN
 .#.
+
 A#DT
 thing#NN
 he#PRP
@@ -23841,6 +25182,7 @@ doing#VBG
 ,#,
 generally#RB
 .#.
+
 Singing#VBG
 into#IN
 the#DT
@@ -23877,6 +25219,7 @@ Italian#JJ
 sun#NN
 tan#NN
 .#.
+
 He#PRP
 flexed#VBD
 his#PRP$
@@ -23900,6 +25243,7 @@ as#IN
 he#PRP
 washed#VBD
 .#.
+
 the#DT
 small#JJ
 gallery#NN
@@ -23928,6 +25272,7 @@ the#DT
 young#JJ
 waitress#NN
 .#.
+
 He#PRP
 was#VBD
 asking#VBG
@@ -23965,6 +25310,7 @@ approaching#VBG
 his#PRP$
 table#NN
 .#.
+
 It#PRP
 would#MD
 be#VB
@@ -23995,6 +25341,7 @@ Jane#NNP
 's#POS
 beauty#NN
 .#.
+
 Yet#CC
 he#PRP
 did#VBD
@@ -24024,6 +25371,7 @@ was#VBD
 something#NN
 special#JJ
 .#.
+
 Mary#NNP
 Jane#NNP
 had#VBD
@@ -24032,6 +25380,7 @@ very#RB
 little#JJ
 effort#NN
 .#.
+
 Above#IN
 a#DT
 dark#JJ
@@ -24055,6 +25404,7 @@ no#DT
 brassiere#NN
 beneath#IN
 .#.
+
 Her#PRP$
 white#JJ
 blond#NN
@@ -24070,6 +25420,7 @@ to#TO
 her#PRP$
 shoulders#NNS
 .#.
+
 Perhaps#RB
 her#PRP$
 eyes#NNS
@@ -24091,6 +25442,7 @@ wept#VBN
 that#DT
 day#NN
 .#.
+
 She#PRP
 had#VBD
 touched#VBN
@@ -24120,6 +25472,7 @@ redder#JJR
 than#IN
 usual#JJ
 .#.
+
 The#DT
 result#NN
 was#VBD
@@ -24127,6 +25480,7 @@ grace#NN
 and#CC
 modesty#NN
 .#.
+
 As#IN
 she#PRP
 was#VBD
@@ -24170,12 +25524,14 @@ intelligence#NN
 and#CC
 control#NN
 .#.
+
 Meredith#NNP
 began#VBD
 falling#VBG
 in#IN
 love#NN
 .#.
+
 Soup#NN
 :#:
 ``#``
@@ -24201,6 +25557,7 @@ this#DT
 ''#''
 !#.
 !#.
+
 ;#:
 ;#:
 Wine#NN
@@ -24216,6 +25573,7 @@ afternoon#NN
 ''#''
 ?#.
 ?#.
+
 ;#:
 ;#:
 Fruit#NN
@@ -24235,11 +25593,13 @@ it#PRP
 a#DT
 smile#NN
 .#.
+
 What#WP
 a#DT
 beautiful#JJ
 room#NN
 .#.
+
 Like#IN
 as#IN
 if#IN
@@ -24250,6 +25610,7 @@ of#IN
 books#NNS
 ''#''
 .#.
+
 the#DT
 windows#NNS
 onto#IN
@@ -24280,6 +25641,7 @@ in#IN
 old#JJ
 calfskin#NN
 .#.
+
 Opening#VBG
 these#DT
 he#PRP
@@ -24297,6 +25659,7 @@ hidden#VBN
 inside#IN
 it#PRP
 .#.
+
 ``#``
 I#PRP
 think#VBP
@@ -24308,16 +25671,19 @@ the#DT
 afternoon#NN
 ''#''
 .#.
+
 Those#DT
 sweet#JJ
 girls#NNS
 ?#.
 ?#.
+
 Oh#UH
 you#PRP
 're#VBP
 joking#VBG
 .#.
+
 It#PRP
 tastes#VBZ
 a#DT
@@ -24325,12 +25691,14 @@ little#RB
 like#IN
 poppyseed#NN
 .#.
+
 What#WP
 's#VBZ
 its#PRP$
 name#NN
 ?#.
 ?#.
+
 Steinhager#NNP
 ''#''
 She#PRP
@@ -24345,6 +25713,7 @@ times#NNS
 memorizing#VBG
 it#PRP
 .#.
+
 ``#``
 Would#MD
 you#PRP
@@ -24366,6 +25735,7 @@ myself#PRP
 ''#''
 ?#.
 ?#.
+
 Meredith#NNP
 's#POS
 voice#NN
@@ -24412,6 +25782,7 @@ a#DT
 trifle#RB
 shy#NN
 .#.
+
 His#PRP$
 new#JJ
 poem#NN
@@ -24441,6 +25812,7 @@ house#NN
 have#VBP
 failed#VBN
 .#.
+
 The#DT
 husband#NN
 points#VBZ
@@ -24510,12 +25882,14 @@ the#DT
 fire#NN
 ?#.
 ?#.
+
 )#)
 But#CC
 he#PRP
 read#VBD
 on#RB
 .#.
+
 In#IN
 the#DT
 bedroom#NN
@@ -24573,6 +25947,7 @@ her#PRP$
 mind#NN
 ''#''
 .#.
+
 Mary#NNP
 Jane#NNP
 took#VBD
@@ -24592,6 +25967,7 @@ with#IN
 the#DT
 words#NNS
 .#.
+
 ``#``
 Oh#UH
 ,#,
@@ -24609,6 +25985,7 @@ her#PRP$
 name#NN
 ?#.
 ?#.
+
 I#PRP
 can#MD
 never#RB
@@ -24616,18 +25993,21 @@ pronounce#VB
 it#PRP
 ''#''
 .#.
+
 She#PRP
 repeated#VBD
 ``#``
 Eurydice#NNP
 ''#''
 .#.
+
 The#DT
 third#JJ
 time#NN
 rather#RB
 urgently#RB
 .#.
+
 But#CC
 with#IN
 her#PRP$
@@ -24635,6 +26015,7 @@ hand#NN
 poem#NN
 again#RB
 .#.
+
 She#PRP
 raised#VBD
 her#PRP$
@@ -24652,6 +26033,7 @@ very#RB
 sad#JJ
 ''#''
 .#.
+
 They#PRP
 discussed#VBD
 the#DT
@@ -24667,6 +26049,7 @@ on#IN
 their#PRP$
 minds#NNS
 .#.
+
 They#PRP
 finished#VBD
 the#DT
@@ -24675,6 +26058,7 @@ bottle#NN
 of#IN
 Steinhager#NNP
 .#.
+
 She#PRP
 confessed#VBD
 she#PRP
@@ -24689,6 +26073,7 @@ her#PRP$
 husband#NN
 ?#.
 ?#.
+
 She#PRP
 began#VBD
 to#TO
@@ -24715,9 +26100,11 @@ all#DT
 poets#NNS
 ''#''
 .#.
+
 They#PRP
 smiled#VBD
 .#.
+
 her#PRP$
 door#NN
 ,#,
@@ -24737,6 +26124,7 @@ is#VBZ
 asleep#RB
 ''#''
 .#.
+
 Kissing#VBG
 her#PRP
 he#PRP
@@ -24749,12 +26137,14 @@ times#NNS
 Eurydice#NNP
 ''#''
 .#.
+
 The#DT
 third#JJ
 time#NN
 rather#RB
 urgently#RB
 .#.
+
 But#CC
 with#IN
 her#PRP$
@@ -24801,6 +26191,7 @@ against#IN
 his#PRP$
 mouth#NN
 .#.
+
 They#PRP
 were#VBD
 west#RB
@@ -24814,6 +26205,7 @@ God#NNP
 knew#VBD
 where#WRB
 .#.
+
 three#CD
 days#NNS
 ,#,
@@ -24835,6 +26227,7 @@ a#DT
 dead#JJ
 sea#NN
 .#.
+
 Molten#JJ
 glare#NN
 singed#VBD
@@ -24870,6 +26263,7 @@ in#IN
 their#PRP$
 lungs#NNS
 .#.
+
 And#CC
 the#DT
 valley#NN
@@ -24900,6 +26294,7 @@ orange#JJ
 brown#JJ
 haze#NN
 .#.
+
 Ben#NNP
 Prime#NNP
 extended#VBD
@@ -24919,11 +26314,13 @@ of#IN
 the#DT
 oxen#NNS
 .#.
+
 ``#``
 Hoa-whup#UH
 ''#''
 !#.
 !#.
+
 He#PRP
 commanded#VBD
 from#IN
@@ -24945,6 +26342,7 @@ black#JJ
 burned#JJ
 lips#NNS
 .#.
+
 He#PRP
 removed#VBD
 his#PRP$
@@ -24965,9 +26363,11 @@ his#PRP$
 gaunt#JJ
 face#NN
 .#.
+
 He#PRP
 spat#VBD
 .#.
+
 The#DT
 dust-thick#JJ
 saliva#NN
@@ -24979,6 +26379,7 @@ like#IN
 balled#VBN
 cotton#NN
 .#.
+
 He#PRP
 moved#VBD
 back#RB
@@ -25005,6 +26406,7 @@ his#PRP$
 played-out#JJ
 limbs#NNS
 .#.
+
 The#DT
 burning#VBG
 air#NN
@@ -25016,6 +26418,7 @@ in#IN
 salt-edged#JJ
 patches#NNS
 .#.
+
 He#PRP
 cleared#VBD
 his#PRP$
@@ -25025,6 +26428,7 @@ wet#VB
 his#PRP$
 lips#NNS
 .#.
+
 As#RB
 cheerfully#RB
 as#IN
@@ -25048,6 +26452,7 @@ little#JJ
 drink#NN
 ''#''
 .#.
+
 He#PRP
 unlashed#VBD
 the#DT
@@ -25059,6 +26464,7 @@ from#IN
 a#DT
 barrel#NN
 .#.
+
 They#PRP
 could#MD
 no#RB
@@ -25077,6 +26483,7 @@ it#PRP
 by#IN
 evaporation#NN
 .#.
+
 The#DT
 water#NN
 was#VBD
@@ -25089,11 +26496,13 @@ a#DT
 brackish#JJ
 taste#NN
 .#.
+
 But#CC
 it#PRP
 was#VBD
 water#NN
 .#.
+
 Thank#VB
 the#DT
 Lord#NNP
@@ -25104,6 +26513,7 @@ had#VBD
 water#NN
 !#.
 !#.
+
 He#PRP
 cleansed#VBD
 his#PRP$
@@ -25113,6 +26523,7 @@ a#DT
 small#JJ
 quantity#NN
 .#.
+
 He#PRP
 took#VBD
 a#DT
@@ -25122,6 +26533,7 @@ carefully#RB
 controlled#VBN
 draught#NN
 .#.
+
 He#PRP
 replenished#VBD
 the#DT
@@ -25138,6 +26550,7 @@ the#DT
 hurricane#NN
 deck#NN
 .#.
+
 She#PRP
 took#VBD
 it#PRP
@@ -25152,6 +26565,7 @@ they#PRP
 met#VBD
 his#PRP$
 .#.
+
 She#PRP
 drank#VBD
 and#CC
@@ -25169,6 +26583,7 @@ wipe#VB
 her#PRP$
 face#NN
 .#.
+
 She#PRP
 set#VBD
 the#DT
@@ -25194,6 +26609,7 @@ looked#VBD
 on#RB
 scornfully#RB
 .#.
+
 What#WP
 happens#VBZ
 when#WRB
@@ -25205,10 +26621,12 @@ water#NN
 ''#''
 ?#.
 ?#.
+
 She#PRP
 asked#VBD
 smolderingly#RB
 .#.
+
 She#PRP
 was#VBD
 like#IN
@@ -25223,6 +26641,7 @@ opaque#JJ
 ,#,
 explosive#JJ
 .#.
+
 Her#PRP$
 thick#JJ
 hair#NN
@@ -25234,6 +26653,7 @@ texture#NN
 of#IN
 charcoal#NN
 .#.
+
 Her#PRP$
 temper#NN
 sparked#VBD
@@ -25245,6 +26665,7 @@ first#RB
 lights#VBZ
 up#RB
 .#.
+
 And#CC
 all#PDT
 the#DT
@@ -25273,6 +26694,7 @@ but#CC
 not#RB
 visibly#RB
 .#.
+
 A#DT
 ripple#NN
 ran#VBD
@@ -25291,6 +26713,7 @@ upon#IN
 his#PRP$
 voice#NN
 .#.
+
 There#EX
 must#MD
 be#VB
@@ -25300,6 +26723,7 @@ under#IN
 there#RB
 ''#''
 .#.
+
 He#PRP
 tilted#VBD
 his#PRP$
@@ -25313,6 +26737,7 @@ of#IN
 the#DT
 river#NN
 .#.
+
 ``#``
 We#PRP
 can#MD
@@ -25327,6 +26752,7 @@ he#PRP
 said#VBD
 patiently#RB
 .#.
+
 fever#NN
 to#TO
 our#PRP$
@@ -25334,9 +26760,11 @@ troubles#NNS
 ''#''
 ?#.
 ?#.
+
 She#PRP
 scoffed#VBD
 .#.
+
 ``#``
 Or#CC
 do#VBP
@@ -25354,6 +26782,7 @@ too#RB
 ''#''
 ?#.
 ?#.
+
 We#PRP
 can#MD
 boil#VB
@@ -25363,10 +26792,12 @@ it#PRP
 he#PRP
 said#VBD
 .#.
+
 Her#PRP$
 chin#NN
 sharpened#VBD
 .#.
+
 ``#``
 We#PRP
 're#VBP
@@ -25382,6 +26813,7 @@ bit#VBD
 out#RB
 tensely#RB
 .#.
+
 ``#``
 The#DT
 tires#NNS
@@ -25392,6 +26824,7 @@ the#DT
 wheels#NNS
 now#RB
 .#.
+
 They#PRP
 'll#MD
 roll#VB
@@ -25400,6 +26833,7 @@ in#IN
 another#DT
 day#NN
 .#.
+
 There#EX
 was#VBD
 no#DT
@@ -25410,6 +26844,7 @@ on#IN
 your#PRP$
 map#NN
 .#.
+
 You#PRP
 do#VBP
 n't#RB
@@ -25421,6 +26856,7 @@ we#PRP
 headed#VBN
 ''#''
 .#.
+
 Hettie#NNP
 ''#''
 ,#,
@@ -25439,6 +26875,7 @@ still#RB
 headed#VBN
 west#RB
 .#.
+
 Somewhere#RB
 ,#,
 we#PRP
@@ -25448,6 +26885,7 @@ a#DT
 trail#NN
 ''#''
 .#.
+
 Sulphur#NN
 ,#,
 oil#NN
@@ -25464,6 +26902,7 @@ firebug#NN
 dreams#NNS
 of#IN
 .#.
+
 I#PRP
 suppose#VBP
 a#DT
@@ -25482,6 +26921,7 @@ off#RP
 the#DT
 blaze#NN
 .#.
+
 Now#RB
 ,#,
 roaring#VBG
@@ -25517,18 +26957,21 @@ what#WP
 to#TO
 do#VB
 .#.
+
 The#DT
 lifeboats#NNS
 were#VBD
 stuck#VBN
 fast#RB
 .#.
+
 We#PRP
 could#MD
 n't#RB
 budge#VB
 them#PRP
 .#.
+
 I#PRP
 heard#VBD
 a#DT
@@ -25553,6 +26996,7 @@ man#NN
 bare#JJ
 back#NN
 .#.
+
 He#PRP
 sprinted#VBD
 to#TO
@@ -25566,6 +27010,7 @@ the#DT
 shark-infested#JJ
 waters#NNS
 .#.
+
 One#NN
 especially#RB
 bad#JJ
@@ -25581,6 +27026,7 @@ in#IN
 the#DT
 davits#NNS
 .#.
+
 Brassnose#NNP
 yelled#VBD
 :#:
@@ -25601,6 +27047,7 @@ a#DT
 chance#NN
 now#RB
 .#.
+
 Heave#VB
 on#IN
 those#DT
@@ -25614,6 +27061,7 @@ come#VBN
 unstuck#JJ
 ''#''
 .#.
+
 We#PRP
 pulled#VBD
 and#CC
@@ -25631,6 +27079,7 @@ they#PRP
 bled#VBD
 profusely#RB
 .#.
+
 The#DT
 Bonaventure#NNP
 was#VBD
@@ -25643,6 +27092,7 @@ old#JJ
 spavined#JJ
 mare#NN
 .#.
+
 Her#PRP$
 stern#NN
 was#VBD
@@ -25665,6 +27115,7 @@ into#IN
 the#DT
 water#NN
 .#.
+
 Brassnose#NNP
 ,#,
 Max#NNP
@@ -25680,6 +27131,7 @@ to#TO
 the#DT
 boat#NN
 .#.
+
 ``#``
 Let#VB
 's#PRP
@@ -25700,6 +27152,7 @@ of#IN
 bleached#JJ
 hair#NN
 .#.
+
 ``#``
 That#DT
 tub#NN
@@ -25712,6 +27165,7 @@ at#IN
 once#RB
 ''#''
 .#.
+
 the#DT
 Bonaventure#NNP
 seemed#VBD
@@ -25738,6 +27192,7 @@ of#IN
 black-and-orange#JJ
 smoke#NN
 .#.
+
 Dimly#RB
 ,#,
 we#PRP
@@ -25759,6 +27214,7 @@ into#IN
 that#DT
 inferno#NN
 .#.
+
 our#PRP$
 leaky#JJ
 lifeboat#NN
@@ -25770,6 +27226,7 @@ inches#NNS
 of#IN
 water#NN
 .#.
+
 ``#``
 Sommers#NNP
 ,#,
@@ -25783,6 +27240,7 @@ row#VBP
 Brassnose#NNP
 commanded#VBD
 .#.
+
 I#PRP
 could#MD
 determine#VB
@@ -25802,6 +27260,7 @@ the#DT
 Bismark#NNP
 Archipelago#NNP
 .#.
+
 Three#CD
 days#NNS
 previously#RB
@@ -25817,6 +27276,7 @@ in#IN
 the#DT
 distance#NN
 .#.
+
 Now#RB
 we#PRP
 peered#VBD
@@ -25840,6 +27300,7 @@ to#TO
 stop#VB
 soon#RB
 .#.
+
 There#EX
 were#VBD
 gigantic#JJ
@@ -25860,11 +27321,13 @@ wires#NNS
 of#IN
 pain#NN
 .#.
+
 Brassnose#NNP
 was#VBD
 strangely#RB
 silent#JJ
 .#.
+
 The#DT
 big#JJ
 man#NN
@@ -25907,6 +27370,7 @@ University#NNP
 of#IN
 Chicago#NNP
 .#.
+
 He#PRP
 then#RB
 said#VBD
@@ -25919,6 +27383,7 @@ in#IN
 my#PRP$
 memory#NN
 .#.
+
 God#NNP
 help#VB
 us#PRP
@@ -25931,6 +27396,7 @@ island#NN
 of#IN
 Eromonga#NNP
 .#.
+
 We#PRP
 'd#MD
 be#VB
@@ -25939,6 +27405,7 @@ real#JJ
 trouble#NN
 then#RB
 .#.
+
 I#PRP
 'd#MD
 rather#RB
@@ -25949,6 +27416,7 @@ or#CC
 sink#VB
 ''#''
 .#.
+
 I#PRP
 was#VBD
 puzzled#VBN
@@ -25977,6 +27445,7 @@ on#IN
 primitive#JJ
 societies#NNS
 .#.
+
 He#PRP
 had#VBD
 been#VBN
@@ -26007,6 +27476,7 @@ a#DT
 wide#JJ
 berth#NN
 .#.
+
 The#DT
 place#NN
 is#VBZ
@@ -26040,6 +27510,7 @@ is#VBZ
 self-sufficient#JJ
 ''#''
 .#.
+
 I#PRP
 remembered#VBD
 ,#,
@@ -26066,6 +27537,7 @@ Dr.#NNP
 Griggs#NNP
 ?#.
 ?#.
+
 I#PRP
 'm#VBP
 sure#JJ
@@ -26081,6 +27553,7 @@ process#NN
 ''#''
 !#.
 !#.
+
 There#EX
 had#VBD
 been#VBN
@@ -26103,6 +27576,7 @@ point#NN
 ,#,
 Pauson#NNP
 .#.
+
 course#NN
 ,#,
 males#NNS
@@ -26127,6 +27601,7 @@ bit#NN
 on#IN
 Eromonga#NN
 .#.
+
 Indeed#RB
 ,#,
 you#PRP
@@ -26169,6 +27644,7 @@ but#CC
 ingenious#JJ
 methods#NNS
 .#.
+
 In#IN
 fact#NN
 ,#,
@@ -26186,6 +27662,7 @@ of#IN
 men#NNS
 ''#''
 .#.
+
 I#PRP
 think#VBP
 I#PRP
@@ -26200,6 +27677,7 @@ Brassnose#NNP
 I#PRP
 said#VBD
 .#.
+
 ``#``
 I#PRP
 know#VBP
@@ -26207,6 +27685,7 @@ something#NN
 about#IN
 Eromonga#NNPS
 .#.
+
 Let#VB
 's#PRP
 hope#VB
@@ -26218,10 +27697,12 @@ safer#JJR
 place#NN
 ''#''
 .#.
+
 we#PRP
 did#VBD
 n't#RB
 .#.
+
 Three#CD
 hours#NNS
 later#RB
@@ -26240,6 +27721,7 @@ came#VBD
 into#IN
 view#NN
 .#.
+
 Foster#NNP
 Lukuklu#NNP
 Frayne#NNP
@@ -26269,6 +27751,7 @@ propitiate#VB
 the#DT
 Devil#NN
 .#.
+
 A#DT
 half-hour#NN
 passed#VBN
@@ -26279,6 +27762,7 @@ had#VBD
 drifted#VBN
 closer#RB
 .#.
+
 In#IN
 a#DT
 voice#NN
@@ -26301,6 +27785,7 @@ quavered#VBD
 Tchalo#FW
 !#.
 !#.
+
 It#PRP
 is#VBZ
 Eromonga#NNP
@@ -26323,6 +27808,7 @@ the#DT
 cliff#NN
 ''#''
 .#.
+
 I#PRP
 squinted#VBD
 at#IN
@@ -26330,6 +27816,7 @@ the#DT
 looming#VBG
 shoreline#NN
 .#.
+
 There#EX
 was#VBD
 a#DT
@@ -26360,6 +27847,7 @@ constructed#VBN
 of#IN
 logs#NNS
 .#.
+
 A#DT
 fine#JJ
 example#NN
@@ -26370,6 +27858,7 @@ a#DT
 primitive#JJ
 society#NN
 .#.
+
 What#WP
 is#VBZ
 the#DT
@@ -26380,6 +27869,7 @@ Brassnose#NNP
 ''#''
 ?#.
 ?#.
+
 He#PRP
 made#VBD
 a#DT
@@ -26391,6 +27881,7 @@ in#IN
 his#PRP$
 throat#NN
 .#.
+
 It#PRP
 was#VBD
 embarrassing#VBG
@@ -26410,9 +27901,11 @@ talks#VBZ
 about#IN
 bogeymen#NNS
 .#.
+
 Aaa-ee#UH
 !#.
 !#.
+
 It#PRP
 is#VBZ
 their#PRP$
@@ -26426,6 +27919,7 @@ platform#NN
 of#IN
 death#NN
 .#.
+
 It#PRP
 is#VBZ
 the#DT
@@ -26452,6 +27946,7 @@ of#IN
 survival#NN
 there#RB
 .#.
+
 Often#NNP
 ,#,
 I#PRP
@@ -26474,6 +27969,7 @@ up#RB
 in#IN
 Rabaul#NNP
 .#.
+
 They#PRP
 had#VBD
 never#RB
@@ -26491,6 +27987,7 @@ their#PRP$
 fathers#NNS
 ''#''
 .#.
+
 Our#PRP$
 lifeboat#NN
 was#VBD
@@ -26537,6 +28034,7 @@ toward#IN
 our#PRP$
 craft#NN
 .#.
+
 I#PRP
 expected#VBD
 Brassnose#NNP
@@ -26558,6 +28056,7 @@ speak#VB
 to#TO
 them#PRP
 .#.
+
 But#CC
 he#PRP
 had#VBD
@@ -26571,6 +28070,7 @@ tongue-tied#JJ
 or#CC
 panicked#JJ
 .#.
+
 I#PRP
 mustered#VBD
 my#PRP$
@@ -26590,9 +28090,11 @@ you#PRP
 in#IN
 peace#NN
 .#.
+
 In#IN
 ngandlu#FW
 .#.
+
 My#PRP$
 friends#NNS
 and#CC
@@ -26607,6 +28109,7 @@ destroyed#VBN
 by#IN
 fire#NN
 .#.
+
 We#PRP
 are#VBP
 thirsty#JJ
@@ -26625,6 +28128,7 @@ need#VBP
 attention#NN
 ''#''
 .#.
+
 The#DT
 girl#NN
 in#IN
@@ -26642,6 +28146,7 @@ beacon#NN
 on#IN
 me#PRP
 .#.
+
 I#PRP
 noted#VBD
 that#IN
@@ -26665,6 +28170,7 @@ her#PRP$
 blue-black#JJ
 hair#NN
 .#.
+
 She#PRP
 said#VBD
 ,#,
@@ -26681,12 +28187,14 @@ Ponkob#NNP
 and#CC
 Piwen#NNP
 .#.
+
 You#PRP
 are#VBP
 welcome#JJ
 to#TO
 Eromonga#NNP
 .#.
+
 My#PRP$
 people#NNS
 await#VBP
@@ -26695,6 +28203,7 @@ on#IN
 the#DT
 shore#NN
 .#.
+
 You#PRP
 shall#MD
 have#VB
@@ -26705,6 +28214,7 @@ and#CC
 rest#NN
 ''#''
 .#.
+
 Thirty#CD
 minutes#NNS
 later#RB
@@ -26743,6 +28253,7 @@ a#DT
 large#JJ
 boulder#NN
 .#.
+
 I#PRP
 saw#VBD
 a#DT
@@ -26754,9 +28265,11 @@ outriggers#NNS
 moored#VBN
 there#RB
 .#.
+
 I#PRP
 looked#VBD
 .#.
+
 All#DT
 my#PRP$
 rosy#JJ
@@ -26774,6 +28287,7 @@ at#IN
 the#DT
 sight#NN
 .#.
+
 There#EX
 was#VBD
 a#DT
@@ -26793,6 +28307,7 @@ big#JJ
 wooden#JJ
 derrick#NN
 .#.
+
 Some#DT
 had#VBD
 been#VBN
@@ -26813,6 +28328,7 @@ sticking#VBG
 to#TO
 them#PRP
 .#.
+
 There#EX
 was#VBD
 one#CD
@@ -26823,6 +28339,7 @@ yet#CC
 fascinated#VBD
 me#PRP
 .#.
+
 This#DT
 was#VBD
 also#RB
@@ -26866,6 +28383,7 @@ the#DT
 rotting#VBG
 nose#NN
 .#.
+
 The#DT
 body#NN
 may#MD
@@ -26878,6 +28396,7 @@ weeks#NNS
 '#POS
 dead#NN
 .#.
+
 I#PRP
 looked#VBD
 with#IN
@@ -26886,10 +28405,12 @@ at#IN
 the#DT
 legs#NNS
 .#.
+
 They#PRP
 were#VBD
 shattered#VBN
 .#.
+
 Many#JJ
 small#JJ
 bones#NNS
@@ -26901,6 +28422,7 @@ shreds#NNS
 of#IN
 flesh#NN
 .#.
+
 The#DT
 man#NN
 must#MD
@@ -26917,6 +28439,7 @@ of#IN
 the#DT
 tultul#FW
 .#.
+
 my#PRP$
 thoughts#NNS
 ,#,
@@ -26954,6 +28477,7 @@ platform#NN
 ,#,
 aku#FW
 .#.
+
 Later#RB
 ,#,
 you#PRP
@@ -26962,12 +28486,14 @@ know#VB
 it#PRP
 better#RBR
 .#.
+
 Is#VBZ
 it#PRP
 not#RB
 well-made#JJ
 ?#.
 ?#.
+
 Our#PRP$
 old#JJ
 one#NN
@@ -26987,6 +28513,7 @@ fifteen#CD
 moons#NNS
 ago#RB
 .#.
+
 It#PRP
 took#VBD
 thirty#CD
@@ -27011,6 +28538,7 @@ the#DT
 old#JJ
 one#CD
 .#.
+
 We#PRP
 are#VBP
 very#RB
@@ -27019,6 +28547,7 @@ of#IN
 it#PRP
 ''#''
 .#.
+
 You#PRP
 have#VBP
 every#DT
@@ -27050,6 +28579,7 @@ strongest#JJS
 of#IN
 us#PRP
 .#.
+
 He#PRP
 looked#VBD
 as#IN
@@ -27061,6 +28591,7 @@ to#TO
 keel#VB
 over#RB
 .#.
+
 I#PRP
 felt#VBD
 a#DT
@@ -27083,12 +28614,14 @@ we#PRP
 were#VBD
 afraid#JJ
 .#.
+
 Not#RB
 so#RB
 soon#RB
 ,#,
 anyway#RB
 .#.
+
 I#PRP
 clapped#VBD
 the#DT
@@ -27123,6 +28656,7 @@ the#DT
 maku#FW
 Frayne#NNP
 .#.
+
 He#PRP
 speaks#VBZ
 your#PRP$
@@ -27149,6 +28683,7 @@ strong#JJ
 and#CC
 cunning#JJ
 .#.
+
 The#DT
 maku#FW
 Frayne#NNP
@@ -27161,6 +28696,7 @@ his#PRP$
 grandfather#NN
 ''#''
 .#.
+
 This#DT
 was#VBD
 the#DT
@@ -27171,6 +28707,7 @@ could#MD
 have#VB
 said#VBD
 .#.
+
 Brassnose#NNP
 turned#VBD
 a#DT
@@ -27195,6 +28732,7 @@ a#DT
 fool#NN
 !#.
 !#.
+
 They#PRP
 despise#VBP
 males#NNS
@@ -27214,6 +28752,7 @@ their#PRP$
 damned#JJ
 tests#NNS
 .#.
+
 You#PRP
 've#VBP
 ruined#VBN
@@ -27224,6 +28763,7 @@ you#PRP
 ''#''
 !#.
 !#.
+
 first#JJ
 ,#,
 I#PRP
@@ -27240,6 +28780,7 @@ wildly#RB
 like#IN
 this#DT
 .#.
+
 But#CC
 a#DT
 glance#NN
@@ -27256,6 +28797,7 @@ had#VBD
 blurted#VBN
 out#RB
 .#.
+
 The#DT
 women#NNS
 's#POS
@@ -27266,6 +28808,7 @@ after#IN
 my#PRP$
 statement#NN
 .#.
+
 At#IN
 a#DT
 nod#NN
@@ -27289,6 +28832,7 @@ by#IN
 the#DT
 arms#NNS
 .#.
+
 The#DT
 man#NN
 was#VBD
@@ -27320,6 +28864,7 @@ that#WDT
 ever#RB
 lived#VBD
 .#.
+
 terror#NN
 had#VBD
 sapped#VBN
@@ -27331,6 +28876,7 @@ vitality#NN
 and#CC
 will#NN
 .#.
+
 My#PRP$
 last#JJ
 impression#NN
@@ -27348,6 +28894,7 @@ his#PRP$
 pale#JJ
 face#NN
 .#.
+
 the#DT
 Manu#NNP
 tongue#NN
@@ -27380,6 +28927,7 @@ kava#FW
 were#VBD
 imbibed#VBN
 .#.
+
 In#IN
 the#DT
 hut#NN
@@ -27420,6 +28968,7 @@ in#IN
 rudimentary#JJ
 phrases#NNS
 .#.
+
 Her#PRP$
 name#NN
 was#VBD
@@ -27431,6 +28980,7 @@ me#PRP
 many#JJ
 things#NNS
 .#.
+
 For#IN
 an#DT
 anthropologist#NN
@@ -27444,6 +28994,7 @@ mine#NN
 of#IN
 information#NN
 .#.
+
 Though#NNP
 I#PRP
 had#VBD
@@ -27474,6 +29025,7 @@ about#IN
 its#PRP$
 women#NNS
 .#.
+
 (#(
 Her#PRP$
 account#NN
@@ -27492,6 +29044,7 @@ Manitoba#NNP
 in#IN
 1951#CD
 .#.
+
 )#)
 From#IN
 L'Turu#NNP
@@ -27540,6 +29093,7 @@ with#IN
 minor#JJ
 variations#NNS
 .#.
+
 the#DT
 middle#NN
 of#IN
@@ -27573,6 +29127,7 @@ men#NNS
 had#VBD
 fled#VBN
 .#.
+
 Miraculously#RB
 ,#,
 Karipo#NNP
@@ -27606,6 +29161,7 @@ on#IN
 both#DT
 sides#NNS
 .#.
+
 Karipo#NNP
 was#VBD
 something#NN
@@ -27618,6 +29174,7 @@ as#IN
 a#DT
 militarist#NN
 .#.
+
 She#PRP
 quickly#RB
 exploited#VBD
@@ -27642,6 +29199,7 @@ them#PRP
 to#TO
 death#NN
 .#.
+
 Within#IN
 a#DT
 decade#NN
@@ -27660,6 +29218,7 @@ had#VBD
 sprung#VBN
 up#RB
 .#.
+
 Karipo#NNP
 was#VBD
 great#JJ
@@ -27684,6 +29243,7 @@ crone#NN
 told#VBD
 me#PRP
 .#.
+
 ``#``
 All#DT
 men#NNS
@@ -27692,6 +29252,7 @@ away#RB
 from#IN
 here#RB
 .#.
+
 Those#DT
 who#WP
 stayed#VBD
@@ -27700,10 +29261,12 @@ to#TO
 pass#VB
 tests#NNS
 .#.
+
 Few#JJ
 passed#VBD
 ''#''
 .#.
+
 She#PRP
 cackled#VBD
 with#IN
@@ -27716,6 +29279,7 @@ of#IN
 betel-stained#JJ
 teeth#NNS
 .#.
+
 ``#``
 Karipo#NNP
 's#POS
@@ -27739,6 +29303,7 @@ could#MD
 stay#VB
 here#RB
 .#.
+
 Come#VB
 ,#,
 I#PRP
@@ -27746,6 +29311,7 @@ show#VBP
 you#PRP
 ''#''
 .#.
+
 The#DT
 old#JJ
 woman#NN
@@ -27763,6 +29329,7 @@ small#JJ
 hut#NN
 stood#VBD
 .#.
+
 In#IN
 the#DT
 shade#NN
@@ -27787,6 +29354,7 @@ on#IN
 the#DT
 ground#NN
 .#.
+
 I#PRP
 guess#VBP
 he#PRP
@@ -27803,6 +29371,7 @@ headed#VBD
 for#IN
 home#NN
 .#.
+
 Maybe#RB
 to#TO
 beat#VB
@@ -27812,6 +29381,7 @@ his#PRP$
 squaw#NN
 ''#''
 .#.
+
 Benson#NNP
 looked#VBD
 up#RB
@@ -27836,6 +29406,7 @@ the#DT
 overall#JJ
 bib#NN
 .#.
+
 Ramey#NNP
 reached#VBD
 out#RB
@@ -27858,6 +29429,7 @@ spare#JJ
 tire#NN
 rack#NN
 .#.
+
 I#PRP
 'd#MD
 like#VB
@@ -27880,6 +29452,7 @@ or#CC
 automobiles#NNS
 ''#''
 .#.
+
 Somehow#RB
 the#DT
 thought#NN
@@ -27902,6 +29475,7 @@ moved#VBD
 the#DT
 driver#NN
 .#.
+
 For#IN
 a#DT
 moment#NN
@@ -27914,6 +29488,7 @@ careless#JJ
 drivers#NNS
 softened#VBD
 .#.
+
 Maybe#RB
 the#DT
 Indian#NNP
@@ -27927,6 +29502,7 @@ fault#NN
 Ramey#NNP
 thought#VBD
 .#.
+
 Maybe#RB
 he#PRP
 was#VBD
@@ -27943,6 +29519,7 @@ any#DT
 of#IN
 us#PRP
 .#.
+
 Anyway#RB
 ,#,
 he#PRP
@@ -27960,6 +29537,7 @@ be#VB
 stared#VBN
 at#IN
 .#.
+
 yourself#PRP
 spread#VBD
 out#RB
@@ -27971,18 +29549,21 @@ Benny#NNP
 ''#''
 ?#.
 ?#.
+
 He#PRP
 said#VBD
 to#TO
 his#PRP$
 partner#NN
 .#.
+
 You#PRP
 mean#VBP
 dream#NN
 ''#''
 ?#.
 ?#.
+
 he#PRP
 calmly#RB
 and#CC
@@ -28021,6 +29602,7 @@ of#IN
 the#DT
 brute#NN
 .#.
+
 The#DT
 body#NN
 continued#VBD
@@ -28048,6 +29630,7 @@ of#IN
 the#DT
 bungalow#NN
 .#.
+
 He#PRP
 slammed#VBD
 the#DT
@@ -28068,6 +29651,7 @@ of#IN
 the#DT
 shots#NNS
 .#.
+
 He#PRP
 heard#VBD
 their#PRP$
@@ -28092,6 +29676,7 @@ with#IN
 wood#NN
 axes#NNS
 .#.
+
 It#PRP
 was#VBD
 only#RB
@@ -28104,6 +29689,7 @@ look#VB
 at#IN
 Penny#NNP
 .#.
+
 She#PRP
 was#VBD
 sitting#VBG
@@ -28127,6 +29713,7 @@ had#VBD
 found#VBN
 her#PRP
 .#.
+
 The#DT
 fear#NN
 had#VBD
@@ -28156,6 +29743,7 @@ of#IN
 her#PRP$
 mouth#NN
 .#.
+
 her#PRP$
 hands#NNS
 were#VBD
@@ -28163,6 +29751,7 @@ calm#JJ
 ,#,
 now#RB
 .#.
+
 She#PRP
 's#VBZ
 got#VBN
@@ -28171,6 +29760,7 @@ guts#NNS
 thought#VBD
 Keith#NNP
 .#.
+
 She#PRP
 's#VBZ
 got#VBD
@@ -28184,6 +29774,7 @@ in#IN
 the#DT
 world#NN
 .#.
+
 Keith#NNP
 ''#''
 ,#,
@@ -28197,6 +29788,7 @@ you#PRP
 were#VBD
 wonderful#JJ
 .#.
+
 I#PRP
 do#VBP
 n't#RB
@@ -28218,18 +29810,21 @@ but#CC
 I#PRP
 am#VBP
 .#.
+
 Thank#VB
 you#PRP
 ,#,
 Keith#NNP
 ''#''
 .#.
+
 He#PRP
 smiled#VBD
 at#IN
 her#PRP$
 sincerity#NN
 .#.
+
 And#CC
 for#IN
 the#DT
@@ -28245,8 +29840,10 @@ at#IN
 her#PRP$
 beauty#NN
 .#.
+
 Strange#JJ
 .#.
+
 Seven#CD
 years#NNS
 they#PRP
@@ -28254,6 +29851,7 @@ they#PRP
 been#VBN
 married#VBN
 .#.
+
 He#PRP
 knew#VBD
 her#PRP$
@@ -28295,6 +29893,7 @@ even#RB
 in#IN
 part#NN
 .#.
+
 But#CC
 her#PRP$
 beauty#NN
@@ -28303,6 +29902,7 @@ surprised#VBD
 him#PRP
 anew#RB
 .#.
+
 I#PRP
 realize#VBP
 that#IN
@@ -28321,6 +29921,7 @@ Penny#NNP
 said#VBD
 Keith#NNP
 .#.
+
 ``#``
 But#CC
 knowing#VBG
@@ -28353,6 +29954,7 @@ I#PRP
 had#VBD
 to#TO
 .#.
+
 Is#VBZ
 n't#RB
 that#DT
@@ -28360,11 +29962,13 @@ so#RB
 ''#''
 ?#.
 ?#.
+
 Penny#NNP
 lowered#VBD
 her#PRP$
 eyes#NNS
 .#.
+
 she#PRP
 said#VBD
 ,#,
@@ -28380,6 +29984,7 @@ to#TO
 a#DT
 crime#NN
 .#.
+
 The#DT
 snake#NN
 was#VBD
@@ -28391,6 +29996,7 @@ it#PRP
 ''#''
 ?#.
 ?#.
+
 Asked#VBD
 Keith#NNP
 ,#,
@@ -28412,6 +30018,7 @@ his#PRP$
 growing#VBG
 anger#NN
 .#.
+
 ``#``
 It#PRP
 was#VBD
@@ -28442,17 +30049,20 @@ n't#RB
 it#PRP
 ?#.
 ?#.
+
 did#VBD
 n't#RB
 it#PRP
 ?#.
 ?#.
+
 ''#''
 Penny#NNP
 did#VBD
 not#RB
 answer#NN
 .#.
+
 Now#RB
 ,#,
 she#PRP
@@ -28471,6 +30081,7 @@ concern#NN
 for#IN
 him#PRP
 .#.
+
 We#PRP
 're#VBP
 all#DT
@@ -28484,11 +30095,13 @@ we#PRP
 ''#''
 ?#.
 ?#.
+
 Keith#NNP
 was#VBD
 snarling#VBG
 now#RB
 .#.
+
 ``#``
 All#DT
 of#IN
@@ -28505,6 +30118,7 @@ in#IN
 that#DT
 jungle#NN
 .#.
+
 You#PRP
 love#VBP
 this#DT
@@ -28523,6 +30137,7 @@ creatures#NNS
 ,#,
 too#RB
 .#.
+
 And#CC
 you#PRP
 love#VBP
@@ -28546,6 +30161,7 @@ a#DT
 beautiful#JJ
 man#NN
 .#.
+
 And#CC
 he#PRP
 loves#VBZ
@@ -28557,6 +30173,7 @@ a#DT
 beautiful#JJ
 woman#NN
 .#.
+
 We#PRP
 're#VBP
 all#DT
@@ -28571,6 +30188,7 @@ we#PRP
 Penny#NNP
 ?#.
 ?#.
+
 All#DT
 of#IN
 us#PRP
@@ -28581,6 +30199,7 @@ is#VBZ
 except#IN
 me#PRP
 .#.
+
 You#PRP
 hate#VBP
 me#PRP
@@ -28596,6 +30215,7 @@ like#VBP
 to#TO
 hunt#VB
 .#.
+
 You#PRP
 actually#RB
 hate#VBP
@@ -28614,6 +30234,7 @@ that#DT
 filthy#JJ
 snake#NN
 .#.
+
 Well#RB
 ,#,
 why#WRB
@@ -28625,6 +30246,7 @@ something#NN
 ''#''
 ?#.
 ?#.
+
 Penny#NNP
 would#MD
 not#RB
@@ -28633,6 +30255,7 @@ to#TO
 his#PRP$
 mood#NN
 .#.
+
 There#EX
 is#VBZ
 n't#RB
@@ -28648,6 +30271,7 @@ Keith#NNP
 ''#''
 ?#.
 ?#.
+
 She#PRP
 softly#RB
 let#VBD
@@ -28680,6 +30304,7 @@ and#CC
 the#DT
 invader#NN
 .#.
+
 He#PRP
 knew#VBD
 she#PRP
@@ -28693,6 +30318,7 @@ angry#JJ
 at#IN
 him#PRP
 .#.
+
 Just#RB
 as#IN
 he#PRP
@@ -28704,6 +30330,7 @@ stopped#VBN
 loving#VBG
 him#PRP
 .#.
+
 The#DT
 Brahmaputra#NNP
 has#VBZ
@@ -28736,6 +30363,7 @@ on#IN
 the#DT
 planet#NN
 .#.
+
 For#IN
 a#DT
 brief#JJ
@@ -28880,6 +30508,7 @@ Bay#NNP
 of#IN
 Bengal#NNP
 .#.
+
 Keith#NNP
 Sterling#NNP
 had#VBD
@@ -28925,6 +30554,7 @@ through#IN
 outer#JJ
 space#NN
 .#.
+
 But#CC
 Keith#NNP
 looked#VBD
@@ -28933,6 +30563,7 @@ more#RBR
 than#IN
 up#RB
 .#.
+
 He#PRP
 thought#VBD
 of#IN
@@ -28987,6 +30618,7 @@ animals#NNS
 the#DT
 lords#NNS
 .#.
+
 first#JJ
 it#PRP
 had#VBD
@@ -29010,6 +30642,7 @@ after#IN
 the#DT
 war#NN
 .#.
+
 But#CC
 ``#``
 after#IN
@@ -29028,6 +30661,7 @@ not#RB
 permit#VB
 himself#PRP
 .#.
+
 Wing#NNP
 Commanders#NNPS
 in#IN
@@ -29056,6 +30690,7 @@ or#CC
 to#TO
 themselves#PRP
 .#.
+
 Keith#NNP
 's#POS
 record#NN
@@ -29078,6 +30713,7 @@ might#MD
 even#RB
 survive#VB
 .#.
+
 He#PRP
 became#VBD
 a#DT
@@ -29094,6 +30730,7 @@ the#DT
 big#JJ
 crates#NNS
 .#.
+
 The#DT
 RAF#NNP
 was#VBD
@@ -29124,6 +30761,7 @@ in#IN
 the#DT
 war#NN
 .#.
+
 He#PRP
 knew#VBD
 how#WRB
@@ -29132,6 +30770,7 @@ shoot#VB
 down#RP
 Nazis#NNPS
 .#.
+
 And#CC
 he#PRP
 knew#VBD
@@ -29175,6 +30814,7 @@ incapable#JJ
 of#IN
 fear#NN
 .#.
+
 That#DT
 was#VBD
 true#JJ
@@ -29185,6 +30825,7 @@ half#NN
 the#DT
 truth#NN
 .#.
+
 The#DT
 other#JJ
 half#NN
@@ -29199,11 +30840,13 @@ even#RB
 to#TO
 himself#PRP
 .#.
+
 He#PRP
 enjoyed#VBD
 the#DT
 killing#NN
 .#.
+
 Not#RB
 defending#VBG
 England#NNP
@@ -29218,10 +30861,12 @@ fighting#VBG
 for#IN
 humanity#NN
 .#.
+
 He#PRP
 enjoyed#VBD
 killing#VBG
 .#.
+
 And#CC
 he#PRP
 would#MD
@@ -29238,6 +30883,7 @@ been#VBN
 a#DT
 Nazi#NNP
 .#.
+
 we#PRP
 talk#VBP
 as#IN
@@ -29250,6 +30896,7 @@ a#DT
 short#JJ
 skirmish#NN
 .#.
+
 The#DT
 Nazis#NNPS
 bombed#VBD
@@ -29265,9 +30912,11 @@ them#PRP
 all#DT
 down#RP
 .#.
+
 Not#RB
 quite#RB
 .#.
+
 It#PRP
 was#VBD
 a#DT
@@ -29313,6 +30962,7 @@ and#CC
 technically#RB
 superior#JJ
 .#.
+
 It#PRP
 took#VBD
 a#DT
@@ -29325,6 +30975,7 @@ tipped#VBD
 the#DT
 balance#NN
 .#.
+
 Keith#NNP
 learned#VBD
 too#RB
@@ -29341,6 +30992,7 @@ to#TO
 be#VB
 risked#VBN
 .#.
+
 They#PRP
 grounded#VBD
 him#PRP
@@ -29367,6 +31019,7 @@ the#DT
 Command#NNP
 offices#NNS
 .#.
+
 That#DT
 was#VBD
 where#WRB
@@ -29374,6 +31027,7 @@ he#PRP
 met#VBD
 Penny#NNP
 .#.
+
 He#PRP
 was#VBD
 aware#JJ
@@ -29418,6 +31072,7 @@ that#DT
 was#VBD
 all#DT
 .#.
+
 Penny#NNP
 knew#VBD
 him#PRP
@@ -29427,6 +31082,7 @@ on#IN
 her#PRP$
 part#NN
 .#.
+
 He#PRP
 had#VBD
 a#DT
@@ -29446,6 +31102,7 @@ even#RB
 without#IN
 medals#NNS
 .#.
+
 They#PRP
 do#VBP
 n't#RB
@@ -29458,6 +31115,7 @@ as#IN
 a#DT
 rule#NN
 .#.
+
 He#PRP
 had#VBD
 strength#NN
@@ -29477,6 +31135,7 @@ in#IN
 a#DT
 rapier#NN
 .#.
+
 He#PRP
 was#VBD
 on#IN
@@ -29503,6 +31162,7 @@ forearm#NN
 and#CC
 bicep#NN
 .#.
+
 His#PRP$
 hair#NN
 was#VBD
@@ -29526,6 +31186,7 @@ to#TO
 a#DT
 man#NN
 .#.
+
 The#DT
 pretty#RB
 little#JJ
@@ -29556,11 +31217,13 @@ case#NN
 it#PRP
 applied#VBD
 .#.
+
 Keith#NNP
 was#VBD
 an#DT
 eagle#NN
 .#.
+
 Penny#NNP
 and#CC
 Keith#NNP
@@ -29568,11 +31231,13 @@ had#VBD
 no#DT
 romance#NN
 .#.
+
 No#DT
 dates#NNS
 or#CC
 hand-holding#NN
 .#.
+
 they#PRP
 met#VBD
 in#IN
@@ -29587,6 +31252,7 @@ one#CD
 another#DT
 instantly#RB
 .#.
+
 The#DT
 Command#NNP
 offices#NNS
@@ -29618,6 +31284,7 @@ harry#VB
 the#DT
 enemy#NN
 .#.
+
 The#DT
 Nazis#NNPS
 knew#VBD
@@ -29653,6 +31320,7 @@ a#DT
 lucky#JJ
 hit#NN
 .#.
+
 This#DT
 time#NN
 ,#,
@@ -29661,6 +31329,7 @@ had#VBD
 been#VBN
 lucky#JJ
 .#.
+
 The#DT
 Command#NNP
 post#NN
@@ -29671,6 +31340,7 @@ and#CC
 well#RB
 camouflaged#VBN
 .#.
+
 But#CC
 there#EX
 had#VBD
@@ -29684,6 +31354,7 @@ it#PRP
 for#IN
 keeps#NNS
 .#.
+
 There#EX
 was#VBD
 a#DT
@@ -29727,6 +31398,7 @@ hit#NN
 comes#VBZ
 along#RB
 .#.
+
 This#DT
 one#NN
 was#VBD
@@ -29739,6 +31411,7 @@ near#JJ
 miss#NN
 ''#''
 .#.
+
 The#DT
 bomb#NN
 plunged#VBD
@@ -29758,6 +31431,7 @@ Command#NN
 room#NN
 itself#PRP
 .#.
+
 There#EX
 was#VBD
 a#DT
@@ -29803,6 +31477,7 @@ turtlebacks#NNS
 as#IN
 ordered#VBN
 .#.
+
 That#DT
 is#VBZ
 ,#,
@@ -29812,6 +31487,7 @@ Keith#NNP
 and#CC
 Penny#NNP
 .#.
+
 They#PRP
 stood#VBD
 there#RB
@@ -29829,6 +31505,7 @@ rocking#JJ
 shattering#JJ
 blast#NN
 .#.
+
 Keith#NNP
 was#VBD
 on#IN
@@ -29859,6 +31536,7 @@ cared#VBD
 too#RB
 much#RB
 .#.
+
 The#DT
 bomb#NN
 was#VBD
@@ -29866,6 +31544,7 @@ a#DT
 solitary#JJ
 one#NN
 .#.
+
 The#DT
 blast#NN
 damaged#VBD
@@ -29877,6 +31556,7 @@ destroy#VB
 the#DT
 room#NN
 .#.
+
 Keith#NNP
 's#POS
 eyes#NNS
@@ -29894,6 +31574,7 @@ marriage#NN
 of#IN
 destruction#NN
 .#.
+
 And#CC
 ,#,
 as#IN
@@ -29933,6 +31614,7 @@ hand#NN
 in#IN
 his#PRP$
 .#.
+
 The#DT
 chaplain#NN
 married#VBD
@@ -29943,6 +31625,7 @@ the#DT
 next#JJ
 day#NN
 .#.
+
 the#DT
 war#NN
 ,#,
@@ -29959,6 +31642,7 @@ home#NN
 with#IN
 her#PRP
 .#.
+
 She#PRP
 came#VBD
 from#IN
@@ -29986,6 +31670,7 @@ to#TO
 farmer-type#JJ
 farmers#NNS
 .#.
+
 But#CC
 to#TO
 Keith#NNP
@@ -29999,6 +31684,7 @@ sounded#VBD
 rather#RB
 invincible#JJ
 .#.
+
 It#PRP
 was#VBD
 n't#RB
@@ -30015,6 +31701,7 @@ go#VB
 to#TO
 America#NNP
 .#.
+
 Keith#NNP
 told#VBD
 Penny#NNP
@@ -30028,6 +31715,7 @@ India#NNP
 and#CC
 Burma#NNP
 .#.
+
 He#PRP
 stressed#VBD
 the#DT
@@ -30041,6 +31729,7 @@ and#CC
 the#DT
 jungles#NNS
 .#.
+
 He#PRP
 did#VBD
 n't#RB
@@ -30055,12 +31744,14 @@ admitted#VBD
 to#TO
 himself#PRP
 .#.
+
 He#PRP
 could#MD
 n't#RB
 stop#VB
 killing#VBG
 .#.
+
 That#DT
 was#VBD
 his#PRP$
@@ -30070,6 +31761,7 @@ love#NN
 not#RB
 Penny#NNP
 .#.
+
 The#DT
 terrible#JJ
 power#NN
@@ -30101,6 +31793,7 @@ wanted#VBD
 to#TO
 lose#VB
 .#.
+
 And#CC
 in#IN
 the#DT
@@ -30117,6 +31810,7 @@ a#DT
 noble#JJ
 thing#NN
 .#.
+
 they#PRP
 got#VBD
 to#TO
@@ -30129,6 +31823,7 @@ he#PRP
 was#VBD
 happy#JJ
 .#.
+
 This#DT
 is#VBZ
 a#DT
@@ -30136,6 +31831,7 @@ paradise#NN
 for#IN
 hunters#NNS
 .#.
+
 This#DT
 was#VBD
 the#DT
@@ -30156,11 +31852,13 @@ across#IN
 the#DT
 spread#NN
 .#.
+
 The#DT
 great#JJ
 black#JJ
 leopards#NNS
 .#.
+
 The#DT
 sambur#NN
 buck#NN
@@ -30178,6 +31876,7 @@ the#DT
 Scottish#JJ
 elk#NN
 .#.
+
 He#PRP
 even#RB
 hunted#VBD
@@ -30197,6 +31896,7 @@ his#PRP$
 African#NNP
 cousin#NN
 .#.
+
 But#CC
 there#EX
 are#VBP
@@ -30206,6 +31906,7 @@ in#IN
 both#DT
 countries#NNS
 .#.
+
 These#DT
 were#VBD
 the#DT
@@ -30230,6 +31931,7 @@ it#PRP
 like#IN
 himself#PRP
 .#.
+
 He#PRP
 and#CC
 Penny#NNP
@@ -30247,6 +31949,7 @@ in#IN
 the#DT
 keddah#FW
 .#.
+
 And#CC
 while#IN
 he#PRP
@@ -30271,6 +31974,7 @@ they#PRP
 were#VBD
 traversing#VBG
 .#.
+
 They#PRP
 came#VBD
 upon#IN
@@ -30280,6 +31984,7 @@ at#IN
 woodland#JJ
 pools#NNS
 .#.
+
 Peacocks#NNS
 strutted#VBD
 across#IN
@@ -30288,6 +31993,7 @@ path#NN
 ,#,
 preening#VBG
 .#.
+
 There#EX
 were#VBD
 fantastic#JJ
@@ -30301,6 +32007,7 @@ birds#NNS
 without#IN
 song#NN
 .#.
+
 Mouse#NN
 deer#NNS
 played#VBD
@@ -30321,6 +32028,7 @@ thrashed#VBD
 too#RB
 close#RB
 .#.
+
 Wild#JJ
 boar#NNS
 watched#VBD
@@ -30348,6 +32056,7 @@ shot#NN
 from#IN
 the#DT
 .#.
+
 the#DT
 next#JJ
 morning#NN
@@ -30424,6 +32133,7 @@ on#IN
 the#DT
 surface#NN
 .#.
+
 He#PRP
 and#CC
 his#PRP$
@@ -30441,6 +32151,7 @@ boarding#NN
 ladder#NN
 together#RB
 .#.
+
 The#DT
 German#NNP
 courteously#RB
@@ -30451,6 +32162,7 @@ should#MD
 mount#VB
 first#RB
 .#.
+
 Robinson#NNP
 clambered#VBD
 heavily#RB
@@ -30468,10 +32180,12 @@ his#PRP$
 triple-tank#JJ
 assembly#NN
 .#.
+
 He#PRP
 was#VBD
 frowning#VBG
 .#.
+
 He#PRP
 took#VBD
 his#PRP$
@@ -30489,6 +32203,7 @@ across#IN
 the#DT
 deck#NN
 .#.
+
 Temper#NN
 ,#,
 temper#NN
@@ -30501,6 +32216,7 @@ said#VBD
 laughing#VBG
 uneasily#RB
 .#.
+
 A#DT
 phony#JJ
 blonde#NN
@@ -30554,6 +32270,7 @@ in#IN
 his#PRP$
 voice#NN
 .#.
+
 ``#``
 All#DT
 I#PRP
@@ -30570,6 +32287,7 @@ go#VB
 on#RB
 down#RB
 .#.
+
 So#RB
 instead#RB
 I#PRP
@@ -30577,16 +32295,19 @@ come#VBP
 up#RB
 ''#''
 .#.
+
 it#PRP
 my#PRP$
 equipment#NN
 ''#''
 ?#.
 ?#.
+
 The#DT
 German#NNP
 asked#VBD
 .#.
+
 ``#``
 Was#VBD
 it#PRP
@@ -30599,6 +32320,7 @@ breathing#NN
 ''#''
 ?#.
 ?#.
+
 The#DT
 equipment#NN
 was#VBD
@@ -30611,6 +32333,7 @@ stated#VBD
 standing#VBG
 up#RB
 .#.
+
 He#PRP
 was#VBD
 a#DT
@@ -30643,6 +32366,7 @@ his#PRP$
 present#JJ
 agitation#NN
 .#.
+
 He#PRP
 stared#VBD
 stonily#RB
@@ -30650,6 +32374,7 @@ at#IN
 the#DT
 floor#NN
 .#.
+
 ``#``
 I#PRP
 was#VBD
@@ -30657,6 +32382,7 @@ down#IN
 to#TO
 275#CD
 .#.
+
 I#PRP
 've#VBP
 been#VBN
@@ -30667,6 +32393,7 @@ a#DT
 dozen#NN
 times#NNS
 .#.
+
 I#PRP
 do#VBP
 n't#RB
@@ -30684,6 +32411,7 @@ stupid#JJ
 trick#NN
 ''#''
 .#.
+
 I#PRP
 get#VBP
 it#PRP
@@ -30697,6 +32425,7 @@ on#IN
 the#DT
 ladder#NN
 .#.
+
 ``#``
 You#PRP
 are#VBP
@@ -30714,6 +32443,7 @@ setting#VBG
 a#DT
 record#NN
 .#.
+
 And#CC
 you#PRP
 also#RB
@@ -30735,12 +32465,14 @@ you#PRP
 drown#VBP
 yourself#PRP
 .#.
+
 So#CC
 you#PRP
 turn#VBP
 around#RB
 ''#''
 .#.
+
 it#PRP
 was#VBD
 n't#RB
@@ -30750,6 +32482,7 @@ that#DT
 Rob#NNP
 said#VBD
 .#.
+
 A#DT
 note#NN
 of#IN
@@ -30759,6 +32492,7 @@ into#IN
 his#PRP$
 voice#NN
 .#.
+
 ``#``
 When#WRB
 I#PRP
@@ -30774,6 +32508,7 @@ was#VBD
 going#VBG
 down#RB
 .#.
+
 I#PRP
 came#VBD
 up#RB
@@ -30788,6 +32523,7 @@ was#VBD
 happening#VBG
 ''#''
 .#.
+
 Pressure-happy#JJ
 ''#''
 ,#,
@@ -30798,6 +32534,7 @@ and#CC
 climbed#VBD
 in#RB
 .#.
+
 That#DT
 's#VBZ
 right#JJ
@@ -30806,6 +32543,7 @@ right#JJ
 Robinson#NNP
 said#VBD
 .#.
+
 ``#``
 I#PRP
 was#VBD
@@ -30814,6 +32552,7 @@ it#PRP
 ,#,
 sure#UH
 .#.
+
 But#CC
 when#WRB
 it#PRP
@@ -30847,6 +32586,7 @@ makes#VBZ
 you#PRP
 think#VB
 .#.
+
 You#PRP
 do#VBP
 n't#RB
@@ -30855,16 +32595,19 @@ back#RB
 down#RB
 again#RB
 .#.
+
 Not#RB
 me#PRP
 ,#,
 anyway#RB
 .#.
+
 Not#RB
 right#RB
 away#RB
 ''#''
 .#.
+
 He#PRP
 had#VBD
 his#PRP$
@@ -30889,6 +32632,7 @@ happened#VBN
 to#TO
 him#PRP
 .#.
+
 Waddell#NNP
 ,#,
 the#DT
@@ -30918,6 +32662,7 @@ padded#VBN
 with#IN
 fat#NN
 .#.
+
 Now#RB
 he#PRP
 was#VBD
@@ -30929,6 +32674,7 @@ much#JJ
 he#PRP
 knew#VBD
 .#.
+
 ``#``
 Our#PRP$
 boy#NN
@@ -30940,6 +32686,7 @@ out#RB
 no#UH
 sir#UH
 .#.
+
 He#PRP
 ran#VBD
 into#IN
@@ -30949,9 +32696,11 @@ of#IN
 the#DT
 depths#NNS
 .#.
+
 Nitrogen#NN
 narcosis#NN
 .#.
+
 It#PRP
 makes#VBZ
 the#DT
@@ -30960,6 +32709,7 @@ feel#VB
 drunk#JJ
 ''#''
 .#.
+
 that#DT
 's#VBZ
 the#DT
@@ -30979,6 +32729,7 @@ her#PRP
 brassy#JJ
 laugh#NN
 .#.
+
 you#PRP
 're#VBP
 200#CD
@@ -30990,10 +32741,12 @@ water#NN
 Artie#NNP
 said#VBD
 .#.
+
 Waddell#NNP
 went#VBD
 on#RB
 .#.
+
 ``#``
 It#PRP
 's#VBZ
@@ -31002,11 +32755,13 @@ to#TO
 fool#VB
 with#IN
 .#.
+
 It#PRP
 can#MD
 kill#VB
 you#PRP
 .#.
+
 Personally#RB
 ,#,
 I#PRP
@@ -31029,6 +32784,7 @@ the#DT
 story#NN
 ''#''
 .#.
+
 Nobody#NN
 's#VBZ
 giving#VBG
@@ -31039,6 +32795,7 @@ up#RP
 Robinson#NNP
 said#VBD
 .#.
+
 He#PRP
 stood#VBD
 there#EX
@@ -31070,6 +32827,7 @@ child#NN
 among#IN
 adults#NNS
 .#.
+
 ``#``
 You#PRP
 think#VBP
@@ -31093,6 +32851,7 @@ boat#NN
 ride#NN
 ?#.
 ?#.
+
 I#PRP
 'm#VBP
 going#VBG
@@ -31100,6 +32859,7 @@ down#RB
 again#RB
 ''#''
 .#.
+
 That#DT
 's#VBZ
 my#PRP$
@@ -31107,10 +32867,12 @@ boy#NN
 ''#''
 !#.
 !#.
+
 Mr.#NNP
 Forsythe#NNP
 exclaimed#VBD
 .#.
+
 ``#``
 Rob#NNP
 's#VBZ
@@ -31126,6 +32888,7 @@ all#PDT
 that#DT
 ''#''
 .#.
+
 He#PRP
 was#VBD
 a#DT
@@ -31151,6 +32914,7 @@ and#CC
 white#JJ
 flannels#NNS
 .#.
+
 He#PRP
 went#VBD
 to#TO
@@ -31184,6 +32948,7 @@ used#VBN
 without#IN
 irony#NN
 .#.
+
 Old#JJ
 Commodore#NNP
 Forsythe#NNP
@@ -31217,6 +32982,7 @@ something#NN
 else#RB
 first#RB
 .#.
+
 Now#RB
 it#PRP
 did#VBD
@@ -31257,6 +33023,7 @@ of#IN
 his#PRP$
 pride#NN
 .#.
+
 he#PRP
 went#VBD
 on#RB
@@ -31284,6 +33051,7 @@ twice#RB
 about#IN
 it#PRP
 .#.
+
 I#PRP
 've#VBP
 helped#VBN
@@ -31303,6 +33071,7 @@ brother#NN
 tackle#NN
 shop#NN
 .#.
+
 Hell#UH
 ,#,
 I#PRP
@@ -31331,6 +33100,7 @@ Rob#NNP
 ''#''
 ?#.
 ?#.
+
 Seven#CD
 years#NNS
 ago#RB
@@ -31342,6 +33112,7 @@ Rob#NNP
 said#VBD
 impassively#RB
 .#.
+
 He#PRP
 was#VBD
 thinking#VBG
@@ -31367,6 +33138,7 @@ when#WRB
 I#PRP
 started#VBD
 .#.
+
 ``#``
 Excuse#VB
 me#PRP
@@ -31376,6 +33148,7 @@ he#PRP
 said#VBD
 abruptly#RB
 .#.
+
 He#PRP
 went#VBD
 down#IN
@@ -31401,6 +33174,7 @@ door#NN
 behind#IN
 him#PRP
 .#.
+
 you#PRP
 got#VBP
 ta#TO
@@ -31416,6 +33190,7 @@ Mrs.#NNP
 Forsythe#NNP
 said#VBD
 .#.
+
 Waddell#NNP
 muttered#VBD
 something#NN
@@ -31432,6 +33207,7 @@ the#DT
 flying#NN
 bridge#NN
 .#.
+
 He#PRP
 was#VBD
 disturbed#VBN
@@ -31478,6 +33254,7 @@ in#IN
 the#DT
 galley#NN
 .#.
+
 there#EX
 ,#,
 Schaffner#NNP
@@ -31487,6 +33264,7 @@ he#PRP
 had#VBD
 said#VBD
 .#.
+
 ``#``
 Can#MD
 I#PRP
@@ -31496,6 +33274,7 @@ one#NN
 ''#''
 ?#.
 ?#.
+
 you#PRP
 very#RB
 much#RB
@@ -31509,6 +33288,7 @@ his#PRP$
 accented#JJ
 English#NNP
 .#.
+
 ``#``
 I#PRP
 do#VBP
@@ -31521,6 +33301,7 @@ thank#VB
 you#PRP
 ''#''
 .#.
+
 Waddell#NNP
 had#VBD
 looked#VBN
@@ -31534,6 +33315,7 @@ size#NN
 him#PRP
 up#RP
 .#.
+
 He#PRP
 was#VBD
 in#IN
@@ -31567,6 +33349,7 @@ to#TO
 American#JJ
 ways#NNS
 .#.
+
 His#PRP$
 open#JJ
 face#NN
@@ -31596,6 +33379,7 @@ only#RB
 alert#JJ
 intelligence#NN
 .#.
+
 Waddell#NNP
 had#VBD
 heard#VBN
@@ -31632,6 +33416,7 @@ a#DT
 dark#JJ
 night#NN
 .#.
+
 Aloud#RB
 he#PRP
 had#VBD
@@ -31655,11 +33440,13 @@ the#DT
 dive#NN
 ''#''
 .#.
+
 Herr#NNP
 Schaffner#NNP
 had#VBD
 said#VBN
 .#.
+
 He#PRP
 's#VBZ
 one#CD
@@ -31669,18 +33456,21 @@ a#DT
 decent#JJ
 boy#NN
 .#.
+
 I#PRP
 like#VBP
 that#DT
 kid#NN
 ''#''
 .#.
+
 I#PRP
 agree#VBP
 ,#,
 yes#UH
 ''#''
 .#.
+
 the#DT
 dive#NN
 goes#VBZ
@@ -31704,24 +33494,29 @@ right#RB
 ''#''
 ?#.
 ?#.
+
 Herr#NNP
 Schaffner#NNP
 said#VBD
 .#.
+
 Waddell#NNP
 turned#VBD
 to#TO
 face#VB
 him#PRP
 .#.
+
 ``#``
 No#UH
 ''#''
 ?#.
 ?#.
+
 He#PRP
 asked#VBD
 .#.
+
 ``#``
 But#CC
 that#DT
@@ -31731,6 +33526,7 @@ he#PRP
 told#VBD
 me#PRP
 .#.
+
 Why#WRB
 ,#,
 that#IN
@@ -31744,6 +33540,7 @@ the#DT
 dive#NN
 ''#''
 .#.
+
 Shaffner#NN
 looked#VBD
 at#IN
@@ -31768,6 +33565,7 @@ his#PRP$
 two#CD
 hands#NNS
 .#.
+
 What#WP
 do#VBP
 you#PRP
@@ -31775,11 +33573,13 @@ mean#VB
 ''#''
 ?#.
 ?#.
+
 Waddell#NNP
 asked#VBD
 ,#,
 frowning#VBG
 .#.
+
 me#PRP
 explain#VB
 ''#''
@@ -31796,6 +33596,7 @@ devoid#JJ
 of#IN
 deceit#NN
 .#.
+
 ``#``
 I#PRP
 have#VBP
@@ -31811,6 +33612,7 @@ dollars#NNS
 the#DT
 year#NN
 .#.
+
 Now#RB
 I#PRP
 wish#VBP
@@ -31827,6 +33629,7 @@ is#VBZ
 very#RB
 strong#JJ
 .#.
+
 I#PRP
 must#MD
 have#VB
@@ -31852,6 +33655,7 @@ advertise#VB
 my#PRP$
 products#NNS
 .#.
+
 With#IN
 all#DT
 respect#NN
@@ -31872,6 +33676,7 @@ these#DT
 necessaries#NNS
 ''#''
 .#.
+
 Waddell#NNP
 was#VBD
 not#RB
@@ -31891,6 +33696,7 @@ had#VBD
 just#RB
 heard#VBN
 .#.
+
 ``#``
 Did#VBD
 you#PRP
@@ -31901,9 +33707,11 @@ this#DT
 ''#''
 ?#.
 ?#.
+
 He#PRP
 asked#VBD
 .#.
+
 so#RB
 many#JJ
 words#NNS
@@ -31913,6 +33721,7 @@ the#DT
 German#NNP
 said#VBD
 .#.
+
 ``#``
 But#CC
 surely#RB
@@ -31922,6 +33731,7 @@ misunderstood#VBN
 Mr.#NNP
 Roy#NNP
 .#.
+
 Never#RB
 ,#,
 never#RB
@@ -31933,6 +33743,7 @@ the#DT
 exclusive#JJ
 rights#NNS
 .#.
+
 We#PRP
 spoke#VBD
 of#IN
@@ -31955,6 +33766,7 @@ useful#JJ
 for#IN
 publicity#NN
 .#.
+
 He#PRP
 was#VBD
 most#RBS
@@ -31972,6 +33784,7 @@ I#PRP
 was#VBD
 willing#JJ
 .#.
+
 But#CC
 there#EX
 was#VBD
@@ -31983,9 +33796,11 @@ business#NN
 arrangements#NNS
 ''#''
 .#.
+
 Waddell#NNP
 said#VBD
 .#.
+
 There#EX
 was#VBD
 the#DT
@@ -31999,21 +33814,25 @@ story#NN
 with#IN
 byline#NN
 .#.
+
 He#PRP
 started#VBD
 out#IN
 the#DT
 door#NN
 .#.
+
 One#CD
 moment#NN
 ''#''
 !#.
 !#.
+
 Herr#NNP
 Schaffner#NNP
 said#VBD
 .#.
+
 ``#``
 You#PRP
 intend#VBP
@@ -32025,14 +33844,17 @@ Roy#NNP
 ''#''
 ?#.
 ?#.
+
 What#WP
 else#RB
 ''#''
 ?#.
 ?#.
+
 Waddell#NNP
 asked#VBD
 .#.
+
 you#PRP
 will#MD
 pardon#VB
@@ -32046,6 +33868,7 @@ better#JJR
 if#IN
 not#RB
 .#.
+
 Mr.#NNP
 Roy#NNP
 is#VBZ
@@ -32055,6 +33878,7 @@ make#VB
 this#DT
 dive#NN
 .#.
+
 Whatever#WDT
 you#PRP
 tell#VBP
@@ -32063,6 +33887,7 @@ he#PRP
 will#MD
 dive#VB
 .#.
+
 I#PRP
 know#VBP
 this#DT
@@ -32073,6 +33898,7 @@ with#IN
 him#PRP
 ''#''
 .#.
+
 's#PRP
 let#VB
 him#PRP
@@ -32086,9 +33912,11 @@ OK#UH
 ''#''
 ?#.
 ?#.
+
 Waddell#NNP
 said#VBD
 .#.
+
 ``#``
 On#IN
 the#DT
@@ -32098,6 +33926,7 @@ the#DT
 facts#NNS
 ''#''
 .#.
+
 You#PRP
 will#MD
 make#VB
@@ -32111,6 +33940,7 @@ the#DT
 German#NNP
 said#VBD
 .#.
+
 ``#``
 At#IN
 200#CD
@@ -32143,6 +33973,7 @@ are#VBP
 telling#VBG
 him#PRP
 .#.
+
 It#PRP
 is#VBZ
 not#RB
@@ -32159,6 +33990,7 @@ great#JJ
 harm#NN
 ''#''
 .#.
+
 There#EX
 was#VBD
 no#DT
@@ -32174,6 +34006,7 @@ what#WP
 he#PRP
 said#VBD
 .#.
+
 Waddell#NNP
 came#VBD
 back#RB
@@ -32186,6 +34019,7 @@ on#IN
 a#DT
 bunk#NN
 .#.
+
 I#PRP
 am#VBP
 an#DT
@@ -32199,6 +34033,7 @@ said#VBD
 with#IN
 fervor#NN
 .#.
+
 ``#``
 I#PRP
 will#MD
@@ -32211,6 +34046,7 @@ for#IN
 this#DT
 dive#NN
 .#.
+
 I#PRP
 will#MD
 make#VB
@@ -32225,12 +34061,14 @@ a#DT
 big#JJ
 market#NN
 .#.
+
 All#DT
 tourists#NNS
 come#VBP
 to#TO
 Florida#NNP
 .#.
+
 This#DT
 will#MD
 help#VB
@@ -32244,9 +34082,11 @@ little#JJ
 tackle#NN
 shop#NN
 .#.
+
 Yes#UH
 !#.
 !#.
+
 But#CC
 there#EX
 is#VBZ
@@ -32261,6 +34101,7 @@ this#DT
 time#NN
 ''#''
 .#.
+
 The#DT
 German#NNP
 's#POS
@@ -32277,6 +34118,7 @@ an#DT
 odious#JJ
 duty#NN
 .#.
+
 He#PRP
 took#VBD
 a#DT
@@ -32286,6 +34128,7 @@ of#IN
 his#PRP$
 drink#NN
 .#.
+
 It#PRP
 would#MD
 be#VB
@@ -32300,6 +34143,7 @@ story#NN
 like#IN
 this#DT
 .#.
+
 ``#``
 I#PRP
 think#VBP
@@ -32314,6 +34158,7 @@ Schaffner#NNP
 he#PRP
 said#VBD
 .#.
+
 ``#``
 He#PRP
 has#VBZ
@@ -32327,10 +34172,12 @@ say#VBP
 ''#''
 ?#.
 ?#.
+
 the#DT
 German#NNP
 said#VBD
 .#.
+
 ``#``
 At#IN
 least#JJS
@@ -32339,6 +34186,7 @@ South#NNP
 Florida#NNP
 ''#''
 .#.
+
 God#NNP
 ''#''
 ,#,
@@ -32361,6 +34209,7 @@ of#IN
 all#DT
 times#NNS
 .#.
+
 I#PRP
 guess#VBP
 you#PRP
@@ -32368,6 +34217,7 @@ you#PRP
 right#JJ
 ''#''
 .#.
+
 He#PRP
 sloshed#VBD
 his#PRP$
@@ -32382,6 +34232,7 @@ few#JJ
 large#JJ
 gulps#NNS
 .#.
+
 The#DT
 story#NN
 was#VBD
@@ -32416,6 +34267,7 @@ modern#JJ
 big-business#JJ
 America#NNP
 .#.
+
 ``#``
 Join#VB
 me#PRP
@@ -32424,10 +34276,12 @@ another#DT
 ''#''
 ?#.
 ?#.
+
 He#PRP
 had#VBD
 asked#VBN
 .#.
+
 you#PRP
 ''#''
 ,#,
@@ -32437,6 +34291,7 @@ had#VBD
 said#VBN
 courteously#RB
 .#.
+
 ``#``
 I#PRP
 do#VBP
@@ -32446,6 +34301,7 @@ so#RB
 much#RB
 ''#''
 .#.
+
 that#DT
 same#JJ
 cabin#NN
@@ -32459,6 +34315,7 @@ beside#IN
 a#DT
 bunk#NN
 .#.
+
 Fear#NN
 and#CC
 relief#NN
@@ -32468,6 +34325,7 @@ his#PRP$
 churning#VBG
 emotions#NNS
 .#.
+
 He#PRP
 pressed#VBD
 his#PRP$
@@ -32489,6 +34347,7 @@ and#CC
 anxious#JJ
 whisper#NN
 .#.
+
 Blessed#NNP
 Saint#NNP
 Nicholas#NNP
@@ -32515,6 +34374,7 @@ I#PRP
 was#VBD
 bewildered#VBN
 .#.
+
 And#CC
 when#WRB
 I#PRP
@@ -32542,6 +34402,7 @@ and#CC
 with#IN
 understanding#NN
 .#.
+
 Folding#VBG
 between#IN
 his#PRP$
@@ -32562,6 +34423,7 @@ direct#JJ
 to#TO
 Headquarters#NN
 .#.
+
 ``#``
 Holy#JJ
 Mary#NNP
@@ -32584,6 +34446,7 @@ this#DT
 next#JJ
 dive#NN
 .#.
+
 Make#VB
 it#PRP
 come#VB
@@ -32591,6 +34454,7 @@ off#RB
 all#RB
 right#JJ
 .#.
+
 Let#VB
 me#PRP
 set#VB
@@ -32615,6 +34479,7 @@ me#PRP
 the#DT
 exclusive#NN
 .#.
+
 And#CC
 make#VB
 my#PRP$
@@ -32627,9 +34492,11 @@ this#DT
 time#NN
 on#RB
 .#.
+
 Amen#FW
 ''#''
 .#.
+
 He#PRP
 crossed#VBD
 himself#PRP
@@ -32637,6 +34504,7 @@ again#RB
 and#CC
 rose#VBD
 .#.
+
 He#PRP
 felt#VBD
 a#DT
@@ -32645,6 +34513,7 @@ deal#NN
 less#RBR
 shaky#JJ
 .#.
+
 As#IN
 he#PRP
 reached#VBD
@@ -32675,6 +34544,7 @@ on#IN
 a#DT
 bunk#NN
 .#.
+
 Artie#NNP
 had#VBD
 picked#VBN
@@ -32689,6 +34559,7 @@ on#IN
 his#PRP$
 forefinger#NN
 .#.
+
 He#PRP
 waited#VBD
 awhile#RB
@@ -32711,6 +34582,7 @@ you#PRP
 ''#''
 ?#.
 ?#.
+
 You#PRP
 know#VBP
 I#PRP
@@ -32722,6 +34594,7 @@ Robinson#NNP
 answered#VBD
 warily#RB
 .#.
+
 You#PRP
 came#VBD
 straight#RB
@@ -32736,6 +34609,7 @@ stop#NN
 Artie#NNP
 said#VBD
 .#.
+
 I#PRP
 was#VBD
 a#DT
@@ -32743,6 +34617,7 @@ little#JJ
 bit#NN
 confused#VBN
 .#.
+
 Anyway#RB
 ,#,
 I#PRP
@@ -32754,6 +34629,7 @@ enough#RB
 to#TO
 matter#NN
 .#.
+
 You#PRP
 do#VBP
 n't#RB
@@ -32770,6 +34646,7 @@ you#PRP
 ''#''
 ?#.
 ?#.
+
 You#PRP
 know#VBP
 what#WP
@@ -32797,6 +34674,7 @@ studying#VBG
 it#PRP
 intently#RB
 .#.
+
 ``#``
 I#PRP
 do#VBP
@@ -32809,6 +34687,7 @@ down#RB
 again#RB
 ''#''
 .#.
+
 Chairs#NNS
 scraped#VBN
 back#RB
@@ -32835,6 +34714,7 @@ towards#IN
 the#DT
 bar#NN
 .#.
+
 Only#RB
 Blue#NNP
 Throat#NNP
@@ -32846,6 +34726,7 @@ where#WRB
 they#PRP
 were#VBD
 .#.
+
 Blue#NNP
 Throat#NNP
 was#VBD
@@ -32863,6 +34744,7 @@ his#PRP$
 massive#JJ
 frame#NN
 .#.
+
 He#PRP
 leered#VBD
 at#IN
@@ -32875,6 +34757,7 @@ between#IN
 them#PRP
 closed#VBN
 .#.
+
 they#PRP
 allow#VB
 beardless#JJ
@@ -32891,9 +34774,11 @@ boys#NNS
 ''#''
 ?#.
 ?#.
+
 He#PRP
 asked#VBD
 .#.
+
 ``#``
 Seems#VBZ
 to#TO
@@ -32909,6 +34794,7 @@ about#IN
 that#DT
 ''#''
 .#.
+
 He#PRP
 straightened#VBD
 up#RB
@@ -32922,6 +34808,7 @@ hunter#NN
 came#VBD
 closer#RBR
 .#.
+
 ``#``
 Stay#VB
 right#RB
@@ -32936,6 +34823,7 @@ kid#NN
 he#PRP
 called#VBD
 .#.
+
 ``#``
 I#PRP
 do#VBP
@@ -32959,6 +34847,7 @@ stranger#NN
 ignored#VBD
 him#PRP
 .#.
+
 He#PRP
 did#VBD
 n't#RB
@@ -32990,6 +34879,7 @@ of#IN
 his#PRP$
 revolver#NN
 .#.
+
 I#PRP
 'm#VBP
 Billy#NNP
@@ -33012,6 +34902,7 @@ Conyers#NNP
 body#NN
 ''#''
 .#.
+
 what#WP
 makes#VBZ
 you#PRP
@@ -33028,10 +34919,12 @@ boy#NN
 ''#''
 ?#.
 ?#.
+
 I#PRP
 'm#VBP
 asking#VBG
 .#.
+
 Most#RBS
 of#IN
 the#DT
@@ -33044,6 +34937,7 @@ ask#VBP
 for#IN
 ''#''
 .#.
+
 Blue#NNP
 Throat#NNP
 winked#VBD
@@ -33052,6 +34946,7 @@ his#PRP$
 six#CD
 cronies#NNS
 .#.
+
 ``#``
 The#DT
 kid#NN
@@ -33061,6 +34956,7 @@ manners#NNS
 ,#,
 boys#NNS
 .#.
+
 Shall#MD
 we#PRP
 teach#VB
@@ -33069,6 +34965,7 @@ some#RB
 ''#''
 ?#.
 ?#.
+
 His#PRP$
 gun#NN
 was#VBD
@@ -33088,6 +34985,7 @@ left#VBD
 its#PRP$
 holster#NN
 .#.
+
 Tilghman#NNP
 's#POS
 clenched#JJ
@@ -33111,6 +35009,7 @@ of#IN
 his#PRP$
 chin#NN
 .#.
+
 His#PRP$
 head#NN
 snapped#VBD
@@ -33130,6 +35029,7 @@ buddies#NNS
 were#VBD
 sprawling#VBG
 .#.
+
 Tilghman#NNP
 leapt#VBD
 on#IN
@@ -33153,6 +35053,7 @@ against#IN
 the#DT
 bar#NN
 .#.
+
 A#DT
 bullet#NN
 gouged#VBD
@@ -33174,6 +35075,7 @@ henchmen#NNS
 started#VBD
 shooting#VBG
 .#.
+
 Tilghman#NNP
 flung#VBD
 himself#PRP
@@ -33189,6 +35091,7 @@ his#PRP$
 own#JJ
 gun#NN
 .#.
+
 The#DT
 Colt#NNP
 roared#VBD
@@ -33200,6 +35103,7 @@ dropped#VBD
 ,#,
 writhing#VBG
 .#.
+
 A#DT
 third#JJ
 shot#NN
@@ -33207,6 +35111,7 @@ doused#VBD
 the#DT
 light#NN
 .#.
+
 Somewhere#RB
 at#IN
 the#DT
@@ -33228,6 +35133,7 @@ Billy#NNP
 ''#''
 ?#.
 ?#.
+
 George#NNP
 ,#,
 but#CC
@@ -33242,6 +35148,7 @@ Pat#NNP
 body#NN
 yet#RB
 .#.
+
 I#PRP
 aim#VBP
 to#TO
@@ -33249,6 +35156,7 @@ have#VB
 it#PRP
 ''#''
 .#.
+
 He#PRP
 fired#VBD
 again#RB
@@ -33262,6 +35170,7 @@ a#DT
 man#NN
 screamed#VBD
 .#.
+
 Another#DT
 took#VBD
 off#RP
@@ -33276,6 +35185,7 @@ to#TO
 the#DT
 floor#NN
 .#.
+
 ``#``
 OK#UH
 ,#,
@@ -33286,6 +35196,7 @@ I#PRP
 quitting#VBG
 ''#''
 .#.
+
 me#PRP
 ''#''
 ,#,
@@ -33295,11 +35206,13 @@ Blue#NNP
 Throat#NNP
 henchman#NN
 .#.
+
 Somebody#NN
 brought#VBD
 a#DT
 light#NN
 .#.
+
 Tilghman#NNP
 and#CC
 his#PRP$
@@ -33315,6 +35228,7 @@ into#IN
 a#DT
 corner#NN
 .#.
+
 ``#``
 And#CC
 now#RB
@@ -33334,6 +35248,7 @@ what#WP
 I#PRP
 said#VBD
 .#.
+
 I#PRP
 've#VBP
 come#VBN
@@ -33344,6 +35259,7 @@ Conyers#NNP
 body#NN
 ''#''
 .#.
+
 two#CD
 minutes#NNS
 the#DT
@@ -33384,6 +35300,7 @@ for#IN
 decent#JJ
 burial#NN
 .#.
+
 Blue#NNP
 Throat#NNP
 ,#,
@@ -33410,6 +35327,7 @@ of#IN
 the#DT
 fight#NN
 .#.
+
 That#DT
 critter#NN
 will#MD
@@ -33435,6 +35353,7 @@ back#RB
 with#IN
 him#PRP
 .#.
+
 Blue#NNP
 Throat#NNP
 wo#MD
@@ -33443,6 +35362,7 @@ stand#VB
 for#IN
 this#DT
 .#.
+
 He#PRP
 'll#MD
 shoot#VB
@@ -33451,11 +35371,13 @@ the#DT
 town#NN
 ''#''
 .#.
+
 The#DT
 prediction#NN
 was#VBD
 correct#JJ
 .#.
+
 The#DT
 Reverend#NNP
 James#NNP
@@ -33485,6 +35407,7 @@ in#IN
 the#DT
 distance#NN
 .#.
+
 the#DT
 Reverend#NNP
 Doran#NNP
@@ -33515,6 +35438,7 @@ required#VBN
 elsewhere#RB
 ''#''
 .#.
+
 Billy#NNP
 Tilghman#NNP
 and#CC
@@ -33526,6 +35450,7 @@ to#TO
 the#DT
 battle#NN
 .#.
+
 Blue#NNP
 Throat#NNP
 ,#,
@@ -33553,6 +35478,7 @@ his#PRP$
 profitable#JJ
 dictatorship#NN
 .#.
+
 It#PRP
 was#VBD
 essential#JJ
@@ -33582,6 +35508,7 @@ of#IN
 doing#VBG
 it#PRP
 .#.
+
 He#PRP
 rode#VBD
 in#IN
@@ -33607,6 +35534,7 @@ to#TO
 Main#NNP
 Street#NNP
 .#.
+
 The#DT
 entire#JJ
 length#NN
@@ -33623,6 +35551,7 @@ from#IN
 this#DT
 barn#NN
 .#.
+
 Any#DT
 posse#NN
 riding#VBG
@@ -33646,6 +35575,7 @@ burst#NN
 of#IN
 fire#NN
 .#.
+
 The#DT
 law-abiding#JJ
 citizens#NNS
@@ -33663,6 +35593,7 @@ down#IN
 the#DT
 street#NN
 .#.
+
 Several#JJ
 were#VBD
 firing#VBG
@@ -33674,6 +35605,7 @@ Billy#NNP
 Tilghman#NNP
 arrived#VBD
 .#.
+
 He#PRP
 sized#VBD
 up#RP
@@ -33684,6 +35616,7 @@ shook#VBD
 his#PRP$
 head#NN
 .#.
+
 Blue#NNP
 Throat#NNP
 has#VBZ
@@ -33705,6 +35638,7 @@ days#NNS
 he#PRP
 said#VBD
 .#.
+
 ``#``
 There#EX
 's#VBZ
@@ -33728,6 +35662,7 @@ very#JJ
 store#NN
 ''#''
 .#.
+
 He#PRP
 called#VBD
 the#DT
@@ -33741,6 +35676,7 @@ into#IN
 the#DT
 stockroom#NN
 .#.
+
 Billy#NNP
 returned#VBD
 with#IN
@@ -33749,6 +35685,7 @@ sticks#NNS
 of#IN
 dynamite#NN
 .#.
+
 ``#``
 I#PRP
 'm#VBP
@@ -33792,6 +35729,7 @@ the#DT
 window#NN
 ''#''
 .#.
+
 He#PRP
 slipped#VBD
 outside#RB
@@ -33806,6 +35744,7 @@ dodging#VBG
 into#IN
 doorways#NNS
 .#.
+
 Blue#NNP
 Throat#NNP
 's#POS
@@ -33828,6 +35767,7 @@ as#IN
 he#PRP
 passed#VBD
 .#.
+
 Fifty#CD
 yards#NNS
 away#RB
@@ -33848,6 +35788,7 @@ at#IN
 the#DT
 back#NN
 .#.
+
 Here#RB
 he#PRP
 could#MD
@@ -33861,6 +35802,7 @@ and#CC
 his#PRP$
 gang#NN
 .#.
+
 All#DT
 he#PRP
 had#VBD
@@ -33893,12 +35835,14 @@ the#DT
 sticks#NNS
 through#IN
 .#.
+
 Billy#NNP
 Tilghman#NNP
 did#VBD
 just#RB
 that#DT
 .#.
+
 Within#IN
 seconds#NNS
 the#DT
@@ -33919,6 +35863,7 @@ or#CC
 injured#JJ
 inside#RB
 .#.
+
 It#PRP
 was#VBD
 the#DT
@@ -33932,6 +35877,7 @@ dictatorship#NN
 in#IN
 Petrie#NNP
 .#.
+
 Though#IN
 only#RB
 slightly#RB
@@ -33946,6 +35892,7 @@ to#TO
 those#DT
 parts#NNS
 .#.
+
 Tilghman#NNP
 the#DT
 incident#NN
@@ -34000,6 +35947,7 @@ to#TO
 be#VB
 quiet#JJ
 .#.
+
 all#PDT
 the#DT
 rip-roaring#JJ
@@ -34022,6 +35970,7 @@ head#NN
 and#CC
 shoulders#NNS
 .#.
+
 He#PRP
 was#VBD
 the#DT
@@ -34040,6 +35989,7 @@ in#IN
 the#DT
 book#NN
 .#.
+
 He#PRP
 saw#VBD
 the#DT
@@ -34079,6 +36029,7 @@ or#CC
 after#RB
 him#PRP
 .#.
+
 fifty#CD
 years#NNS
 his#PRP$
@@ -34109,6 +36060,7 @@ of#IN
 the#DT
 West#NNP
 .#.
+
 The#DT
 deeds#NNS
 of#IN
@@ -34161,6 +36113,7 @@ remained#VBN
 almost#RB
 unsung#JJ
 .#.
+
 Citizens#NNS
 took#VBD
 the#DT
@@ -34198,6 +36151,7 @@ half#NN
 a#DT
 century#NN
 .#.
+
 He#PRP
 came#VBD
 within#IN
@@ -34224,6 +36178,7 @@ the#DT
 1890#CD
 's#POS
 .#.
+
 Led#VBN
 by#IN
 Bill#NNP
@@ -34253,6 +36208,7 @@ of#IN
 their#PRP$
 guns#NNS
 .#.
+
 Bill#NNP
 Doolin#NNP
 's#POS
@@ -34289,6 +36245,7 @@ would#MD
 stop#VB
 him#PRP
 .#.
+
 Tilghman#NNP
 knew#VBD
 that#IN
@@ -34301,6 +36258,7 @@ the#DT
 Doolin#NNP
 gang#NN
 .#.
+
 They#PRP
 bought#VBD
 rustled#JJ
@@ -34324,6 +36282,7 @@ in#IN
 their#PRP$
 houses#NNS
 .#.
+
 Billy#NNP
 decided#VBD
 to#TO
@@ -34347,6 +36306,7 @@ at#IN
 Rock#NNP
 Fort#NNP
 .#.
+
 a#DT
 bitterly#RB
 cold#JJ
@@ -34381,6 +36341,7 @@ Dunn#NNP
 's#POS
 ranch#NN
 .#.
+
 It#PRP
 was#VBD
 snowing#VBG
@@ -34396,6 +36357,7 @@ no#DT
 horses#NNS
 outside#RB
 .#.
+
 The#DT
 only#JJ
 evidence#NN
@@ -34413,6 +36375,7 @@ out#RP
 thick#JJ
 smoke#NN
 .#.
+
 The#DT
 two#CD
 lawmen#NNS
@@ -34426,6 +36389,7 @@ from#IN
 the#DT
 door#NN
 .#.
+
 ``#``
 Wait#VB
 here#RB
@@ -34436,6 +36400,7 @@ Neal#NNP
 said#VBD
 Tilghman#NNP
 .#.
+
 ``#``
 If#IN
 I#PRP
@@ -34458,6 +36423,7 @@ a#DT
 posse#NN
 ''#''
 .#.
+
 his#PRP$
 rifle#NN
 in#IN
@@ -34475,6 +36441,7 @@ hammered#VBD
 on#IN
 it#PRP
 .#.
+
 There#EX
 was#VBD
 no#DT
@@ -34491,6 +36458,7 @@ and#CC
 stepped#VBD
 inside#RB
 .#.
+
 Directly#RB
 opposite#IN
 the#DT
@@ -34510,6 +36478,7 @@ bitterly#RB
 cold#JJ
 day#NN
 .#.
+
 Seated#VBN
 near#IN
 it#PRP
@@ -34526,6 +36495,7 @@ rancher#NN
 Ed#NNP
 Dunn#NNP
 .#.
+
 Hello#UH
 ,#,
 Ed#NNP
@@ -34534,6 +36504,7 @@ Ed#NNP
 said#VBD
 Tilghman#NNP
 .#.
+
 The#DT
 rancher#NN
 grunted#VBD
@@ -34544,6 +36515,7 @@ did#VBD
 n't#RB
 move#VB
 .#.
+
 Tilghman#NNP
 closed#VBD
 the#DT
@@ -34556,6 +36528,7 @@ towards#IN
 the#DT
 fire#NN
 .#.
+
 Suddenly#RB
 he#PRP
 saw#VBD
@@ -34582,6 +36555,7 @@ of#IN
 his#PRP$
 neck#NN
 .#.
+
 Along#IN
 each#DT
 side#NN
@@ -34601,6 +36575,7 @@ with#IN
 a#DT
 curtain#NN
 .#.
+
 these#DT
 curtains#NNS
 were#VBD
@@ -34617,6 +36592,7 @@ on#IN
 Billy#NNP
 Tilghman#NNP
 .#.
+
 The#DT
 fighting#JJ
 marshal#NN
@@ -34638,6 +36614,7 @@ into#IN
 his#PRP$
 hide#NN
 .#.
+
 Tilghman#NNP
 never#RB
 hesitated#VBD
@@ -34645,6 +36622,7 @@ for#IN
 one#CD
 instant#NN
 .#.
+
 He#PRP
 walked#VBD
 right#RB
@@ -34662,6 +36640,7 @@ guns#NNS
 covering#VBG
 him#PRP
 .#.
+
 The#DT
 men#NNS
 behind#IN
@@ -34680,6 +36659,7 @@ man#NN
 a#DT
 killer#NN
 .#.
+
 Cold#JJ
 day#NN
 ''#''
@@ -34701,6 +36681,7 @@ to#TO
 the#DT
 fire#NN
 .#.
+
 ``#``
 Just#RB
 dropped#VBD
@@ -34712,6 +36693,7 @@ Jed#NNP
 Hawkins#NNP
 lives#VBZ
 .#.
+
 Ca#MD
 n't#RB
 seem#VB
@@ -34723,11 +36705,13 @@ this#DT
 snow#NN
 ''#''
 .#.
+
 The#DT
 rancher#NN
 was#VBD
 trembling#VBG
 .#.
+
 He#PRP
 would#MD
 n't#RB
@@ -34737,6 +36721,7 @@ in#IN
 the#DT
 face#NN
 .#.
+
 ``#``
 Follow#VB
 the#DT
@@ -34750,6 +36735,7 @@ he#PRP
 said#VBD
 hoarsely#RB
 .#.
+
 ``#``
 Jed#NNP
 's#POS
@@ -34761,6 +36747,7 @@ south#JJ
 bank#NN
 ''#''
 .#.
+
 the#DT
 overwhelming#JJ
 temptation#NN
@@ -34788,6 +36775,7 @@ good#JJ
 ten#CD
 minutes#NNS
 .#.
+
 All#PDT
 that#DT
 time#NN
@@ -34802,6 +36790,7 @@ head#NN
 and#CC
 body#NN
 .#.
+
 One#CD
 false#JJ
 move#NN
@@ -34816,6 +36805,7 @@ a#DT
 dead#JJ
 man#NN
 .#.
+
 he#PRP
 announced#VBD
 ,#,
@@ -34836,6 +36826,7 @@ the#DT
 warmup#NN
 ''#''
 .#.
+
 He#PRP
 strolled#VBD
 back#RB
@@ -34852,6 +36843,7 @@ clasped#VBN
 behind#IN
 him#PRP
 .#.
+
 He#PRP
 left#VBD
 the#DT
@@ -34882,6 +36874,7 @@ come#VB
 out#RB
 alive#JJ
 .#.
+
 he#PRP
 knew#VBD
 well#RB
@@ -34903,6 +36896,7 @@ towards#IN
 the#DT
 wagon#NN
 .#.
+
 If#IN
 he#PRP
 showed#VBD
@@ -34927,6 +36921,7 @@ shot#VBN
 down#RB
 instantly#RB
 .#.
+
 he#PRP
 climbed#VBD
 on#IN
@@ -34938,6 +36933,7 @@ to#TO
 Neal#NNP
 Brown#NNP
 .#.
+
 ``#``
 Do#VBP
 n't#RB
@@ -34951,6 +36947,7 @@ he#PRP
 said#VBD
 softly#RB
 .#.
+
 ``#``
 Just#RB
 get#VB
@@ -34968,6 +36965,7 @@ in#IN
 a#DT
 hurry#NN
 .#.
+
 That#DT
 place#NN
 is#VBZ
@@ -34980,6 +36978,7 @@ his#PRP$
 gang#NN
 ''#''
 .#.
+
 he#PRP
 spoke#VBD
 those#DT
@@ -34993,6 +36992,7 @@ on#IN
 a#DT
 thread#NN
 .#.
+
 Back#RB
 in#IN
 the#DT
@@ -35030,6 +37030,7 @@ him#PRP
 right#RB
 then#RB
 .#.
+
 You#PRP
 'll#MD
 stay#VB
@@ -35047,6 +37048,7 @@ with#IN
 his#PRP$
 rifle#NN
 .#.
+
 ``#``
 Billy#NNP
 Tilghman#NNP
@@ -35061,6 +37063,7 @@ in#IN
 the#DT
 back#NN
 .#.
+
 We#PRP
 'll#MD
 let#VB
@@ -35068,6 +37071,7 @@ him#PRP
 go#VB
 ''#''
 .#.
+
 the#DT
 fighting#JJ
 marshal#NN
@@ -35110,6 +37114,7 @@ and#CC
 vice#NN
 rackets#NNS
 .#.
+
 Wiley#NNP
 Lynn#NNP
 ,#,
@@ -35131,6 +37136,7 @@ drinking#VBG
 ever#RB
 since#IN
 .#.
+
 That#DT
 night#NN
 he#PRP
@@ -35154,6 +37160,7 @@ off#RP
 his#PRP$
 revolver#NN
 .#.
+
 several#JJ
 months#NNS
 now#RB
@@ -35199,6 +37206,7 @@ of#IN
 a#DT
 Woman#NN
 .#.
+
 This#DT
 Woman#NN
 had#VBD
@@ -35252,6 +37260,7 @@ kiss#VB
 him#PRP
 passionately#RB
 .#.
+
 When#WRB
 she#PRP
 would#MD
@@ -35273,6 +37282,7 @@ at#IN
 his#PRP$
 stomach#NN
 .#.
+
 Then#RB
 he#PRP
 would#MD
@@ -35284,6 +37294,7 @@ behind#IN
 the#DT
 house#NN
 .#.
+
 he#PRP
 did#VBD
 this#DT
@@ -35303,6 +37314,7 @@ always#RB
 with#IN
 him#PRP
 .#.
+
 He#PRP
 would#MD
 feel#VB
@@ -35332,6 +37344,7 @@ it#PRP
 on#IN
 him#PRP
 .#.
+
 But#CC
 they#PRP
 never#RB
@@ -35346,6 +37359,7 @@ was#VBD
 all#RB
 right#JJ
 .#.
+
 Miss#NNP
 Langford#NNP
 came#VBD
@@ -35381,6 +37395,7 @@ face#NN
 and#CC
 figure#NN
 .#.
+
 He#PRP
 could#MD
 not#RB
@@ -35436,6 +37451,7 @@ used#VBD
 to#TO
 do#VB
 .#.
+
 When#WRB
 he#PRP
 awoke#VBD
@@ -35465,6 +37481,7 @@ in#IN
 the#DT
 flesh#NN
 .#.
+
 Miss#NNP
 Langford#NNP
 (#(
@@ -35479,6 +37496,7 @@ an#DT
 attractive#JJ
 girl#NN
 .#.
+
 Tall#JJ
 ,#,
 blonde#JJ
@@ -35514,6 +37532,7 @@ starched#JJ
 summer#NN
 dress#NN
 .#.
+
 Something#NN
 was#VBD
 beginning#VBG
@@ -35578,6 +37597,7 @@ boys#NNS
 like#IN
 Jack#NNP
 .#.
+
 She#PRP
 would#MD
 look#VB
@@ -35606,6 +37626,7 @@ a#DT
 little#RB
 sick#JJ
 .#.
+
 School#NN
 began#VBD
 in#IN
@@ -35650,6 +37671,7 @@ with#IN
 one#CD
 another#DT
 .#.
+
 The#DT
 first#JJ
 two#CD
@@ -35661,6 +37683,7 @@ went#VBD
 home#NN
 early#RB
 .#.
+
 All#DT
 ,#,
 that#IN
@@ -35669,6 +37692,7 @@ is#VBZ
 except#IN
 Jack#NNP
 .#.
+
 He#PRP
 hung#VBD
 around#IN
@@ -35693,6 +37717,7 @@ room#NN
 in#IN
 order#NN
 .#.
+
 Once#RB
 (#(
 this#DT
@@ -35735,6 +37760,7 @@ incredibly#RB
 white#JJ
 leg#NN
 .#.
+
 He#PRP
 thought#VBD
 for#IN
@@ -35746,6 +37772,7 @@ had#VBD
 stopped#VBN
 beating#VBG
 .#.
+
 About#IN
 that#DT
 time#NN
@@ -35774,6 +37801,7 @@ even#RB
 see#VB
 him#PRP
 .#.
+
 He#PRP
 jumped#VBD
 back#RB
@@ -35792,6 +37820,7 @@ from#IN
 the#DT
 school#NN
 .#.
+
 He#PRP
 did#VBD
 n't#RB
@@ -35822,6 +37851,7 @@ to#TO
 a#DT
 walk#NN
 .#.
+
 The#DT
 vision#NN
 became#VBD
@@ -35829,6 +37859,7 @@ even#RB
 stronger#JJR
 now#RB
 .#.
+
 ``#``
 I#PRP
 'll#MD
@@ -35842,6 +37873,7 @@ muttered#VBD
 to#TO
 himself#PRP
 .#.
+
 ``#``
 I#PRP
 've#VBP
@@ -35851,6 +37883,7 @@ get#VB
 her#PRP
 ''#''
 .#.
+
 That#DT
 night#NN
 he#PRP
@@ -35908,6 +37941,7 @@ heart#NN
 was#VBD
 afire#JJ
 .#.
+
 He#PRP
 ate#VBD
 litle#NN
@@ -35927,6 +37961,7 @@ usually#RB
 ate#VBD
 heartily#RB
 .#.
+
 What#WP
 's#VBZ
 the#DT
@@ -35936,6 +37971,7 @@ honey#UH
 ''#''
 ?#.
 ?#.
+
 She#PRP
 said#VBD
 ,#,
@@ -35951,6 +37987,7 @@ her#PRP$
 only#JJ
 child#NN
 .#.
+
 ``#``
 Are#VBP
 n't#RB
@@ -35959,6 +37996,7 @@ hungry#JJ
 ''#''
 ?#.
 ?#.
+
 I#PRP
 'm#VBP
 not#RB
@@ -35975,6 +38013,7 @@ bacon#NN
 and#CC
 eggs#NNS
 .#.
+
 Outside#IN
 it#PRP
 was#VBD
@@ -35993,6 +38032,7 @@ in#IN
 the#DT
 kitchen#NN
 .#.
+
 He#PRP
 felt#VBD
 a#DT
@@ -36002,14 +38042,17 @@ at#IN
 his#PRP$
 stomach#NN
 .#.
+
 you#PRP
 sick#JJ
 ''#''
 ?#.
 ?#.
+
 he#PRP
 said#VBD
 .#.
+
 ``#``
 I#PRP
 'll#MD
@@ -36017,6 +38060,7 @@ be#VB
 all#RB
 right#JJ
 .#.
+
 I#PRP
 guess#VBP
 it#PRP
@@ -36026,12 +38070,14 @@ hot#JJ
 weather#NN
 ''#''
 .#.
+
 you#PRP
 play#VB
 hard#JJ
 today#NN
 then#RB
 .#.
+
 And#CC
 if#IN
 you#PRP
@@ -36048,6 +38094,7 @@ come#VB
 home#RB
 early#RB
 .#.
+
 Daddy#NNP
 left#VBD
 the#DT
@@ -36065,6 +38112,7 @@ this#DT
 afternoon#NN
 ''#''
 .#.
+
 OK.#UH
 ,#,
 I#PRP
@@ -36077,6 +38125,7 @@ hard#RB
 he#PRP
 promised#VBD
 .#.
+
 Charles#NNP
 Lever#NNP
 yelled#VBD
@@ -36123,6 +38172,7 @@ over#IN
 his#PRP$
 shoulder#NN
 .#.
+
 Wha#WP
 dd#VBD
 ya#PRP
@@ -36132,6 +38182,7 @@ boy#NN
 ''#''
 ?#.
 ?#.
+
 Charles#NNP
 said#VBD
 ,#,
@@ -36143,6 +38194,7 @@ huge#JJ
 yellow#JJ
 teeth#NNS
 .#.
+
 Charles#NNP
 ,#,
 also#RB
@@ -36168,6 +38220,7 @@ sharp#JJ
 brown#JJ
 eyes#NNS
 .#.
+
 He#PRP
 considered#VBD
 himself#PRP
@@ -36183,6 +38236,7 @@ were#VBD
 after#IN
 him#PRP
 .#.
+
 You#PRP
 know#VBP
 what#WP
@@ -36193,6 +38247,7 @@ night#NN
 ''#''
 ?#.
 ?#.
+
 Charles#NNP
 said#VBD
 as#IN
@@ -36228,6 +38283,7 @@ to#TO
 the#DT
 school#NN
 .#.
+
 Jack#NNP
 knew#VBD
 of#IN
@@ -36256,6 +38312,7 @@ only#JJ
 apparent#JJ
 interest#NN
 .#.
+
 But#CC
 Jack#NNP
 always#RB
@@ -36291,13 +38348,16 @@ he#PRP
 did#VBD
 now#RB
 .#.
+
 ``#``
 No#UH
 .#.
+
 What#WP
 ''#''
 ?#.
 ?#.
+
 I#PRP
 got#VBD
 Margaret#NNP
@@ -36316,6 +38376,7 @@ the#DT
 quarry#NN
 ''#''
 .#.
+
 A#DT
 nude#JJ
 imaginary#NN
@@ -36329,11 +38390,13 @@ Jack#NNP
 's#POS
 mind#NN
 .#.
+
 His#PRP$
 heart#NN
 beat#VBD
 faster#RB
 .#.
+
 ``#``
 Hell#UH
 you#PRP
@@ -36341,6 +38404,7 @@ say#VBP
 ''#''
 ?#.
 ?#.
+
 He#PRP
 said#VBD
 ,#,
@@ -36364,6 +38428,7 @@ was#VBD
 with#IN
 Charles#NNP
 .#.
+
 ``#``
 How#WRB
 'd#VBD
@@ -36373,6 +38438,7 @@ it#PRP
 ''#''
 ?#.
 ?#.
+
 Hell#UH
 ,#,
 I#PRP
@@ -36399,6 +38465,7 @@ it#PRP
 ''#''
 ?#.
 ?#.
+
 Hell#UH
 ,#,
 I#PRP
@@ -36407,16 +38474,19 @@ ask#VB
 her#PRP
 ''#''
 .#.
+
 Jist#RB
 like#IN
 that#DT
 ''#''
 ?#.
 ?#.
+
 Hell#UH
 ,#,
 yes#RB
 .#.
+
 She#PRP
 's#VBZ
 been#VBN
@@ -36440,6 +38510,7 @@ well#RB
 try#VB
 it#PRP
 .#.
+
 Besides#IN
 I#PRP
 heard#VBD
@@ -36456,18 +38527,21 @@ doin#VBG
 it#PRP
 ''#''
 .#.
+
 I#PRP
 never#RB
 heard#VBD
 that#DT
 ''#''
 .#.
+
 It#PRP
 's#VBZ
 all#DT
 over#IN
 Branchville#NNP
 .#.
+
 If#IN
 you#PRP
 'd#MD
@@ -36490,6 +38564,7 @@ your#PRP$
 ownself#PRP
 ''#''
 .#.
+
 I#PRP
 might#MD
 try#VB
@@ -36509,6 +38584,7 @@ of#IN
 Miss#NNP
 Langford#NNP
 .#.
+
 they#PRP
 reached#VBD
 the#DT
@@ -36535,6 +38611,7 @@ of#IN
 the#DT
 schoolhouse#NN
 .#.
+
 Miss#NNP
 Langford#NNP
 ,#,
@@ -36563,6 +38640,7 @@ get#VB
 them#PRP
 inside#RB
 .#.
+
 Time#NN
 for#IN
 books#NNS
@@ -36582,6 +38660,7 @@ her#PRP$
 right#JJ
 hand#NN
 .#.
+
 ``#``
 Let#VB
 's#PRP
@@ -36589,6 +38668,7 @@ go#VB
 inside#RB
 ''#''
 .#.
+
 Miss#NNP
 Langford#NNP
 ,#,
@@ -36609,20 +38689,24 @@ begged#VBD
 smiling#VBG
 wistfully#RB
 .#.
+
 the#DT
 teacher#NN
 .#.
+
 ``#``
 Maybe#RB
 at#IN
 dinner#NN
 time#NN
 .#.
+
 Come#VB
 inside#RB
 now#RB
 ''#''
 .#.
+
 The#DT
 children#NNS
 grudgingly#RB
@@ -36635,6 +38719,7 @@ into#IN
 the#DT
 schoolhouse#NN
 .#.
+
 Jack#NNP
 watched#VBD
 Miss#NNP
@@ -36642,6 +38727,7 @@ Langford#NNP
 all#DT
 morning#NN
 .#.
+
 He#PRP
 could#MD
 think#VB
@@ -36667,6 +38753,7 @@ about#IN
 Margaret#NNP
 Rider#NNP
 .#.
+
 Occasionally#RB
 he#PRP
 would#MD
@@ -36708,6 +38795,7 @@ said#VBD
 she#PRP
 did#VBD
 .#.
+
 noontime#NN
 ,#,
 remembering#VBG
@@ -36748,6 +38836,7 @@ to#TO
 play#VB
 ball#NN
 .#.
+
 ``#``
 Why#WRB
 ai#VBP
@@ -36759,6 +38848,7 @@ ball#NN
 ''#''
 ?#.
 ?#.
+
 He#PRP
 asked#VBD
 Charles#NNP
@@ -36781,6 +38871,7 @@ of#IN
 the#DT
 schoolhouse#NN
 .#.
+
 ``#``
 Miss#NNP
 Langford#NNP
@@ -36803,6 +38894,7 @@ little#JJ
 girls#NNS
 called#VBD
 .#.
+
 I#PRP
 'd#MD
 druther#VB
@@ -36817,6 +38909,7 @@ girls#NNS
 Charles#NNP
 grinned#VBD
 .#.
+
 ``#``
 Maybe#RB
 some#DT
@@ -36834,6 +38927,7 @@ their#PRP$
 dress#NN
 ''#''
 .#.
+
 Jack#NNP
 said#VBD
 idly#RB
@@ -36843,6 +38937,7 @@ for#IN
 Miss#NNP
 Langford#NNP
 .#.
+
 she#PRP
 came#VBD
 out#IN
@@ -36850,6 +38945,7 @@ of#IN
 the#DT
 schoolhouse#NN
 .#.
+
 When#WRB
 she#PRP
 appeared#VBD
@@ -36874,6 +38970,7 @@ Goody#UH
 goody#UH
 ''#''
 .#.
+
 's#PRP
 play#VB
 with#IN
@@ -36898,6 +38995,7 @@ his#PRP$
 overall#JJ
 pants#NNS
 .#.
+
 O.K.#UH
 ''#''
 Charles#NNP
@@ -36916,6 +39014,7 @@ join#VB
 the#DT
 girls#NNS
 .#.
+
 They#PRP
 played#VBD
 crack#VB
@@ -36927,6 +39026,7 @@ minutes#NNS
 without#IN
 mishap#NN
 .#.
+
 Then#RB
 when#WRB
 Miss#NNP
@@ -36973,6 +39073,7 @@ over#IN
 her#PRP$
 head#NN
 .#.
+
 While#IN
 she#PRP
 was#VBD
@@ -37010,6 +39111,7 @@ sorry#JJ
 Miss#NNP
 Langford#NNP
 .#.
+
 I#PRP
 did#VBD
 n't#RB
@@ -37020,6 +39122,7 @@ so#RB
 hard#RB
 ''#''
 .#.
+
 That#DT
 's#VBZ
 all#RB
@@ -37042,6 +39145,7 @@ of#IN
 her#PRP$
 eyes#NNS
 .#.
+
 ``#``
 It#PRP
 was#VBD
@@ -37049,6 +39153,7 @@ my#PRP$
 fault#NN
 ''#''
 .#.
+
 With#IN
 one#CD
 hand#NN
@@ -37068,6 +39173,7 @@ with#IN
 the#DT
 other#JJ
 .#.
+
 When#WRB
 her#PRP$
 hand#NN
@@ -37094,6 +39200,7 @@ on#IN
 her#PRP$
 feet#NNS
 .#.
+
 He#PRP
 thought#VBD
 she#PRP
@@ -37114,6 +39221,7 @@ her#PRP$
 hand#NN
 go#VB
 .#.
+
 you#PRP
 ''#''
 ,#,
@@ -37124,6 +39232,7 @@ dusting#VBG
 herself#PRP
 off#RP
 .#.
+
 you#PRP
 play#VB
 with#IN
@@ -37135,6 +39244,7 @@ Langford#NNP
 ''#''
 ?#.
 ?#.
+
 One#CD
 of#IN
 the#DT
@@ -37142,20 +39252,24 @@ little#JJ
 girls#NNS
 said#VBD
 .#.
+
 No#DT
 more#JJR
 today#NN
 .#.
+
 Maybe#RB
 some#DT
 other#JJ
 day#NN
 ''#''
 .#.
+
 the#DT
 girl#NN
 said#VBD
 .#.
+
 ``#``
 I#PRP
 do#VBP
@@ -37169,6 +39283,7 @@ more#RBR
 neither#RB
 ''#''
 .#.
+
 Me#PRP
 neither#RB
 ''#''
@@ -37196,6 +39311,7 @@ groups#NNS
 and#CC
 alone#RB
 .#.
+
 Jack#NNP
 walked#VBD
 off#RB
@@ -37267,6 +39383,7 @@ in#IN
 her#PRP$
 eyes#NNS
 .#.
+
 he#PRP
 came#VBD
 back#RB
@@ -37280,6 +39397,7 @@ was#VBD
 made#VBN
 up#RB
 .#.
+
 He#PRP
 simply#RB
 would#MD
@@ -37295,6 +39413,7 @@ held#VBD
 his#PRP$
 class#NN
 .#.
+
 That#DT
 should#MD
 do#VB
@@ -37318,6 +39437,7 @@ about#IN
 school#NN
 work#NN
 .#.
+
 He#PRP
 had#VBD
 considered#VBN
@@ -37372,6 +39492,7 @@ in#RB
 after#IN
 school#NN
 .#.
+
 The#DT
 only#JJ
 drawback#NN
@@ -37409,6 +39530,7 @@ along#IN
 with#IN
 Jack#NNP
 .#.
+
 ``#``
 But#CC
 I#PRP
@@ -37427,6 +39549,7 @@ told#VBD
 himself#PRP
 desperately#RB
 .#.
+
 his#PRP$
 surprise#NN
 his#PRP$
@@ -37434,6 +39557,7 @@ plan#NN
 worked#VBD
 perfectly#RB
 .#.
+
 ``#``
 All#RB
 right#JJ
@@ -37466,6 +39590,7 @@ firmly#RB
 not#RB
 smiling#VBG
 .#.
+
 ``#``
 You#PRP
 will#MD
@@ -37486,6 +39611,7 @@ your#PRP$
 problems#NNS
 ''#''
 .#.
+
 the#DT
 others#NNS
 stampeded#VBD
@@ -37533,11 +39659,13 @@ dispersed#VBD
 going#VBG
 home#NN
 .#.
+
 He#PRP
 scarcely#RB
 saw#VBD
 them#PRP
 .#.
+
 His#PRP$
 heart#NN
 was#VBD
@@ -37575,6 +39703,7 @@ do#VB
 it#PRP
 ?#.
 ?#.
+
 the#DT
 fringe#NN
 of#IN
@@ -37594,6 +39723,7 @@ beauty#NN
 and#CC
 poise#NN
 .#.
+
 She#PRP
 munched#VBD
 little#JJ
@@ -37631,6 +39761,7 @@ his#PRP$
 bronze#JJ
 neck#NN
 .#.
+
 The#DT
 youth#NN
 with#IN
@@ -37650,6 +39781,7 @@ to#TO
 the#DT
 woman#NN
 .#.
+
 Lithe#JJ
 and#CC
 muscular#JJ
@@ -37680,6 +39812,7 @@ of#IN
 his#PRP$
 family#NN
 .#.
+
 The#DT
 haughty#JJ
 white#JJ
@@ -37707,6 +39840,7 @@ watch#NN
 Col.#NNP
 Garvier#NNP
 .#.
+
 It#PRP
 is#VBZ
 almost#RB
@@ -37718,6 +39852,7 @@ to#TO
 begin#VB
 ''#''
 .#.
+
 Col.#NNP
 Henri#NNP
 Garvier#NNP
@@ -37734,6 +39869,7 @@ enlightened#JJ
 slave#NN
 owners#NNS
 .#.
+
 He#PRP
 chuckled#VBD
 and#CC
@@ -37746,6 +39882,7 @@ dance#NN
 to#TO
 start#VB
 .#.
+
 The#DT
 slaves#NNS
 ran#VBD
@@ -37767,6 +39904,7 @@ called#VBD
 Johnny#NNP
 No-Name#NNP
 .#.
+
 Johnny#NNP
 vigorously#RB
 pounded#VBD
@@ -37783,6 +39921,7 @@ as#IN
 his#PRP$
 drum#NN
 .#.
+
 He#PRP
 showed#VBD
 his#PRP$
@@ -37807,6 +39946,7 @@ trembled#VBD
 in#IN
 ecstasy#NN
 .#.
+
 The#DT
 drummer#NN
 flogged#VBD
@@ -37843,6 +39983,7 @@ Louisiana#NNP
 slave#NN
 compounds#NNS
 .#.
+
 The#DT
 dance#NN
 was#VBD
@@ -37850,6 +39991,7 @@ of#IN
 Haitian#JJ
 origin#NN
 .#.
+
 The#DT
 white#JJ
 girl#NN
@@ -37880,6 +40022,7 @@ and#CC
 beetling#JJ
 eyebrows#NNS
 .#.
+
 He#PRP
 was#VBD
 possessive#JJ
@@ -37906,6 +40049,7 @@ of#IN
 his#PRP$
 owners#NNS
 .#.
+
 He#PRP
 proudly#RB
 wore#VBD
@@ -37947,6 +40091,7 @@ most#RBS
 cherished#JJ
 names#NNS
 .#.
+
 Delphine#NNP
 was#VBD
 a#DT
@@ -37955,6 +40100,7 @@ in#IN
 high#JJ
 society#NN
 .#.
+
 She#PRP
 was#VBD
 a#DT
@@ -37970,6 +40116,7 @@ most#RBS
 gracious#JJ
 hostesses#NNS
 .#.
+
 Although#IN
 New#NNP
 Orleans#NNP
@@ -38011,6 +40158,7 @@ on#IN
 American#JJ
 soil#NN
 .#.
+
 Madame#NNP
 Lalaurie#NNP
 gestured#VBD
@@ -38038,6 +40186,7 @@ his#PRP$
 bare#JJ
 shoulders#NNS
 .#.
+
 The#DT
 slender#JJ
 ,#,
@@ -38052,6 +40201,7 @@ the#DT
 other#JJ
 slaves#NNS
 .#.
+
 He#PRP
 was#VBD
 gifted#VBN
@@ -38068,6 +40218,7 @@ of#IN
 any#DT
 race#NN
 .#.
+
 But#CC
 Dandy#NNP
 had#VBD
@@ -38086,6 +40237,7 @@ Bayou#NNP
 St.#NNP
 John#NNP
 .#.
+
 Shy#JJ
 ,#,
 actually#RB
@@ -38122,6 +40274,7 @@ and#CC
 in#IN
 boathouses#NNS
 .#.
+
 This#DT
 young#JJ
 slave#NN
@@ -38141,6 +40294,7 @@ to#TO
 draw#VB
 near#RB
 .#.
+
 The#DT
 woman#NN
 eyed#VBD
@@ -38166,6 +40320,7 @@ in#IN
 his#PRP$
 collection#NN
 .#.
+
 What#WP
 is#VBZ
 your#PRP$
@@ -38174,11 +40329,13 @@ name#NN
 boy#NN
 ?#.
 ?#.
+
 Come#VB
 a#DT
 bit#NN
 closer#RBR
 .#.
+
 I#PRP
 wo#MD
 n't#RB
@@ -38188,6 +40345,7 @@ you#PRP
 know#VBP
 ''#''
 .#.
+
 He#PRP
 gaped#VBD
 at#IN
@@ -38203,11 +40361,13 @@ emanated#VBD
 from#IN
 her#PRP
 .#.
+
 Then#RB
 he#PRP
 smiled#VBD
 shyly#RB
 .#.
+
 ``#``
 My#PRP$
 name#NN
@@ -38217,6 +40377,7 @@ Brandon#NNP
 ,#,
 missy#NN
 .#.
+
 I#PRP
 belong#VBP
 to#TO
@@ -38225,6 +40386,7 @@ Alexander#NNP
 Prieur#NNP
 ''#''
 .#.
+
 She#PRP
 said#VBD
 with#IN
@@ -38241,6 +40403,7 @@ feel#VB
 your#PRP$
 arms#NNS
 .#.
+
 You#PRP
 look#VBP
 quite#RB
@@ -38253,6 +40416,7 @@ me#PRP
 Dandy#NNP
 ''#''
 .#.
+
 Mrs.#NNP
 Lalaurie#NNP
 impatiently#RB
@@ -38264,6 +40428,7 @@ her#PRP$
 waiting#VBG
 carriage#NN
 .#.
+
 Lifting#VBG
 her#PRP$
 skirts#NNS
@@ -38280,6 +40445,7 @@ on#IN
 his#PRP$
 arm#NN
 .#.
+
 The#DT
 woman#NN
 seemed#VBD
@@ -38297,6 +40463,7 @@ in#IN
 a#DT
 torpor#NN
 .#.
+
 the#DT
 luxuriosly-upholstered#JJ
 landau#NN
@@ -38323,6 +40490,7 @@ for#IN
 army#NN
 inductees#NNS
 .#.
+
 last#JJ
 ,#,
 and#CC
@@ -38357,6 +40525,7 @@ her#PRP$
 liveried#JJ
 driver#NN
 .#.
+
 This#DT
 was#VBD
 the#DT
@@ -38373,9 +40542,11 @@ beetling#JJ
 shaggy#JJ
 eyebrows#NNS
 .#.
+
 Aristide#NNP
 !#.
 !#.
+
 I#PRP
 want#VBP
 you#PRP
@@ -38396,6 +40567,7 @@ boy#NN
 's#POS
 purchase#NN
 .#.
+
 There#EX
 's#VBZ
 $#$
@@ -38407,6 +40579,7 @@ this#DT
 chamois#NN
 sack#NN
 .#.
+
 If#IN
 the#DT
 old#JJ
@@ -38433,6 +40606,7 @@ patient#NN
 any#RB
 longer#RB
 .#.
+
 Prieur#NNP
 has#VBZ
 gout#NN
@@ -38445,6 +40619,7 @@ pills#NNS
 and#CC
 bleedings#NNS
 .#.
+
 Besides#RB
 ,#,
 he#PRP
@@ -38452,6 +40627,7 @@ owns#VBZ
 300#CD
 slaves#NNS
 .#.
+
 One#CD
 less#JJR
 should#MD
@@ -38461,6 +40637,7 @@ to#TO
 him#PRP
 ''#''
 .#.
+
 Aristide#NNP
 Devol#NNP
 ,#,
@@ -38490,6 +40667,7 @@ well-brushed#JJ
 beaver#NN
 hat#NN
 .#.
+
 His#PRP$
 bold#JJ
 eyes#NNS
@@ -38517,6 +40695,7 @@ slave#NN
 to#TO
 owner#NN
 .#.
+
 Another#DT
 youth#NN
 ,#,
@@ -38524,11 +40703,13 @@ Madame#NNP
 ''#''
 ?#.
 ?#.
+
 The#DT
 coachman#NN
 said#VBD
 softly#RB
 .#.
+
 This#DT
 one#CD
 is#VBZ
@@ -38539,6 +40720,7 @@ chicken#NN
 oui#FW
 ?#.
 ?#.
+
 Such#JJ
 delicate#JJ
 beauty#NN
@@ -38547,6 +40729,7 @@ such#JJ
 fine#JJ
 flesh#NN
 .#.
+
 It#PRP
 will#MD
 rip#VB
@@ -38557,9 +40740,11 @@ for#IN
 Madame#NNP
 ''#''
 .#.
+
 Devol#NNP
 !#.
 !#.
+
 You#PRP
 are#VBP
 forgetting#VBG
@@ -38567,6 +40752,7 @@ your#PRP$
 place#NN
 ''#''
 .#.
+
 The#DT
 tall#JJ
 coachman#NN
@@ -38579,6 +40765,7 @@ of#IN
 Alexander#NNP
 Prieur#NNP
 .#.
+
 Delphine#NNP
 Lalaurie#NNP
 took#VBD
@@ -38610,6 +40797,7 @@ at#IN
 Perdido#NNP
 Street#NNP
 .#.
+
 Dr.#NNP
 Louis#NNP
 Lalaurie#NNP
@@ -38634,6 +40822,7 @@ the#DT
 pillared#JJ
 mansion#NN
 .#.
+
 Dandy#NNP
 ,#,
 curiosity#NN
@@ -38653,6 +40842,7 @@ of#IN
 the#DT
 vehicle#NN
 .#.
+
 He#PRP
 saw#VBD
 a#DT
@@ -38669,6 +40859,7 @@ unusually#RB
 large#JJ
 head#NN
 .#.
+
 Dr.#NNP
 Lalaurie#NNP
 wore#VBD
@@ -38690,6 +40881,7 @@ thick#JJ
 octagonal#JJ
 lenses#NNS
 .#.
+
 He#PRP
 was#VBD
 about#IN
@@ -38697,6 +40889,7 @@ about#IN
 years#NNS
 old#JJ
 .#.
+
 Another#DT
 young#JJ
 man#NN
@@ -38705,6 +40898,7 @@ my#PRP$
 dear#NN
 ?#.
 ?#.
+
 Really#RB
 ,#,
 you#PRP
@@ -38725,6 +40919,7 @@ frowning#VBG
 with#IN
 displeasure#NN
 .#.
+
 Delphine#NNP
 presented#VBD
 her#PRP$
@@ -38743,6 +40938,7 @@ a#DT
 timid#JJ
 rooster#NN
 .#.
+
 Dandy#NNP
 is#VBZ
 to#TO
@@ -38753,6 +40949,7 @@ guest#NN
 ,#,
 Louis#NNP
 .#.
+
 I#PRP
 want#VBP
 the#DT
@@ -38776,6 +40973,7 @@ in#IN
 many#JJ
 ways#NNS
 .#.
+
 He#PRP
 deserves#VBZ
 a#DT
@@ -38791,9 +40989,11 @@ Prieur#NNP
 plantation#NN
 ''#''
 .#.
+
 my#PRP$
 dear#NN
 .#.
+
 His#PRP$
 room#NN
 will#MD
@@ -38802,6 +41002,7 @@ ready#JJ
 shortly#RB
 ''#''
 .#.
+
 The#DT
 physician#NN
 led#VBD
@@ -38819,6 +41020,7 @@ the#DT
 cringing#VBG
 slave#NN
 .#.
+
 Had#VBD
 Dandy#NNP
 been#VBN
@@ -38851,6 +41053,7 @@ valued#VBD
 his#PRP$
 life#NN
 .#.
+
 he#PRP
 liked#VBD
 the#DT
@@ -38860,6 +41063,7 @@ Delphine#NNP
 's#POS
 perfume#NN
 .#.
+
 Besides#IN
 ,#,
 her#PRP$
@@ -38880,6 +41084,7 @@ the#DT
 simple#JJ
 youth#NN
 .#.
+
 Also#RB
 ,#,
 he#PRP
@@ -38891,6 +41096,7 @@ drudgery#NN
 and#CC
 monotony#NN
 .#.
+
 Dandy#NNP
 Brandon#NNP
 trustingly#RB
@@ -38918,6 +41124,7 @@ his#PRP$
 new#JJ
 home#NN
 .#.
+
 Airless#JJ
 and#CC
 dingy#JJ
@@ -38954,6 +41161,7 @@ Bayou#NNP
 St.#NNP
 John#NNP
 .#.
+
 He#PRP
 bounced#VBD
 exuberantly#RB
@@ -38989,6 +41197,7 @@ other#JJ
 than#IN
 slumber#NN
 .#.
+
 It#PRP
 was#VBD
 just#RB
@@ -39017,6 +41226,7 @@ his#PRP$
 prison#NN
 cell#NN
 .#.
+
 When#WRB
 he#PRP
 finally#RB
@@ -39038,6 +41248,7 @@ coroner#NN
 's#POS
 basket#NN
 .#.
+
 six#CD
 weeks#NNS
 after#IN
@@ -39078,6 +41289,7 @@ families#NNS
 were#VBD
 invited#VBN
 .#.
+
 A#DT
 stringed#JJ
 orchestra#NN
@@ -39113,6 +41325,7 @@ and#CC
 Louisiana#NNP
 politics#NNS
 .#.
+
 there#EX
 was#VBD
 a#DT
@@ -39147,6 +41360,7 @@ the#DT
 marble#NN
 staircase#NN
 .#.
+
 It#PRP
 was#VBD
 Dandy#NNP
@@ -39172,6 +41386,7 @@ hard#RB
 on#IN
 him#PRP
 .#.
+
 The#DT
 lad#NN
 's#POS
@@ -39186,6 +41401,7 @@ scars#NNS
 and#CC
 welts#NNS
 .#.
+
 His#PRP$
 pinched#JJ
 face#NN
@@ -39195,6 +41411,7 @@ ravages#NNS
 of#IN
 malnutrition#NN
 .#.
+
 he#PRP
 pointed#VBD
 an#DT
@@ -39211,6 +41428,7 @@ Evil#JJ
 woman#NN
 !#.
 !#.
+
 You#PRP
 did#VBD
 this#DT
@@ -39228,6 +41446,7 @@ go#VB
 home#NN
 ''#''
 .#.
+
 These#DT
 were#VBD
 the#DT
@@ -39237,6 +41456,7 @@ he#PRP
 ever#RB
 uttered#VBD
 .#.
+
 Convulsively#RB
 ,#,
 he#PRP
@@ -39264,6 +41484,7 @@ the#DT
 politician#NN
 wore#VBD
 .#.
+
 Dr.#NNP
 Louis#NNP
 Lalaurie#NNP
@@ -39284,6 +41505,7 @@ pronounced#VBD
 him#PRP
 dead#JJ
 .#.
+
 The#DT
 ball#NN
 broke#VBD
@@ -39291,6 +41513,7 @@ up#RB
 in#IN
 confusion#NN
 .#.
+
 Guests#NNS
 stared#VBD
 with#IN
@@ -39303,6 +41526,7 @@ made#VBD
 speedy#JJ
 departures#NNS
 .#.
+
 Delphine#NNP
 stood#VBD
 like#IN
@@ -39322,6 +41546,7 @@ the#DT
 sheeted#JJ
 corpse#NN
 .#.
+
 the#DT
 coroner#NN
 's#POS
@@ -39332,6 +41557,7 @@ a#DT
 forthright#JJ
 story#NN
 .#.
+
 I#PRP
 saw#VBD
 the#DT
@@ -39348,6 +41574,7 @@ sorry#JJ
 for#IN
 him#PRP
 .#.
+
 It#PRP
 was#VBD
 our#PRP$
@@ -39382,6 +41609,7 @@ of#IN
 our#PRP$
 interest#NN
 .#.
+
 After#IN
 I#PRP
 paid#VBD
@@ -39408,6 +41636,7 @@ the#DT
 same#JJ
 night#NN
 .#.
+
 How#WRB
 he#PRP
 returned#VBD
@@ -39425,6 +41654,7 @@ can#MD
 not#RB
 say#VB
 .#.
+
 Dr.#NNP
 Lalaurie#NNP
 and#CC
@@ -39452,6 +41682,7 @@ the#DT
 stairs#NNS
 ''#''
 .#.
+
 She#PRP
 daubed#VBD
 at#IN
@@ -39473,3 +41704,4 @@ That#DT
 poor#JJ
 boy#NN
 !#.
+

@@ -13,7 +13,7 @@ def main(input, output, split):
     """
     with open(input, "r") as input_f, open(output, "w") as output_f:
         output_data = input_f.read().split("\n")  # [line for line in input_f if not line.strip()]
-        output_data = [row.split(" ") for row in output_data if row]
+        output_data = [row.split(" ") if row else [] for row in output_data]
         output_data = output_data[:split] if split else output_data
 
         csv_writer = csv.writer(output_f, delimiter="#")
