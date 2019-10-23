@@ -20,7 +20,6 @@ import logging
 import click
 from pos_tagging.tagger import *
 from pos_tagging.utils import *
-from nltk import word_tokenize
 
 
 logger = logging.getLogger("tagger")
@@ -62,14 +61,16 @@ def analyze(tagger, test_deserialized):
     original_sentences = test_analysis[1]
 
     # use our trained tagger to tage the sentences
-    tagged_sentences = tagger.tag_sents(word_tokenize(sent) for sent in original_sentences)
+    tagged_sentences = tagger.tag_sents(
+        [[token[0] for token in sentence] for sentence in test_deserialized]
+    )
 
     # collect error analysis metrics
     mistagged_data = analyze_mistagged(tagged_sentences, test_deserialized)
     mislabelled_dict = mistagged_data[0]
     tag_occurences_dict = analyze_test(mistagged_data[1])[0]
-    print("Occurences in Custom Tagger= {}\n".format(tag_occurences_dict))
-    print("Occurences in Test (Gold standard) = {}\n".format(occurences_dict))
+    print("Occurences in Predicted (tagged result)= {}".format(tag_occurences_dict))
+    print("Occurences in Test (Gold standard) = {}".format(occurences_dict))
     print("Dictionary of mislabelled tags = {}\n".format(mislabelled_dict))
 
 
