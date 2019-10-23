@@ -28,25 +28,55 @@ def analyze_test(data):
 # Format = Keys are tuples of (Test, CustomerTagger), values are occurences
 def analyze_mistagged(tagged_sentences, test_deserialized):
     mislabelled = {}
-    # print(len(tagged_sentences[0]))
-    # print(len(test_deserialized[0]))
     # https://stackoverflow.com/questions/43747451/stanford-nlp-tagger-via-nltk-tag-sents-splits-everything-into-chars
     # fixed bug where tagger was reading by char
 
     # uses our custom trained tagger on the original sentences
-    # tagged_sentences = tagger.tag_sents(word_tokenize(sent) for sent in original_sentences)
-    # print(tagged_sentences[0])
-    count = 0
-    for test, tagged in zip(tagged_sentences, test_deserialized):
-        if len(test) == 0: continue
-        tag = str(test[1][1])
-        mistagged = str(tagged[1][1])
-        if tag != mistagged:
-            count += 1
-            if (tag, mistagged) in mislabelled:
-                mislabelled[(tag, mistagged)] += 1
-            else:
-                mislabelled[(tag, mistagged)] = 1
+    wrong_tags_count = 0
+    total_tags_count = 0
+    wrong_sentences_count = 0
+    total_sentences_count = len(test_deserialized)
+    for test_sentence, tagged_sentence in zip(tagged_sentences, test_deserialized):
+        if len(test_sentence) == 0:
+            continue  # skip empty line
 
-    print("Number of mistagged word tokens = {}".format(count))
+        for a, b in zip(test_sentence, tagged_sentence):
+            if a[0] != b[0]:
+                raise Exception("Something went wrong...")
+
+        # get mislabed tokens
+        mislabed_pairs = [
+            (test_token[1], tagged_token[1])
+            for test_token, tagged_token in zip(test_sentence, tagged_sentence)
+            if test_token != tagged_token
+        ]
+
+        for each in mislabed_pairs:
+            if each in mislabelled:
+                mislabelled[each] += 1
+            else:
+                mislabelled[each] = 1
+
+        wrong_tags_count += len(mislabed_pairs)
+        total_tags_count += len(test_sentence)
+        wrong_sentences_count += 1 if len(mislabed_pairs) > 0 else 0
+
+    right_tags_count = total_tags_count - wrong_tags_count
+    right_sentences_count = total_sentences_count - wrong_sentences_count
+    print(
+        "Total tags right: {} ({:.4f}%); wrong: {} ({:.4f}%).".format(
+            right_tags_count,
+            right_tags_count / total_tags_count * 100.0,
+            wrong_tags_count,
+            wrong_tags_count / total_tags_count * 100.0,
+        )
+    )
+    print(
+        "Total sentences right: {} ({:.4f}%); wrong: {} ({:.4f}%).".format(
+            right_sentences_count,
+            right_sentences_count / total_sentences_count * 100.0,
+            wrong_sentences_count,
+            wrong_sentences_count / total_sentences_count * 100.0,
+        )
+    )
     return mislabelled, tagged_sentences
