@@ -26,7 +26,7 @@ def main(input, output, split):
     """
     with open(input, "r") as input_f, open(output, "w") as output_f:
         sentences = deserialize_data(input_f)
-        output_data = ["{}\n".format(" ".join(["#".join(token) for token in sentence])) for sentence in sentences]
+        output_data = ["{}\n".format(" ".join(["_".join(token) for token in sentence])) for sentence in sentences]
         output_data = output_data[:split] if split else output_data
         output_f.writelines(output_data)
 

@@ -9,13 +9,17 @@ $ python3 stanford_post_analysis.py
 
 import os
 import re
+import operator
+
+import nltk
 
 from pos_tagging.utils import *
+from collections import Counter
 
 
 def get_files(dir="output"):
     if not os.path.isdir(dir):
-        raise Exception("Directory \"{}\" does not exist.".format(dir))
+        raise Exception('Directory "{}" does not exist.'.format(dir))
 
     (dirpath, _, filenames) = next(os.walk(dir))
     filenames = sorted([filename for filename in filenames if filename.endswith("txt")])
@@ -26,22 +30,26 @@ def get_files(dir="output"):
             files.append({"path": os.path.join(dirpath, filename), "name": filename, "data": data})
     return files
 
+
 def deserialize_data(data):
     sentences_raw = [sentence_raw.split(" ") for sentence_raw in data.split("\n")]
     sequences = []
     for sentence in sentences_raw:
         tmp = []
         for token in sentence:
-            splited_token = token.split("#")
+            splited_token = token.split("_")
             if len(splited_token) == 2:
                 tmp.append((splited_token[0], splited_token[1]))
-        sequences.append(tmp)
+        if len(tmp):
+            sequences.append(tmp)
     return sequences
+
 
 def get_file_by_name(name, file_list):
     for each in file_list:
         if name == each["name"]:
             return each
+
 
 def main():
     tagged_files = get_files("output")
@@ -53,8 +61,11 @@ def main():
         model_name = tmp.group(2)
 
         tagged_sentences = deserialize_data(tagged_file["data"])
-        test_sentences = deserialize_data(get_file_by_name("{}.cleaned.txt".format(test_name), test_files)["data"])
+        test_sentences = deserialize_data(
+            get_file_by_name("{}.cleaned.txt".format(test_name), test_files)["data"]
+        )
 
+        print("Test dataset: {}, Model name: {}".format(test_name, model_name))
         test_analysis = analyze_test(test_sentences)
         occurences_dict = test_analysis[0]
         original_sentences = test_analysis[1]
@@ -63,11 +74,30 @@ def main():
         mislabelled_dict = mistagged_data[0]
         tag_occurences_dict = analyze_test(mistagged_data[1])[0]
 
-        print("Test dataset: {}, Model name: {}".format(test_name, model_name))
-        print("Occurences in Custom Tagger= {}\n".format(tag_occurences_dict))
-        print("Occurences in Test (Gold standard) = {}\n".format(occurences_dict))
-        print("Dictionary of mislabelled tags = {}\n".format(mislabelled_dict))
-        print("\n")
+        # confusion matrix
+        gold = tag_list(test_sentences)
+        test = tag_list(tagged_sentences)
+        cm = nltk.ConfusionMatrix(gold, test)
+        print(cm.pretty_format(sort_by_count=True, show_percents=True, truncate=9))
+
+        stats_report, stats_table = precesion_and_recall(set(gold + test), cm)
+        print(stats_table)
+
+        print(
+            "Occurences in Predicted (tagged result)= {}".format(
+                sorted(tag_occurences_dict.items(), key=operator.itemgetter(1), reverse=True)
+            )
+        )
+        print(
+            "Occurences in Test (Gold standard) = {}".format(
+                sorted(occurences_dict.items(), key=operator.itemgetter(1), reverse=True)
+            )
+        )
+        print(
+            "Dictionary of mislabelled tags = {}\n".format(
+                sorted(mislabelled_dict.items(), key=operator.itemgetter(1), reverse=True)
+            )
+        )
 
 
 if __name__ == "__main__":

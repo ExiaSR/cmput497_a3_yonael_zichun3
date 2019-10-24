@@ -16,10 +16,12 @@ import os
 import ntpath
 import dill
 import logging
+import operator
 
 import click
 from pos_tagging.tagger import *
 from pos_tagging.utils import *
+from collections import Counter
 
 
 logger = logging.getLogger("tagger")
@@ -69,9 +71,31 @@ def analyze(tagger, test_deserialized):
     mistagged_data = analyze_mistagged(tagged_sentences, test_deserialized)
     mislabelled_dict = mistagged_data[0]
     tag_occurences_dict = analyze_test(mistagged_data[1])[0]
-    print("Occurences in Predicted (tagged result)= {}".format(tag_occurences_dict))
-    print("Occurences in Test (Gold standard) = {}".format(occurences_dict))
-    print("Dictionary of mislabelled tags = {}\n".format(mislabelled_dict))
+
+    # confusion matrix
+    gold = tag_list(test_deserialized)
+    test = tag_list(tagged_sentences)
+    cm = nltk.ConfusionMatrix(gold, test)
+    print(cm.pretty_format(sort_by_count=True, show_percents=True, truncate=9))
+
+    stats_report, stats_table = precesion_and_recall(set(gold + test), cm)
+    print(stats_table)
+
+    print(
+        "Occurences in Predicted (tagged result)= {}".format(
+            sorted(tag_occurences_dict.items(), key=operator.itemgetter(1), reverse=True)
+        )
+    )
+    print(
+        "Occurences in Test (Gold standard) = {}".format(
+            sorted(occurences_dict.items(), key=operator.itemgetter(1), reverse=True)
+        )
+    )
+    print(
+        "Dictionary of mislabelled tags = {}\n".format(
+            sorted(mislabelled_dict.items(), key=operator.itemgetter(1), reverse=True)
+        )
+    )
 
 
 @click.command()
