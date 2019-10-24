@@ -1,8 +1,3 @@
-bootstrap:
-	curl https://nlp.stanford.edu/software/stanford-postagger-full-2018-10-16.zip -o stanford-postagger.zip
-	unzip stanford-postagger.zip
-	mv stanford-postagger-full-2018-10-16 stanford-postagger
-
 format:
 	# format files to use "#" as seperator
 	python clean_data.py A3DataCleaned/Domain1Train.txt A3DataCleaned/Domain1Train.cleaned.txt
