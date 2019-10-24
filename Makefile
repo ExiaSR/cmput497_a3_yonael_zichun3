@@ -29,7 +29,6 @@ test:
 	java -classpath stanford-postagger/stanford-postagger.jar edu.stanford.nlp.tagger.maxent.MaxentTagger -model Domain2.tagger -testFile A3DataCleaned/ELLTest.cleaned.txt > output/ELLTest-tagged.Domain2Train.txt
 	java -classpath stanford-postagger/stanford-postagger.jar edu.stanford.nlp.tagger.maxent.MaxentTagger -model ELL.tagger -testFile A3DataCleaned/ELLTest.cleaned.txt > output/ELLTest-tagged.ELLTrain.txt
 
-
 test-hmm:
 	python tagger.py --train_file A3DataCleaned/Domain1Train.txt --test_file A3DataCleaned/Domain1Test.txt --tagger hmm
 	python tagger.py --train_file A3DataCleaned/Domain1Train.txt --test_file A3DataCleaned/Domain2Test.txt --tagger hmm
@@ -47,3 +46,6 @@ test-brill:
 	python tagger.py --train_file A3DataCleaned/Domain1Train.txt --test_file A3DataCleaned/ELLTest.txt --tagger brill
 	python tagger.py --train_file A3DataCleaned/Domain2Train.txt --test_file A3DataCleaned/ELLTest.txt --tagger brill
 	python tagger.py --train_file A3DataCleaned/ELLTrain.txt --test_file A3DataCleaned/ELLTest.txt --tagger brill
+
+archive:
+	zip -r -X cmput497_a3_yonael_zichun3.zip . -x .\* -x */\__pycache__/\* -x *.pyc -x venv/\* -x .git/\* -x .vscode/\*
