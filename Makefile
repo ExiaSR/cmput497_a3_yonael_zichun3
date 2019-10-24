@@ -1,5 +1,5 @@
 format:
-	# format files to use "#" as seperator
+	# format files to use "_" as seperator
 	python clean_data.py A3DataCleaned/Domain1Train.txt A3DataCleaned/Domain1Train.cleaned.txt
 	python clean_data.py A3DataCleaned/Domain2Train.txt A3DataCleaned/Domain2Train.cleaned.txt
 	python clean_data.py A3DataCleaned/Domain1Test.txt A3DataCleaned/Domain1Test.cleaned.txt
@@ -8,7 +8,7 @@ format:
 	python clean_data.py A3DataCleaned/ELLTrain.txt A3DataCleaned/ELLTrain.cleaned.txt
 
 format-dev:
-	# format files to use "#" as seperator
+	# format files to use "_" as seperator
 	python clean_data.py A3DataCleaned/Domain1Train.txt A3DataCleaned/Domain1Train.cleaned.txt --split=5000
 	python clean_data.py A3DataCleaned/Domain2Train.txt A3DataCleaned/Domain2Train.cleaned.txt --split=5000
 
