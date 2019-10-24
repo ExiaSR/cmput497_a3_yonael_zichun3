@@ -35,7 +35,7 @@ outputFile = Domain2Train.output
 # Tag separator character that separates word and pos tags
 # (for both training and test data) and used for
 # separating words and tags in slashTags format output.
-tagSeparator = #
+tagSeparator = _
 
 # Encoding format in which files are stored.  If left blank, UTF-8 is assumed.
 # encoding = UTF-8

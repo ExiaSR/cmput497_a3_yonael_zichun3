@@ -1,4 +1,6 @@
 from nltk import word_tokenize
+from prettytable import PrettyTable
+from collections import Counter
 
 
 # goes through Dictionary with POS tagged sentences
@@ -80,3 +82,41 @@ def analyze_mistagged(tagged_sentences, test_deserialized):
         )
     )
     return mislabelled, tagged_sentences
+
+
+def tag_list(tagged_sents):
+    return [tag for sent in tagged_sents for (word, tag) in sent]
+
+
+# taken from https://stackoverflow.com/a/23715286/4557739
+def precesion_and_recall(labels, cm):
+    # precision and recall
+    true_positives = Counter()
+    false_negatives = Counter()
+    false_positives = Counter()
+
+    for i in labels:
+        for j in labels:
+            if i == j:
+                true_positives[i] += cm[i, j]
+            else:
+                false_negatives[i] += cm[i, j]
+                false_positives[j] += cm[i, j]
+
+    results = []
+    table = PrettyTable()
+    table.field_names = ["label", "precision", "recall", "f-score"]
+    for each in sorted(labels):
+        if true_positives[i] == 0:
+            fscore = 0
+            results.append({"label": each, "f_score": fscore})
+            table.add_row([each, None, None, fscore])
+        else:
+            precision = true_positives[i] / float(true_positives[i] + false_positives[i])
+            recall = true_positives[i] / float(true_positives[i] + false_negatives[i])
+            fscore = 2 * (precision * recall) / float(precision + recall)
+            results.append(
+                {"label": each, "precision": precision, "recall": recall, "f_score": fscore}
+            )
+            table.add_row([each, precision, recall, fscore])
+    return results, table

@@ -1,6 +1,7 @@
 import logging
 
 import nltk
+import nltk.tag.brill as brill
 
 from nltk.tbl.template import Template
 from nltk.tag.hmm import (
@@ -11,6 +12,7 @@ from nltk.tag.hmm import (
     LazyMap,
     unique_list,
 )
+from nltk.tag.stanford import StanfordPOSTagger
 from nltk.tag.brill_trainer import BrillTaggerTrainer, BrillTagger
 from nltk.tag.brill import Word, Pos
 from nltk.tag import UnigramTagger
@@ -24,11 +26,11 @@ class Tagger(object):
         self.tagger = None
 
     @staticmethod
-    def factory(tagger_name):
+    def factory(tagger_name, **kwargs):
         if tagger_name == "hmm":
             return HMMTagger()
         elif tagger_name == "brill":
-            return BrillTagger()
+            return BrillTagger(**kwargs)
 
     def train(self, train_data):
         pass
@@ -64,26 +66,35 @@ class HMMTagger(Tagger):
 
 
 class BrillTagger(Tagger):
-    def __init__(self):
-        pass
-
     def train(self, data):
-        # split 10% of training data for baseline tagger
-        cutoff_idx = int(len(data) * 0.1)
-        baseline_data = data[:cutoff_idx]
-        training_data = data[cutoff_idx:]
-        logger.info(
-            "Number of sentences, Baseline data: {}, Training data: {}".format(
-                len(baseline_data), len(training_data)
-            )
-        )
-
         # baseline tagger: unigram tagger
-        self.baseline_tagger = UnigramTagger(baseline_data)
+        hmm = HMMTagger()
+        hmm.train(data)
+        self.baseline_tagger = hmm.tagger
 
-        templates = [Template(Pos([-1])), Template(Pos([-1]), Word([0]))]
+        # train brill tagger with HMM as baseline
+        templates = [
+            brill.Template(brill.Pos([-1])),
+            brill.Template(brill.Pos([1])),
+            brill.Template(brill.Pos([-2])),
+            brill.Template(brill.Pos([2])),
+            brill.Template(brill.Pos([-2, -1])),
+            brill.Template(brill.Pos([1, 2])),
+            brill.Template(brill.Pos([-3, -2, -1])),
+            brill.Template(brill.Pos([1, 2, 3])),
+            brill.Template(brill.Pos([-1]), brill.Pos([1])),
+            brill.Template(brill.Word([-1])),
+            brill.Template(brill.Word([1])),
+            brill.Template(brill.Word([-2])),
+            brill.Template(brill.Word([2])),
+            brill.Template(brill.Word([-2, -1])),
+            brill.Template(brill.Word([1, 2])),
+            brill.Template(brill.Word([-3, -2, -1])),
+            brill.Template(brill.Word([1, 2, 3])),
+            brill.Template(brill.Word([-1]), brill.Word([1])),
+        ]
         self.trainer = BrillTaggerTrainer(self.baseline_tagger, templates=templates)
-        self.tagger = self.trainer.train(training_data)
+        self.tagger = self.trainer.train(data)
 
     def test(self, test_data):
         logger.info(

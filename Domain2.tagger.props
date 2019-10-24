@@ -1,4 +1,4 @@
-## tagger training invoked at Tue Oct 22 17:06:34 MDT 2019 with arguments:
+## tagger training invoked at Wed Oct 23 12:30:25 MDT 2019 with arguments:
                    model = Domain2.tagger
                     arch = words(-1,1),unicodeshapes(-1,1),order(2),suffix(4)
             wordFunction = 
@@ -8,7 +8,7 @@
  curWordMinFeatureThresh = 2
                    debug = false
              debugPrefix = 
-            tagSeparator = #
+            tagSeparator = _
                 encoding = UTF-8
               iterations = 100
                     lang = english
