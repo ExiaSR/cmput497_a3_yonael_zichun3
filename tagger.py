@@ -53,7 +53,8 @@ def deserialize_data(data_file):
             splited_token = token.split(" ")
             if len(splited_token) == 2:
                 tmp.append((splited_token[0], splited_token[1]))
-        sequences.append(tmp)
+        if len(tmp) > 0:
+            sequences.append(tmp)
     return sequences
 
 
@@ -123,15 +124,15 @@ def main(tagger_name, model, train_file, test_file, debug):
     tagger = Tagger.factory(tagger_name)
     tagger.train(deserialize_data(train_file))
     test_deserialized = deserialize_data(test_file)
-    accuracy = tagger.test(test_deserialized)
-    logger.info(
-        "Model: {}, Train file: {}, Test file: {}, Accuracy: {:.2f}%".format(
-            model_name, train_file.name, test_file.name, accuracy * 100.0
-        )
-    )
+    # accuracy = tagger.test(test_deserialized)
+    # logger.info(
+    #     "Model: {}, Train file: {}, Test file: {}, Accuracy: {:.2f}%".format(
+    #         model_name, train_file.name, test_file.name, accuracy * 100.0
+    #     )
+    # )
 
     # save trained model to disk
-    save_object(tagger.tagger, model_name)
+    # save_object(tagger.tagger, model_name)
 
     # error analysis
     analyze(tagger.tagger, test_deserialized)

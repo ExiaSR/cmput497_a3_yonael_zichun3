@@ -107,13 +107,13 @@ def precesion_and_recall(labels, cm):
     table = PrettyTable()
     table.field_names = ["label", "precision", "recall", "f-score"]
     for each in sorted(labels):
-        if true_positives[i] == 0:
+        if true_positives[each] == 0:
             fscore = 0
             results.append({"label": each, "f_score": fscore})
             table.add_row([each, None, None, fscore])
         else:
-            precision = true_positives[i] / float(true_positives[i] + false_positives[i])
-            recall = true_positives[i] / float(true_positives[i] + false_negatives[i])
+            precision = true_positives[each] / float(true_positives[each] + false_positives[each])
+            recall = true_positives[each] / float(true_positives[each] + false_negatives[each])
             fscore = 2 * (precision * recall) / float(precision + recall)
             results.append(
                 {"label": each, "precision": precision, "recall": recall, "f_score": fscore}
