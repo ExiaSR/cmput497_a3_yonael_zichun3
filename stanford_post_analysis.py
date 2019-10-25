@@ -57,6 +57,7 @@ def main():
 
     for tagged_file in tagged_files:
         tmp = re.search(r"stanford.(.*)-tagged.(.*).txt", tagged_file["name"])
+        if not tmp: continue
         test_name = tmp.group(1)
         model_name = tmp.group(2)
 
