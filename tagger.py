@@ -58,7 +58,7 @@ def deserialize_data(data_file):
     return sequences
 
 
-def analyze(tagger, test_deserialized):
+def analyze(tagger, test_deserialized, train_deserialized):
     test_analysis = analyze_test(test_deserialized)
     occurences_dict = test_analysis[0]
     original_sentences = test_analysis[1]
@@ -68,17 +68,41 @@ def analyze(tagger, test_deserialized):
         [[token[0] for token in sentence] for sentence in test_deserialized]
     )
 
-    # collect error analysis metrics
+    # oov analysis
+    oov_report = oov_analysis(train_deserialized, test_deserialized, tagged_sentences)
+    print(
+        "Results on {total_sentences} sentences and {total_words} words, of which {oov_count} were unknown.".format(
+            **oov_report
+        )
+    )
+    print(
+        "Unknown words right: {oov_right_count} ({0:.4f}%); wrong: {oov_wrong_count} ({1:.4f}%).".format(
+            oov_report["oov_right_count"] / oov_report["oov_count"] * 100.0,
+            oov_report["oov_wrong_count"] / oov_report["oov_count"] * 100.0,
+            **oov_report,
+        )
+    )
+
+    # collect mistagged metrics
     mistagged_data = analyze_mistagged(tagged_sentences, test_deserialized)
     mislabelled_dict = mistagged_data[0]
     tag_occurences_dict = analyze_test(mistagged_data[1])[0]
+
+    print("\n==========================OOV Sampling========================")
+    print("Sampling: randomly selected 10 sentences that contain OOV words.")
+    print("Format: [(word, (gold_tag, test_tag)), (word, (gold_tag, test_tag))]")
+    print("\n".join(["{}: {}".format(idx+1, str(each)) for idx, each in enumerate(oov_report["random_sample"])]))
+    print("========================End of OOV Sampling======================\n")
 
     # confusion matrix
     gold = tag_list(test_deserialized)
     test = tag_list(tagged_sentences)
     cm = nltk.ConfusionMatrix(gold, test)
+    print("\n==========================Confusion Matrix========================")
     print(cm.pretty_format(sort_by_count=True, show_percents=True, truncate=9))
+    print("========================End of Confusion Matrix======================\n")
 
+    # precesion and recall
     stats_report, stats_table = precesion_and_recall(set(gold + test), cm)
     print(stats_table)
 
@@ -120,22 +144,24 @@ def main(tagger_name, model, train_file, test_file, debug):
         os.path.splitext(ntpath.basename(train_file.name))[0], tagger_name
     )
 
+    train_deserialized = deserialize_data(train_file)
+    test_deserialized = deserialize_data(test_file)
+
     # train and test tagger
     tagger = Tagger.factory(tagger_name)
-    tagger.train(deserialize_data(train_file))
-    test_deserialized = deserialize_data(test_file)
-    # accuracy = tagger.test(test_deserialized)
-    # logger.info(
-    #     "Model: {}, Train file: {}, Test file: {}, Accuracy: {:.2f}%".format(
-    #         model_name, train_file.name, test_file.name, accuracy * 100.0
-    #     )
-    # )
+    tagger.train(train_deserialized)
+    accuracy = tagger.test(test_deserialized)
+    print(
+        "Model: {}, Train file: {}, Test file: {}, Accuracy: {:.2f}%".format(
+            model_name, train_file.name, test_file.name, accuracy * 100.0
+        )
+    )
 
     # save trained model to disk
     # save_object(tagger.tagger, model_name)
 
     # error analysis
-    analyze(tagger.tagger, test_deserialized)
+    analyze(tagger.tagger, test_deserialized, train_deserialized)
 
 
 if __name__ == "__main__":

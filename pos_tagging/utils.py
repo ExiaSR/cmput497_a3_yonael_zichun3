@@ -1,3 +1,7 @@
+import nltk
+import random
+
+from itertools import chain
 from nltk import word_tokenize
 from prettytable import PrettyTable
 from collections import Counter
@@ -120,3 +124,40 @@ def precesion_and_recall(labels, cm):
             )
             table.add_row([each, precision, recall, fscore])
     return results, table
+
+# Analysis on out-of-vocabulary words
+def oov_analysis(train_sentences, test_sentences, tagged_sentences):
+    train_words, train_tags = zip(*chain(*train_sentences))
+    test_words, test_tags = zip(*chain(*test_sentences))
+    oov = set(test_words).difference(set(train_words))
+
+    oov_wrong_count = 0
+    # count number of time each gold_label is wrong
+    oov_label_counter = Counter()
+    # count number of time each (gold, test) pair is wrong
+    oov_mislabeled_counter = Counter()
+    random_samples = []
+    flag = False
+    for test_sent, tagged_sent in zip(test_sentences, tagged_sentences):
+        flag = False
+        for test_token, tagged_token in zip(test_sent, tagged_sent):
+            if test_token[0] in oov and test_token[1] != tagged_token[1]:
+                oov_label_counter[test_token[1]] += 1
+                oov_mislabeled_counter[(test_token[1], tagged_token[1])] += 1
+                oov_wrong_count += 1
+                flag = True
+        if flag:
+            # [(word, (gold, test)), (word, (gold, test))]
+            random_samples.append([(a[0], (a[1], b[1])) for a, b in zip(test_sent, tagged_sent)])
+
+    return {
+        "oov": oov,
+        "total_sentences": len(test_sentences),
+        "total_words": len(test_words),
+        "oov_count": len(oov),
+        "oov_wrong_count": oov_wrong_count,
+        "oov_right_count": len(oov) - oov_wrong_count,
+        "oov_mislabled_counter": oov_mislabeled_counter,
+        "oov_wrong_label_counter": oov_label_counter,
+        "random_sample": random.sample(random_samples, k=10)
+    }
