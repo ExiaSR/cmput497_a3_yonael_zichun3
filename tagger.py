@@ -45,7 +45,7 @@ def read_object(filename):
 
 def save_output(filename, tagged_sentences, dir="output/"):
     with open(os.path.join(dir, filename), "w") as output_file:
-        output_data = ["{}\n\n".format(" ".join(["_\n".join(token) for token in sentence])) for sentence in tagged_sentences]
+        output_data = ["{}\n\n".format("\n".join(["_".join(token) for token in sentence])) for sentence in tagged_sentences]
         output_file.writelines(output_data)
 
 def deserialize_data(data_file):

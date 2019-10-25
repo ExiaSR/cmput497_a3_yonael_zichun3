@@ -1,10591 +1,10091 @@
-But_
-CC the_
-DT way_
-NN ,_
-, I_
-PRP do_
-VBP not_
-RB like_
-VB to_
-TO stay_
-VB alone_
-RB ._
-.
-
-On_
-IN the_
-DT other_
-JJ hand_
-NN ,_
-, people_
-NNS tend_
-VBP to_
-TO wear_
-VB natural_
-JJ clothes_
-JJ today_
-NN ,_
-, made_
-VBN of_
-IN cotton_
-NN ,_
-, wool_
-PRP ._
-.
-
-You_
-PRP should_
-MD spend_
-VB more_
-JJR money_
-NN on_
-IN buying_
-DT clothes_
-NN and_
-CC food_
-NNP ,_
-, you_
-PRP will_
-MD very_
-RB happy_
-, when_
-WRB you_
-PRP buy_
-VBD it_
-PRP ,_
-, but_
-CC ,_
-, when_
-WRB you_
-PRP come_
-VBP back_
-RB home_
-TO take_
-VB out_
-IN you_
-PRP purse_
-VBD ,_
-, you_
-PRP must_
-MD be_
-VB feel_
-VB sad_
-VBN ,_
-, you_
-PRP purse_
-VBP nearly_
-RB empty_
-JJ ,_
-, (_
-( when_
-WRB you_
-PRP do_
-VBP n't_
-RB have_
-VB enough_
-JJ money_
-NN ._
-. )_
-)
-
-It_
-PRP is_
-VBZ going_
-VBG to_
-TO be_
-VB very_
-RB lovely_
-JJ and_
-CC enjoyable_
-RB because_
-IN I_
-PRP have_
-VBP lots_
-VBN of_
-IN surprises_
-NN for_
-IN students_
-NNS ._
-.
-
-Mr_
-NNP White_
-NNP came_
-VBD to_
-TO our_
-PRP$ school_
-NN when_
-WRB he_
-PRP was_
-VBD 40_
-TO year-old_
-VB but_
-CC still_
-RB well-looking_
-, and_
-CC all_
-DT my_
-PRP$ girls_
-NNS school-mates_
-WDT fell_
-VBD suddenly_
-RB in_
-IN love_
-NN with_
-IN him_
-PRP ;_
-: he_
-PRP was_
-VBD always_
-RB so_
-IN kind_
-NN and_
-CC generous_
-JJ towards_
-IN his_
-PRP$ pupils_
-NNS that_
-IN any_
-DT girls_
-NNS felt_
-VBD herself_
-PRP loved_
-VBD by_
-IN him_
-PRP :_
-: Pat_
-: certainly_
-RB was_
-VBD one_
-CD of_
-IN them_
-PRP ._
-.
-
-On_
-IN the_
-DT last_
-JJ day_
-NN I_
-PRP go_
-VBP to_
-TO your_
-PRP$ house_
-NN and_
-CC then_
-RB we_
-PRP think_
-VBP about_
-IN our_
-PRP$ 's_
-NNS conference_
-. plane_
-. ._
-.
-
-I_
-PRP use_
-VBP internet_
-RB now_
-RB ._
-.
-
-I_
-PRP 'm_
-VBP sorry_
-VBN I_
-PRP did_
-VBD n't_
-RB write_
-VB you_
-PRP before_
-IN ,_
-, but_
-CC I_
-PRP was_
-VBD so_
-RB busy_
-VBN with_
-IN my_
-PRP$ exams_
-NNS ._
-.
-
-The_
-DT tower_
-NN is_
-VBZ absolutly_
-VBN marvelous_
-. ._
-.
-
-I_
-PRP would_
-MD like_
-VB to_
-TO ask_
-VB ,_
-, if_
-IN you_
-PRP could_
-MD expend_
-VB the_
-DT plays_
-NNS and_
-CC films_
-RB more_
-RBR for_
-IN next_
-JJ year_
-NN ?_
-.
-
-I_
-PRP can_
-MD play_
-VB tennis_
-VBN quite_
-RB well_
-RB ,_
-, but_
-CC I_
-PRP have_
-VBP never_
-RB played_
-VBN golf_
-RB ,_
-, so_
-RB ,_
-, if_
-IN it_
-PRP is_
-VBZ possible_
-JJ ,_
-, I_
-PRP would_
-MD like_
-VB taking_
-VBG lessons_
-NNS with_
-IN a_
-DT teacher_
-NN ._
-.
-
-There_
-EX ,_
-, it_
-PRP is_
-VBZ impossible_
-JJ for_
-IN journalists_
-VBG to_
-TO stop_
-VB chasing_
-WRB them_
-PRP ._
-.
-
-And_
-CC I_
-PRP ca_
-MD n't_
-RB even_
-RB think_
-VB about_
-IN how_
-WRB it_
-PRP would_
-MD be_
-VB not_
-RB having_
-VBG a_
-DT computer_
-NN ._
-.
-
-Pat_
-PRP was_
-VBD very_
-RB frightened_
-VBN with_
-IN this_
-DT situation_
-NN ._
-.
-
-Photography_
-PRP is_
-VBZ a_
-DT very_
-JJ interesting_
-JJ activitie_
-NNS ,_
-, and_
-CC is_
-VBZ not_
-RB too_
-RB hard_
-JJ to_
-TO do_
-VB too_
-RB ._
-.
-
-I_
-PRP play_
-VBP tennis_
-VBN since_
-IN I_
-PRP was_
-VBD a_
-DT child_
-NN and_
-CC I_
-PRP have_
-VBP won_
-VBD some_
-DT competitions_
-NN in_
-IN my_
-PRP$ town_
-NN so_
-IN I_
-PRP think_
-VBP I_
-PRP play_
-VBP very_
-RB well_
-RB ._
-.
-
-Tecnology_
-PRP improves_
-VBD our_
-PRP$ lives_
-NNS ,_
-,
-
-I_
-PRP think_
-VBP this_
-DT way_
-NN is_
-VBZ better_
-RB to_
-TO keep_
-VB in_
-IN touch_
-NN with_
-IN the_
-DT nature_
-NN ._
-.
-
-There_
-EX are_
-VBP some_
-DT of_
-IN the_
-DT modern_
-JJ techonologys_
-NNS that_
-IN most_
-JJS help_
-VB me_
-PRP but_
-CC there_
-EX are_
-VBP some_
-DT others_
-NNS which_
-WDT are_
-VBP also_
-RB very_
-RB important_
-JJ for_
-IN me_
-PRP ._
-.
-
-Since_
-IN I_
-PRP have_
-VBP studied_
-RB photography_
-VBN for_
-IN several_
-JJ years_
-NNS ,_
-, I_
-PRP would_
-MD like_
-VB to_
-TO take_
-VB some_
-DT picture_
-NN of_
-IN beautiful_
-JJ scenaries_
-NNS in_
-IN California_
-NNP ._
-.
-
-We_
-PRP can_
-MD love_
-VB them_
-PRP without_
-IN disturbing_
-JJ too_
-RB ._
-.
-
-As_
-IN we_
-PRP are_
-VBP from_
-IN the_
-DT small_
-JJ town_
-NN we_
-PRP do_
-VBP n't_
-RB have_
-VB any_
-DT possibility_
-NN to_
-TO learn_
-VB about_
-IN this_
-DT ._
-.
-
-She_
-PRP was_
-VBD the_
-DT head_
-NN in_
-IN this_
-DT story_
-NN ._
-.
-
-I_
-PRP did_
-VBD a_
-DT big_
-JJ mistake_
-NN by_
-IN trusting_
-WDT him_
-PRP ._
-.
-
-From_
-IN that_
-DT time_
-NN ,_
-, I_
-PRP decided_
-VBD to_
-TO buy_
-VB my_
-PRP$ own_
-JJ computer_
-NNS and_
-CC every_
-DT day_
-NN I_
-PRP was_
-VBD improving_
-TO my_
-PRP$ knowledge_
-NN ._
-.
-
-The_
-DT Marine_
-NNP 's_
-POS real_
-JJ father_
-NN want_
-IN her_
-PRP$ back_
-NN but_
-CC the_
-DT other_
-JJ cuples_
-NNS did_
-VBD n't_
-RB want_
-VBP to_
-TO give_
-VB her_
-PRP because_
-IN they_
-PRP loved_
-VBD Marine_
-RB so_
-RB much_
-RB ._
-.
-
-I_
-PRP look_
-VBP forward_
-RB to_
-TO receiving_
-VB your_
-PRP$ satisfactory_
-JJ reply_
-NNS by_
-IN return_
-NN of_
-IN post_
-NN ._
-.
-
-Other_
-JJ members_
-NNS of_
-IN groups_
-NNS can_
-MD wear_
-VB a_
-DT normal_
-NN pretty_
-. formal_
-. dress_
-. ._
-.
-
-Whereas_
-IN an_
-DT advertisement_
-NN promised_
-VBD stars_
-VBN from_
-IN around_
-IN the_
-DT world_
-NN ._
-.
-
-I_
-PRP will_
-MD be_
-VB very_
-RB glad_
-JJ to_
-TO partecipate_
-VB to_
-TO your_
-PRP$ camp_
-NNS !_
-.
-
-They_
-PRP all_
-DT knows_
-VBZ where_
-WRB the_
-DT conference_
-NN is_
-VBZ and_
-CC when_
-NN ._
-.
-
-What_
-WP are_
-VBP you_
-PRP going_
-VBD to_
-TO do_
-VB without_
-IN phone_
-NN ?_
-.
-
-There_
-EX are_
-VBP a_
-DT lot_
-NN of_
-IN advantages_
-NN for_
-IN it_
-PRP ._
-.
-
-I_
-PRP wish_
-VB you_
-PRP were_
-VBD there_
-RB ._
-.
-
-I_
-PRP am_
-VBP glad_
-VBN I_
-PRP had_
-VBD taken_
-VBN a_
-DT part_
-NN in_
-IN a_
-DT few_
-JJ competitions_
-NNS ,_
-, and_
-CC I_
-PRP was_
-VBD so_
-RB proud_
-JJ of_
-IN our_
-PRP$ basketball_
-JJ team_
-NN ._
-.
-
-and_
-CC then_
-RB went_
-VBD away_
-RB without_
-IN listening_
-VBG the_
-DT answer_
-NN ._
-.
-
-Lily_
-PRP was_
-VBD one_
-CD of_
-IN her_
-PRP$ best_
-JJS friend_
-NN before_
-IN three_
-CD year_
-NN ._
-.
-
-Some_
-DT times_
-NNS we_
-PRP have_
-VBP to_
-TO have_
-VB deal_
-NN with_
-IN not_
-RB good_
-JJ service_
-NN or_
-CC for_
-IN example_
-NN could_
-MD you_
-PRP imagine_
-VBP it_
-PRP on_
-IN your_
-PRP$ way_
-NN to_
-TO shop_
-VB you_
-PRP have_
-VBP met_
-RB wrong_
-JJ people_
-NNS or_
-CC someone_
-NN told_
-VBD you_
-PRP bad_
-. news_
-. ._
-.
-
-I_
-PRP would_
-MD like_
-VB to_
-TO have_
-VB my_
-PRP$ two_
-CD weeks_
-NNS with_
-IN you_
-PRP in_
-IN July_
-NNP ,_
-, as_
-IN it_
-PRP will_
-MD be_
-VB during_
-IN my_
-PRP$ summer_
-NN holiday_
-, in_
-IN addition_
-NN that_
-IN it_
-PRP is_
-VBZ said_
-VBD to_
-TO be_
-VB the_
-DT best_
-JJS season_
-NN there_
-. ._
-.
-
-The_
-DT worst_
-JJS thing_
-NN is_
-VBZ that_
-IN I_
-PRP could_
-MD n't_
-RB watch_
-VB my_
-PRP$ favorite_
-JJ actor_
-. ._
-.
-
-Last_
-NNP week_
-NNP ,_
-, I_
-PRP went_
-VBD to_
-TO London_
-NNP in_
-IN your_
-PRP$ theatre_
-NN to_
-TO see_
-VB "_
-TO Over_
-VB the_
-DT rainbow_
-NN "_
-, and_
-CC I_
-PRP had_
-VBD a_
-DT disappointing_
-JJ evening_
-NN ._
-.
-
-I_
-PRP have_
-VBP always_
-RB wanted_
-VBN to_
-TO spend_
-VB my_
-PRP$ holidays_
-NNS in_
-IN tent_
-NN but_
-CC my_
-PRP$ father_
-NN has_
-VBZ never_
-RB given_
-VBN me_
-PRP the_
-DT permission_
-NN ,_
-, and_
-CC this_
-DT would_
-MD be_
-VB an_
-DT ideal_
-JJ opportunity_
-NN for_
-IN me_
-PRP to_
-TO learn_
-VB about_
-IN camp_
-DT life_
-NN ._
-.
-
-I_
-PRP 've_
-VBP received_
-VBN your_
-PRP$ letter_
-NN two_
-CD days_
-NNS ago_
-RB and_
-CC I_
-PRP 'm_
-VBP quite_
-RB happy_
-JJ to_
-TO know_
-VB that_
-IN you_
-PRP passed_
-VBD F.C.E._
-VBN
-
-And_
-CC as_
-IN regards_
-PRP breaks_
-VBZ student_
-TO consider_
-VB them_
-PRP being_
-VBG a_
-DT very_
-JJ important_
-JJ part_
-NN of_
-IN school_
-NN life_
-NN ,_
-, despite_
-IN all_
-DT their_
-PRP$ mess_
-NN and_
-CC noise_
-NN ._
-.
-
-Both_
-DT of_
-IN them_
-PRP I_
-PRP am_
-VBP not_
-RB as_
-IN good_
-JJ as_
-IN you_
-PRP expect_
-VB ,_
-, but_
-CC recently_
-RB I_
-PRP have_
-VBP been_
-VBN intrested_
-VBN in_
-IN those_
-DT ._
-.
-
-That_
-DT is_
-VBZ really_
-RB intresting_
-. ._
-.
-
-it_
-PRP is_
-VBZ very_
-RB interesting_
-JJ ,_
-, especially_
-RB for_
-IN the_
-DT young_
-JJ people_
-NNS ._
-.
-
-Than_
-PRP to_
-TO technology_
-VB we_
-PRP can_
-MD reach_
-VB any_
-DT place_
-NN in_
-IN the_
-DT world_
-NN easily_
-. ._
-.
-
-She_
-PRP was_
-VBD sended_
-VBN to_
-TO New_
-NNP York_
-NNP to_
-TO discover_
-VB how_
-WRB some_
-DT people_
-NNS from_
-IN government_
-NN gave_
-VBD money_
-VBN to_
-TO the_
-DT merchants_
-NNS because_
-IN they_
-PRP want_
-VBP to_
-TO build_
-VB a_
-DT Trade_
-NN Center_
-. there_
-. ._
-.
-
-Concerning_
-IN the_
-DT party_
-NN we_
-PRP do_
-VBP not_
-RB have_
-VB a_
-DT casual_
-JJ dressing_
-VBG code_
-NN ._
-.
-
-At_
-IN 8_
-PRP pm_
-MD Metallica_
-VB started_
-VBN and_
-CC I_
-PRP have_
-VBP to_
-TO tell_
-VB you_
-PRP ,_
-, they_
-PRP did_
-VBD a_
-DT great_
-JJ performance_
-NN ._
-.
-
-It_
-PRP highlights_
-VBD the_
-DT background_
-NN history_
-NN and_
-CC considers_
-VBZ the_
-DT interest_
-NN of_
-IN young_
-JJ peoples_
-NNS ,_
-, and_
-CC makes_
-VBZ a_
-DT final_
-JJ recommendation_
-. ._
-.
-
-And_
-CC ,_
-, I_
-PRP would_
-MD appreciate_
-VB if_
-IN you_
-PRP give_
-VBP me_
-PRP a_
-DT refund_
-NN ._
-.
-
-From_
-DT small_
-JJ village_
-NN to_
-TO town_
-NN was_
-VBD very_
-RB long_
-JJ way_
-NN becouse_
-IN the_
-DT people_
-NNS used_
-VBN horse_
-NN and_
-CC wagon_
-NN ._
-.
-
-I_
-PRP prefer_
-VBP to_
-TO live_
-VB in_
-IN log_
-DT cabin_
-NN because_
-IN I_
-PRP think_
-VBP it_
-PRP 's_
-VBZ more_
-RBR comfortable_
-JJ ._
-.
-
-For_
-IN instance_
-NN ,_
-, when_
-WRB I_
-PRP want_
-VBP to_
-TO contanct_
-VB with_
-IN to_
-TO my_
-PRP$ friend_
-NN ,_
-, it_
-PRP 's_
-VBZ quite_
-RB helpful_
-JJ by_
-IN using_
-VBG e-mail_
-. ._
-.
-
-To_
-TO sum_
-VB up_
-RB ,_
-, although_
-IN there_
-EX is_
-VBZ certainly_
-RB a_
-DT good_
-JJ side_
-NN of_
-IN shopping_
-NNP ,_
-, such_
-JJ as_
-IN pleasures_
-NN of_
-IN getting_
-VBG new_
-JJ stuff_
-NN and_
-CC spending_
-JJ money_
-NN on_
-IN something_
-NN you_
-PRP really_
-RB wanted_
-VBN for_
-IN long_
-JJ time_
-NN ,_
-, you_
-PRP also_
-RB have_
-VB some_
-DT unpleasant_
-JJ moments_
-NNS to_
-TO get_
-VB through_
-IN ._
-.
-
-Besides_
-NNP ,_
-, I_
-PRP would_
-MD prefer_
-VB to_
-TO stay_
-VB in_
-IN a_
-DT tent_
-NN since_
-IN I_
-PRP have_
-VBP never_
-RB had_
-VBD the_
-DT exciting_
-JJ experience_
-NN to_
-TO sleep_
-VB in_
-IN the_
-DT middle_
-NN of_
-IN the_
-DT nature_
-NN ._
-.
-
-Peter_
-NNP and_
-CC Sue_
-PRP asked_
-VBD to_
-TO Francis_
-VB some_
-DT help_
-NN for_
-IN their_
-PRP$ exam_
-NNP 's_
-POS subjets_
-NN and_
-CC Francis_
-NNP ,_
-, for_
-IN to_
-TO help_
-VB them_
-PRP ,_
-, was_
-VBD very_
-RB busy_
-VBN all_
-PDT the_
-DT week_
-NN ._
-.
-
-And_
-CC the_
-DT last_
-JJ one_
-NN is_
-VBZ that_
-DT do_
-VBP I_
-PRP need_
-MD pillow_
-VB or_
-CC blanket_
-JJ or_
-CC something_
-NN else_
-. ?_
-.
-
-This_
-DT show_
-NN is_
-VBZ about_
-IN the_
-DT latest_
-JJS fashions_
-NN ,_
-, the_
-DT leisure_
-NN and_
-CC sports_
-NNS wear_
-VBP ,_
-, the_
-DT make-up_
-NN and_
-CC the_
-DT hairstyles_
-NN ._
-.
-
-I_
-PRP cried_
-VBD for_
-IN days_
-NNS straight_
-RB ,_
-, eating_
-NNP and_
-CC sleeping_
-RB very_
-RB little_
-JJ ._
-.
-
-We_
-PRP organized_
-VBD a_
-DT end-of-conference_
-JJ party_
-NN on_
-IN the_
-DT day_
-NN before_
-IN your_
-PRP$ departure_
-NNS ._
-.
-
-Finally_
-RB ,_
-, the_
-DT TV_
-NN is_
-VBZ in_
-IN my_
-PRP$ opinion_
-NN very_
-RB useful_
-JJ for_
-IN getting_
-VBG important_
-JJ information_
-NN ,_
-, you_
-PRP can_
-MD watching_
-VB the_
-DT weather_
-NN and_
-CC all_
-DT of_
-IN them_
-PRP were_
-VBD present_
-NN in_
-IN wonderful_
-NN colour_
-. ._
-.
-
-My_
-PRP$ holidays_
-NNS will_
-MD finish_
-VB in_
-IN the_
-DT begining_
-NN of_
-IN September_
-NN and_
-CC will_
-MD be_
-VB good_
-JJ to_
-TO travel_
-VB during_
-IN this_
-DT time_
-NN ._
-.
-
-It_
-PRP is_
-VBZ difficult_
-JJ to_
-TO say_
-VB how_
-WRB good_
-JJ I_
-PRP can_
-MD sing_
-VB but_
-CC I_
-PRP really_
-RB like_
-IN it_
-PRP and_
-CC I_
-PRP think_
-VBP I_
-PRP am_
-VBP not_
-RB too_
-RB bad_
-. ._
-.
-
-As_
-IN for_
-IN my_
-PRP$ ticket_
-NNS ,_
-, I_
-PRP was_
-VBD expecting_
-VBN to_
-TO get_
-VB a_
-DT discount_
-NN as_
-IN a_
-DT student_
-NN ,_
-, as_
-IN it_
-PRP said_
-VBD so_
-RB in_
-IN the_
-DT advertisement_
-NN ,_
-, however_
-RB ,_
-, it_
-PRP was_
-VBD not_
-RB actually_
-RB available_
-, which_
-WDT was_
-VBD very_
-RB disappointing_
-. again_
-. ._
-.
-
-When_
-WRB you_
-PRP go_
-VBP out_
-RB of_
-IN the_
-DT Hotel_
-NNP turn_
-POS right_
-NN and_
-CC go_
-VB stright_
-VBN on_
-IN ,_
-, at_
-IN the_
-DT first_
-JJ crossroads_
-NNS turn_
-VBP right_
-RB again_
-RB ._
-.
-
-First_
-RB of_
-IN all_
-DT ,_
-, I_
-PRP would_
-MD like_
-VB to_
-TO tell_
-VB you_
-PRP that_
-IN I_
-PRP 've_
-VBP never_
-RB had_
-VBD a_
-DT such_
-JJ good_
-JJ time_
-NN in_
-IN my_
-PRP$ life_
-NN !_
-.
-
-I_
-PRP wish_
-VB you_
-PRP were_
-VBD there_
-RB with_
-IN us_
-PRP !_
-.
-
-I_
-PRP have_
-VBP spent_
-VBN two_
-CD days_
-NNS at_
-IN the_
-DT International_
-NNP Arts_
-NNP Festival_
-VBZ recently_
-RB and_
-CC I_
-PRP am_
-VBP writing_
-NN in_
-IN order_
-NN to_
-TO give_
-VB my_
-PRP$ opinions_
-NNS about_
-IN it_
-PRP ._
-.
-
-His_
-PRP$ message_
-NN is_
-VBZ still_
-RB as_
-IN impacting_
-DT today_
-NN and_
-CC will_
-MD always_
-RB be_
-VB even_
-RB if_
-IN this_
-DT story_
-NN happened_
-VBD a_
-DT long_
-JJ time_
-NN ago_
-RB ._
-.
-
-Another_
-DT thing_
-NN that_
-IN happened_
-PRP was_
-VBD that_
-IN the_
-DT tickets_
-NNS did_
-VBD not_
-RB have_
-VB discount_
-VBN and_
-CC the_
-DT advertisement_
-NN says_
-VBZ the_
-DT will_
-MD have_
-VB ._
-.
-
-When_
-WRB I_
-PRP bought_
-VBD my_
-PRP$ computer_
-NNS ,_
-, I_
-PRP was_
-VBD n't_
-RB interested_
-VBN in_
-IN it_
-PRP but_
-CC when_
-WRB I_
-PRP started_
-VBD studying_
-VBG about_
-IN internet_
-NN and_
-CC playing_
-JJ games_
-NNS ,_
-, I_
-PRP found_
-VBD it_
-PRP interesting_
-. ._
-.
-
-The_
-DT trip_
-NN that_
-IN you_
-PRP planned_
-VBD for_
-IN us_
-PRP ,_
-, students_
-NNS ,_
-, it_
-PRP 's_
-VBZ a_
-DT great_
-JJ chance_
-NN to_
-TO meet_
-VB new_
-JJ people_
-NNS and_
-CC visit_
-VB a_
-DT beautiful_
-JJ city_
-NN like_
-IN London_
-NNP ._
-.
-
-Firstly_
-NNP ,_
-, I_
-PRP would_
-MD like_
-VB to_
-TO say_
-VB that_
-IN I_
-PRP 'm_
-VBP very_
-RB glad_
-JJ to_
-TO have_
-VB been_
-VBN choosen_
-, and_
-CC I_
-PRP will_
-MD do_
-VB my_
-PRP$ best_
-JJS for_
-IN this_
-DT competition_
-NN ._
-.
-
-Nowadays_
-DT many_
-JJ people_
-NNS fond_
-, of_
-IN classical_
-JJ music_
-NN ,_
-, but_
-CC this_
-DT concert_
-NN was_
-VBD too_
-RB small_
-JJ that_
-IN 's_
-NNS why_
-WRB many_
-JJ people_
-NNS had_
-VBD to_
-TO miss_
-VB this_
-DT classical_
-JJ concert_
-NN ._
-.
-
-Because_
-WRB I_
-PRP usually_
-RB go_
-VB on_
-IN camping-site_
-DT holiday_
-NN ,_
-, with_
-IN my_
-PRP$ friends_
-NNS ._
-.
-
-Dear_
-DT Mr_
-NN or_
-CC Madam_
-NNP ,_
-,
-
-Secondly_
-NNP ,_
-, I_
-PRP would_
-MD prefer_
-VB to_
-TO staying_
-VB in_
-IN a_
-DT tent_
-NN rather_
-RB than_
-IN staying_
-NN in_
-IN a_
-DT log_
-JJ cabin_
-NNS in_
-IN order_
-NN to_
-TO have_
-VB experience_
-NN ,_
-, which_
-WDT I_
-PRP have_
-VBP n't_
-RB had_
-VBD before_
-. ._
-.
-
-How_
-WRB much_
-JJ money_
-NN would_
-MD like_
-VB to_
-TO pay_
-VB me_
-PRP for_
-IN five_
-CD hours_
-NNS a_
-DT day_
-NN in_
-IN two_
-CD weeks_
-NNS working_
-VBG with_
-IN children_
-NNS ?_
-.
-
-I_
-PRP thank_
-VB you_
-PRP in_
-IN advanced_
-NN and_
-CC looking_
-VBG forward_
-RB to_
-TO your_
-PRP$ reply_
-NNS ._
-.
-
-I_
-PRP enjoyed_
-VBD it_
-PRP very_
-RB much_
-RB and_
-CC I_
-PRP think_
-VBP the_
-DT idea_
-NN of_
-IN its_
-PRP$ creation_
-NN is_
-VBZ great_
-JJ ._
-.
-
--_
-PRP About_
-VBD the_
-DT accomodation_
-NN ,_
-, as_
-IN I_
-PRP read_
-VBP ,_
-, you_
-PRP can_
-MD offer_
-VB me_
-PRP log_
-MD cabins_
-VB or_
-CC tents_
-NNS ._
-.
-
-Now_
-NNP ,_
-, I_
-PRP able_
-VBD to_
-TO use_
-VB sound_
-JJ effect_
-NN system_
-NN ._
-.
-
-Nowadays_
-NNP ,_
-, mordern_
-DT technology_
-NN has_
-VBZ increasingly_
-RB been_
-VBN developing_
-. ._
-.
-
-He_
-PRP had_
-VBD been_
-VBN replaced_
-VBN by_
-IN a_
-DT really_
-RB bad_
-JJ actor_
-NNS ,_
-, whom_
-WP I_
-PRP do_
-VBP n't_
-RB even_
-RB know_
-VB the_
-DT name_
-NN ._
-.
-
-Fortunately_
-NNP ,_
-, I_
-PRP have_
-VBP heard_
-VBN that_
-IN weather_
-NN is_
-VBZ beautiful_
-JJ in_
-IN California_
-NNP during_
-IN that_
-DT month_
-NN ._
-.
-
-Another_
-DT problem_
-NN I_
-PRP had_
-VBD was_
-VBD the_
-DT time_
-NN ._
-.
-
-Another_
-DT solution_
-NN to_
-TO get_
-VB a_
-DT friendlier_
-JJ service_
-NN is_
-VBZ of_
-IN course_
-NN to_
-TO go_
-VB to_
-TO another_
-DT shop_
-NN ._
-.
-
-As_
-IN you_
-PRP know_
-VBP ,_
-, there_
-EX is_
-VBZ a_
-DT free_
-JJ time_
-NN in_
-IN your_
-PRP$ programme_
-NNS
-
-How_
-WRB I_
-PRP am_
-VBP going_
-VBG to_
-TO answer_
-VB the_
-DT questions_
-NNS you_
-PRP asked_
-VBD me_
-PRP in_
-IN the_
-DT letter_
-NN ._
-.
-
-However_
-RB ,_
-, we_
-PRP promised_
-VBD our_
-PRP$ perents_
-NN to_
-TO make_
-VB cleaning_
-VBN up_
-IN every_
-DT week_
-NN ._
-.
-
-Of_
-IN course_
-NN I_
-PRP will_
-MD give_
-VB you_
-PRP some_
-DT more_
-JJR detail_
-NN about_
-IN the_
-DT student_
-NN conference_
-. ._
-.
-
-For_
-IN me_
-PRP ,_
-, It_
-PRP 's_
-VBZ not_
-RB easy_
-JJ to_
-TO have_
-VB holiday_
-VBN and_
-CC your_
-PRP$ play_
-NN just_
-RB blew_
-VB my_
-PRP$ precious_
-JJ time_
-NN away_
-. ._
-.
-
-Personally_
-WRB I_
-PRP do_
-VBP n't_
-RB like_
-IN dealing_
-VBG with_
-IN shop_
-PRP$ assistants_
-NNS and_
-CC looking_
-VBG around_
-IN the_
-DT shops_
-NNS ,_
-, so_
-RB I_
-PRP buy_
-VBD all_
-DT what_
-WP I_
-PRP can_
-MD using_
-VB "_
-. on-line_
-. "_
-. services_
-. ._
-.
-
-Thus_
-RB ,_
-, I_
-PRP think_
-VBP that_
-IN journalists_
-PRP should_
-MD consider_
-VB celebrities_
-NNP '_
-POS lives_
-NNS and_
-CC be_
-VB in_
-IN celebrities_
-NNP '_
-'' shoes_
-. ._
-.
-
-Just_
-RB follow_
-VB Main-Road_
-VBN until_
-IN to_
-TO reach_
-VB a_
-DT junction_
-NN ,_
-, where_
-WRB you_
-PRP turn_
-VBP right_
-JJ and_
-CC then_
-RB walk_
-VB along_
-IN Denl-a-Lion_
-NNP Road_
-NNP ._
-.
-
-Unfortunately_
-RB ,_
-, Pat_
-PRP was_
-VBD n't_
-RB very_
-RB good_
-JJ at_
-IN keeping_
-PRP$ secrets_
-NNS ,_
-, so_
-RB Maria_
-PRP was_
-VBD very_
-RB disappointed_
-VBN when_
-WRB she_
-PRP realised_
-VBD that_
-IN Manuel_
-PRP knew_
-VBD the_
-DT truth_
-NN about_
-IN the_
-DT feelings_
-NNS that_
-IN Maria_
-PRP had_
-VBD for_
-IN him_
-PRP ,_
-, in_
-IN fact_
-NN ,_
-, she_
-PRP was_
-VBD so_
-RB angry_
-VB she_
-PRP almost_
-RB kill_
-, but_
-CC ,_
-, she_
-PRP could_
-MD n't_
-RB because_
-IN Pat_
-PRP was_
-VBD her_
-PRP$ best_
-JJS friend_
-NN ._
-.
-
-I_
-PRP ask_
-VBP you_
-PRP if_
-IN is_
-VBZ it_
-PRP possible_
-VBD to_
-TO have_
-VB my_
-PRP$ money_
-NN back_
-RB ,_
-, please_
-VBP ,_
-, because_
-IN I_
-PRP want_
-VBP to_
-TO forgot_
-VB that_
-DT expense_
-NN ._
-.
-
-My_
-PRP$ second_
-JJ chose_
-NN is_
-VBZ painting_
-NN because_
-IN I_
-PRP love_
-VBP water_
-NN colour_
-IN painting_
-NN and_
-CC I_
-PRP am_
-VBP a_
-DT member_
-NN of_
-IN the_
-DT our_
-PRP$ water_
-NN colour_
-IN painting_
-DT club_
-NN in_
-IN my_
-PRP$ town_
-NN ._
-.
-
-At_
-IN first_
-JJ the_
-DT show_
-NN started_
-VBD much_
-RB later_
-RB than_
-IN it_
-PRP was_
-VBD written_
-VBN out_
-RB ._
-.
-
-At_
-IN the_
-DT end_
-NN you_
-PRP may_
-MD have_
-VB found_
-VBN only_
-RB two_
-CD or_
-CC three_
-CD things_
-NNS you_
-PRP really_
-RB like_
-VB ,_
-, but_
-CC they_
-PRP are_
-VBP all_
-DT the_
-DT work_
-NN worth_
-. ._
-.
-
-So_
-RB I_
-PRP decided_
-VBD to_
-TO write_
-VB you_
-PRP this_
-DT letter_
-NN to_
-TO note_
-VB that_
-DT wrong_
-JJ informations_
-NNS and_
-CC to_
-TO ask_
-VB for_
-IN the_
-DT restitution_
-NN of_
-IN the_
-DT price_
-NN of_
-IN ticket_
-NN or_
-CC a_
-DT part_
-NN of_
-IN that_
-DT ._
-.
-
-From_
-IN my_
-PRP$ point_
-NN of_
-IN view_
-NN ,_
-, young_
-JJ people_
-NNS tend_
-VBP to_
-TO wear_
-VB the_
-DT clothes_
-NN which_
-WDT they_
-PRP can_
-MD show_
-VB their_
-PRP$ skin_
-NN ._
-.
-
-You_
-PRP do_
-VBP n't_
-RB have_
-VB to_
-TO wait_
-VB on_
-IN a_
-DT bus_
-NN stop_
-VB on_
-IN a_
-DT cold_
-JJ and_
-CC windy_
-JJ weather_
-NN for_
-IN a_
-DT late_
-JJ bus_
-NN ,_
-, or_
-CC being_
-NN stuck_
-, on_
-IN a_
-DT train_
-NN for_
-IN an_
-DT hour_
-NN due_
-VBZ to_
-TO some_
-DT railtrack_
-JJ repairs_
-NNS ,_
-, you_
-PRP can_
-MD just_
-RB jump_
-VBN into_
-IN a_
-DT car_
-NN ,_
-, tune_
-CC your_
-PRP$ radio_
-NN onto_
-IN your_
-PRP$ favourite_
-NNS station_
-, and_
-CC have_
-VB a_
-DT plesant_
-JJ drive_
-NN to_
-TO your_
-PRP$ distanation_
-NNS ._
-.
-
-Let_
-WRB me_
-PRP answer_
-VB this_
-DT question_
-NN ._
-.
-
-At_
-IN first_
-JJ ,_
-, I_
-PRP want_
-VBP to_
-TO say_
-VB how_
-WRB I_
-PRP am_
-VBP happy_
-JJ to_
-TO have_
-VB won_
-VBD this_
-DT prize_
-NN and_
-CC I_
-PRP want_
-VBP to_
-TO thank_
-VB you_
-PRP ._
-.
-
-i_
-PRP 'm_
-VBP hope_
-NN that_
-IN it_
-PRP will_
-MD be_
-VB good_
-JJ gift_
-NN for_
-IN me_
-PRP from_
-IN your_
-PRP$ organization_
-NN ._
-.
-
-If_
-IN there_
-EX is_
-VBZ any_
-DT other_
-JJ question_
-NN from_
-IN your_
-PRP$ part_
-NN ,_
-, please_
-TO call_
-VB me_
-PRP or_
-CC write_
-VB again_
-RB ._
-.
-
-Taking_
-IN a_
-DT photography_
-NN during_
-IN the_
-DT holiday_
-NN is_
-VBZ very_
-RB good_
-JJ memory_
-NN for_
-IN me_
-PRP ,_
-, and_
-CC I_
-PRP can_
-MD share_
-VB my_
-PRP$ adventures_
-NN to_
-TO my_
-PRP$ friends_
-NNS ._
-.
-
-After_
-IN all_
-DT of_
-IN this_
-DT we_
-PRP saw_
-VBD the_
-DT show_
-NN in_
-IN the_
-DT best_
-JJS place_
-NN ,_
-, near_
-RB of_
-IN the_
-DT stage_
-NN and_
-CC after_
-IN ,_
-, the_
-DT thing_
-NN that_
-IN I_
-PRP most_
-RB liked_
-VBD ,_
-, we_
-PRP were_
-VBD convidated_
-VBN to_
-TO see_
-VB the_
-DT group_
-NN and_
-CC had_
-VBD their_
-PRP$ signatures_
-NNS ._
-.
-
-Whenever_
-IN the_
-DT students_
-NNS wear_
-VBP an_
-DT extra_
-NN cloth_
-'' (_
-( because_
-IN of_
-IN cold_
-JJ or_
-CC something_
-NN )_
-) his_
-, or_
-CC her_
-PRP (_
-( not_
-RB students_
-. !_
-. )_
-)
-
-If_
-IN there_
-EX is_
-VBZ any_
-DT question_
-NN left_
-VBN ,_
-, please_
-DT contact_
-NN me_
-PRP ._
-.
-
-I_
-PRP am_
-VBP writing_
-NN on_
-IN our_
-PRP$ class_
-NN behalf_
-VBZ to_
-TO thank_
-VB you_
-PRP for_
-IN organising_
-VBG our_
-PRP$ tour_
-NN in_
-IN London_
-NNP ._
-.
-
-This_
-DT trip_
-NN was_
-VBD organised_
-VBN by_
-IN our_
-PRP$ form_
-NN tutor_
-'' ,_
-, he_
-PRP wanted_
-VBD to_
-TO test_
-VB us_
-PRP if_
-IN we_
-PRP trust_
-VB each_
-DT other_
-JJ and_
-CC worked_
-VBD in_
-IN a_
-DT team_
-NN ,_
-, and_
-CC the_
-DT trip_
-NN last_
-RB for_
-IN 3_
-CD days_
-NNS ._
-.
-
-I_
-PRP think_
-VBP then_
-RB we_
-PRP should_
-MD film_
-VB an_
-DT informatic-lesson_
-NN ._
-.
-
-From_
-IN my_
-PRP$ point_
-NN of_
-IN view_
-NN ,_
-, people_
-NNS 's_
-POS home_
-NN in_
-IN the_
-DT future_
-NN will_
-MD be_
-VB controlled_
-JJ by_
-IN a_
-DT computer_
-NN which_
-WDT is_
-VBZ devised_
-VBN in_
-IN every_
-DT machine_
-NN ,_
-, TV_
-RB ,_
-, cooker_
-NNP and_
-CC the_
-DT light_
-NN ,_
-, connecting_
-CC to_
-TO the_
-DT owner_
-NN ._
-.
-
-From_
-IN the_
-DT activities_
-NNS I_
-PRP want_
-VBP to_
-TO take_
-VB Golf_
-VBN and_
-CC Surfing_
-NN ._
-.
-
-I_
-PRP received_
-VBD your_
-PRP$ letter_
-NN ,_
-, so_
-RB I_
-PRP write_
-VBP you_
-PRP to_
-TO give_
-VB you_
-PRP some_
-DT informations_
-NN from_
-IN me_
-PRP ._
-.
-
-It_
-PRP had_
-VBD been_
-VBN a_
-DT real_
-JJ joy_
-NN to_
-TO receive_
-VB your_
-VBN and_
-CC I_
-PRP still_
-RB ca_
-MD n't_
-RB believe_
-VB it_
-PRP ._
-.
-
-However_
-RB ,_
-, people_
-NNS ca_
-MD n't_
-RB have_
-VB a_
-DT good_
-JJ time_
-NN even_
-RB at_
-IN weekdays_
-DT while_
-NN shopping_
-. ._
-.
-
-I_
-PRP am_
-VBP really_
-RB surprise_
-VBN for_
-IN the_
-DT information_
-NN because_
-IN I_
-PRP won_
-VBD ,_
-, and_
-CC I_
-PRP like_
-VBP to_
-TO tell_
-VB you_
-PRP thank_
-VB you_
-PRP for_
-IN everyting_
-DT
-
-And_
-CC on_
-IN Wednesday_
-DT morning_
-NN we_
-PRP go_
-VBP to_
-TO the_
-DT national_
-JJ art_
-NN gallery_
-'' ,_
-, but_
-CC after_
-IN that_
-WDT we_
-PRP can_
-MD go_
-VB to_
-TO the_
-DT Science_
-NNP Museum_
-NNP ,_
-, in_
-IN the_
-DT afternoon_
-NN ._
-.
-
-We_
-PRP have_
-VBP thought_
-VBN that_
-IN The_
-DT London_
-NNP Fashion_
-, and_
-CC Leisure_
-WRB Show_
-PRP would_
-MD be_
-VB a_
-DT great_
-JJ opportunity_
-NN to_
-TO give_
-VB us_
-PRP more_
-JJR information_
-NN about_
-IN the_
-DT main_
-JJ transformation_
-NN in_
-IN nowdays_
-NN in_
-IN England_
-NNP about_
-IN fashions_
-NNP ,_
-, Leisure_
-RB ,_
-, sports_
-NNS and_
-CC style_
-NN of_
-IN life_
-NN ._
-.
-
-In_
-IN other_
-JJ hand_
-NN ,_
-, after_
-IN shopping_
-WDT you_
-PRP 'll_
-MD get_
-VB tired_
-VBN and_
-CC maybe_
-WRB you_
-PRP ca_
-MD n't_
-RB afford_
-. your_
-. credit_
-. card_
-. ._
-.
-
-quality_
-NN of_
-IN life_
-NN very_
-RB low_
-JJ ._
-.
-
-The_
-DT moment_
-NN I_
-PRP saw_
-VBD the_
-DT advertisement_
-NN about_
-IN one_
-CD of_
-IN the_
-DT seven_
-CD world_
-NN wonders_
-VBZ ,_
-, I_
-PRP knew_
-VBD ,_
-, I_
-PRP had_
-VBD to_
-TO see_
-VB it_
-PRP ._
-.
-
-The_
-DT car_
-NN was_
-VBD already_
-RB parked_
-VBN near_
-IN the_
-DT rear_
-JJ door_
-NN and_
-CC there_
-EX was_
-VBD an_
-DT unusual_
-JJ activity_
-NN all_
-DT over_
-IN the_
-DT house_
-NN ._
-.
-
-Some_
-DT people_
-NNS glorify_
-IN technology_
-NN as_
-IN if_
-IN it_
-PRP was_
-VBD the_
-DT best_
-JJS thing_
-NN could_
-MD ever_
-RB happened_
-VBN in_
-IN their_
-PRP$ lives_
-NNS ._
-.
-
-And_
-CC please_
-PRP could_
-MD you_
-PRP give_
-VBP me_
-PRP details_
-VBD about_
-IN how_
-PRP does_
-VBZ the_
-DT weather_
-NN like_
-IN there_
-RB and_
-CC what_
-WP type_
-VBZ the_
-DT clothes_
-NN will_
-MD I_
-PRP have_
-VBP to_
-TO bringh_
-VB ?_
-.
-
-If_
-IN no_
-DT ,_
-, what_
-WP do_
-VBP you_
-PRP sugest_
-. ?_
-.
-
-So_
-RB I_
-PRP would_
-MD like_
-VB to_
-TO choose_
-VB these_
-DT two_
-CD activities_
-NNS while_
-IN I_
-PRP am_
-VBP at_
-IN the_
-DT Camp_
-NN ._
-.
-
-But_
-CC I_
-PRP enjoy_
-VBP discovering_
-RB new_
-JJ activities_
-NNS !_
-.
-
-On_
-IN top_
-NN of_
-IN everything_
-NN ,_
-, the_
-DT main_
-JJ cast_
-NN ,_
-, Danny_
-CC Brook_
-NNP ,_
-, did_
-VBD not_
-RB appear_
-VB on_
-IN the_
-DT show_
-NN ._
-.
-
-I_
-PRP had_
-VBD a_
-DT week_
-JJ holiday_
-NNS in_
-IN London_
-NNP ,_
-, so_
-RB I_
-PRP wanted_
-VBD to_
-TO spend_
-VB my_
-PRP$ last_
-JJ evening_
-NN with_
-IN great_
-JJ pleasure_
-NN ,_
-, however_
-RB it_
-PRP was_
-VBD the_
-DT worse_
-JJR evening_
-NN in_
-IN my_
-PRP$ life_
-NN ._
-.
-
-Countless_
-DT fascinating_
-JJ things_
-NNS will_
-MD definely_
-RB take_
-VB you_
-PRP the_
-DT whole_
-JJ day_
-NN to_
-TO appreciate_
-VB ._
-.
-
-On_
-IN the_
-DT other_
-JJ hand_
-NN ,_
-, we_
-PRP can_
-MD feel_
-VB more_
-RBR comfortable_
-JJ with_
-IN them_
-PRP providing_
-VBD us_
-PRP support_
-VB to_
-TO our_
-PRP$ hard_
-JJ tasks_
-NNS and_
-CC letting_
-WRB us_
-PRP free_
-VB to_
-TO apply_
-VB our_
-PRP$ attention_
-NN and_
-CC efforts_
-NNS to_
-TO more_
-RBR important_
-JJ things_
-NNS ._
-.
-
-Some_
-DT concert_
-NN halls_
-WDT were_
-VBD really_
-RB small_
-JJ so_
-RB that_
-IN there_
-EX was_
-VBD bad_
-JJ air_
-NN and_
-CC not_
-RB enough_
-JJ place_
-NN for_
-IN everyone_
-NN and_
-CC you_
-PRP could_
-MD not_
-RB enjoy_
-JJ anything_
-NN !_
-.
-
-I_
-PRP think_
-VBP that_
-IN this_
-DT kind_
-NN of_
-IN people_
-NNS have_
-VBP a_
-DT poor_
-JJ life_
-NN because_
-IN they_
-PRP never_
-RB can_
-MD be_
-VB quiet_
-JJ because_
-IN all_
-PDT the_
-DT poeple_
-MD know_
-VB them_
-PRP and_
-CC want_
-VBP to_
-TO know_
-VB a_
-DT lot_
-NN of_
-IN things_
-NNS about_
-IN them_
-PRP ._
-.
-
-As_
-IN you_
-PRP offer_
-VBP many_
-JJ activities_
-NNS it_
-PRP was_
-VBD hard_
-RB to_
-TO choose_
-VB which_
-WDT ones_
-VBZ I_
-PRP want_
-VBP to_
-TO do_
-VB ,_
-, but_
-CC I_
-PRP dicided_
-VBD to_
-TO take_
-VB swimming_
-VBN and_
-CC photography_
-NNP ,_
-, because_
-IN I_
-PRP am_
-VBP very_
-RB good_
-JJ at_
-IN swimming_
-NN and_
-CC because_
-IN currently_
-WDT I_
-PRP am_
-VBP attending_
-IN a_
-DT photography_
-JJ course_
-NN in_
-IN Vienna_
-NN ._
-.
-
-After_
-IN that_
-DT what_
-WP is_
-VBZ waiting_
-VBN for_
-IN you_
-PRP is_
-VBZ the_
-DT struggle_
-NN with_
-IN ill-fitted_
-PRP clothes_
-VBD taking_
-VBG off_
-RB and_
-CC putting_
-VBG on_
-IN ._
-.
-
-Contrary_
-PRP to_
-TO the_
-DT advertisment_
-JJ everything_
-NN was_
-VBD disapointing_
-. ._
-.
-
-Just_
-RB imagine_
-VB the_
-DT way_
-NN of_
-IN future_
-NN people_
-NNS 's_
-POS life_
-NN ._
-.
-
-It_
-PRP began_
-VBD 45_
-PRP$ minutes_
-NNS later_
-RB than_
-IN it_
-PRP should_
-MD have_
-VB been_
-VBN ._
-.
-
-In_
-IN my_
-PRP$ countries_
-JJ school_
-NN we_
-PRP are_
-VBP not_
-RB allowed_
-VBN to_
-TO have_
-VB an_
-DT argument_
-NN with_
-IN class-mates_
-NN and_
-CC not_
-RB allowed_
-VBN to_
-TO eat_
-VB at_
-IN class_
-NN ._
-.
-
-Finally_
-RB ,_
-, I_
-PRP would_
-MD like_
-VB to_
-TO ask_
-VB you_
-PRP what_
-VBD kind_
-NN of_
-IN clothes_
-PRP would_
-MD you_
-PRP recommend_
-VBD me_
-PRP to_
-TO take_
-VB ._
-.
-
-Besides_
-NNP ,_
-, I_
-PRP really_
-RB would_
-MD like_
-VB to_
-TO know_
-VB ,_
-, approxiametely_
-CC how_
-WRB much_
-JJ money_
-NN should_
-MD I_
-PRP take_
-VBP with_
-IN me_
-PRP ?_
-.
-
-Immediately_
-WRB she_
-PRP recognized_
-VBD her_
-PRP$ beloved_
-JJ teacher_
-NN kissing_
-IN one_
-CD of_
-IN her_
-PRP$ class_
-NN mate_
-, and_
-CC she_
-PRP run_
-VBP away_
-RB as_
-RB fast_
-RB as_
-IN she_
-PRP could_
-MD ._
-.
-
-I_
-PRP 'd_
-MD rather_
-RB sleep_
-VBN in_
-IN tents_
-NNS because_
-IN I_
-PRP want_
-VBP to_
-TO enjoy_
-VB this_
-DT wild_
-JJ experience_
-NN !_
-.
-
-And_
-CC the_
-DT restorant_
-NN of_
-IN the_
-DT theatre_
-NN was_
-VBD being_
-VBG pait_
-NN ,_
-, so_
-RB I_
-PRP could_
-MD not_
-RB go_
-VB as_
-IN you_
-PRP said_
-VBD in_
-IN the_
-DT advertisment_
-NN ._
-.
-
-So_
-RB that_
-IN 's_
-NNS why_
-WRB they_
-PRP have_
-VBP invented_
-IN a_
-DT telephon_
-NN ._
-.
-
-At_
-IN that_
-DT point_
-NN ,_
-, even_
-RB if_
-IN there_
-EX had_
-VBD been_
-VBN Danny_
-TO Brook_
-VB as_
-IN the_
-DT advertisement_
-JJ announced_
-NNS ,_
-, it_
-PRP would_
-MD n't_
-RB have_
-VB been_
-VBN a_
-DT less_
-RBR disappointing_
-JJ evening_
-NN ._
-.
-
-I_
-PRP am_
-VBP sure_
-VBN you_
-PRP can_
-MD take_
-VB attention_
-NN on_
-IN this_
-DT ._
-.
-
-Last_
-NNP of_
-IN all_
-DT ,_
-, it_
-PRP said_
-VBD in_
-IN your_
-PRP$ advertisement_
-NNS that_
-IN there_
-EX is_
-VBZ a_
-DT theatre_
-NN restaurant_
-, after_
-IN the_
-DT show_
-NN but_
-CC it_
-PRP turned_
-VBD out_
-RB to_
-TO be_
-VB closed_
-VBN because_
-IN it_
-PRP was_
-VBD redecorating_
-VBN and_
-CC no_
-DT annocement_
-NN was_
-VBD made_
-VBN ._
-.
-
-Finally_
-RB ,_
-, I_
-PRP am_
-VBP considering_
-VBN about_
-IN what_
-DT kind_
-NN of_
-IN clothes_
-WDT I_
-PRP should_
-MD wear_
-VB and_
-CC how_
-WRB much_
-RB I_
-PRP need_
-VBP ._
-.
-
-About_
-IN the_
-DT acommodation_
-NN ,_
-, out_
-RB of_
-IN the_
-DT two_
-CD possibilities_
-NNS ,_
-, I_
-PRP choose_
-VBP sleeping_
-VBN in_
-IN a_
-DT tent_
-NN ,_
-, because_
-IN I_
-PRP think_
-VBP that_
-IN a_
-DT log_
-NN cabin_
-WDT is_
-VBZ n't_
-RB as_
-IN authentic_
-JJ as_
-IN a_
-DT tent_
-NN ,_
-, at_
-IN the_
-DT camp_
-NN ._
-.
-
-Firstly_
-NNP ,_
-, I_
-PRP expected_
-VBD to_
-TO see_
-VB the_
-DT play_
-NN by_
-IN Danny_
-PRP$ Brook_
-NNS who_
-WP is_
-VBZ my_
-PRP$ favourite_
-NNS actor_
-. ._
-.
-
-It_
-PRP is_
-VBZ a_
-DT very_
-JJ cosy_
-JJ building_
-NN that_
-WDT is_
-VBZ on_
-IN the_
-DT same_
-JJ avenue_
-NN as_
-IN the_
-DT conference_
-JJ building_
-NN ,_
-, approximetively_
-WRB one_
-PRP mile_
-VBP away_
-RB ._
-.
-
-It_
-PRP 's_
-VBZ connected_
-VBN with_
-IN our_
-PRP$ house_
-NN ,_
-, our_
-PRP$ workplace_
-NNS and_
-CC e.t.c_
-NN ._
-.
-
-On_
-IN the_
-DT tale_
-NN "_
-, It_
-PRP 's_
-VBZ a_
-DT good_
-JJ life_
-NN "_
-'' ,_
-, the_
-DT author_
-NN gives_
-VBZ much_
-RB more_
-JJR emphasis_
-NN to_
-TO the_
-DT Witte_
-JJ Anthony_
-NNS than_
-IN to_
-TO anyone_
-VB else_
-RB in_
-IN the_
-DT story_
-NN ._
-.
-
-Seeing_
-PRP that_
-IN this_
-DT is_
-VBZ the_
-DT first_
-JJ year_
-NN of_
-IN the_
-DT drama_
-NN lessons_
-NNS ,_
-, it_
-PRP is_
-VBZ not_
-RB very_
-RB well_
-RB known_
-VBN ._
-.
-
-I_
-PRP would_
-MD like_
-VB to_
-TO change_
-VB the_
-DT rule_
-NN not_
-RB to_
-TO speak_
-VB in_
-IN Spanish_
-NNP at_
-IN school_
-NN because_
-IN most_
-JJS of_
-IN us_
-PRP feel_
-VBP more_
-RBR comfortable_
-JJ speaking_
-NNS in_
-IN Spanish_
-NNP but_
-CC I_
-PRP guess_
-VBD to_
-TO learn_
-VB ._
-.
-
-Then_
-RB you_
-PRP could_
-MD find_
-VB the_
-DT cheapest_
-JJ good_
-JJ and_
-CC in_
-IN that_
-DT case_
-NN ,_
-, you_
-PRP probably_
-RB buy_
-VB it_
-PRP needlessly_
-. ._
-.
-
-Because_
-RB of_
-IN it_
-PRP I_
-PRP believe_
-VBP it_
-PRP is_
-VBZ the_
-DT best_
-JJS date_
-NN for_
-IN travel_
-NN You_
-PRP asked_
-VBD me_
-PRP about_
-IN accommodations_
-NN or_
-CC Camp_
-NNP California_
-NNP ._
-.
-
-The_
-DT first_
-JJ thing_
-NN that_
-IN dissapoint_
-WDT me_
-PRP was_
-VBD the_
-DT starring_
-NN ._
-.
-
-So_
-RB I_
-PRP was_
-VBD suspended_
-RB ,_
-, I_
-PRP had_
-VBD a_
-DT fight_
-NN with_
-IN one_
-CD of_
-IN my_
-PRP$ best_
-JJS friend_
-NN ,_
-, all_
-DT because_
-IN she_
-PRP was_
-VBD n't_
-RB very_
-RB good_
-JJ at_
-IN keeping_
-PRP$ secrets_
-NNS ._
-.
-
-After_
-IN having_
-VBG thought_
-NN about_
-IN this_
-DT video_
-NN and_
-CC asked_
-VBD different_
-JJ people_
-NNS so_
-RB as_
-RB to_
-TO know_
-VB what_
-WP they_
-PRP suggested_
-VBD ,_
-, I_
-PRP reached_
-VBD the_
-DT following_
-JJ conclusions_
-NNS :_
-: we_
-PRP must_
-MD film_
-VB the_
-DT lessons_
-NNS which_
-WDT are_
-VBP the_
-DT most_
-RBS important_
-JJ and_
-CC the_
-DT activities_
-NNS which_
-WDT take_
-VBP a_
-DT great_
-JJ part_
-NN in_
-IN a_
-DT day_
-NN at_
-IN school_
-NN ;_
-: this_
-DT being_
-NN in_
-IN three_
-CD parts_
-NNS ._
-.
-
-I_
-PRP 've_
-VBP asked_
-VBN my_
-PRP$ mom_
-NNS and_
-CC my_
-PRP$ friends_
-NNS and_
-CC everybody_
-NN did_
-VBD n't_
-RB know_
-VB where_
-WRB it_
-PRP was_
-VBD ._
-.
-
-Well_
-UH ,_
-, the_
-DT two_
-CD activities_
-NNS that_
-IN I_
-PRP would_
-MD to_
-TO choose_
-PRP are_
-VBP basketball_
-VBN and_
-CC singing_
-NN ._
-.
-
-Thank_
-WRB you_
-PRP in_
-IN advanced_
-VBN for_
-IN your_
-PRP$ comprehention_
-NNS and_
-CC we_
-PRP look_
-VBP forward_
-RB to_
-TO hearing_
-VB for_
-IN you_
-PRP ._
-.
-
-if_
-IN we_
-PRP used_
-VBD ,_
-, we_
-PRP would_
-MD be_
-VB sent_
-VBN to_
-TO the_
-DT head_
-NN office_
-NN of_
-IN the_
-DT school_
-NN ._
-.
-
-Do_
-WRB you_
-PRP know_
-VB what_
-WP Kim_
-VBZ ,_
-, I_
-PRP 've_
-VBP never_
-RB thought_
-VBN before_
-IN ,_
-, that_
-IN enjoying_
-DT yourself_
-NN like_
-IN this_
-DT ,_
-, could_
-MD be_
-VB weirdly_
-. ._
-.
-
-It_
-PRP also_
-RB makes_
-VBZ me_
-PRP write_
-VBP to_
-TO my_
-PRP$ friends_
-NNS by_
-IN e-mail_
-NN ._
-.
-
-And_
-CC is_
-VBZ it_
-PRP better_
-VBD to_
-TO have_
-VB change_
-NN or_
-CC checks_
-NN ?_
-.
-
-I_
-PRP could_
-MD n't_
-RB write_
-VB you_
-PRP because_
-IN I_
-PRP was_
-VBD very_
-RB busy_
-. ._
-.
-
-I_
-PRP can_
-MD hardly_
-RB await_
-VB your_
-PRP$ reply_
-NNS !_
-.
-
-AFTER_
-PRP THE_
-. MEETING_
-. WE_
-. RECIEVED_
-. ALL_
-. THE_
-. SAME_
-. CLOTHES_
-. ._
-.
-
-I_
-PRP would_
-MD like_
-VB to_
-TO spend_
-VB my_
-PRP$ time_
-NN at_
-IN your_
-PRP$ Camp_
-JJ site_
-NNS in_
-IN log_
-NN cabins_
-. ._
-.
-
-,_
-, What_
-WP is_
-VBZ your_
-PRP$ name_
-NN ,_
-, house_
-NN ,_
-, dog_
-NN ,_
-, cat_
-RB ,_
-, boy_
-NN ,_
-, girls_
-NNS etc_
-'' ,_
-, I_
-PRP am_
-VBP very_
-RB happy_
-JJ that_
-IN I_
-PRP promed_
-VBD to_
-TO myself_
-PRP learn_
-MD spanish_
-VB this_
-DT sommar_
-NN at_
-IN the_
-DT Huntingdon_
-NN College_
-. ._
-.
-
-At_
-IN first_
-JJ my_
-FW favourite_
-FW actor_
-FW Danny_
-FW Brook_
-FW did_
-VBD n't_
-RB perform_
-VB without_
-IN any_
-DT explictions_
-NN ,_
-, and_
-CC the_
-DT show_
-NN should_
-MD started_
-VB at_
-IN 19:30_
-PRP instead_
-RB of_
-IN 20:15_
-DT !!_
-NN
-
-I_
-PRP ca_
-MD n't_
-RB stand_
-VB wearing_
-IN a_
-DT suit_
-NN or_
-CC kit_
-RB like_
-IN which_
-WDT has_
-VBZ been_
-VBN showed_
-VBN in_
-IN Starwars_
-NN !_
-.
-
-In_
-IN my_
-PRP$ opinion_
-NN we_
-PRP must_
-MD spend_
-VB more_
-JJR time_
-NN for_
-IN more_
-RBR interesting_
-JJ than_
-IN shopping_
-PRP$ things_
-NNS like_
-IN sport_
-NNP ,_
-, reading_
-RB ,_
-, chating_
-CC about_
-IN ideas_
-NNS which_
-WDT make_
-VBP our_
-PRP$ lives_
-NNS better_
-. ._
-.
-
-I_
-PRP can_
-MD play_
-VB well_
-RB basketball_
-RB ,_
-, because_
-IN I_
-PRP use_
-VBP to_
-TO practice_
-VB basketball_
-VBN ,_
-, when_
-WRB I_
-PRP go_
-VBP to_
-TO the_
-DT club_
-NN every_
-. Saturday_
-. ._
-.
-
-Finally_
-RB ,_
-, I_
-PRP think_
-VBP it_
-PRP was_
-VBD a_
-DT good_
-JJ idea_
-NN the_
-DT fact_
-NN to_
-TO buy_
-VB only_
-RB one_
-CD ticket_
-NNS for_
-IN all_
-PDT the_
-DT events_
-NNS since_
-IN I_
-PRP just_
-RB spent_
-VBN the_
-DT time_
-NN watching_
-, and_
-CC enjoying_
-IN all_
-DT of_
-IN them_
-PRP ._
-.
-
-However_
-RB ,_
-, the_
-DT technology_
-NN never_
-RB stops_
-RB ,_
-, we_
-PRP always_
-RB search_
-RBR new_
-JJ things_
-NNS because_
-IN we_
-PRP are_
-VBP made_
-VBN to_
-TO compete_
-VB ,_
-, discover_
-RB ,_
-, think_
-VBP things_
-NNS which_
-WDT we_
-PRP do_
-VBP n't_
-RB know_
-VB ._
-.
-
-I_
-PRP had_
-VBD gone_
-VBN to_
-TO the_
-DT show_
-NN which_
-WDT according_
-VBZ to_
-TO the_
-DT advertisement_
-NN was_
-VBD supposed_
-VBN to_
-TO begin_
-VB at_
-IN 19:30_
-NNP ,_
-, but_
-CC the_
-DT show_
-NN did_
-VBD not_
-RB start_
-VB until_
-IN 20:15_
-NN ._
-.
-
-Now_
-WRB I_
-PRP will_
-MD give_
-VB you_
-PRP the_
-DT informations_
-NN which_
-WDT you_
-PRP asked_
-VBD for_
-IN ._
-.
-
-You_
-PRP should_
-MD back_
-RB my_
-PRP$ money_
-NN immedeastry_
-, because_
-IN that_
-DT night_
-NN was_
-VBD far_
-RB from_
-IN parfect_
-NN ._
-.
-
-First_
-RB of_
-IN al_
-NNP ,_
-, in_
-IN my_
-PRP$ opinion_
-NN ,_
-, TV_
-PRP has_
-VBZ a_
-DT great_
-JJ education_
-NN functions_
-'' ,_
-, and_
-CC also_
-RB makes_
-VBZ the_
-DT world_
-NN become_
-. small_
-. ._
-.
-
-this_
-DT lesson_
-NN techer_
-, you_
-PRP how_
-VBD to_
-TO organise_
-VB what_
-WP you_
-PRP want_
-VBP to_
-TO write_
-VB ._
-.
-
-First_
-JJ time_
-NN ,_
-, when_
-WRB I_
-PRP saw_
-VBD the_
-DT advertisement_
-NN on_
-IN the_
-DT newspaper_
-NN ,_
-, I_
-PRP really_
-RB appreciated_
-. ._
-.
-
-In_
-IN the_
-DT addition_
-NN when_
-WRB you_
-PRP organize_
-VBD the_
-DT next_
-JJ year_
-NN 's_
-POS international_
-JJ arts_
-NNS festival_
-'' ,_
-, could_
-MD you_
-PRP arrange_
-VBD more_
-JJR plays_
-NNS and_
-CC films_
-NN ._
-.
-
-But_
-CC after_
-IN all_
-PDT the_
-DT party_
-NN was_
-VBD great_
-JJ ._
-.
-
-In_
-IN fact_
-NN queuing_
-VBZ up_
-RB in_
-IN front_
-NN of_
-IN every_
-DT ticket_
-JJ office_
-NN is_
-VBZ wasting_
-DT time_
-NN ._
-.
-
-After_
-IN entering_
-VBG you_
-PRP will_
-MD see_
-VB the_
-DT signed_
-JJ conference_
-NN room_
-. ._
-.
-
-Firstly_
-NNP ,_
-, I_
-PRP would_
-MD like_
-VB to_
-TO inform_
-VB that_
-IN I_
-PRP prefer_
-VBP travelling_
-VBN in_
-IN July_
-VBG to_
-TO travelling_
-VB in_
-IN another_
-DT month_
-NN ._
-.
-
-Personally_
-NNP ,_
-, I_
-PRP do_
-VBP think_
-VB televisions_
-PRP is_
-VBZ the_
-DT most_
-RBS important_
-JJ invention_
-NN ._
-.
-
-Suddenly_
-RB ,_
-, I_
-PRP heard_
-VBD of_
-IN "_
-DT help_
-NN ,_
-, help_
-VB "_
-VBN in_
-IN my_
-PRP$ distance_
-NN ._
-.
-
-You_
-PRP can_
-MD walk_
-VB to_
-TO the_
-DT top_
-NN of_
-IN the_
-DT tower_
-NN and_
-CC it_
-PRP shows_
-VBD you_
-PRP a_
-DT beautiful_
-JJ view_
-NN ._
-.
-
-Fortunately_
-DT today_
-NN everyone_
-NN can_
-MD take_
-VB an_
-DT aeroplane_
-NN and_
-CC go_
-VB to_
-TO America_
-NNP ,_
-, Australia_
-NNP or_
-CC wherever_
-RB else_
-RB he_
-PRP wants_
-VBZ !_
-.
-
-I_
-PRP never_
-RB did_
-VBD Surfing_
-VBN in_
-IN my_
-PRP$ life_
-NN but_
-CC I_
-PRP am_
-VBP a_
-DT very_
-JJ good_
-JJ Snowboarder_
-NNS and_
-CC this_
-DT could_
-MD be_
-VB an_
-DT advantage_
-NN ._
-.
-
-"_
-PRP Um_
-VBP very_
-RB unpleased_
-VBN that_
-IN I_
-PRP have_
-VBP to_
-TO write_
-VB you_
-PRP this_
-DT letter_
-NN ._
-.
-
-One_
-PRP of_
-IN my_
-PRP$ favourite_
-NNS books_
-WDT is_
-VBZ without_
-IN doubts_
-NNP ,_
-, Wuthering_
-PRP Heights_
-VBD a_
-DT famous_
-JJ book_
-NN written_
-VBN by_
-IN Emily_
-NN Brontë_
-. ._
-.
-
-First_
-RB of_
-IN all_
-DT ,_
-, I_
-PRP was_
-VBD surpprising_
-VBN that_
-IN Danny_
-DT Brook_
-NN and_
-CC Tina_
-WRB Truelove_
-PRP did_
-VBD not_
-RB played_
-VBN ._
-.
-
-When_
-WRB shopping_
-PRP ,_
-, we_
-PRP do_
-VBP n't_
-RB need_
-VBN to_
-TO wait_
-VB the_
-DT Kasse_
-NN to_
-TO take_
-VB every_
-DT article_
-NN 's_
-POS note_
-NN by_
-IN hand_
-NN ._
-.
-
-In_
-IN the_
-DT big_
-JJ room_
-NN where_
-WRB we_
-PRP 'll_
-MD have_
-VB the_
-DT party_
-NN ,_
-, it_
-PRP 'll_
-MD be_
-VB some_
-DT picturs_
-NN of_
-IN our_
-PRP$ college_
-NN ,_
-,
-
-In_
-IN fact_
-NN if_
-IN I_
-PRP 'm_
-VBP not_
-RB in_
-IN the_
-DT right_
-JJ mood_
-NN I_
-PRP become_
-VB nervous_
-VBN because_
-IN I_
-PRP ca_
-MD n't_
-RB find_
-VB anything_
-NN ._
-.
-
-Even_
-RB if_
-IN the_
-DT photograph_
-JJ made_
-NNS are_
-VBP modest_
-DT work_
-NN ,_
-, I_
-PRP am_
-VBP really_
-RB interested_
-VBN in_
-IN this_
-DT activity_
-NN ._
-.
-
-We_
-PRP had_
-VBD been_
-VBN told_
-VBN that_
-IN discounts_
-VBG to_
-TO the_
-DT ticket-prices_
-NN were_
-VBD possible_
-JJ but_
-CC at_
-IN the_
-DT evening_
-NN of_
-IN the_
-DT show_
-NN no_
-DT discounts_
-NN or_
-CC special_
-JJ offers_
-NNS whatsoever_
-WDT were_
-VBD offered_
-. ._
-.
-
-I_
-PRP was_
-VBD part_
-NN of_
-IN the_
-DT staff_
-NN ,_
-,
-
-Why_
-PRP is_
-VBZ it_
-PRP every_
-DT thing_
-NN that_
-IN on_
-IN the_
-DT canidates_
-NN were_
-VBD wrong_
-JJ and_
-CC different_
-NNS what_
-WP we_
-PRP had_
-VBD ._
-.
-
-First_
-RB of_
-IN all_
-DT ,_
-, everybody_
-NN has_
-VBZ rights_
-VBN to_
-TO keep_
-VB their_
-PRP$ own_
-JJ private_
-JJ life_
-NN ,_
-, especially_
-RB when_
-WRB they_
-PRP are_
-VBP in_
-IN serious_
-JJ situations_
-NNS such_
-JJ as_
-IN divorce_
-NN and_
-CC a_
-DT family_
-NN member_
-WDT 's_
-VBZ or_
-CC the_
-DT closest_
-JJS friend_
-NN 's_
-POS death_
-NN ._
-.
-
-And_
-CC also_
-RB ,_
-, it_
-PRP was_
-VBD written_
-VBN that_
-IN the_
-DT discounts_
-NN were_
-VBD available_
-JJ but_
-CC they_
-PRP were_
-VBD not_
-RB ._
-.
-
-Last_
-NNP weekend_
-NNP ,_
-, I_
-PRP have_
-VBP been_
-VBN in_
-IN London_
-NNP with_
-IN my_
-PRP$ friend_
-NN and_
-CC I_
-PRP saw_
-VBD your_
-PRP$ musical_
-JJ show_
-NN "_
-, over_
-IN the_
-DT Rainbow_
-NN "_
-. ._
-.
-
-To_
-TO begin_
-VB my_
-PRP$ complains_
-`` I_
-PRP can_
-MD start_
-VB with_
-IN the_
-DT actor_
-NN -_
-: was_
-VBD a_
-DT different_
-JJ one_
-NN ,_
-, not_
-RB Danny_
-. Brook_
-. ._
-.
-
-As_
-RB soon_
-RB as_
-IN the_
-DT arrangement_
-NN for_
-IN the_
-DT party_
-NN started_
-VBD ,_
-, she_
-PRP began_
-VBD to_
-TO feel_
-VB nervous_
-VBN and_
-CC anxious_
-RB because_
-IN she_
-PRP wanted_
-VBD to_
-TO tell_
-VB everything_
-NN to_
-TO her_
-PRP$ bestfriend_
-NNS ._
-.
-
-So_
-RB I_
-PRP think_
-VBP you_
-PRP 'd_
-MD better_
-RB to_
-TO wear_
-VB a_
-DT dress_
-NN ._
-.
-
-In_
-IN conclusion_
-NNP ,_
-, do_
-VBP n't_
-RB forget_
-VBN that_
-IN a_
-DT job_
-NN is_
-VBZ just_
-RB spent_
-VBN in_
-IN your_
-PRP$ "_
-NNS spare_
-IN "_
-DT time_
-NN ._
-.
-
-Which_
-DT kind_
-NN of_
-IN clothes_
-PRP have_
-VBP I_
-PRP to_
-TO put_
-VB in_
-IN my_
-PRP$ case_
-NN ?_
-.
-
-I_
-PRP am_
-VBP writing_
-VBG to_
-TO you_
-PRP to_
-TO give_
-VB some_
-DT requiered_
-JJ information_
-NN ._
-.
-
-That_
-DT 's_
-VBZ why_
-WRB I_
-PRP 'd_
-MD like_
-VB to_
-TO feel_
-VB adventurally_
-. ._
-.
-
-Usually_
-PRP if_
-IN you_
-PRP ask_
-VBP them_
-PRP what_
-WP they_
-PRP would_
-MD desire_
-VB most_
-RB ,_
-, the_
-DT answer_
-NN is_
-VBZ :_
-: "_
-: I_
-PRP would_
-MD like_
-VB to_
-TO be_
-VB able_
-JJ to_
-TO live_
-VB like_
-IN ordinary_
-JJ people_
-NNS do_
-VBP "_
-VBN
-
-Thank_
-WRB you_
-PRP for_
-IN the_
-DT letter_
-NN that_
-IN conformed_
-DT first_
-JJ prize_
-. ._
-.
-
-You_
-PRP 'll_
-MD be_
-VB agree_
-VBN with_
-IN me_
-PRP that_
-IN 45_
-PRP$ minutes_
-NNS to_
-TO waiting_
-VB for_
-IN the_
-DT starting_
-NN of_
-IN the_
-DT show_
-NN is_
-VBZ a_
-DT too_
-RB long_
-JJ time_
-NN ._
-.
-
-About_
-PRP accomodation_
-VBD in_
-IN tents_
-NNS or_
-CC log_
-NNP cabins_
-NNP ,_
-, I_
-PRP would_
-MD enjoy_
-VB much_
-RB more_
-JJR being_
-NN in_
-IN tents_
-NNS as_
-IN I_
-PRP believe_
-VBP is_
-VBZ the_
-DT right_
-JJ type_
-NN of_
-IN accomodation_
-NN for_
-IN going_
-VBG camping_
-. ?_
-.
-
-It_
-PRP means_
-VBZ on_
-IN second_
-JJ day_
-NN of_
-IN our_
-PRP$ trip_
-NN and_
-CC it_
-PRP starts_
-VBZ at_
-IN 10.00_
-NN in_
-IN the_
-DT morning_
-NN untill_
-. 19.00_
-. ._
-.
-
-Therefor_
-WRB I_
-PRP would_
-MD n't_
-RB change_
-VB anything_
-NN in_
-IN my_
-PRP$ home_
-NN life_
-NN and_
-CC neither_
-RB in_
-IN my_
-PRP$ school_
-NN life_
-NN ._
-.
-
-Technology_
-PRP brings_
-VBZ me_
-PRP a_
-DT lot_
-NN of_
-IN new_
-JJ possibilities_
-IN every_
-DT day_
-NN ,_
-, and_
-CC it_
-PRP also_
-RB makes_
-VBZ everything_
-NN easier_
-. ._
-.
-
-The_
-DT technology_
-NN is_
-VBZ the_
-DT future_
-NN ,_
-, and_
-CC the_
-DT present_
-NN ._
-.
-
-I_
-PRP also_
-RB would_
-MD like_
-VB to_
-TO remark_
-VB that_
-IN this_
-DT change_
-NN does_
-VBZ not_
-RB increment_
-IN the_
-DT cost_
-NN of_
-IN the_
-DT trip_
-NN ,_
-, because_
-IN the_
-DT London_
-NNP Fashion_
-, And_
-CC Leisure_
-WRB Show_
-PRP is_
-VBZ free_
-JJ for_
-IN students_
-NNS ._
-.
-
-My_
-PRP$ second_
-JJ task_
-NN was_
-VBD that_
-IN I_
-PRP had_
-VBD to_
-TO look_
-VB in_
-IN all_
-PDT the_
-DT bags_
-NN of_
-IN the_
-DT fans_
-NN to_
-TO collect_
-VB "_
-DT dangerous_
-JJ "_
-NN items_
-'' ,_
-, I_
-PRP saw_
-VBD really_
-RB funny_
-JJ things_
-NNS like_
-IN teeth-bruches_
-NN in_
-IN the_
-DT bags_
-NN ._
-.
-
-Thank_
-WRB you_
-PRP very_
-RB much_
-RB and_
-CC I_
-PRP hope_
-MD hearing_
-VB from_
-IN you_
-PRP soon_
-RB ._
-.
-
-Finally_
-RB ,_
-, I_
-PRP give_
-VBP you_
-PRP some_
-DT suggestions_
-NNS which_
-WDT could_
-MD spend_
-VB for_
-IN about_
-IN 3_
-CD hours_
-NNS in_
-IN the_
-DT national_
-JJ museum_
-NN in_
-IN my_
-PRP$ area_
-NN ._
-.
-
-Machines_
-NNP ,_
-, such_
-JJ as_
-IN a_
-DT dish_
-JJ washer_
-NNS ,_
-, laundry_
-DT machine_
-NN and_
-CC remote_
-JJ controller_
-TO help_
-VB us_
-PRP jut_
-VBD to_
-TO relax_
-VB or_
-CC do_
-VB a_
-DT little_
-JJ work_
-NN necessary_
-. ._
-.
-
-First_
-RB of_
-IN al_
-NNP ,_
-, I_
-PRP want_
-VBP to_
-TO thank_
-VB you_
-PRP for_
-IN the_
-DT interesting_
-JJ programme_
-NNS ,_
-, which_
-WDT you_
-PRP already_
-RB have_
-VB organised_
-. ._
-.
-
-Suddenly_
-RB ,_
-, she_
-PRP heart_
-VB a_
-DT men_
-NNS voice_
-VBP called_
-VBN her_
-PRP$ "_
-NNS Sara_
-. ..._
-. Sara_
-. ._
-. look_
-VBP down_
-RB to_
-TO the_
-DT river_
-NN ._
-. "_
-.
-
-If_
-IN you_
-PRP are_
-VBP used_
-VBN to_
-TO go_
-VB to_
-TO the_
-DT Shopping_
-NN very_
-RB often_
-RB ,_
-, maybe_
-PRP is_
-VBZ because_
-IN you_
-PRP do_
-VBP n't_
-RB know_
-VB about_
-IN all_
-PDT the_
-DT others_
-NNS good_
-JJ things_
-NNS you_
-PRP can_
-MD do_
-VB on_
-IN your_
-PRP$ weekend_
-NNS ._
-.
-
-The_
-DT uniform_
-NN ,_
-, we_
-PRP are_
-VBP wearing_
-PRP has_
-VBZ to_
-TO be_
-VB perfect_
-JJ ._
-.
-
-Firstly_
-NNP ,_
-, the_
-DT actors_
-NN were_
-VBD different_
-JJ from_
-IN the_
-DT ones_
-NNS written_
-VBN in_
-IN the_
-DT advertisement_
-NN which_
-WDT was_
-VBD very_
-RB disappointing_
-JJ for_
-IN me_
-PRP ._
-.
-
-First_
-RB ,_
-, I_
-PRP expected_
-VBD to_
-TO see_
-VB Danny_
-VBN Brook_
-, but_
-CC a_
-DT different_
-JJ actor_
-NNS appeared_
-VBD without_
-IN any_
-DT explanation_
-NN ._
-.
-
-After_
-IN all_
-DT this_
-NN ,_
-, I_
-PRP want_
-VBP to_
-TO know_
-VB if_
-IN I_
-PRP will_
-MD have_
-VB some_
-DT money_
-NN back_
-. ._
-.
-
-Another_
-DT bad_
-JJ thing_
-NN is_
-VBZ that_
-DT people_
-NNS want_
-VBP something_
-NN very_
-RB badly_
-RB ,_
-, and_
-CC they_
-PRP ca_
-MD n't_
-RB afford_
-VB it_
-PRP ._
-.
-
-We_
-PRP would_
-MD like_
-VB our_
-PRP$ money_
-NN back_
-RB please_
-VBN because_
-IN every_
-DT thing_
-NN gone_
-VBN wrong_
-JJ ,_
-, the_
-DT atmosphere_
-NN totally_
-. chanced_
-. !_
-.
-
-I_
-PRP was_
-VBD so_
-RB exited_
-, and_
-CC happy_
-JJ that_
-IN I_
-PRP ca_
-MD n't_
-RB remember_
-VB what_
-WP I_
-PRP talked_
-VBD with_
-IN the_
-DT band_
-NN ._
-.
-
-First_
-RB of_
-IN all_
-DT ,_
-, the_
-DT performers_
-NNS should_
-MD be_
-VB Danny_
-VBN Brook_
-, and_
-CC Tina_
-NN Truelove_
-. ._
-.
-
-You_
-PRP should_
-MD be_
-VB punctual_
-VBN when_
-WRB coming_
-VBG to_
-TO dining_
-VB table_
-VBN ,_
-, respectful_
-RB ,_
-, do_
-VBP your_
-PRP$ home_
-NN works_
-NNS and_
-CC watch_
-VB TV_
-RB less_
-RBR and_
-CC not_
-RB too_
-RB loud_
-RB ._
-.
-
-If_
-IN you_
-PRP say_
-VB that_
-IN the_
-DT wage_
-NN is_
-VBZ far_
-RB from_
-IN satisfaction_
-NN ,_
-, why_
-WRB do_
-VBP n't_
-RB you_
-PRP teach_
-VBD younger_
-JJR students_
-NNS as_
-IN a_
-DT private_
-JJ teacher_
-NN ._
-.
-
-We_
-PRP would_
-MD be_
-VB very_
-RB interesting_
-JJ in_
-IN seeing_
-VBG the_
-DT english_
-JJ fashion_
-NN ._
-.
-
-If_
-IN you_
-PRP leave_
-VBP the_
-DT bus_
-NN ,_
-, the_
-DT conference_
-NN is_
-VBZ in_
-IN the_
-DT house_
-NN opposite_
-IN the_
-DT road_
-NN ._
-.
-
-However_
-RB ,_
-, I_
-PRP have_
-VBP been_
-VBN asked_
-VBN by_
-IN the_
-DT class_
-NN to_
-TO propose_
-VB you_
-PRP another_
-DT visit_
-NN ._
-.
-
-And_
-CC thanks_
-RB again_
-RB for_
-IN offer_
-WDT me_
-PRP two_
-CD weeks_
-NNS at_
-IN Camp_
-NNP California_
-NNP in_
-IN the_
-DT U.S.A._
-NN
-
-I_
-PRP tried_
-VBD to_
-TO play_
-VB the_
-DT drums_
-NNS but_
-CC I_
-PRP was_
-VBD expelled_
-VBN from_
-IN the_
-DT stage_
-NN by_
-IN a_
-DT member_
-NN of_
-IN the_
-DT group_
-NN who_
-WP was_
-VBD in_
-IN a_
-DT bad_
-JJ mood_
-NN ._
-.
-
-She_
-PRP spent_
-VBD this_
-DT only_
-JJ for_
-IN a_
-DT magazin_
-NN ._
-.
-
-I_
-PRP helped_
-VBD setting_
-VBG up_
-IN the_
-DT sound_
-NN equipment_
-'' ,_
-, programming_
-IN the_
-DT light_
-JJ system_
-NN on_
-IN the_
-DT computer_
-NN ,_
-, tidy_
-CC up_
-IN Madonna_
-NNP 's_
-POS room_
-NN !_
-.
-
-During_
-IN my_
-PRP$ recent_
-JJ holiday_
-NNS in_
-IN London_
-NNP I_
-PRP visited_
-VBD one_
-CD of_
-IN your_
-PRP$ shows_
-NNS in_
-IN the_
-DT "_
-NN Circle_
-. Theatre_
-. "_
-. ._
-.
-
-Firstly_
-NNP ,_
-, the_
-DT material_
-NN of_
-IN which_
-WDT clothes_
-PRP are_
-VBP made_
-VBN has_
-VBZ a_
-DT wide_
-JJ range_
-NN ._
-.
-
-Because_
-RB ,_
-, althoug_
-WRB they_
-PRP are_
-VBP famous_
-VBN they_
-PRP have_
-VBP also_
-RB their_
-PRP$ private_
-JJ life_
-NN ._
-.
-
-After_
-IN the_
-DT show_
-NN I_
-PRP went_
-VBD the_
-DT '_
-FW theatre_
-FW restaurant_
-FW '_
-'' to_
-TO have_
-VB dinner_
-VBN ,_
-, but_
-CC the_
-DT restaurant_
-NN was_
-VBD closed_
-. ._
-.
-
-Thank_
-WRB you_
-PRP for_
-IN your_
-PRP$ letter_
-NN ,_
-, like_
-IN usual_
-JJ ,_
-, it_
-PRP 's_
-VBZ a_
-DT pleisure_
-NN to_
-TO receive_
-VB a_
-DT word_
-NN from_
-IN you_
-PRP ._
-.
-
-The_
-DT advertisement_
-NN outside_
-IN the_
-DT theatre_
-NN explained_
-VBD a_
-DT lot_
-NN of_
-IN interesting_
-JJ things_
-NNS to_
-TO enjoy_
-VB ._
-.
-
-In_
-IN the_
-DT advertisement_
-NN ,_
-, you_
-PRP mentioned_
-VBD actors_
-RB ,_
-, time_
-NN ,_
-, price_
-TO discount_
-VB and_
-CC equipment_
-NN ._
-.
-
-If_
-IN you_
-PRP need_
-VBP any_
-DT information_
-NN ,_
-, please_
-TO let_
-VB me_
-PRP know_
-VBP ._
-.
-
-However_
-RB ,_
-, it_
-PRP closed_
-VBD because_
-IN it_
-PRP was_
-VBD being_
-VBG decorated_
-. ._
-.
-
-I_
-PRP also_
-RB helped_
-VBD to_
-TO serve_
-VB people_
-NNS who_
-WP would_
-MD like_
-VB drink_
-NN ,_
-,
-
-Would_
-WRB you_
-PRP give_
-VBP me_
-PRP some_
-DT pocket-money_
-NN during_
-IN the_
-DT trip_
-NN ._
-.
-
-i_
-PRP whant_
-VBD to_
-TO know_
-VB some_
-DT questions_
-NNS about_
-IN it_
-PRP ._
-.
-
-I_
-PRP phoned_
-VBD to_
-TO police_
-VB And_
-CC told_
-VBD the_
-DT whole_
-JJ story_
-NN ._
-.
-
-I_
-PRP prefer_
-VBP to_
-TO stay_
-VB in_
-IN log_
-DT cabins_
-NN than_
-IN in_
-IN tentes_
-NNP ,_
-, because_
-IN log_
-DT cabins_
-NN has_
-VBZ much_
-RB esctructure_
-RB ,_
-, that_
-IN I_
-PRP need_
-VBP to_
-TO stay_
-VB for_
-IN a_
-DT few_
-JJ days_
-NNS ._
-.
-
-The_
-DT dance_
-NN shows_
-VBZ made_
-VBN sight_
-NN for_
-IN our_
-PRP$ sour_
-JJ eyes_
-NNS ,_
-,
-
-At_
-IN the_
-DT end_
-NN all_
-DT depends_
-NN in_
-IN our_
-PRP$ attitud_
-NN to_
-TO life_
-NN ,_
-, including_
-VBG shopping_
-. ._
-.
-
-Molly_
-NNP ,_
-, Vance_
-NNP and_
-CC Sally_
-PRP had_
-VBD a_
-DT quick_
-JJ chat_
-NNS and_
-CC said_
-VBD good-bye_
-VBN to_
-TO each_
-DT other_
-JJ as_
-IN ,_
-, to_
-TO Molly_
-VB ,_
-, they_
-PRP seemed_
-VBD to_
-TO be_
-VB in_
-IN a_
-DT hurry_
-NN and_
-CC as_
-IN Molly_
-PRP knew_
-VBD that_
-IN they_
-PRP have_
-VBP been_
-VBN dating_
-RB ,_
-, she_
-PRP wanted_
-VBD them_
-PRP to_
-TO enjoy_
-VB their_
-PRP$ own_
-JJ time_
-NN ._
-.
-
-Can_
-WRB you_
-PRP imagine_
-VBP the_
-DT new_
-JJ your_
-PRP$ house_
-NN ?_
-.
-
-I_
-PRP hope_
-VB that_
-IN after_
-IN jully_
-PRP wo_
-MD n't_
-RB disturb_
-IN the_
-DT Camp_
-NNP California_
-NNP 's_
-POS plans_
-NN for_
-IN me_
-PRP ._
-.
-
-Functions_
-NNP '_
-POS clothes_
-NNS are_
-VBP the_
-DT way_
-NN to_
-TO love_
-VB animals_
-. !_
-.
-
-We_
-PRP are_
-VBP all_
-DT very_
-RB interested_
-VBN in_
-IN the_
-DT show_
-NN because_
-IN England_
-NNP people_
-NNS have_
-VBP a_
-DT different_
-JJ kind_
-NN of_
-IN life_
-NN ._
-.
-
-Internet_
-PRP is_
-VBZ very_
-RB handy_
-RB ,_
-, you_
-PRP can_
-MD buy_
-VB ,_
-, send_
-VBP e-mail_
-JJ messages_
-NNS ,_
-, or_
-CC even_
-RB have_
-VB sex_
-NN ,_
-, that_
-WDT is_
-VBZ really_
-RB funny_
-. ._
-.
-
-Every_
-DT one_
-CD hopes_
-NNS to_
-TO enjoying_
-VB himself_
-PRP and_
-CC comes_
-VBZ back_
-RB with_
-IN a_
-DT lot_
-NN of_
-IN knowledge_
-NN ._
-.
-
-So_
-RB we_
-PRP suggest_
-VBD to_
-TO put_
-VB it_
-PRP this_
-DT way_
-NN on_
-IN Tuesday_
-DT 14_
-NN ,_
-, in_
-IN the_
-DT morning_
-NN go_
-VB to_
-TO the_
-DT Science_
-NNP Museum_
-NNP and_
-CC instead_
-RB of_
-IN shopping_
-NNP ,_
-, we_
-PRP could_
-MD attend_
-VB the_
-DT London_
-NNP Fashion_
-POS show_
-NN ,_
-, because_
-IN will_
-MD be_
-VB the_
-DT latest_
-JJS fashion_
-NN ,_
-, leisure_
-NN and_
-CC sports_
-NNS wear_
-VBP ,_
-, make_
-VBP up_
-RB ,_
-, and_
-CC hair_
-NN styles_
-'' ,_
-, and_
-CC as_
-IN you_
-PRP know_
-VBP us_
-PRP ,_
-, we_
-PRP love_
-VBP all_
-DT those_
-DT topics_
-NN ,_
-, and_
-CC it_
-PRP 's_
-VBZ a_
-DT great_
-JJ opportunity_
-NN while_
-IN we_
-PRP are_
-VBP London_
-. ._
-.
-
-I_
-PRP learned_
-VBD swimming_
-VBN at_
-IN my_
-PRP$ age_
-NN of_
-IN 8_
-NN for_
-IN 5_
-PRP$ years_
-NNS and_
-CC I_
-PRP still_
-RB love_
-NN swimming_
-. ._
-.
-
-Then_
-RB ,_
-, we_
-PRP have_
-VBP to_
-TO be_
-VB as_
-IN best_
-JJS secret_
-JJ keepers_
-NNS as_
-IN possible_
-JJ ,_
-, or_
-CC we_
-PRP will_
-MD end_
-VB like_
-IN Ali_
-NN and_
-CC Pat_
-NN ._
-.
-
-The_
-DT church_
-NN is_
-VBZ located_
-VBN on_
-IN a_
-DT place_
-NN where_
-WRB you_
-PRP see_
-VB the_
-DT whole_
-JJ mountain_
-JJ chain_
-NN of_
-IN Rigi_
-NN ._
-.
-
-If_
-IN you_
-PRP 're_
-VBP tire_
-NN ,_
-, the_
-DT pill_
-NN can_
-MD give_
-VB you_
-PRP vitamin_
-VBD ,_
-, protein_
-NN and_
-CC make_
-VB you_
-PRP refresh_
-VBD
-
-I_
-PRP have_
-VBP just_
-RB received_
-VBN your_
-PRP$ letter_
-NN telling_
-, me_
-PRP I_
-PRP have_
-VBP won_
-VBD the_
-DT first_
-JJ prize_
-NNS in_
-IN your_
-PRP$ competition_
-NN ,_
-, and_
-CC I_
-PRP am_
-VBP glad_
-VBN for_
-IN it_
-PRP ._
-.
-
-I_
-PRP would_
-MD like_
-VB to_
-TO know_
-VB which_
-WDT sort_
-NN of_
-IN clothes_
-WDT we_
-PRP have_
-VBP to_
-TO take_
-VB with_
-IN us_
-PRP and_
-CC also_
-RB how_
-WRB much_
-JJ money_
-NN is_
-VBZ necessary_
-JJ ._
-.
-
-Another_
-DT point_
-NN is_
-VBZ now_
-RB you_
-PRP do_
-VBP n't_
-RB need_
-VBN to_
-TO go_
-VB out_
-RB just_
-RB for_
-IN shopping_
-NN ._
-.
-
-I_
-PRP spent_
-VBD two_
-CD days_
-NNS at_
-IN the_
-DT International_
-NNP Arts_
-NNP Festival_
-, you_
-PRP have_
-VBP organized_
-VBN ._
-.
-
-When_
-WRB finally_
-RB the_
-DT show_
-NN had_
-VBD started_
-VBN I_
-PRP found_
-VBD out_
-IN that_
-DT Danny_
-NNP Brook_
-NNP was_
-VBD replaced_
-VBN by_
-IN another_
-DT actor_
-NN ._
-.
-
-Plays_
-NNS and_
-CC films_
-JJ qualities_
-NNS were_
-VBD good_
-JJ ,_
-, but_
-CC quantities_
-PRP were_
-VBD bad_
-. ._
-.
-
-About_
-PRP accomodation_
-VBD I_
-PRP would_
-MD prefer_
-VB cabins_
-VBN ,_
-, because_
-IN I_
-PRP suffer_
-MD alergic_
-VB ,_
-, and_
-CC I_
-PRP think_
-VBP tend_
-RB ,_
-, would_
-MD be_
-VB not_
-RB very_
-RB suitable_
-JJ for_
-IN my_
-PRP$ health_
-NN ._
-.
-
-I_
-PRP 'm_
-VBP writting_
-VBN you_
-PRP because_
-IN I_
-PRP wanted_
-VBD to_
-TO tell_
-VB you_
-PRP what_
-VBD a_
-DT bad_
-JJ experience_
-NN I_
-PRP had_
-VBD during_
-IN my_
-PRP$ holidays_
-NNS when_
-WRB I_
-PRP went_
-VBD to_
-TO see_
-VB the_
-DT play_
-NN on_
-IN your_
-PRP$ theatre_
-NN ._
-.
-
-We_
-PRP can_
-MD see_
-VB the_
-DT latest_
-JJS fashions_
-NN ,_
-, leisure_
-NN and_
-CC sports_
-NNS wear_
-VBP ,_
-, make_
-VBP up_
-RB ,_
-, and_
-CC hairstyles_
-NNS which_
-WDT we_
-PRP will_
-MD learn_
-VB next_
-JJ term_
-NN ._
-.
-
-The_
-DT two_
-CD activities_
-NNS that_
-IN I_
-PRP prefer_
-VBD will_
-MD be_
-VB Basketball_
-VBN ,_
-, because_
-IN I_
-PRP had_
-VBD the_
-DT experience_
-NN to_
-TO play_
-VB in_
-IN my_
-PRP$ school_
-NN 's_
-POS big_
-JJ for_
-IN almoust_
-VBG a_
-DT year_
-NN ,_
-, and_
-CC Photography_
-NNP ,_
-, which_
-WDT is_
-VBZ a_
-DT hobby_
-NN that_
-IN I_
-PRP am_
-VBP good_
-JJ at_
-IN and_
-CC I_
-PRP practice_
-VBD since_
-IN I_
-PRP was_
-VBD ten_
-CD ._
-.
-
-I_
-PRP believe_
-VBP there_
-RB are_
-VBP lot_
-VBN of_
-IN why_
-WRB to_
-TO enjoy_
-VB shopping_
-. ._
-.
-
-The_
-DT restaurant_
-NN was_
-VBD closed_
-VBN because_
-IN there_
-EX was_
-VBD n't_
-RB electricity_
-VBN
-
-In_
-IN August_
-NNP ,_
-, I_
-PRP have_
-VBP already_
-RB made_
-VBN another_
-DT appointment_
-NN with_
-IN my_
-PRP$ friends_
-NNS ._
-.
-
-They_
-PRP look_
-VBP like_
-IN a_
-DT robotes_
-NNS who_
-WP have_
-VBP to_
-TO do_
-VB their_
-PRP$ duties_
-NNS -_
-: to_
-TO buy_
-VB ._
-.
-
-I_
-PRP 'm_
-VBP used_
-VBN to_
-TO be_
-VB the_
-DT photographer_
-NN at_
-IN the_
-DT holidays_
-NN with_
-IN my_
-PRP$ family_
-NN and_
-CC I_
-PRP know_
-VB how_
-WRB a_
-DT camera_
-JJ works_
-NNS ._
-.
-
-In_
-IN fact_
-NN ,_
-, I_
-PRP did_
-VBD ._
-.
-
-I_
-PRP ca_
-MD n't_
-RB believe_
-VB she_
-PRP said_
-VBD that_
-IN ,_
-, I_
-PRP was_
-VBD at_
-IN the_
-DT Maria_
-NNP 's_
-POS party_
-NN and_
-CC 'cause_
-RB of_
-IN my_
-PRP$ distraction_
-NNS ,_
-, I_
-PRP said_
-VBD Pat_
-VBN that_
-IN I_
-PRP had_
-VBD lost_
-VBN the_
-DT Jon_
-NNP 's_
-POS shirt_
-NN ._
-.
-
-That_
-DT show_
-NN takes_
-VBZ place_
-NN on_
-IN 14th_
-NNP March_
-NNP from_
-IN 10.00_
-NN -_
-. 19.00_
-. ._
-.
-
-First_
-RB off_
-IN all_
-DT I_
-PRP 'll_
-MD prefer_
-VB to_
-TO travel_
-VB in_
-IN July_
-NNP ,_
-, because_
-IN it_
-PRP is_
-VBZ the_
-DT only_
-JJ month_
-NN I_
-PRP have_
-VBP free_
-JJ ._
-.
-
-The_
-DT only_
-JJ effect_
-NN on_
-IN me_
-PRP is_
-VBZ more_
-RBR often_
-RB disagreements_
-VBN with_
-IN my_
-PRP$ parents_
-NNS ._
-.
-
-I_
-PRP would_
-MD also_
-RB like_
-VB to_
-TO thank_
-VB you_
-PRP for_
-IN the_
-DT good_
-JJ programme_
-, you_
-PRP made_
-VBD for_
-IN us_
-PRP ,_
-, especially_
-RB the_
-DT river_
-NN trip_
-NN to_
-TO Greenwich_
-PRP might_
-MD be_
-VB fascinating_
-. ._
-.
-
-Recently_
-NNP ,_
-, I_
-PRP had_
-VBD a_
-DT week_
-NNP 's_
-POS holiday_
-NN in_
-IN London_
-NNP and_
-CC during_
-IN my_
-PRP$ stay_
-NN ,_
-, I_
-PRP went_
-VBD to_
-TO your_
-PRP$ theatre_
-NN to_
-TO see_
-VB "_
-TO Over_
-VB The_
-DT Rainbow_
-NN "_
-, and_
-CC I_
-PRP was_
-VBD really_
-RB disillusioned_
-. ._
-.
-
-Peter_
-NNP got_
-VBD very_
-RB angry_
-JJ and_
-CC told_
-VBN Pat_
-IN why_
-PRP did_
-VBD they_
-PRP say_
-VB that_
-IN to_
-TO him_
-PRP ._
-.
-
-Then_
-RB ,_
-, I_
-PRP discovered_
-VBD some_
-DT points_
-NNS and_
-CC I_
-PRP am_
-VBP writing_
-VBG to_
-TO express_
-VB my_
-PRP$ suggestion_
-NN and_
-CC recommendations_
-NN ._
-.
-
-We_
-PRP have_
-VBP had_
-VBD a_
-DT quite_
-RB pleasant_
-JJ time_
-NN except_
-IN the_
-DT evening_
-NN ._
-.
-
-And_
-CC we_
-PRP have_
-VBP two_
-CD choices_
-NNS to_
-TO get_
-VB to_
-TO the_
-DT conference_
-NN ,_
-, a_
-DT bus_
-NN or_
-CC a_
-DT train_
-NN ._
-.
-
-A_
-DT few_
-JJ days_
-NNS before_
-IN ,_
-, I_
-PRP had_
-VBD founded_
-IN a_
-DT little_
-JJ window_
-NN at_
-IN the_
-DT back_
-NN of_
-IN the_
-DT building_
-NN ,_
-, so_
-RB I_
-PRP entered_
-VBD by_
-IN this_
-DT way_
-NN and_
-CC by_
-IN chance_
-NN I_
-PRP just_
-RB arrived_
-VBD in_
-IN the_
-DT monney_
-NNP 's_
-POS room_
-NN ._
-.
-
-Pat_
-PRP and_
-CC Ted_
-NNP ,_
-, had_
-VBD always_
-RB competition_
-RB ,_
-, and_
-CC Ted_
-RB used_
-VBN to_
-TO be_
-VB the_
-DT best_
-JJS ,_
-, he_
-PRP never_
-RB had_
-VBD failed_
-VBN and_
-CC people_
-NNS in_
-IN general_
-JJ constums_
-NN to_
-TO like_
-VB more_
-RBR Ted_
-JJ ,_
-, I_
-PRP do_
-VBP n't_
-RB now_
-RB why_
-. ._
-.
-
-My_
-PRP$ wife_
-NN and_
-CC me_
-PRP went_
-VBD to_
-TO The_
-DT Circle_
-NNP Theatre_
-POS last_
-JJ Saturday_
-JJ evening_
-NN because_
-IN we_
-PRP love_
-VBP the_
-DT main_
-JJ actor_
-NNS ,_
-, Danny_
-PRP Brook_
-. ._
-.
-
-I_
-PRP would_
-MD like_
-VB to_
-TO stay_
-VB in_
-IN log_
-DT cabins_
-NN because_
-IN I_
-PRP have_
-VBP bad_
-JJ experiens_
-NNS about_
-IN tents_
-NNS ._
-.
-
-This_
-DT is_
-VBZ very_
-RB nice_
-, when_
-WRB you_
-PRP can_
-MD do_
-VB your_
-PRP$ shopping_
-NNS like_
-IN that_
-DT ._
-.
-
-Everyone_
-PRP has_
-VBZ is_
-VBZ own_
-JJ style_
-NN but_
-CC it_
-PRP 's_
-POS obvious_
-JJ that_
-IN many_
-JJ of_
-IN us_
-PRP is_
-VBZ wearing_
-VBG the_
-DT same_
-JJ clothes_
-NNS like_
-IN others_
-NNS ._
-.
-
-I_
-PRP think_
-VBP it_
-PRP was_
-VBD definitely_
-RB not_
-RB a_
-DT perfect_
-JJ evening_
-NN as_
-IN garenteed_
-NN in_
-IN your_
-PRP$ advertisement_
-NNS ._
-.
-
-In_
-IN addition_
-NN to_
-TO this_
-DT some_
-DT concert_
-NN halls_
-WDT were_
-VBD too_
-RB small_
-JJ to_
-TO host_
-VB all_
-DT the_
-DT people_
-NNS who_
-WP were_
-VBD there_
-RB fro_
-IN the_
-DT occasion_
-NN and_
-CC ,_
-, personally_
-RB speaking_
-VBG the_
-DT show_
-NN could_
-MD be_
-VB done_
-VBN at_
-IN the_
-DT open_
-JJ air_
-NN next_
-JJ year_
-NN ,_
-, so_
-RB that_
-IN music_
-NN would_
-MD also_
-RB create_
-VB a_
-DT fantastic_
-JJ atmosphere_
-NN all_
-. around_
-. ._
-.
-
-Thank_
-WRB you_
-PRP for_
-IN your_
-PRP$ letter_
-NN of_
-IN asking_
-VBG for_
-IN my_
-PRP$ help_
-NN to_
-TO the_
-DT conference_
-NN ._
-.
-
-However_
-RB ,_
-, it_
-PRP would_
-MD not_
-RB have_
-VB been_
-VBN such_
-JJ a_
-DT great_
-JJ problem_
-NN if_
-IN the_
-DT show_
-NN on_
-IN the_
-DT proved_
-VBN to_
-TO be_
-VB as_
-IN good_
-JJ as_
-IN they_
-PRP promised_
-VBD but_
-CC it_
-PRP really_
-RB was_
-VBD not_
-RB worth_
-JJ seeing_
-NNS ,_
-, especially_
-RB because_
-IN the_
-DT first_
-JJ actor_
-NNS was_
-VBD not_
-RB Danny_
-VB Brook_
-VBN as_
-IN we_
-PRP expected_
-VBD but_
-CC an_
-DT unknown_
-JJ ,_
-, clearly_
-RB an_
-DT inexperienced_
-JJ young_
-JJ actor_
-NNS ,_
-, named_
-VBN Tom_
-. Douglas_
-. ._
-.
-
-I_
-PRP am_
-VBP writing_
-VBG to_
-TO give_
-VB my_
-PRP$ opinion_
-NN about_
-IN the_
-DT International_
-NNP Arts_
-NNP Festival_
-, which_
-WDT was_
-VBD held_
-VBN 21st_
-, and_
-CC 22nd_
-NNP November_
-NNP ._
-.
-
-(_
-( that_
-WDT was_
-VBD n't_
-RB easy_
-JJ to_
-TO decide_
-VB which_
-WDT activities_
-VBZ I_
-PRP will_
-MD do_
-VB ,_
-, cause_
-NN almost_
-RB choice_
-VB interested_
-VBN me_
-PRP )_
-)
-
-i_
-PRP 'd_
-MD prefer_
-VB take_
-VB a_
-DT tent_
-NN because_
-IN it_
-PRP is_
-VBZ more_
-RBR romantic_
-JJ and_
-CC exciting_
-TO spend_
-VB nights_
-NNS in_
-IN the_
-DT tent_
-NN ._
-.
-
-Because_
-WRB you_
-PRP have_
-VBP to_
-TO visit_
-VB many_
-JJ shops_
-NNS and_
-CC see_
-VB many_
-JJ thing_
-NN ._
-.
-
-I_
-PRP was_
-VBD pleased_
-VBN as_
-IN I_
-PRP got_
-VBD it_
-PRP ._
-.
-
-But_
-CC the_
-DT best_
-JJS thing_
-NN that_
-IN we_
-PRP do_
-VBP ,_
-, when_
-WRB we_
-PRP make_
-VBP shopp_
-PRP is_
-VBZ spend_
-IN the_
-DT time_
-NN having_
-VBG lunch_
-NN at_
-IN snack_
-DT bar_
-NN ,_
-, watching_
-VBG cinema_
-NN and_
-CC play_
-NN games_
-. computer_
-. ._
-.
-
-One_
-CD day_
-NN ,_
-, we_
-PRP were_
-VBD sitting_
-VBG in_
-IN the_
-DT dinning-hall_
-NN like_
-IN usually_
-RB ._
-.
-
-It_
-PRP must_
-MD be_
-VB very_
-RB exhausted_
-VBN to_
-TO have_
-VB the_
-DT medias_
-NN around_
-IN you_
-PRP$ days_
-NNS and_
-CC nights_
-NNS because_
-IN you_
-PRP ca_
-MD n't_
-RB be_
-VB yourself_
-VBN ,_
-, you_
-PRP have_
-VBP to_
-TO show_
-VB your_
-PRP$ best_
-JJS side_
-NN and_
-CC character_
-NN ._
-.
-
-I_
-PRP think_
-VBP the_
-DT students_
-NNS will_
-MD enjoy_
-VB this_
-DT sightseeing_
-NN ._
-.
-
-To_
-TO have_
-VB a_
-DT private_
-JJ life_
-NN is_
-VBZ the_
-DT natural_
-JJ desire_
-NN of_
-IN everyone_
-NN and_
-CC the_
-DT famous_
-JJ film_
-JJ stars_
-NNS or_
-CC politicians_
-TO have_
-VB a_
-DT right_
-NN for_
-IN it_
-PRP ._
-.
-
-You_
-PRP will_
-MD ca_
-VB n't_
-RB believe_
-VB how_
-WRB many_
-JJ famous_
-JJ people_
-NNS I_
-PRP known_
-VBN ._
-.
-
-I_
-PRP kept_
-VBD asking_
-VBG myself_
-PRP '_
-'' should_
-MD I_
-PRP wake_
-VBD him_
-PRP up_
-RB or_
-CC try_
-VB to_
-TO use_
-VB my_
-PRP$ unsure_
-JJ first_
-JJ aid_
-TO skill_
-VB to_
-TO deal_
-VB with_
-IN him_
-PRP ._
-.
-
-I_
-PRP would_
-MD like_
-VB to_
-TO know_
-VB only_
-RB in_
-IN July_
-NN because_
-IN I_
-PRP have_
-VBP set_
-VBN my_
-PRP$ holidays_
-`` this_
-DT month_
-NN since_
-IN last_
-JJ January_
-. ._
-.
-
-For_
-IN example_
-NN ,_
-, put_
-VBD the_
-DT music_
-NN too_
-RB hight_
-, when_
-WRB my_
-PRP$ syster_
-NN is_
-VBZ working_
-NN ._
-.
-
-I_
-PRP am_
-VBP very_
-RB good_
-JJ at_
-IN tennis_
-NN and_
-CC photography_
-JJ but_
-CC I_
-PRP would_
-MD prefer_
-VB to_
-TO practice_
-VB new_
-JJ ones_
-NNS ,_
-, if_
-IN it_
-PRP is_
-VBZ possible_
-JJ ._
-.
-
-Finaly_
-NNP ,_
-, I_
-PRP 'd_
-MD like_
-VB to_
-TO practice_
-NN tennis_
-, and_
-CC to_
-TO try_
-VB climbing_
-. ._
-.
-
-It_
-PRP contains_
-VBZ lots_
-VBN of_
-IN archeological_
-DT Etruscans_
-NN founded_
-, and_
-CC some_
-DT remains_
-VBZ about_
-IN Etruscans_
-NN neoropolis_
-. ._
-.
-
-I_
-PRP can_
-MD pay_
-VB my_
-PRP$ bills_
-NNS at_
-IN any_
-DT time_
-NN and_
-CC do_
-VBP not_
-RB need_
-VBN to_
-TO wait_
-VB on_
-IN a_
-DT big_
-JJ queue_
-NN to_
-TO be_
-VB attended_
-VBN by_
-IN the_
-DT cashman_
-NN ,_
-, I_
-PRP can_
-MD exchange_
-VB photos_
-VBN and_
-CC videos_
-NNP via_
-NNP computer_
-NNP ,_
-, I_
-PRP can_
-MD do_
-VB business_
-NN and_
-CC make_
-VB money_
-NN at_
-IN home_
-NN ,_
-, and_
-CC so_
-RB on_
-RB ._
-.
-
-As_
-IN I_
-PRP was_
-VBD so_
-RB looking_
-VBG foreward_
-VBN to_
-TO seeing_
-VB Danny_
-NNP 's_
-POS stage_
-NN ,_
-, I_
-PRP was_
-VBD very_
-RB disappointed_
-VBN ._
-.
-
-Also_
-RB I_
-PRP like_
-VBP to_
-TO play_
-VB tennis_
-VBN ,_
-, which_
-WDT is_
-VBZ beautiful_
-JJ "_
-JJ game_
-NN "_
-, itself_
-PRP and_
-CC good_
-JJ for_
-IN figure_
-NN ._
-.
-
-First_
-RB of_
-IN all_
-DT I_
-PRP have_
-VBP to_
-TO say_
-VB that_
-IN the_
-DT whole_
-JJ festival_
-NNS was_
-VBD a_
-DT greatful_
-JJ success_
-NN and_
-CC I_
-PRP also_
-RB think_
-VB you_
-PRP chose_
-VBD an_
-DT appropriate_
-JJ title_
-NN for_
-IN the_
-DT leaflet_
-NN ._
-.
-
-I_
-PRP am_
-VBP writing_
-VBG to_
-TO answer_
-VB about_
-IN your_
-PRP$ invitation_
-NN which_
-WDT I_
-PRP have_
-VBP receved_
-VBN as_
-IN a_
-DT first_
-JJ winner_
-. ._
-.
-
-After_
-IN the_
-DT show_
-NN ,_
-, my_
-PRP$ friends_
-NNS and_
-CC me_
-PRP decided_
-VBD to_
-TO go_
-VB to_
-TO your_
-PRP$ restaurant_
-NNS ,_
-, but_
-CC we_
-PRP were_
-VBD amazed_
-VBN to_
-TO find_
-VB it_
-PRP close_
-RB ._
-.
-
-It_
-PRP takes_
-VBZ 25_
-JJ minutes_
-NNS that_
-WDT is_
-VBZ convenient_
-VBN to_
-TO us_
-PRP ._
-.
-
-I_
-PRP was_
-VBD training_
-VBN to_
-TO be_
-VB a_
-DT personal_
-JJ assistance_
-NN to_
-TO Madonna_
-NNP herself_
-. ._
-.
-
-Another_
-DT way_
-NN our_
-PRP$ home_
-NN could_
-MD be_
-VB different_
-JJ in_
-IN the_
-DT future_
-NN is_
-VBZ probably_
-RB the_
-DT utilitles_
-NN we_
-PRP are_
-VBP using_
-VBG ._
-.
-
-I_
-PRP never_
-RB did_
-VBD surfing_
-RB ,_
-, but_
-CC every_
-DT time_
-NN I_
-PRP see_
-VBP surfing_
-VBN on_
-IN television_
-NN I_
-PRP find_
-VBP this_
-DT magic_
-NN ._
-.
-
-I_
-PRP think_
-VBP this_
-DT side_
-NN of_
-IN the_
-DT question_
-NN is_
-VBZ balanced_
-VBN because_
-IN before_
-IN effect_
-NN on_
-IN our_
-PRP$ health_
-NN was_
-VBD less_
-RB than_
-IN it_
-PRP is_
-VBZ now_
-RB ._
-.
-
-Write_
-WRB me_
-PRP back_
-RB soon_
-RB and_
-CC tell_
-VB me_
-PRP about_
-IN your_
-PRP$ impression_
-NN (_
-( I_
-PRP mean_
-VBP if_
-IN you_
-PRP enjoyed_
-VBD the_
-DT story_
-NN or_
-CC not_
-RB !_
-. )_
-)
-
-And_
-CC how_
-WRB much_
-JJ money_
-NN I_
-PRP am_
-VBP going_
-VBG to_
-TO need_
-NN to_
-TO have_
-VB there_
-RB with_
-IN me_
-PRP ?_
-.
-
-We_
-PRP like_
-VBP to_
-TO go_
-VB on_
-IN July_
-NNP ,_
-, because_
-IN my_
-PRP$ wife_
-NN Catrin_
-VBZ just_
-RB have_
-VB holidays_
-DT next_
-JJ month_
-NN ._
-.
-
-In_
-IN the_
-DT other_
-JJ hand_
-NN ,_
-, I_
-PRP can_
-MD not_
-RB sing_
-VBP very_
-RB well_
-RB but_
-CC I_
-PRP would_
-MD like_
-VB to_
-TO do_
-VB this_
-DT there_
-RB ._
-.
-
-I_
-PRP have_
-VBP received_
-VBN your_
-PRP$ letter_
-NN which_
-WDT is_
-VBZ make_
-VB me_
-PRP happy_
-. ._
-.
-
-I_
-PRP am_
-MD look_
-VB forward_
-RB to_
-TO hearing_
-VB from_
-IN you_
-PRP
-
-Every_
-DT day_
-NN ,_
-, the_
-DT growth_
-NN of_
-IN the_
-DT modern_
-JJ technology_
-NN increases_
-, in_
-IN the_
-DT whole_
-JJ world_
-NN and_
-CC it_
-PRP is_
-VBZ becoming_
-DT essential_
-JJ in_
-IN everybody_
-NN 's_
-POS life_
-NN ._
-.
-
-In_
-IN my_
-PRP$ daily_
-JJ life_
-NN I_
-PRP can_
-MD save_
-VB time_
-NN ,_
-, but_
-CC I_
-PRP think_
-VBP every_
-DT body_
-NN should_
-MD use_
-VB his_
-PRP$ saved_
-JJ time_
-NN for_
-IN things_
-NNS like_
-IN hiking_
-NNP ,_
-, walking_
-RB ,_
-, swimming_
-RB ,_
-, for_
-IN a_
-DT "_
-JJ natural_
-JJ life_
-NN "_
-, and_
-CC not_
-RB for_
-IN a_
-DT life_
-NN in_
-IN a_
-DT technical_
-JJ world_
-NN with_
-IN stress_
-NN and_
-CC sorrows_
-RB because_
-IN we_
-PRP are_
-VBP humans_
-NNS and_
-CC not_
-RB robots_
-. ._
-.
-
-I_
-PRP 'm_
-VBP excited_
-VBN to_
-TO go_
-VB on_
-IN holliday_
-PRP there_
-RB and_
-CC thanks_
-VBD to_
-TO you_
-PRP ,_
-, I_
-PRP will_
-MD realize_
-VB a_
-DT dream_
-NN that_
-IN I_
-PRP always_
-RB wanted_
-VBN to_
-TO do_
-VB ._
-.
-
-I_
-PRP 'll_
-MD tell_
-VB you_
-PRP two_
-CD activities_
-NNS I_
-PRP chose_
-. ._
-.
-
-It_
-PRP has_
-VBZ abosolutly_
-RB reduced_
-VBN women_
-PRP 's_
-VBZ our_
-PRP$ house_
-NN working_
-VBG time_
-NN ._
-.
-
-We_
-PRP do_
-VBP n't_
-RB have_
-VB old-traditioned_
-VBN rules_
-, or_
-CC something_
-NN alike_
-. ._
-.
-
-Last_
-NNP week_
-, I_
-PRP spent_
-VBD my_
-PRP$ holiday_
-NNS in_
-IN London_
-NNP and_
-CC I_
-PRP 've_
-VBP seen_
-VBN your_
-PRP$ musical_
-JJ "_
-NNS Over_
-IN the_
-DT rainbow_
-NN '_
-'' in_
-IN the_
-DT Circle_
-NN Theatre_
-, and_
-CC I_
-PRP was_
-VBD really_
-RB disappointed_
-VBN ._
-.
-
-Answering_
-PRP on_
-IN our_
-PRP$ first_
-JJ question_
-NN about_
-IN where_
-WRB would_
-MD I_
-PRP prefer_
-VBP to_
-TO sleep_
-VB ,_
-, I_
-PRP prefer_
-VBP tents_
-VBN because_
-IN it_
-PRP is_
-VBZ closer_
-VBN to_
-TO nature_
-NN and_
-CC I_
-PRP like_
-VBP sleepping_
-VBN in_
-IN sleepping_
-NNP bags_
-'' (_
-( =_
-FW BV_
-FW bags_
-FW )_
-) ._
-.
-
-I_
-PRP know_
-VBP you_
-PRP have_
-VBP a_
-DT good_
-JJ taste_
-NN in_
-IN presents_
-NN !_
-.
-
-So_
-RB all_
-PDT the_
-DT fashion_
-NN industry_
-WDT will_
-MD work_
-VB to_
-TO make_
-VB clothes_
-RB more_
-RBR useful_
-JJ ,_
-, practical_
-JJ and_
-CC comfortable_
-JJ ._
-.
-
-In_
-IN reference_
-NN about_
-IN the_
-DT date_
-NN of_
-IN the_
-DT travel_
-NN ,_
-, I_
-PRP would_
-MD like_
-VB to_
-TO travel_
-VB in_
-IN July_
-NN because_
-IN at_
-IN the_
-DT moment_
-NN I_
-PRP am_
-VBP working_
-VBG at_
-IN the_
-DT University_
-NN and_
-CC I_
-PRP only_
-RB have_
-VB July_
-VBN to_
-TO take_
-VB my_
-PRP$ holidays_
-NNS ._
-.
-
-I_
-PRP 'm_
-VBP sure_
-VBN that_
-IN if_
-IN you_
-PRP listen_
-VB to_
-TO it_
-PRP you_
-PRP will_
-MD start_
-VB reading_
-IN the_
-DT book_
-NN immediately_
-RB ,_
-, and_
-CC find_
-VBP out_
-RB there_
-RB many_
-JJ challenges_
-NNS for_
-IN your_
-PRP$ new_
-JJ carreer_
-. ._
-.
-
-Also_
-RB ,_
-, due_
-JJ to_
-TO global_
-VB warming_
-VBN ,_
-, sea_
-NN levels_
-NNS might_
-MD rise_
-VB and_
-CC risk_
-NN of_
-IN flooding_
-PRP will_
-MD also_
-RB rise_
-. ._
-.
-
-Modern_
-JJ technology_
-NN has_
-VBZ changed_
-VBN a_
-DT lot_
-NN our_
-PRP$ daily_
-JJ life_
-NN ._
-.
-
-So_
-RB I_
-PRP would_
-MD like_
-VB to_
-TO travel_
-VB on_
-IN July_
-NN ._
-.
-
-It_
-PRP was_
-VBD the_
-DT only_
-JJ disappointment_
-NNS during_
-IN my_
-PRP$ holiday_
-NNS in_
-IN London_
-NNP ,_
-, since_
-IN several_
-JJ points_
-NNS did_
-VBD n't_
-RB worked_
-VBD out_
-RB as_
-RB promised_
-VBD in_
-IN your_
-PRP$ advertisement_
-NNS ._
-.
-
-First_
-RB of_
-IN all_
-DT ,_
-, I_
-PRP congratulate_
-VBD you_
-PRP on_
-IN making_
-VBG this_
-DT kind_
-NN of_
-IN event_
-NN ._
-.
-
-The_
-DT activities_
-NNS are_
-VBP quite_
-RB hard_
-JJ to_
-TO choose_
-VB really_
-RB ,_
-, because_
-IN you_
-PRP have_
-VBP a_
-DT lot_
-NN of_
-IN chose_
-NNS which_
-WDT is_
-VBZ I_
-PRP like_
-VBP ._
-.
-
-Because_
-RB human_
-JJ high_
-JJ wo_
-NNS n't_
-RB change_
-VB so_
-RB much_
-RB ,_
-, unless_
-CC 10000_
-JJ years_
-NNS passed_
-. ._
-.
-
-After_
-IN I_
-PRP waited_
-VBD for_
-IN about_
-IN 45_
-PRP$ minutes_
-NNS the_
-DT show_
-NN suddenly_
-RB started_
-VBN but_
-CC I_
-PRP had_
-VBD to_
-TO realize_
-VB that_
-IN the_
-DT main_
-JJ actor_
-FW Danny_
-FW Brook_
-FW ,_
-, who_
-WP was_
-VBD the_
-DT reason_
-NN why_
-WRB I_
-PRP went_
-VBD into_
-IN the_
-DT show_
-NN had_
-VBD been_
-VBN traded_
-VBN by_
-IN an_
-DT other_
-JJ actor_
-NNS ,_
-, who_
-WP could_
-MD n't_
-RB sing_
-VB as_
-IN half_
-NN as_
-IN good_
-JJ then_
-RB Brook_
-. ._
-.
-
-That_
-DT was_
-VBD a_
-DT pop_
-JJ concert_
-NN with_
-IN lots_
-NN of_
-IN famous_
-JJ singers_
-NNS like_
-IN Madona_
-NNP ,_
-, Julio_
-CC Iglesias_
-NNP ,_
-, and_
-CC people_
-NNS like_
-IN them_
-PRP
-
-I_
-PRP decided_
-VBD to_
-TO go_
-VB to_
-TO see_
-VB this_
-DT show_
-NN because_
-IN of_
-IN its_
-PRP$ starrings_
-NNS ,_
-, but_
-CC at_
-IN the_
-DT day_
-NN I_
-PRP saw_
-VBD it_
-PRP ,_
-, a_
-DT different_
-JJ actor_
-. played_
-. ._
-.
-
-I_
-PRP 've_
-VBP just_
-RB helped_
-VBD for_
-IN staff_
-NN ._
-.
-
-What_
-WP are_
-VBP you_
-PRP dong_
-VBD today_
-NN ,_
-, how_
-WRB is_
-VBZ your_
-PRP$ school_
-NN ?_
-.
-
-Or_
-CC would_
-MD be_
-VB our_
-PRP$ house_
-NN itself_
-PRP alive_
-. ?_
-.
-
-Finally_
-RB ,_
-, I_
-PRP am_
-VBP writing_
-VBG to_
-TO request_
-VB a_
-DT full-refund_
-NN for_
-IN my_
-PRP$ friends_
-NNS and_
-CC I_
-PRP ,_
-, because_
-IN I_
-PRP felt_
-VBD your_
-PRP$ advertisement_
-NNS was_
-VBD misleading_
-. ._
-.
-
-But_
-CC last_
-JJ week_
-, we_
-PRP have_
-VBP seen_
-VBN an_
-DT advertisement_
-NN for_
-IN the_
-DT London_
-NNP Fashion_
-, and_
-CC Leisure_
-NN Show_
-. ._
-.
-
-I_
-PRP was_
-VBD very_
-RB please_
-VBN to_
-TO receive_
-VB your_
-PRP$ letter_
-NN ._
-.
-
-They_
-PRP have_
-VBP everything_
-NN they_
-PRP want_
-VBP very_
-RB easily_
-RB and_
-CC it_
-PRP is_
-VBZ not_
-RB good_
-JJ for_
-IN their_
-PRP$ future_
-NN ._
-.
-
-Everyone_
-PRP likes_
-VBZ sale_
-RB ,_
-, but_
-CC those_
-DT so-called_
-NN sale_
-, items_
-PRP are_
-VBP not_
-RB really_
-RB of_
-IN value_
-NN ._
-.
-
-But_
-CC this_
-DT was_
-VBD also_
-RB the_
-DT moment_
-NN when_
-WRB my_
-PRP$ nightmare_
-NNS started_
-VBD to_
-TO come_
-VB alive_
-JJ ._
-.
-
-However_
-RB ,_
-, we_
-PRP would_
-MD like_
-VB to_
-TO suggest_
-VB you_
-PRP something_
-NN :_
-:
-
-Before_
-PRP that_
-IN you_
-PRP have_
-VBP to_
-TO think_
-VB why_
-WRB you_
-PRP need_
-VBP to_
-TO earn_
-VB money_
-NN and_
-CC how_
-WRB you_
-PRP do_
-VBP that_
-IN ._
-.
-
-Suddenly_
-RB ,_
-, my_
-PRP$ father_
-NN realised_
-, he_
-PRP forgot_
-VBD to_
-TO close_
-VB the_
-DT car_
-NN ._
-.
-
-After_
-NNP ,_
-, student_
-NN is_
-VBZ making_
-VBG speech_
-NN about_
-IN what_
-WP he_
-PRP or_
-CC she_
-PRP have_
-VBP learned_
-VBN ._
-.
-
-And_
-CC is_
-VBZ it_
-PRP also_
-RB allowed_
-VBN to_
-TO bring_
-VB my_
-PRP$ dog_
-NN with_
-IN ?_
-.
-
-Well_
-UH ,_
-, I_
-PRP 'm_
-VBP also_
-RB bothered_
-VBN about_
-IN what_
-WP 's_
-VBZ going_
-VBG on_
-IN around_
-IN me_
-PRP but_
-CC why_
-PRP did_
-VBD you_
-PRP forget_
-VBD about_
-IN newspapers_
-NN ?_
-.
-
-According_
-VBG to_
-TO your_
-PRP$ advertisement_
-NNS ,_
-, it_
-PRP stars_
-MD Danny_
-VB Brook_
-VBN and_
-CC Tina_
-NNP Truelove_
-NNP ,_
-, but_
-CC surprisinggly_
-NNP ,_
-, it_
-PRP was_
-VBD proformed_
-VBN by_
-IN a_
-DT different_
-JJ actor_
-NNS who_
-WP I_
-PRP even_
-RB did_
-VBD n't_
-RB know_
-VB the_
-DT name_
-NN ._
-.
-
-First_
-RB of_
-IN all_
-DT ,_
-, I_
-PRP would_
-MD like_
-VB to_
-TO travel_
-VB in_
-IN July_
-NN because_
-IN I_
-PRP can_
-MD apply_
-VB my_
-PRP$ holiday_
-NNS only_
-RB in_
-IN July_
-NN ._
-.
-
-However_
-RB ,_
-, I_
-PRP manage_
-VBD to_
-TO listen_
-VB the_
-DT music_
-NN and_
-CC I_
-PRP must_
-MD admit_
-VB that_
-IN I_
-PRP liked_
-VBD it_
-PRP ._
-.
-
-I_
-PRP would_
-MD be_
-VB choose_
-IN a_
-DT month_
-NN July_
-'' ,_
-, because_
-IN I_
-PRP 'm_
-VBP free_
-JJ in_
-IN this_
-DT time_
-NN from_
-IN family_
-NN 's_
-POS duties_
-NNS ._
-.
-
-What_
-WP made_
-VBD things_
-NNS even_
-RB worse_
-PRP was_
-VBD that_
-IN the_
-DT leading_
-JJ actor_
-TO Danny_
-VB Brook_
-PRP did_
-VBD not_
-RB appear_
-VB at_
-IN the_
-DT stage_
-NN at_
-IN all_
-DT ._
-.
-
-You_
-PRP advertised_
-VBD for_
-IN my_
-PRP$ perfect_
-JJ evening_
-NN out_
-. ._
-.
-
-I_
-PRP was_
-VBD starting_
-TO trainning_
-VB since_
-IN 1996_
-NNP ,_
-, and_
-CC I_
-PRP have_
-VBP never_
-RB give_
-VB it_
-PRP up_
-RB ._
-.
-
-He_
-PRP cured_
-VBD the_
-DT bird_
-NN to_
-TO fly_
-VB with_
-IN love_
-NN ,_
-, and_
-CC the_
-DT bird_
-NN was_
-VBD able_
-JJ to_
-TO fly_
-VB ._
-.
-
-In_
-IN my_
-PRP$ home_
-NN ,_
-, the_
-DT only_
-JJ things_
-NNS I_
-PRP am_
-VBP not_
-RB allowed_
-VBN to_
-TO do_
-VB are_
-VBP things_
-NNS which_
-WDT can_
-MD disturbe_
-VB my_
-PRP$ familly_
-NNS ._
-.
-
-It_
-PRP was_
-VBD about_
-IN Marine_
-NNP ,_
-, who_
-WP was_
-VBD our_
-PRP$ clase_
-JJ friends_
-NNS ._
-.
-
-Firstly_
-NNP ,_
-, Palace_
-CC Hotel_
-NNP has_
-VBZ been_
-VBN booked_
-VBN into_
-IN for_
-IN the_
-DT group_
-NN accomodation_
-, and_
-CC I_
-PRP spoke_
-VBD with_
-IN the_
-DT hotel_
-NN manager_
-, for_
-IN traveling_
-VBG to_
-TO the_
-DT conference_
-NN ._
-.
-
-You_
-PRP ask_
-VBP me_
-PRP for_
-IN some_
-DT informations_
-NN -_
-: here_
-RB they_
-PRP are_
-VBP ._
-.
-
-We_
-PRP regard_
-VB that_
-IN the_
-DT show_
-NN might_
-MD be_
-VB great_
-JJ opportunity_
-NN for_
-IN the_
-DT most_
-RBS of_
-IN us_
-PRP who_
-WP are_
-VBP interested_
-VBN in_
-IN fashion_
-NN and_
-CC leisure_
-NN ._
-.
-
-Bye_
-PRP and_
-CC think_
-VB on_
-IN this_
-DT ._
-.
-
-houses_
-NNS only_
-RB will_
-MD be_
-VB more_
-RBR moderne_
-JJ and_
-CC more_
-RBR practique_
-JJ but_
-CC not_
-RB very_
-RB different_
-JJ from_
-IN our_
-PRP$ home_
-NN in_
-IN the_
-DT present_
-NN ._
-.
-
-But_
-CC they_
-PRP do_
-VBP n't_
-RB consider_
-VB the_
-DT problems_
-NNS the_
-DT romours_
-NN may_
-MD bring_
-VB to_
-TO the_
-DT famous_
-JJ family_
-NN or_
-CC couple_
-NN ._
-.
-
-I_
-PRP just_
-RB 15_
-CD years_
-NNS old_
-. ._
-.
-
-But_
-CC on_
-IN the_
-DT other_
-JJ hand_
-NN ,_
-, technology_
-NNP 's_
-POS products_
-NNS are_
-VBP sometimes_
-RB cheap_
-, and_
-CC I_
-PRP ca_
-MD n't_
-RB afford_
-VB it_
-PRP ._
-.
-
-therefore_
-RB ,_
-, I_
-PRP would_
-MD suggest_
-VB going_
-VBG to_
-TO the_
-DT frogs_
-JJ museum_
-NN which_
-WDT is_
-VBZ really_
-RB fashinating_
-. ._
-.
-
-Modern_
-JJ technology_
-NN has_
-VBZ brought_
-VBN many_
-JJ discoveries_
-NNS which_
-WDT have_
-VBP made_
-VBN our_
-PRP$ daily_
-JJ lives_
-NNS much_
-RB easier_
-. ._
-.
-
-Pat_
-PRP and_
-CC Scala_
-PRP have_
-VBP been_
-VBN good_
-JJ friends_
-NNS for_
-IN 10_
-PRP$ years_
-NNS ,_
-, their_
-PRP$ husband_
-NN too_
-RB ._
-.
-
-By_
-IN problems_
-NNS I_
-PRP mean_
-VBP ,_
-, that_
-IN the_
-DT show_
-NN started_
-VBD at_
-IN 20.15_
-NN and_
-CC not_
-RB at_
-IN 19:30_
-NN or_
-CC why_
-PRP were_
-VBD no_
-DT discounts_
-NN avaivable_
-. ?_
-.
-
-Secondly_
-NNP ,_
-, I_
-PRP suppose_
-VBP the_
-DT show_
-NN will_
-MD start_
-VB at_
-IN 19:30_
-NNP ,_
-, but_
-CC it_
-PRP started_
-VBD t_
-. 20:15_
-. ._
-.
-
-Sometime_
-WRB I_
-PRP stay_
-VBP alone_
-RB all_
-PDT the_
-DT day_
-NN but_
-CC I_
-PRP have_
-VBP contacts_
-VBN with_
-IN many_
-JJ people_
-NNS ._
-.
-
-Anyway_
-NNP ,_
-, what_
-WP you_
-PRP wanted_
-VBD to_
-TO know_
-VB was_
-VBD what_
-WP has_
-VBZ been_
-VBN my_
-PRP$ job_
-NN ._
-.
-
-It_
-PRP is_
-VBZ a_
-DT dream_
-NN becames_
-IN true_
-JJ and_
-CC was_
-VBD really_
-RB unexpected_
-VBN for_
-IN me_
-PRP !_
-.
-
-What_
-WP a_
-DT fool_
-NN was_
-VBD I_
-PRP ._
-.
-
-I_
-PRP am_
-VBP very_
-RB happy_
-JJ for_
-IN the_
-DT news_
-NN ._
-.
-
--_
-IN Some_
-DT sequences_
-NNS of_
-IN the_
-DT gym-lesson_
-NN should_
-MD conclude_
-VB the_
-DT part_
-NN of_
-IN the_
-DT film_
-NN showing_
-IN the_
-DT children_
-NNS at_
-IN work_
-NN ,_
-, but_
-CC there_
-EX should_
-MD follow_
-VB another_
-DT short_
-JJ part_
-NN that_
-WDT presents_
-VBZ how_
-WRB children_
-NNS have_
-VBP their_
-PRP$ lunch_
-NN and_
-CC spend_
-VB their_
-PRP$ free-time_
-NNS ,_
-, what_
-WP games_
-VBP they_
-PRP play_
-VBP in_
-IN the_
-DT school-yard_
-NN and_
-CC how_
-WRB they_
-PRP have_
-VBP contact_
-NN with_
-IN each_
-DT other_
-JJ ._
-.
-
-Maria_
-PRP was_
-VBD nervous_
-RB ,_
-, but_
-CC for_
-IN the_
-DT first_
-JJ time_
-NN ,_
-, she_
-PRP could_
-MD talk_
-VB to_
-TO him_
-PRP as_
-IN she_
-PRP never_
-RB did_
-VBD before_
-IN ,_
-, and_
-CC at_
-IN the_
-DT end_
-NN of_
-IN the_
-DT day_
-NN ,_
-, she_
-PRP was_
-VBD the_
-DT happiest_
-JJ person_
-NN of_
-IN the_
-DT world_
-NN ,_
-, she_
-PRP gave_
-VBD her_
-PRP$ first_
-JJ kiss_
-NNS and_
-CC she_
-PRP had_
-VBD Pat_
-PRP 's_
-VBZ friendship_
-RB back_
-RB ,_
-, after_
-IN all_
-DT ,_
-, everything_
-NN happened_
-VBD because_
-IN of_
-IN her_
-PRP ._
-.
-
-Furthermore_
-NNP ,_
-, this_
-DT party_
-NN would_
-MD be_
-VB in_
-IN your_
-PRP$ hotel_
-NN like_
-IN the_
-DT following_
-JJ years_
-NNS ._
-.
-
-I_
-PRP 'm_
-VBP very_
-RB keen_
-VBN on_
-IN photography_
-NNP ,_
-, especially_
-RB while_
-IN I_
-PRP 'm_
-VBP staying_
-VBN in_
-IN Sates_
-NN ._
-.
-
-Two_
-CD days_
-NNS ago_
-RB her_
-PRP$ best_
-JJS friend_
-NN Maria_
-VBZ told_
-VBN her_
-PRP that_
-IN her_
-PRP$ parents_
-NNS were_
-VBD going_
-VBG to_
-TO devorce_
-VB ,_
-, Maria_
-PRP was_
-VBD so_
-RB upset_
-VBN that_
-IN she_
-PRP could_
-MD n't_
-RB keep_
-VB it_
-PRP herself_
-. ._
-.
-
-It_
-PRP is_
-VBZ more_
-RBR confortable_
-JJ and_
-CC I_
-PRP am_
-VBP afraid_
-JJ about_
-IN wild_
-NN animals_
-. ._
-.
-
-I_
-PRP have_
-VBP already_
-RB ,_
-, saw_
-VBD others_
-NNS versions_
-, of_
-IN this_
-DT musical_
-JJ and_
-CC Danny_
-WRB Brook_
-PRP is_
-VBZ a_
-DT bad_
-JJ actor_
-NNS ,_
-, who_
-WP ended_
-VBD with_
-IN the_
-DT musical_
-JJ ._
-.
-
-In_
-IN the_
-DT conclusion_
-NN of_
-IN my_
-PRP$ report_
-NN I_
-PRP would_
-MD like_
-VB to_
-TO say_
-VB that_
-IN the_
-DT suggestions_
-NNS were_
-VBD made_
-VBN according_
-VBG to_
-TO the_
-DT survey_
-NN made_
-VBN among_
-IN the_
-DT students_
-NNS of_
-IN our_
-PRP$ school_
-NN ._
-.
-
-At_
-IN the_
-DT end_
-NN of_
-IN the_
-DT conference_
-NN there_
-EX will_
-MD be_
-VB reseption_
-VBN at_
-IN the_
-DT hotel_
-NN ._
-.
-
-I_
-PRP would_
-MD like_
-VB to_
-TO travel_
-VB in_
-IN July_
-NN because_
-IN I_
-PRP have_
-VBP got_
-DT summer_
-NN holidays_
-, from_
-IN July_
-VBG to_
-TO August_
-NNP and_
-CC I_
-PRP work_
-VBP as_
-IN a_
-DT bank_
-JJ clerk_
-NN in_
-IN August_
-NNP ._
-.
-
-It_
-PRP was_
-VBD very_
-RB well_
-RB organised_
-RB ,_
-, the_
-DT shows_
-NN started_
-VBD in_
-IN the_
-DT exactly_
-JJ time_
-NN and_
-CC the_
-DT group_
-NN were_
-VBD well_
-RB performed_
-VBN too_
-RB ._
-.
-
-We_
-PRP can_
-MD need_
-VB our_
-PRP$ imagination_
-NN for_
-IN answering_
-VBG these_
-DT questions_
-NNS but_
-CC we_
-PRP will_
-MD never_
-RB know_
-VB the_
-DT right_
-JJ answer_
-NN ._
-.
-
-In_
-IN fact_
-NN I_
-PRP have_
-VBP been_
-VBN playing_
-VBG the_
-DT piano_
-NN for_
-IN children_
-NNS 's_
-POS choir_
-NN for_
-IN 5_
-PRP$ years_
-NNS ._
-.
-
-it_
-PRP is_
-VBZ fantastic_
-JJ ._
-.
-
-just_
-RB as_
-IN example_
-NN ,_
-, internet_
-CC gets_
-JJ hundreds_
-NNS of_
-IN new_
-JJ users_
-IN every_
-DT single_
-JJ day_
-NN ._
-.
-
-I_
-PRP just_
-RB had_
-VBD no_
-DT possibility_
-NN to_
-TO meet_
-VB them_
-PRP after_
-IN school_
-NN ,_
-, because_
-IN I_
-PRP had_
-VBD no_
-DT vehicle_
-NN to_
-TO get_
-VB there_
-RB ._
-.
-
-I_
-PRP stood_
-VBD up_
-RB in_
-IN front_
-NN of_
-IN audiences_
-NN and_
-CC I_
-PRP had_
-VBD given_
-VBN an_
-DT attention_
-NN to_
-TO them_
-PRP ._
-.
-
-What_
-WP are_
-VBP you_
-PRP mistaken_
-VBD us_
-PRP for_
-IN ,_
-, Mr_
-PRP Smith_
-. ?_
-.
-
-In_
-IN addition_
-NN to_
-TO these_
-DT ,_
-, I_
-PRP can_
-MD contact_
-VB to_
-TO anyone_
-VB who_
-WP I_
-PRP want_
-VBP to_
-TO talk_
-VB at_
-IN any_
-DT convenient_
-JJ time_
-NN in_
-IN case_
-NN I_
-PRP need_
-VBP him_
-PRP or_
-CC her_
-PRP ,_
-, or_
-CC I_
-PRP am_
-VBP needed_
-VBN ._
-.
-
-Firstly_
-NNP ,_
-, it_
-PRP 's_
-VBZ written_
-VBN that_
-IN it_
-PRP will_
-MD be_
-VB played_
-VBN by_
-IN Danny_
-DT Brook_
-NN ,_
-, but_
-CC in_
-IN fact_
-NN it_
-PRP was_
-VBD n't_
-RB ._
-.
-
-Firstly_
-NNP ,_
-, I_
-PRP want_
-VBP to_
-TO say_
-VB it_
-PRP is_
-VBZ a_
-DT great_
-JJ idea_
-NN to_
-TO have_
-VB this_
-DT international_
-JJ arts_
-NNS festival_
-'' ,_
-,
-
-The_
-DT next_
-JJ day_
-NN Mr_
-IN White_
-NNP was_
-VBD charged_
-VBN for_
-IN abuses_
-NN and_
-CC obliged_
-VBD to_
-TO resign_
-VB ._
-.
-
-Secondly_
-NNP ,_
-, I_
-PRP will_
-MD like_
-VB to_
-TO tell_
-VB you_
-PRP that_
-IN I_
-PRP can_
-MD only_
-RB travel_
-VBP in_
-IN July_
-NN because_
-IN in_
-IN June_
-WDT I_
-PRP have_
-VBP to_
-TO take_
-VB my_
-PRP$ final_
-JJ exams_
-NNS at_
-IN school_
-NN ._
-.
-
-It_
-PRP means_
-VBZ buying_
-TO whatever_
-VB we_
-PRP like_
-VBP ,_
-, just_
-RB like_
-IN clothes_
-NNP ,_
-, records_
-VBZ ,_
-, rings_
-RB ,_
-, and_
-CC books_
-NNS ._
-.
-
-I_
-PRP never_
-RB stayed_
-VBD out_
-RB after_
-IN dark_
-JJ today_
-NN except_
-IN accompanying_
-NN by_
-IN my_
-PRP$ family_
-NN ._
-.
-
-Of_
-IN course_
-NN ,_
-, I_
-PRP could_
-MD listen_
-VB to_
-TO all_
-DT their_
-PRP$ music_
-NN which_
-WDT were_
-VBD so_
-RB cool_
-JJ ._
-.
-
-You_
-PRP choose_
-VBP Larry_
-RB ,_
-, but_
-CC I_
-PRP thought_
-VBD that_
-IN I_
-PRP was_
-VBD your_
-PRP$ best_
-JJS friend_
-NN ._
-. "_
-.
-
-The_
-DT place_
-NN we_
-PRP worked_
-VBD was_
-VBD a_
-DT football_
-JJ pitch_
-NN ;_
-: we_
-PRP spent_
-VBD 3_
-CD days_
-NNS on_
-IN setting_
-NN up_
-IN the_
-DT stage_
-NN ,_
-, the_
-DT equitment_
-NN ,_
-, and_
-CC the_
-DT lights_
-NNS ._
-.
-
-Another_
-DT point_
-NN is_
-VBZ that_
-IN the_
-DT discounts_
-NN was_
-VBD n't_
-RB available_
-JJ although_
-IN I_
-PRP could_
-MD red_
-VB it_
-PRP before_
-IN at_
-IN your_
-PRP$ notice_
-NNS ._
-.
-
-How_
-WRB could_
-MD you_
-PRP change_
-VBP the_
-DT actors_
-NN without_
-IN saying_
-VBG something_
-NN to_
-TO the_
-DT visitors_
-NN ._
-.
-
-According_
-VBG to_
-TO all_
-DT this_
-NN ,_
-, what_
-WP was_
-VBD supposed_
-VBN to_
-TO be_
-VB one_
-PRP of_
-IN my_
-PRP$ best_
-JJS nights_
-NNS turned_
-VBD out_
-RB to_
-TO be_
-VB definatly_
-DT one_
-NN of_
-IN the_
-DT worsts_
-NN ._
-.
-
-Some_
-DT people_
-NNS are_
-VBP in_
-IN a_
-DT hurry_
-JJ other_
-JJ are_
-VBP agressive_
-VBN and_
-CC most_
-RB of_
-IN the_
-DT other_
-JJ are_
-VBP very_
-RB stressed_
-. ._
-.
-
-I_
-PRP am_
-VBP not_
-RB very_
-RB good_
-JJ painting_
-NN ,_
-, but_
-CC I_
-PRP like_
-IN it_
-PRP because_
-RB is_
-VBZ a_
-DT good_
-JJ oportunity_
-NN to_
-TO practice_
-VB it_
-PRP ._
-.
-
-infact_
-PRP all_
-PDT the_
-DT viewers_
-NN where_
-WRB very_
-RB dissappointed_
-. ._
-.
-
-That_
-DT is_
-VBZ the_
-DT question_
-NN ,_
-, which_
-WDT many_
-JJ people_
-NNS ask_
-VBP themselves_
-PRP and_
-CC other_
-JJ people_
-NNS quite_
-RB often_
-RB ._
-.
-
-Pat_
-PRP was_
-VBD not_
-RB a_
-DT very_
-JJ clever_
-NNS teen-ager_
-, and_
-CC while_
-IN she_
-PRP was_
-VBD attending_
-IN the_
-DT Secondary_
-NN School_
-, she_
-PRP had_
-VBD many_
-JJ troubles_
-NNS with_
-IN Chemistry_
-NN ._
-.
-
-And_
-CC checking_
-VB his_
-PRP$ body_
-NN condition_
-. ._
-.
-
-I_
-PRP am_
-VBP writing_
-VBG to_
-TO give_
-VB you_
-PRP my_
-PRP$ details_
-NNS and_
-CC ask_
-VB some_
-DT more_
-JJR information_
-NN ._
-.
-
-I_
-PRP hope_
-VB I_
-PRP 've_
-VBP answered_
-VBN all_
-DT you_
-JJ questions_
-NNS and_
-CC I_
-PRP would_
-MD be_
-VB please_
-VBN if_
-IN mine_
-NN could_
-MD also_
-RB be_
-VB answered_
-VBN ._
-.
-
-Then_
-RB ,_
-, the_
-DT show_
-NN started_
-VBD t_
-VBN 20.15_
-TO pm_
-VB instead_
-RB of_
-IN 19.30_
-NN ._
-.
-
-When_
-WRB he_
-PRP come_
-VBP back_
-JJ home_
-NN ,_
-, he_
-PRP was_
-VBD surprise_
-VBN because_
-IN Maria_
-PRP was_
-VBD more_
-RBR angry_
-JJ than_
-IN before_
-NN ._
-.
-
-It_
-PRP is_
-VBZ a_
-DT show_
-NN about_
-IN latest_
-DT fashions_
-NN ,_
-, leisure_
-NN and_
-CC sports_
-NNS wear_
-VBP ,_
-, make_
-VBP up_
-RB and_
-CC hairstyles_
-NN ._
-.
-
-The_
-DT second_
-JJ one_
-NN is_
-VBZ more_
-RBR a_
-DT hobby_
-NN ._
-.
-
-Have_
-WRB you_
-PRP ever_
-RB thought_
-VBN about_
-IN a_
-DT world_
-NN without_
-IN phone_
-NN ?_
-.
-
-But_
-CC the_
-DT most_
-RBS important_
-JJ things_
-NNS to_
-TO enjoy_
-VB shopping_
-PRP is_
-VBZ not_
-RB to_
-TO use_
-VB every_
-DT money_
-NN which_
-WDT you_
-PRP have_
-VBP ._
-.
-
-I_
-PRP was_
-VBD really_
-RB happy_
-, when_
-WRB your_
-PRP$ letter_
-NN arrived_
-, and_
-CC I_
-PRP node_
-VBD that_
-IN I_
-PRP won_
-VBD the_
-DT first_
-JJ prize_
-NNS in_
-IN your_
-PRP$ competition_
-NN ._
-.
-
-We_
-PRP live_
-VBP in_
-IN a_
-DT small_
-JJ and_
-CC old_
-JJ fashioned_
-JJ town_
-NN and_
-CC Mr._
-NNP White_
-NNP was_
-VBD considered_
-VBN a_
-DT monster_
-NN :_
-: loosing_
-: his_
-PRP$ job_
-NN was_
-VBD hard_
-RB for_
-IN him_
-PRP ,_
-, but_
-CC even_
-RB harder_
-PRP was_
-VBD the_
-DT loss_
-NN of_
-IN his_
-PRP$ beloved_
-JJ pupils_
-NNS who_
-WP were_
-VBD not_
-RB allowed_
-VBN to_
-TO meet_
-VB him_
-PRP ;_
-: so_
-RB ,_
-, on_
-IN a_
-DT bright_
-JJ summer_
-NN day_
-NN he_
-PRP took_
-VBD his_
-PRP$ final_
-JJ decision_
-NN and_
-CC died_
-VBD terrified_
-VBN by_
-IN the_
-DT darkness_
-NN which_
-WDT was_
-VBD nearing_
-. ._
-.
-
-One_
-PRP of_
-IN them_
-PRP was_
-VBD about_
-IN her_
-PRP$ boss_
-NNP '_
-POS private_
-JJ life_
-NN :_
-: he_
-PRP had_
-VBD got_
-. illegal_
-. son_
-. ._
-.
-
-When_
-WRB the_
-DT light_
-NN was_
-VBD turned_
-VBN on_
-IN again_
-RB ,_
-, I_
-PRP realised_
-VBD how_
-WRB important_
-JJ even_
-RB a_
-DT single_
-JJ light_
-NN bulb_
-WDT would_
-MD be_
-VB ,_
-, and_
-CC I_
-PRP was_
-VBD sure_
-VBN I_
-PRP can_
-MD never_
-RB ,_
-, ever_
-RB live_
-VB without_
-IN it_
-PRP ._
-.
-
-"_
-NNP X_
-NNP "_
-NNP is_
-VBZ the_
-DT musician_
-NN who_
-WP sang_
-VBD songs_
-VBN at_
-IN a_
-DT pop_
-JJ concert_
-NN ._
-.
-
-I_
-PRP really_
-RB enjoyed_
-VBD it_
-PRP because_
-IN I_
-PRP learnt_
-VBD a_
-DT lot_
-NN of_
-IN tecnical_
-PRP$ things_
-NNS I_
-PRP did_
-VBD n't_
-RB know_
-VB ;_
-: and_
-CC what_
-WP I_
-PRP also_
-RB enjoyed_
-PRP was_
-VBD the_
-DT good_
-JJ pay_
-. !_
-.
-
-A_
-DT different_
-JJ actor_
-NNS acted_
-VBN in_
-IN stead_
-NN of_
-IN him_
-PRP ._
-.
-
-Then_
-RB I_
-PRP had_
-VBD pleasure_
-NN listening_
-VBZ to_
-TO your_
-PRP$ variety_
-NN of_
-IN concerts_
-NNS ._
-.
-
-They_
-PRP gona_
-MD show_
-VB a_
-DT latest_
-JJS fashion_
-NN ,_
-, leisure_
-NN and_
-CC sports_
-NNS wear_
-VBP ,_
-, make_
-VBP up_
-RB and_
-CC new_
-JJ hairstyles_
-. ._
-.
-
-On_
-IN 5th_
-NN of_
-IN May_
-NNP which_
-WDT was_
-VBD national_
-JJ holiday_
-NNS in_
-IN Japan_
-NNP ,_
-, I_
-PRP had_
-VBD a_
-DT part-time_
-JJ work_
-NN at_
-IN a_
-DT pop_
-JJ concert_
-NN in_
-IN the_
-DT Tokyo_
-NN Dome_
-. ._
-.
-
-Despite_
-IN this_
-DT shopping_
-JJ culture_
-NN ,_
-, shopping_
-PRP is_
-VBZ not_
-RB always_
-RB enjoyable_
-RB ,_
-,
-
-I_
-PRP am_
-VBP really_
-RB proud_
-JJ to_
-TO be_
-VB the_
-DT winner_
-NN of_
-IN your_
-PRP$ competition_
-NN and_
-CC I_
-PRP would_
-MD like_
-VB to_
-TO express_
-VB my_
-PRP$ satisfaction_
-NN for_
-IN your_
-PRP$ perfect_
-JJ organisation_
-. ._
-.
-
-How_
-PRP has_
-VBZ modern_
-JJ technology_
-TO change_
-VB your_
-PRP$ daily_
-JJ life_
-NN ?_
-.
-
-It_
-PRP is_
-VBZ really_
-RB good_
-JJ programme_
-NNS ,_
-, especially_
-RB visiting_
-VBG Science_
-DT Museum_
-NNP and_
-CC National_
-JJ Art_
-NNS Gallery_
-WDT would_
-MD be_
-VB great_
-JJ opportunity_
-NN to_
-TO learn_
-VB about_
-IN art_
-NN and_
-CC latest_
-RB improvements_
-VBN in_
-IN science_
-NN ._
-.
-
-The_
-DT cities_
-NNS are_
-VBP the_
-DT main_
-JJ commercial_
-JJ centre_
-NNS ,_
-, our_
-PRP$ streets_
-NNS are_
-VBP full_
-JJ of_
-IN billboard_
-NNP advertising_
-POS many_
-JJ things_
-NNS and_
-. ._
-.
-
-She_
-PRP told_
-VBD to_
-TO Pat_
-VB that_
-IN she_
-PRP did_
-VBD n't_
-RB want_
-VBP other_
-JJ people_
-NNS know_
-VBP it_
-PRP except_
-IN her_
-PRP ._
-.
-
-It_
-PRP is_
-VBZ popular_
-JJ by_
-IN the_
-DT students_
-NNS ._
-.
-
-She_
-PRP then_
-RB gives_
-VBZ letters_
-VBN to_
-TO her_
-PRP$ husband_
-NN 's_
-POS lawyer_
-NN that_
-WDT seem_
-VBP to_
-TO prove_
-VB that_
-IN she_
-PRP has_
-VBZ been_
-VBN unfaithful_
-VBN to_
-TO him_
-PRP and_
-CC that_
-IN she_
-PRP tries_
-VBZ to_
-TO get_
-VB rid_
-VBN of_
-IN him_
-PRP with_
-IN the_
-DT help_
-NN of_
-IN false_
-JJ accusations_
-. ._
-.
-
-What_
-WP else_
-RB ,_
-, unless_
-WRB they_
-PRP pass_
-VB the_
-DT exam_
-NN they_
-PRP have_
-VBP to_
-TO get_
-VB extra_
-DT lesson_
-NN or_
-CC test_
-NN ._
-.
-
-Secondly_
-NNP ,_
-, I_
-PRP would_
-MD like_
-VB to_
-TO stay_
-VB in_
-IN tents_
-NNS because_
-IN I_
-PRP like_
-IN camping_
-VBG a_
-DT lot_
-NN and_
-CC I_
-PRP do_
-VBP it_
-PRP whenever_
-VBD I_
-PRP can_
-MD ._
-.
-
-I_
-PRP am_
-VBP good_
-JJ diffender_
-. ._
-.
-
-Which_
-PRP was_
-VBD unbelievably_
-DT great_
-JJ and_
-CC also_
-RB to_
-TO be_
-VB able_
-JJ to_
-TO meet_
-VB these_
-DT famous_
-JJ singers_
-NNS made_
-VBD me_
-PRP realise_
-VBD we_
-PRP can_
-MD achieve_
-VB whatever_
-WRB we_
-PRP want_
-VBP ._
-.
-
-I_
-PRP have_
-VBP been_
-VBN swimming_
-VBN for_
-IN 8_
-PRP$ years_
-NNS for_
-IN a_
-DT club_
-NN and_
-CC enjoying_
-IN a_
-DT lot_
-NN ._
-.
-
-Then_
-RB ,_
-, I_
-PRP suddenly_
-RB realised_
-VBN that_
-IN I_
-PRP had_
-VBD no_
-DT choice_
-NN ,_
-, so_
-RB I_
-PRP took_
-VBD all_
-DT my_
-PRP$ courage_
-NN ,_
-, a_
-DT big_
-JJ deep_
-JJ breath_
-NNS ,_
-, and_
-CC crossed_
-VBN it_
-PRP !_
-.
-
-My_
-PRP$ Father_
-NNP does_
-VBZ the_
-DT cooking_
-NN ,_
-, my_
-PRP$ mother_
-NN does_
-VBZ the_
-DT cleaning_
-NN and_
-CC I_
-PRP do_
-VBP tidying_
-RB up_
-RB !_
-.
-
-He_
-PRP took_
-VBD me_
-PRP right_
-RB in_
-IN front_
-NN of_
-IN my_
-PRP$ house_
-NN ._
-.
-
-The_
-DT headmaster_
-NN was_
-VBD extremely_
-RB angry_
-JJ about_
-IN it_
-PRP and_
-CC he_
-PRP gave_
-VBD both_
-DT students_
-NNS a_
-DT heavy_
-JJ punishment_
-NN ,_
-, which_
-WDT was_
-VBD suspended_
-VBN from_
-IN school_
-NN for_
-IN a_
-DT week_
-NN ._
-.
-
-And_
-CC always_
-RB ,_
-, every_
-DT body_
-NN made_
-VBD it_
-PRP surprisingly_
-VBP well_
-RB ._
-.
-
-Sara_
-PRP remembered_
-VBD the_
-DT was_
-VBD golden_
-JJ fish_
-. ._
-.
-
-When_
-WRB I_
-PRP went_
-VBD to_
-TO her_
-PRP$ play_
-NN to_
-TO see_
-VB ,_
-, I_
-PRP realy_
-VBD would_
-MD love_
-VB to_
-TO be_
-VB a_
-DT actress_
-NN ._
-.
-
-I_
-PRP am_
-VBP a_
-DT fan_
-NN of_
-IN this_
-DT band_
-NN and_
-CC I_
-PRP have_
-VBP never_
-RB seen_
-VBN them_
-PRP in_
-IN flesh_
-NN ._
-.
-
-I_
-PRP payed_
-VBD the_
-DT same_
-JJ as_
-IN who_
-WP bought_
-VBZ the_
-DT tickets_
-JJS ten_
-CD minutes_
-NNS before_
-IN the_
-DT theatre_
-NN ._
-.
-
-I_
-PRP am_
-VBP satisfied_
-VBN to_
-TO have_
-VB received_
-VBN your_
-PRP$ letter_
-NN that_
-IN informed_
-WDT me_
-PRP that_
-IN I_
-PRP have_
-VBP won_
-VBD the_
-DT first_
-JJ prize_
-NNS in_
-IN your_
-PRP$ competition_
-NN ._
-.
-
-It_
-PRP was_
-VBD perfectly_
-RB terrible_
-JJ evening_
-NN out_
-. ._
-.
-
-I_
-PRP think_
-VBP it_
-PRP is_
-VBZ great_
-JJ and_
-CC I_
-PRP want_
-VBP to_
-TO try_
-VB it_
-PRP ._
-.
-
-It_
-PRP is_
-VBZ rare_
-IN the_
-DT schools_
-NNS that_
-WDT do_
-VBP n't_
-RB have_
-VB a_
-DT multimedia_
-JJ centre_
-NNS with_
-IN many_
-JJ computers_
-NN to_
-TO the_
-DT students_
-JJ use_
-NN ._
-.
-
-Technology_
-PRP brought_
-VBD simple_
-JJ solutions_
-NN to_
-TO my_
-PRP$ life_
-NN ._
-.
+But_CC
+the_DT
+way_NN
+,_,
+I_PRP
+do_VBP
+not_RB
+like_VB
+to_TO
+stay_VB
+alone_RB
+._.
+
+On_IN
+the_DT
+other_JJ
+hand_NN
+,_,
+people_NNS
+tend_VBP
+to_TO
+wear_VB
+natural_JJ
+clothes_JJ
+today_NN
+,_,
+made_VBN
+of_IN
+cotton_NN
+,_,
+wool_PRP
+._.
+
+You_PRP
+should_MD
+spend_VB
+more_JJR
+money_NN
+on_IN
+buying_DT
+clothes_NN
+and_CC
+food_NNP
+,_,
+you_PRP
+will_MD
+very_RB
+happy_,
+when_WRB
+you_PRP
+buy_VBD
+it_PRP
+,_,
+but_CC
+,_,
+when_WRB
+you_PRP
+come_VBP
+back_RB
+home_TO
+take_VB
+out_IN
+you_PRP
+purse_VBD
+,_,
+you_PRP
+must_MD
+be_VB
+feel_VB
+sad_VBN
+,_,
+you_PRP
+purse_VBP
+nearly_RB
+empty_JJ
+,_,
+(_(
+when_WRB
+you_PRP
+do_VBP
+n't_RB
+have_VB
+enough_JJ
+money_NN
+._.
+)_)
+
+It_PRP
+is_VBZ
+going_VBG
+to_TO
+be_VB
+very_RB
+lovely_JJ
+and_CC
+enjoyable_RB
+because_IN
+I_PRP
+have_VBP
+lots_VBN
+of_IN
+surprises_NN
+for_IN
+students_NNS
+._.
+
+Mr_NNP
+White_NNP
+came_VBD
+to_TO
+our_PRP$
+school_NN
+when_WRB
+he_PRP
+was_VBD
+40_TO
+year-old_VB
+but_CC
+still_RB
+well-looking_,
+and_CC
+all_DT
+my_PRP$
+girls_NNS
+school-mates_WDT
+fell_VBD
+suddenly_RB
+in_IN
+love_NN
+with_IN
+him_PRP
+;_:
+he_PRP
+was_VBD
+always_RB
+so_IN
+kind_NN
+and_CC
+generous_JJ
+towards_IN
+his_PRP$
+pupils_NNS
+that_IN
+any_DT
+girls_NNS
+felt_VBD
+herself_PRP
+loved_VBD
+by_IN
+him_PRP
+:_:
+Pat_:
+certainly_RB
+was_VBD
+one_CD
+of_IN
+them_PRP
+._.
+
+On_IN
+the_DT
+last_JJ
+day_NN
+I_PRP
+go_VBP
+to_TO
+your_PRP$
+house_NN
+and_CC
+then_RB
+we_PRP
+think_VBP
+about_IN
+our_PRP$
+'s_NNS
+conference_.
+plane_.
+._.
+
+I_PRP
+use_VBP
+internet_RB
+now_RB
+._.
+
+I_PRP
+'m_VBP
+sorry_VBN
+I_PRP
+did_VBD
+n't_RB
+write_VB
+you_PRP
+before_IN
+,_,
+but_CC
+I_PRP
+was_VBD
+so_RB
+busy_VBN
+with_IN
+my_PRP$
+exams_NNS
+._.
+
+The_DT
+tower_NN
+is_VBZ
+absolutly_VBN
+marvelous_.
+._.
+
+I_PRP
+would_MD
+like_VB
+to_TO
+ask_VB
+,_,
+if_IN
+you_PRP
+could_MD
+expend_VB
+the_DT
+plays_NNS
+and_CC
+films_RB
+more_RBR
+for_IN
+next_JJ
+year_NN
+?_.
+
+I_PRP
+can_MD
+play_VB
+tennis_VBN
+quite_RB
+well_RB
+,_,
+but_CC
+I_PRP
+have_VBP
+never_RB
+played_VBN
+golf_RB
+,_,
+so_RB
+,_,
+if_IN
+it_PRP
+is_VBZ
+possible_JJ
+,_,
+I_PRP
+would_MD
+like_VB
+taking_VBG
+lessons_NNS
+with_IN
+a_DT
+teacher_NN
+._.
+
+There_EX
+,_,
+it_PRP
+is_VBZ
+impossible_JJ
+for_IN
+journalists_VBG
+to_TO
+stop_VB
+chasing_WRB
+them_PRP
+._.
+
+And_CC
+I_PRP
+ca_MD
+n't_RB
+even_RB
+think_VB
+about_IN
+how_WRB
+it_PRP
+would_MD
+be_VB
+not_RB
+having_VBG
+a_DT
+computer_NN
+._.
+
+Pat_PRP
+was_VBD
+very_RB
+frightened_VBN
+with_IN
+this_DT
+situation_NN
+._.
+
+Photography_PRP
+is_VBZ
+a_DT
+very_JJ
+interesting_JJ
+activitie_NNS
+,_,
+and_CC
+is_VBZ
+not_RB
+too_RB
+hard_JJ
+to_TO
+do_VB
+too_RB
+._.
+
+I_PRP
+play_VBP
+tennis_VBN
+since_IN
+I_PRP
+was_VBD
+a_DT
+child_NN
+and_CC
+I_PRP
+have_VBP
+won_VBD
+some_DT
+competitions_NN
+in_IN
+my_PRP$
+town_NN
+so_IN
+I_PRP
+think_VBP
+I_PRP
+play_VBP
+very_RB
+well_RB
+._.
+
+Tecnology_PRP
+improves_VBD
+our_PRP$
+lives_NNS
+,_,
+
+I_PRP
+think_VBP
+this_DT
+way_NN
+is_VBZ
+better_RB
+to_TO
+keep_VB
+in_IN
+touch_NN
+with_IN
+the_DT
+nature_NN
+._.
+
+There_EX
+are_VBP
+some_DT
+of_IN
+the_DT
+modern_JJ
+techonologys_NNS
+that_IN
+most_JJS
+help_VB
+me_PRP
+but_CC
+there_EX
+are_VBP
+some_DT
+others_NNS
+which_WDT
+are_VBP
+also_RB
+very_RB
+important_JJ
+for_IN
+me_PRP
+._.
+
+Since_IN
+I_PRP
+have_VBP
+studied_RB
+photography_VBN
+for_IN
+several_JJ
+years_NNS
+,_,
+I_PRP
+would_MD
+like_VB
+to_TO
+take_VB
+some_DT
+picture_NN
+of_IN
+beautiful_JJ
+scenaries_NNS
+in_IN
+California_NNP
+._.
+
+We_PRP
+can_MD
+love_VB
+them_PRP
+without_IN
+disturbing_JJ
+too_RB
+._.
+
+As_IN
+we_PRP
+are_VBP
+from_IN
+the_DT
+small_JJ
+town_NN
+we_PRP
+do_VBP
+n't_RB
+have_VB
+any_DT
+possibility_NN
+to_TO
+learn_VB
+about_IN
+this_DT
+._.
+
+She_PRP
+was_VBD
+the_DT
+head_NN
+in_IN
+this_DT
+story_NN
+._.
+
+I_PRP
+did_VBD
+a_DT
+big_JJ
+mistake_NN
+by_IN
+trusting_WDT
+him_PRP
+._.
+
+From_IN
+that_DT
+time_NN
+,_,
+I_PRP
+decided_VBD
+to_TO
+buy_VB
+my_PRP$
+own_JJ
+computer_NNS
+and_CC
+every_DT
+day_NN
+I_PRP
+was_VBD
+improving_TO
+my_PRP$
+knowledge_NN
+._.
+
+The_DT
+Marine_NNP
+'s_POS
+real_JJ
+father_NN
+want_IN
+her_PRP$
+back_NN
+but_CC
+the_DT
+other_JJ
+cuples_NNS
+did_VBD
+n't_RB
+want_VBP
+to_TO
+give_VB
+her_PRP
+because_IN
+they_PRP
+loved_VBD
+Marine_RB
+so_RB
+much_RB
+._.
+
+I_PRP
+look_VBP
+forward_RB
+to_TO
+receiving_VB
+your_PRP$
+satisfactory_JJ
+reply_NNS
+by_IN
+return_NN
+of_IN
+post_NN
+._.
+
+Other_JJ
+members_NNS
+of_IN
+groups_NNS
+can_MD
+wear_VB
+a_DT
+normal_NN
+pretty_.
+formal_.
+dress_.
+._.
+
+Whereas_IN
+an_DT
+advertisement_NN
+promised_VBD
+stars_VBN
+from_IN
+around_IN
+the_DT
+world_NN
+._.
+
+I_PRP
+will_MD
+be_VB
+very_RB
+glad_JJ
+to_TO
+partecipate_VB
+to_TO
+your_PRP$
+camp_NNS
+!_.
+
+They_PRP
+all_DT
+knows_VBZ
+where_WRB
+the_DT
+conference_NN
+is_VBZ
+and_CC
+when_NN
+._.
+
+What_WP
+are_VBP
+you_PRP
+going_VBD
+to_TO
+do_VB
+without_IN
+phone_NN
+?_.
+
+There_EX
+are_VBP
+a_DT
+lot_NN
+of_IN
+advantages_NN
+for_IN
+it_PRP
+._.
+
+I_PRP
+wish_VB
+you_PRP
+were_VBD
+there_RB
+._.
+
+I_PRP
+am_VBP
+glad_VBN
+I_PRP
+had_VBD
+taken_VBN
+a_DT
+part_NN
+in_IN
+a_DT
+few_JJ
+competitions_NNS
+,_,
+and_CC
+I_PRP
+was_VBD
+so_RB
+proud_JJ
+of_IN
+our_PRP$
+basketball_JJ
+team_NN
+._.
+
+and_CC
+then_RB
+went_VBD
+away_RB
+without_IN
+listening_VBG
+the_DT
+answer_NN
+._.
+
+Lily_PRP
+was_VBD
+one_CD
+of_IN
+her_PRP$
+best_JJS
+friend_NN
+before_IN
+three_CD
+year_NN
+._.
+
+Some_DT
+times_NNS
+we_PRP
+have_VBP
+to_TO
+have_VB
+deal_NN
+with_IN
+not_RB
+good_JJ
+service_NN
+or_CC
+for_IN
+example_NN
+could_MD
+you_PRP
+imagine_VBP
+it_PRP
+on_IN
+your_PRP$
+way_NN
+to_TO
+shop_VB
+you_PRP
+have_VBP
+met_RB
+wrong_JJ
+people_NNS
+or_CC
+someone_NN
+told_VBD
+you_PRP
+bad_.
+news_.
+._.
+
+I_PRP
+would_MD
+like_VB
+to_TO
+have_VB
+my_PRP$
+two_CD
+weeks_NNS
+with_IN
+you_PRP
+in_IN
+July_NNP
+,_,
+as_IN
+it_PRP
+will_MD
+be_VB
+during_IN
+my_PRP$
+summer_NN
+holiday_,
+in_IN
+addition_NN
+that_IN
+it_PRP
+is_VBZ
+said_VBD
+to_TO
+be_VB
+the_DT
+best_JJS
+season_NN
+there_.
+._.
+
+The_DT
+worst_JJS
+thing_NN
+is_VBZ
+that_IN
+I_PRP
+could_MD
+n't_RB
+watch_VB
+my_PRP$
+favorite_JJ
+actor_.
+._.
+
+Last_NNP
+week_NNP
+,_,
+I_PRP
+went_VBD
+to_TO
+London_NNP
+in_IN
+your_PRP$
+theatre_NN
+to_TO
+see_VB
+"_TO
+Over_VB
+the_DT
+rainbow_NN
+"_,
+and_CC
+I_PRP
+had_VBD
+a_DT
+disappointing_JJ
+evening_NN
+._.
+
+I_PRP
+have_VBP
+always_RB
+wanted_VBN
+to_TO
+spend_VB
+my_PRP$
+holidays_NNS
+in_IN
+tent_NN
+but_CC
+my_PRP$
+father_NN
+has_VBZ
+never_RB
+given_VBN
+me_PRP
+the_DT
+permission_NN
+,_,
+and_CC
+this_DT
+would_MD
+be_VB
+an_DT
+ideal_JJ
+opportunity_NN
+for_IN
+me_PRP
+to_TO
+learn_VB
+about_IN
+camp_DT
+life_NN
+._.
+
+I_PRP
+'ve_VBP
+received_VBN
+your_PRP$
+letter_NN
+two_CD
+days_NNS
+ago_RB
+and_CC
+I_PRP
+'m_VBP
+quite_RB
+happy_JJ
+to_TO
+know_VB
+that_IN
+you_PRP
+passed_VBD
+F.C.E._VBN
+
+And_CC
+as_IN
+regards_PRP
+breaks_VBZ
+student_TO
+consider_VB
+them_PRP
+being_VBG
+a_DT
+very_JJ
+important_JJ
+part_NN
+of_IN
+school_NN
+life_NN
+,_,
+despite_IN
+all_DT
+their_PRP$
+mess_NN
+and_CC
+noise_NN
+._.
+
+Both_DT
+of_IN
+them_PRP
+I_PRP
+am_VBP
+not_RB
+as_IN
+good_JJ
+as_IN
+you_PRP
+expect_VB
+,_,
+but_CC
+recently_RB
+I_PRP
+have_VBP
+been_VBN
+intrested_VBN
+in_IN
+those_DT
+._.
+
+That_DT
+is_VBZ
+really_RB
+intresting_.
+._.
+
+it_PRP
+is_VBZ
+very_RB
+interesting_JJ
+,_,
+especially_RB
+for_IN
+the_DT
+young_JJ
+people_NNS
+._.
+
+Than_PRP
+to_TO
+technology_VB
+we_PRP
+can_MD
+reach_VB
+any_DT
+place_NN
+in_IN
+the_DT
+world_NN
+easily_.
+._.
+
+She_PRP
+was_VBD
+sended_VBN
+to_TO
+New_NNP
+York_NNP
+to_TO
+discover_VB
+how_WRB
+some_DT
+people_NNS
+from_IN
+government_NN
+gave_VBD
+money_VBN
+to_TO
+the_DT
+merchants_NNS
+because_IN
+they_PRP
+want_VBP
+to_TO
+build_VB
+a_DT
+Trade_NN
+Center_.
+there_.
+._.
+
+Concerning_IN
+the_DT
+party_NN
+we_PRP
+do_VBP
+not_RB
+have_VB
+a_DT
+casual_JJ
+dressing_VBG
+code_NN
+._.
+
+At_IN
+8_PRP
+pm_MD
+Metallica_VB
+started_VBN
+and_CC
+I_PRP
+have_VBP
+to_TO
+tell_VB
+you_PRP
+,_,
+they_PRP
+did_VBD
+a_DT
+great_JJ
+performance_NN
+._.
+
+It_PRP
+highlights_VBD
+the_DT
+background_NN
+history_NN
+and_CC
+considers_VBZ
+the_DT
+interest_NN
+of_IN
+young_JJ
+peoples_NNS
+,_,
+and_CC
+makes_VBZ
+a_DT
+final_JJ
+recommendation_.
+._.
+
+And_CC
+,_,
+I_PRP
+would_MD
+appreciate_VB
+if_IN
+you_PRP
+give_VBP
+me_PRP
+a_DT
+refund_NN
+._.
+
+From_DT
+small_JJ
+village_NN
+to_TO
+town_NN
+was_VBD
+very_RB
+long_JJ
+way_NN
+becouse_IN
+the_DT
+people_NNS
+used_VBN
+horse_NN
+and_CC
+wagon_NN
+._.
+
+I_PRP
+prefer_VBP
+to_TO
+live_VB
+in_IN
+log_DT
+cabin_NN
+because_IN
+I_PRP
+think_VBP
+it_PRP
+'s_VBZ
+more_RBR
+comfortable_JJ
+._.
+
+For_IN
+instance_NN
+,_,
+when_WRB
+I_PRP
+want_VBP
+to_TO
+contanct_VB
+with_IN
+to_TO
+my_PRP$
+friend_NN
+,_,
+it_PRP
+'s_VBZ
+quite_RB
+helpful_JJ
+by_IN
+using_VBG
+e-mail_.
+._.
+
+To_TO
+sum_VB
+up_RB
+,_,
+although_IN
+there_EX
+is_VBZ
+certainly_RB
+a_DT
+good_JJ
+side_NN
+of_IN
+shopping_NNP
+,_,
+such_JJ
+as_IN
+pleasures_NN
+of_IN
+getting_VBG
+new_JJ
+stuff_NN
+and_CC
+spending_JJ
+money_NN
+on_IN
+something_NN
+you_PRP
+really_RB
+wanted_VBN
+for_IN
+long_JJ
+time_NN
+,_,
+you_PRP
+also_RB
+have_VB
+some_DT
+unpleasant_JJ
+moments_NNS
+to_TO
+get_VB
+through_IN
+._.
+
+Besides_NNP
+,_,
+I_PRP
+would_MD
+prefer_VB
+to_TO
+stay_VB
+in_IN
+a_DT
+tent_NN
+since_IN
+I_PRP
+have_VBP
+never_RB
+had_VBD
+the_DT
+exciting_JJ
+experience_NN
+to_TO
+sleep_VB
+in_IN
+the_DT
+middle_NN
+of_IN
+the_DT
+nature_NN
+._.
+
+Peter_NNP
+and_CC
+Sue_PRP
+asked_VBD
+to_TO
+Francis_VB
+some_DT
+help_NN
+for_IN
+their_PRP$
+exam_NNP
+'s_POS
+subjets_NN
+and_CC
+Francis_NNP
+,_,
+for_IN
+to_TO
+help_VB
+them_PRP
+,_,
+was_VBD
+very_RB
+busy_VBN
+all_PDT
+the_DT
+week_NN
+._.
+
+And_CC
+the_DT
+last_JJ
+one_NN
+is_VBZ
+that_DT
+do_VBP
+I_PRP
+need_MD
+pillow_VB
+or_CC
+blanket_JJ
+or_CC
+something_NN
+else_.
+?_.
+
+This_DT
+show_NN
+is_VBZ
+about_IN
+the_DT
+latest_JJS
+fashions_NN
+,_,
+the_DT
+leisure_NN
+and_CC
+sports_NNS
+wear_VBP
+,_,
+the_DT
+make-up_NN
+and_CC
+the_DT
+hairstyles_NN
+._.
+
+I_PRP
+cried_VBD
+for_IN
+days_NNS
+straight_RB
+,_,
+eating_NNP
+and_CC
+sleeping_RB
+very_RB
+little_JJ
+._.
+
+We_PRP
+organized_VBD
+a_DT
+end-of-conference_JJ
+party_NN
+on_IN
+the_DT
+day_NN
+before_IN
+your_PRP$
+departure_NNS
+._.
+
+Finally_RB
+,_,
+the_DT
+TV_NN
+is_VBZ
+in_IN
+my_PRP$
+opinion_NN
+very_RB
+useful_JJ
+for_IN
+getting_VBG
+important_JJ
+information_NN
+,_,
+you_PRP
+can_MD
+watching_VB
+the_DT
+weather_NN
+and_CC
+all_DT
+of_IN
+them_PRP
+were_VBD
+present_NN
+in_IN
+wonderful_NN
+colour_.
+._.
+
+My_PRP$
+holidays_NNS
+will_MD
+finish_VB
+in_IN
+the_DT
+begining_NN
+of_IN
+September_NN
+and_CC
+will_MD
+be_VB
+good_JJ
+to_TO
+travel_VB
+during_IN
+this_DT
+time_NN
+._.
+
+It_PRP
+is_VBZ
+difficult_JJ
+to_TO
+say_VB
+how_WRB
+good_JJ
+I_PRP
+can_MD
+sing_VB
+but_CC
+I_PRP
+really_RB
+like_IN
+it_PRP
+and_CC
+I_PRP
+think_VBP
+I_PRP
+am_VBP
+not_RB
+too_RB
+bad_.
+._.
+
+As_IN
+for_IN
+my_PRP$
+ticket_NNS
+,_,
+I_PRP
+was_VBD
+expecting_VBN
+to_TO
+get_VB
+a_DT
+discount_NN
+as_IN
+a_DT
+student_NN
+,_,
+as_IN
+it_PRP
+said_VBD
+so_RB
+in_IN
+the_DT
+advertisement_NN
+,_,
+however_RB
+,_,
+it_PRP
+was_VBD
+not_RB
+actually_RB
+available_,
+which_WDT
+was_VBD
+very_RB
+disappointing_.
+again_.
+._.
+
+When_WRB
+you_PRP
+go_VBP
+out_RB
+of_IN
+the_DT
+Hotel_NNP
+turn_POS
+right_NN
+and_CC
+go_VB
+stright_VBN
+on_IN
+,_,
+at_IN
+the_DT
+first_JJ
+crossroads_NNS
+turn_VBP
+right_RB
+again_RB
+._.
+
+First_RB
+of_IN
+all_DT
+,_,
+I_PRP
+would_MD
+like_VB
+to_TO
+tell_VB
+you_PRP
+that_IN
+I_PRP
+'ve_VBP
+never_RB
+had_VBD
+a_DT
+such_JJ
+good_JJ
+time_NN
+in_IN
+my_PRP$
+life_NN
+!_.
+
+I_PRP
+wish_VB
+you_PRP
+were_VBD
+there_RB
+with_IN
+us_PRP
+!_.
+
+I_PRP
+have_VBP
+spent_VBN
+two_CD
+days_NNS
+at_IN
+the_DT
+International_NNP
+Arts_NNP
+Festival_VBZ
+recently_RB
+and_CC
+I_PRP
+am_VBP
+writing_NN
+in_IN
+order_NN
+to_TO
+give_VB
+my_PRP$
+opinions_NNS
+about_IN
+it_PRP
+._.
+
+His_PRP$
+message_NN
+is_VBZ
+still_RB
+as_IN
+impacting_DT
+today_NN
+and_CC
+will_MD
+always_RB
+be_VB
+even_RB
+if_IN
+this_DT
+story_NN
+happened_VBD
+a_DT
+long_JJ
+time_NN
+ago_RB
+._.
+
+Another_DT
+thing_NN
+that_IN
+happened_PRP
+was_VBD
+that_IN
+the_DT
+tickets_NNS
+did_VBD
+not_RB
+have_VB
+discount_VBN
+and_CC
+the_DT
+advertisement_NN
+says_VBZ
+the_DT
+will_MD
+have_VB
+._.
+
+When_WRB
+I_PRP
+bought_VBD
+my_PRP$
+computer_NNS
+,_,
+I_PRP
+was_VBD
+n't_RB
+interested_VBN
+in_IN
+it_PRP
+but_CC
+when_WRB
+I_PRP
+started_VBD
+studying_VBG
+about_IN
+internet_NN
+and_CC
+playing_JJ
+games_NNS
+,_,
+I_PRP
+found_VBD
+it_PRP
+interesting_.
+._.
+
+The_DT
+trip_NN
+that_IN
+you_PRP
+planned_VBD
+for_IN
+us_PRP
+,_,
+students_NNS
+,_,
+it_PRP
+'s_VBZ
+a_DT
+great_JJ
+chance_NN
+to_TO
+meet_VB
+new_JJ
+people_NNS
+and_CC
+visit_VB
+a_DT
+beautiful_JJ
+city_NN
+like_IN
+London_NNP
+._.
+
+Firstly_NNP
+,_,
+I_PRP
+would_MD
+like_VB
+to_TO
+say_VB
+that_IN
+I_PRP
+'m_VBP
+very_RB
+glad_JJ
+to_TO
+have_VB
+been_VBN
+choosen_,
+and_CC
+I_PRP
+will_MD
+do_VB
+my_PRP$
+best_JJS
+for_IN
+this_DT
+competition_NN
+._.
+
+Nowadays_DT
+many_JJ
+people_NNS
+fond_,
+of_IN
+classical_JJ
+music_NN
+,_,
+but_CC
+this_DT
+concert_NN
+was_VBD
+too_RB
+small_JJ
+that_IN
+'s_NNS
+why_WRB
+many_JJ
+people_NNS
+had_VBD
+to_TO
+miss_VB
+this_DT
+classical_JJ
+concert_NN
+._.
+
+Because_WRB
+I_PRP
+usually_RB
+go_VB
+on_IN
+camping-site_DT
+holiday_NN
+,_,
+with_IN
+my_PRP$
+friends_NNS
+._.
+
+Dear_DT
+Mr_NN
+or_CC
+Madam_NNP
+,_,
+
+Secondly_NNP
+,_,
+I_PRP
+would_MD
+prefer_VB
+to_TO
+staying_VB
+in_IN
+a_DT
+tent_NN
+rather_RB
+than_IN
+staying_NN
+in_IN
+a_DT
+log_JJ
+cabin_NNS
+in_IN
+order_NN
+to_TO
+have_VB
+experience_NN
+,_,
+which_WDT
+I_PRP
+have_VBP
+n't_RB
+had_VBD
+before_.
+._.
+
+How_WRB
+much_JJ
+money_NN
+would_MD
+like_VB
+to_TO
+pay_VB
+me_PRP
+for_IN
+five_CD
+hours_NNS
+a_DT
+day_NN
+in_IN
+two_CD
+weeks_NNS
+working_VBG
+with_IN
+children_NNS
+?_.
+
+I_PRP
+thank_VB
+you_PRP
+in_IN
+advanced_NN
+and_CC
+looking_VBG
+forward_RB
+to_TO
+your_PRP$
+reply_NNS
+._.
+
+I_PRP
+enjoyed_VBD
+it_PRP
+very_RB
+much_RB
+and_CC
+I_PRP
+think_VBP
+the_DT
+idea_NN
+of_IN
+its_PRP$
+creation_NN
+is_VBZ
+great_JJ
+._.
+
+-_PRP
+About_VBD
+the_DT
+accomodation_NN
+,_,
+as_IN
+I_PRP
+read_VBP
+,_,
+you_PRP
+can_MD
+offer_VB
+me_PRP
+log_MD
+cabins_VB
+or_CC
+tents_NNS
+._.
+
+Now_NNP
+,_,
+I_PRP
+able_VBD
+to_TO
+use_VB
+sound_JJ
+effect_NN
+system_NN
+._.
+
+Nowadays_NNP
+,_,
+mordern_DT
+technology_NN
+has_VBZ
+increasingly_RB
+been_VBN
+developing_.
+._.
+
+He_PRP
+had_VBD
+been_VBN
+replaced_VBN
+by_IN
+a_DT
+really_RB
+bad_JJ
+actor_NNS
+,_,
+whom_WP
+I_PRP
+do_VBP
+n't_RB
+even_RB
+know_VB
+the_DT
+name_NN
+._.
+
+Fortunately_NNP
+,_,
+I_PRP
+have_VBP
+heard_VBN
+that_IN
+weather_NN
+is_VBZ
+beautiful_JJ
+in_IN
+California_NNP
+during_IN
+that_DT
+month_NN
+._.
+
+Another_DT
+problem_NN
+I_PRP
+had_VBD
+was_VBD
+the_DT
+time_NN
+._.
+
+Another_DT
+solution_NN
+to_TO
+get_VB
+a_DT
+friendlier_JJ
+service_NN
+is_VBZ
+of_IN
+course_NN
+to_TO
+go_VB
+to_TO
+another_DT
+shop_NN
+._.
+
+As_IN
+you_PRP
+know_VBP
+,_,
+there_EX
+is_VBZ
+a_DT
+free_JJ
+time_NN
+in_IN
+your_PRP$
+programme_NNS
+
+How_WRB
+I_PRP
+am_VBP
+going_VBG
+to_TO
+answer_VB
+the_DT
+questions_NNS
+you_PRP
+asked_VBD
+me_PRP
+in_IN
+the_DT
+letter_NN
+._.
+
+However_RB
+,_,
+we_PRP
+promised_VBD
+our_PRP$
+perents_NN
+to_TO
+make_VB
+cleaning_VBN
+up_IN
+every_DT
+week_NN
+._.
+
+Of_IN
+course_NN
+I_PRP
+will_MD
+give_VB
+you_PRP
+some_DT
+more_JJR
+detail_NN
+about_IN
+the_DT
+student_NN
+conference_.
+._.
+
+For_IN
+me_PRP
+,_,
+It_PRP
+'s_VBZ
+not_RB
+easy_JJ
+to_TO
+have_VB
+holiday_VBN
+and_CC
+your_PRP$
+play_NN
+just_RB
+blew_VB
+my_PRP$
+precious_JJ
+time_NN
+away_.
+._.
+
+Personally_WRB
+I_PRP
+do_VBP
+n't_RB
+like_IN
+dealing_VBG
+with_IN
+shop_PRP$
+assistants_NNS
+and_CC
+looking_VBG
+around_IN
+the_DT
+shops_NNS
+,_,
+so_RB
+I_PRP
+buy_VBD
+all_DT
+what_WP
+I_PRP
+can_MD
+using_VB
+"_.
+on-line_.
+"_.
+services_.
+._.
+
+Thus_RB
+,_,
+I_PRP
+think_VBP
+that_IN
+journalists_PRP
+should_MD
+consider_VB
+celebrities_NNP
+'_POS
+lives_NNS
+and_CC
+be_VB
+in_IN
+celebrities_NNP
+'_''
+shoes_.
+._.
+
+Just_RB
+follow_VB
+Main-Road_VBN
+until_IN
+to_TO
+reach_VB
+a_DT
+junction_NN
+,_,
+where_WRB
+you_PRP
+turn_VBP
+right_JJ
+and_CC
+then_RB
+walk_VB
+along_IN
+Denl-a-Lion_NNP
+Road_NNP
+._.
+
+Unfortunately_RB
+,_,
+Pat_PRP
+was_VBD
+n't_RB
+very_RB
+good_JJ
+at_IN
+keeping_PRP$
+secrets_NNS
+,_,
+so_RB
+Maria_PRP
+was_VBD
+very_RB
+disappointed_VBN
+when_WRB
+she_PRP
+realised_VBD
+that_IN
+Manuel_PRP
+knew_VBD
+the_DT
+truth_NN
+about_IN
+the_DT
+feelings_NNS
+that_IN
+Maria_PRP
+had_VBD
+for_IN
+him_PRP
+,_,
+in_IN
+fact_NN
+,_,
+she_PRP
+was_VBD
+so_RB
+angry_VB
+she_PRP
+almost_RB
+kill_,
+but_CC
+,_,
+she_PRP
+could_MD
+n't_RB
+because_IN
+Pat_PRP
+was_VBD
+her_PRP$
+best_JJS
+friend_NN
+._.
+
+I_PRP
+ask_VBP
+you_PRP
+if_IN
+is_VBZ
+it_PRP
+possible_VBD
+to_TO
+have_VB
+my_PRP$
+money_NN
+back_RB
+,_,
+please_VBP
+,_,
+because_IN
+I_PRP
+want_VBP
+to_TO
+forgot_VB
+that_DT
+expense_NN
+._.
+
+My_PRP$
+second_JJ
+chose_NN
+is_VBZ
+painting_NN
+because_IN
+I_PRP
+love_VBP
+water_NN
+colour_IN
+painting_NN
+and_CC
+I_PRP
+am_VBP
+a_DT
+member_NN
+of_IN
+the_DT
+our_PRP$
+water_NN
+colour_IN
+painting_DT
+club_NN
+in_IN
+my_PRP$
+town_NN
+._.
+
+At_IN
+first_JJ
+the_DT
+show_NN
+started_VBD
+much_RB
+later_RB
+than_IN
+it_PRP
+was_VBD
+written_VBN
+out_RB
+._.
+
+At_IN
+the_DT
+end_NN
+you_PRP
+may_MD
+have_VB
+found_VBN
+only_RB
+two_CD
+or_CC
+three_CD
+things_NNS
+you_PRP
+really_RB
+like_VB
+,_,
+but_CC
+they_PRP
+are_VBP
+all_DT
+the_DT
+work_NN
+worth_.
+._.
+
+So_RB
+I_PRP
+decided_VBD
+to_TO
+write_VB
+you_PRP
+this_DT
+letter_NN
+to_TO
+note_VB
+that_DT
+wrong_JJ
+informations_NNS
+and_CC
+to_TO
+ask_VB
+for_IN
+the_DT
+restitution_NN
+of_IN
+the_DT
+price_NN
+of_IN
+ticket_NN
+or_CC
+a_DT
+part_NN
+of_IN
+that_DT
+._.
+
+From_IN
+my_PRP$
+point_NN
+of_IN
+view_NN
+,_,
+young_JJ
+people_NNS
+tend_VBP
+to_TO
+wear_VB
+the_DT
+clothes_NN
+which_WDT
+they_PRP
+can_MD
+show_VB
+their_PRP$
+skin_NN
+._.
+
+You_PRP
+do_VBP
+n't_RB
+have_VB
+to_TO
+wait_VB
+on_IN
+a_DT
+bus_NN
+stop_VB
+on_IN
+a_DT
+cold_JJ
+and_CC
+windy_JJ
+weather_NN
+for_IN
+a_DT
+late_JJ
+bus_NN
+,_,
+or_CC
+being_NN
+stuck_,
+on_IN
+a_DT
+train_NN
+for_IN
+an_DT
+hour_NN
+due_VBZ
+to_TO
+some_DT
+railtrack_JJ
+repairs_NNS
+,_,
+you_PRP
+can_MD
+just_RB
+jump_VBN
+into_IN
+a_DT
+car_NN
+,_,
+tune_CC
+your_PRP$
+radio_NN
+onto_IN
+your_PRP$
+favourite_NNS
+station_,
+and_CC
+have_VB
+a_DT
+plesant_JJ
+drive_NN
+to_TO
+your_PRP$
+distanation_NNS
+._.
+
+Let_WRB
+me_PRP
+answer_VB
+this_DT
+question_NN
+._.
+
+At_IN
+first_JJ
+,_,
+I_PRP
+want_VBP
+to_TO
+say_VB
+how_WRB
+I_PRP
+am_VBP
+happy_JJ
+to_TO
+have_VB
+won_VBD
+this_DT
+prize_NN
+and_CC
+I_PRP
+want_VBP
+to_TO
+thank_VB
+you_PRP
+._.
+
+i_PRP
+'m_VBP
+hope_NN
+that_IN
+it_PRP
+will_MD
+be_VB
+good_JJ
+gift_NN
+for_IN
+me_PRP
+from_IN
+your_PRP$
+organization_NN
+._.
+
+If_IN
+there_EX
+is_VBZ
+any_DT
+other_JJ
+question_NN
+from_IN
+your_PRP$
+part_NN
+,_,
+please_TO
+call_VB
+me_PRP
+or_CC
+write_VB
+again_RB
+._.
+
+Taking_IN
+a_DT
+photography_NN
+during_IN
+the_DT
+holiday_NN
+is_VBZ
+very_RB
+good_JJ
+memory_NN
+for_IN
+me_PRP
+,_,
+and_CC
+I_PRP
+can_MD
+share_VB
+my_PRP$
+adventures_NN
+to_TO
+my_PRP$
+friends_NNS
+._.
+
+After_IN
+all_DT
+of_IN
+this_DT
+we_PRP
+saw_VBD
+the_DT
+show_NN
+in_IN
+the_DT
+best_JJS
+place_NN
+,_,
+near_RB
+of_IN
+the_DT
+stage_NN
+and_CC
+after_IN
+,_,
+the_DT
+thing_NN
+that_IN
+I_PRP
+most_RB
+liked_VBD
+,_,
+we_PRP
+were_VBD
+convidated_VBN
+to_TO
+see_VB
+the_DT
+group_NN
+and_CC
+had_VBD
+their_PRP$
+signatures_NNS
+._.
+
+Whenever_IN
+the_DT
+students_NNS
+wear_VBP
+an_DT
+extra_NN
+cloth_''
+(_(
+because_IN
+of_IN
+cold_JJ
+or_CC
+something_NN
+)_)
+his_,
+or_CC
+her_PRP
+(_(
+not_RB
+students_.
+!_.
+)_)
+
+If_IN
+there_EX
+is_VBZ
+any_DT
+question_NN
+left_VBN
+,_,
+please_DT
+contact_NN
+me_PRP
+._.
+
+I_PRP
+am_VBP
+writing_NN
+on_IN
+our_PRP$
+class_NN
+behalf_VBZ
+to_TO
+thank_VB
+you_PRP
+for_IN
+organising_VBG
+our_PRP$
+tour_NN
+in_IN
+London_NNP
+._.
+
+This_DT
+trip_NN
+was_VBD
+organised_VBN
+by_IN
+our_PRP$
+form_NN
+tutor_''
+,_,
+he_PRP
+wanted_VBD
+to_TO
+test_VB
+us_PRP
+if_IN
+we_PRP
+trust_VB
+each_DT
+other_JJ
+and_CC
+worked_VBD
+in_IN
+a_DT
+team_NN
+,_,
+and_CC
+the_DT
+trip_NN
+last_RB
+for_IN
+3_CD
+days_NNS
+._.
+
+I_PRP
+think_VBP
+then_RB
+we_PRP
+should_MD
+film_VB
+an_DT
+informatic-lesson_NN
+._.
+
+From_IN
+my_PRP$
+point_NN
+of_IN
+view_NN
+,_,
+people_NNS
+'s_POS
+home_NN
+in_IN
+the_DT
+future_NN
+will_MD
+be_VB
+controlled_JJ
+by_IN
+a_DT
+computer_NN
+which_WDT
+is_VBZ
+devised_VBN
+in_IN
+every_DT
+machine_NN
+,_,
+TV_RB
+,_,
+cooker_NNP
+and_CC
+the_DT
+light_NN
+,_,
+connecting_CC
+to_TO
+the_DT
+owner_NN
+._.
+
+From_IN
+the_DT
+activities_NNS
+I_PRP
+want_VBP
+to_TO
+take_VB
+Golf_VBN
+and_CC
+Surfing_NN
+._.
+
+I_PRP
+received_VBD
+your_PRP$
+letter_NN
+,_,
+so_RB
+I_PRP
+write_VBP
+you_PRP
+to_TO
+give_VB
+you_PRP
+some_DT
+informations_NN
+from_IN
+me_PRP
+._.
+
+It_PRP
+had_VBD
+been_VBN
+a_DT
+real_JJ
+joy_NN
+to_TO
+receive_VB
+your_VBN
+and_CC
+I_PRP
+still_RB
+ca_MD
+n't_RB
+believe_VB
+it_PRP
+._.
+
+However_RB
+,_,
+people_NNS
+ca_MD
+n't_RB
+have_VB
+a_DT
+good_JJ
+time_NN
+even_RB
+at_IN
+weekdays_DT
+while_NN
+shopping_.
+._.
+
+I_PRP
+am_VBP
+really_RB
+surprise_VBN
+for_IN
+the_DT
+information_NN
+because_IN
+I_PRP
+won_VBD
+,_,
+and_CC
+I_PRP
+like_VBP
+to_TO
+tell_VB
+you_PRP
+thank_VB
+you_PRP
+for_IN
+everyting_DT
+
+And_CC
+on_IN
+Wednesday_DT
+morning_NN
+we_PRP
+go_VBP
+to_TO
+the_DT
+national_JJ
+art_NN
+gallery_''
+,_,
+but_CC
+after_IN
+that_WDT
+we_PRP
+can_MD
+go_VB
+to_TO
+the_DT
+Science_NNP
+Museum_NNP
+,_,
+in_IN
+the_DT
+afternoon_NN
+._.
+
+We_PRP
+have_VBP
+thought_VBN
+that_IN
+The_DT
+London_NNP
+Fashion_,
+and_CC
+Leisure_WRB
+Show_PRP
+would_MD
+be_VB
+a_DT
+great_JJ
+opportunity_NN
+to_TO
+give_VB
+us_PRP
+more_JJR
+information_NN
+about_IN
+the_DT
+main_JJ
+transformation_NN
+in_IN
+nowdays_NN
+in_IN
+England_NNP
+about_IN
+fashions_NNP
+,_,
+Leisure_RB
+,_,
+sports_NNS
+and_CC
+style_NN
+of_IN
+life_NN
+._.
+
+In_IN
+other_JJ
+hand_NN
+,_,
+after_IN
+shopping_WDT
+you_PRP
+'ll_MD
+get_VB
+tired_VBN
+and_CC
+maybe_WRB
+you_PRP
+ca_MD
+n't_RB
+afford_.
+your_.
+credit_.
+card_.
+._.
+
+quality_NN
+of_IN
+life_NN
+very_RB
+low_JJ
+._.
+
+The_DT
+moment_NN
+I_PRP
+saw_VBD
+the_DT
+advertisement_NN
+about_IN
+one_CD
+of_IN
+the_DT
+seven_CD
+world_NN
+wonders_VBZ
+,_,
+I_PRP
+knew_VBD
+,_,
+I_PRP
+had_VBD
+to_TO
+see_VB
+it_PRP
+._.
+
+The_DT
+car_NN
+was_VBD
+already_RB
+parked_VBN
+near_IN
+the_DT
+rear_JJ
+door_NN
+and_CC
+there_EX
+was_VBD
+an_DT
+unusual_JJ
+activity_NN
+all_DT
+over_IN
+the_DT
+house_NN
+._.
+
+Some_DT
+people_NNS
+glorify_IN
+technology_NN
+as_IN
+if_IN
+it_PRP
+was_VBD
+the_DT
+best_JJS
+thing_NN
+could_MD
+ever_RB
+happened_VBN
+in_IN
+their_PRP$
+lives_NNS
+._.
+
+And_CC
+please_PRP
+could_MD
+you_PRP
+give_VBP
+me_PRP
+details_VBD
+about_IN
+how_PRP
+does_VBZ
+the_DT
+weather_NN
+like_IN
+there_RB
+and_CC
+what_WP
+type_VBZ
+the_DT
+clothes_NN
+will_MD
+I_PRP
+have_VBP
+to_TO
+bringh_VB
+?_.
+
+If_IN
+no_DT
+,_,
+what_WP
+do_VBP
+you_PRP
+sugest_.
+?_.
+
+So_RB
+I_PRP
+would_MD
+like_VB
+to_TO
+choose_VB
+these_DT
+two_CD
+activities_NNS
+while_IN
+I_PRP
+am_VBP
+at_IN
+the_DT
+Camp_NN
+._.
+
+But_CC
+I_PRP
+enjoy_VBP
+discovering_RB
+new_JJ
+activities_NNS
+!_.
+
+On_IN
+top_NN
+of_IN
+everything_NN
+,_,
+the_DT
+main_JJ
+cast_NN
+,_,
+Danny_CC
+Brook_NNP
+,_,
+did_VBD
+not_RB
+appear_VB
+on_IN
+the_DT
+show_NN
+._.
+
+I_PRP
+had_VBD
+a_DT
+week_JJ
+holiday_NNS
+in_IN
+London_NNP
+,_,
+so_RB
+I_PRP
+wanted_VBD
+to_TO
+spend_VB
+my_PRP$
+last_JJ
+evening_NN
+with_IN
+great_JJ
+pleasure_NN
+,_,
+however_RB
+it_PRP
+was_VBD
+the_DT
+worse_JJR
+evening_NN
+in_IN
+my_PRP$
+life_NN
+._.
+
+Countless_DT
+fascinating_JJ
+things_NNS
+will_MD
+definely_RB
+take_VB
+you_PRP
+the_DT
+whole_JJ
+day_NN
+to_TO
+appreciate_VB
+._.
+
+On_IN
+the_DT
+other_JJ
+hand_NN
+,_,
+we_PRP
+can_MD
+feel_VB
+more_RBR
+comfortable_JJ
+with_IN
+them_PRP
+providing_VBD
+us_PRP
+support_VB
+to_TO
+our_PRP$
+hard_JJ
+tasks_NNS
+and_CC
+letting_WRB
+us_PRP
+free_VB
+to_TO
+apply_VB
+our_PRP$
+attention_NN
+and_CC
+efforts_NNS
+to_TO
+more_RBR
+important_JJ
+things_NNS
+._.
+
+Some_DT
+concert_NN
+halls_WDT
+were_VBD
+really_RB
+small_JJ
+so_RB
+that_IN
+there_EX
+was_VBD
+bad_JJ
+air_NN
+and_CC
+not_RB
+enough_JJ
+place_NN
+for_IN
+everyone_NN
+and_CC
+you_PRP
+could_MD
+not_RB
+enjoy_JJ
+anything_NN
+!_.
+
+I_PRP
+think_VBP
+that_IN
+this_DT
+kind_NN
+of_IN
+people_NNS
+have_VBP
+a_DT
+poor_JJ
+life_NN
+because_IN
+they_PRP
+never_RB
+can_MD
+be_VB
+quiet_JJ
+because_IN
+all_PDT
+the_DT
+poeple_MD
+know_VB
+them_PRP
+and_CC
+want_VBP
+to_TO
+know_VB
+a_DT
+lot_NN
+of_IN
+things_NNS
+about_IN
+them_PRP
+._.
+
+As_IN
+you_PRP
+offer_VBP
+many_JJ
+activities_NNS
+it_PRP
+was_VBD
+hard_RB
+to_TO
+choose_VB
+which_WDT
+ones_VBZ
+I_PRP
+want_VBP
+to_TO
+do_VB
+,_,
+but_CC
+I_PRP
+dicided_VBD
+to_TO
+take_VB
+swimming_VBN
+and_CC
+photography_NNP
+,_,
+because_IN
+I_PRP
+am_VBP
+very_RB
+good_JJ
+at_IN
+swimming_NN
+and_CC
+because_IN
+currently_WDT
+I_PRP
+am_VBP
+attending_IN
+a_DT
+photography_JJ
+course_NN
+in_IN
+Vienna_NN
+._.
+
+After_IN
+that_DT
+what_WP
+is_VBZ
+waiting_VBN
+for_IN
+you_PRP
+is_VBZ
+the_DT
+struggle_NN
+with_IN
+ill-fitted_PRP
+clothes_VBD
+taking_VBG
+off_RB
+and_CC
+putting_VBG
+on_IN
+._.
+
+Contrary_PRP
+to_TO
+the_DT
+advertisment_JJ
+everything_NN
+was_VBD
+disapointing_.
+._.
+
+Just_RB
+imagine_VB
+the_DT
+way_NN
+of_IN
+future_NN
+people_NNS
+'s_POS
+life_NN
+._.
+
+It_PRP
+began_VBD
+45_PRP$
+minutes_NNS
+later_RB
+than_IN
+it_PRP
+should_MD
+have_VB
+been_VBN
+._.
+
+In_IN
+my_PRP$
+countries_JJ
+school_NN
+we_PRP
+are_VBP
+not_RB
+allowed_VBN
+to_TO
+have_VB
+an_DT
+argument_NN
+with_IN
+class-mates_NN
+and_CC
+not_RB
+allowed_VBN
+to_TO
+eat_VB
+at_IN
+class_NN
+._.
+
+Finally_RB
+,_,
+I_PRP
+would_MD
+like_VB
+to_TO
+ask_VB
+you_PRP
+what_VBD
+kind_NN
+of_IN
+clothes_PRP
+would_MD
+you_PRP
+recommend_VBD
+me_PRP
+to_TO
+take_VB
+._.
+
+Besides_NNP
+,_,
+I_PRP
+really_RB
+would_MD
+like_VB
+to_TO
+know_VB
+,_,
+approxiametely_CC
+how_WRB
+much_JJ
+money_NN
+should_MD
+I_PRP
+take_VBP
+with_IN
+me_PRP
+?_.
+
+Immediately_WRB
+she_PRP
+recognized_VBD
+her_PRP$
+beloved_JJ
+teacher_NN
+kissing_IN
+one_CD
+of_IN
+her_PRP$
+class_NN
+mate_,
+and_CC
+she_PRP
+run_VBP
+away_RB
+as_RB
+fast_RB
+as_IN
+she_PRP
+could_MD
+._.
+
+I_PRP
+'d_MD
+rather_RB
+sleep_VBN
+in_IN
+tents_NNS
+because_IN
+I_PRP
+want_VBP
+to_TO
+enjoy_VB
+this_DT
+wild_JJ
+experience_NN
+!_.
+
+And_CC
+the_DT
+restorant_NN
+of_IN
+the_DT
+theatre_NN
+was_VBD
+being_VBG
+pait_NN
+,_,
+so_RB
+I_PRP
+could_MD
+not_RB
+go_VB
+as_IN
+you_PRP
+said_VBD
+in_IN
+the_DT
+advertisment_NN
+._.
+
+So_RB
+that_IN
+'s_NNS
+why_WRB
+they_PRP
+have_VBP
+invented_IN
+a_DT
+telephon_NN
+._.
+
+At_IN
+that_DT
+point_NN
+,_,
+even_RB
+if_IN
+there_EX
+had_VBD
+been_VBN
+Danny_TO
+Brook_VB
+as_IN
+the_DT
+advertisement_JJ
+announced_NNS
+,_,
+it_PRP
+would_MD
+n't_RB
+have_VB
+been_VBN
+a_DT
+less_RBR
+disappointing_JJ
+evening_NN
+._.
+
+I_PRP
+am_VBP
+sure_VBN
+you_PRP
+can_MD
+take_VB
+attention_NN
+on_IN
+this_DT
+._.
+
+Last_NNP
+of_IN
+all_DT
+,_,
+it_PRP
+said_VBD
+in_IN
+your_PRP$
+advertisement_NNS
+that_IN
+there_EX
+is_VBZ
+a_DT
+theatre_NN
+restaurant_,
+after_IN
+the_DT
+show_NN
+but_CC
+it_PRP
+turned_VBD
+out_RB
+to_TO
+be_VB
+closed_VBN
+because_IN
+it_PRP
+was_VBD
+redecorating_VBN
+and_CC
+no_DT
+annocement_NN
+was_VBD
+made_VBN
+._.
+
+Finally_RB
+,_,
+I_PRP
+am_VBP
+considering_VBN
+about_IN
+what_DT
+kind_NN
+of_IN
+clothes_WDT
+I_PRP
+should_MD
+wear_VB
+and_CC
+how_WRB
+much_RB
+I_PRP
+need_VBP
+._.
+
+About_IN
+the_DT
+acommodation_NN
+,_,
+out_RB
+of_IN
+the_DT
+two_CD
+possibilities_NNS
+,_,
+I_PRP
+choose_VBP
+sleeping_VBN
+in_IN
+a_DT
+tent_NN
+,_,
+because_IN
+I_PRP
+think_VBP
+that_IN
+a_DT
+log_NN
+cabin_WDT
+is_VBZ
+n't_RB
+as_IN
+authentic_JJ
+as_IN
+a_DT
+tent_NN
+,_,
+at_IN
+the_DT
+camp_NN
+._.
+
+Firstly_NNP
+,_,
+I_PRP
+expected_VBD
+to_TO
+see_VB
+the_DT
+play_NN
+by_IN
+Danny_PRP$
+Brook_NNS
+who_WP
+is_VBZ
+my_PRP$
+favourite_NNS
+actor_.
+._.
+
+It_PRP
+is_VBZ
+a_DT
+very_JJ
+cosy_JJ
+building_NN
+that_WDT
+is_VBZ
+on_IN
+the_DT
+same_JJ
+avenue_NN
+as_IN
+the_DT
+conference_JJ
+building_NN
+,_,
+approximetively_WRB
+one_PRP
+mile_VBP
+away_RB
+._.
+
+It_PRP
+'s_VBZ
+connected_VBN
+with_IN
+our_PRP$
+house_NN
+,_,
+our_PRP$
+workplace_NNS
+and_CC
+e.t.c_NN
+._.
+
+On_IN
+the_DT
+tale_NN
+"_,
+It_PRP
+'s_VBZ
+a_DT
+good_JJ
+life_NN
+"_''
+,_,
+the_DT
+author_NN
+gives_VBZ
+much_RB
+more_JJR
+emphasis_NN
+to_TO
+the_DT
+Witte_JJ
+Anthony_NNS
+than_IN
+to_TO
+anyone_VB
+else_RB
+in_IN
+the_DT
+story_NN
+._.
+
+Seeing_PRP
+that_IN
+this_DT
+is_VBZ
+the_DT
+first_JJ
+year_NN
+of_IN
+the_DT
+drama_NN
+lessons_NNS
+,_,
+it_PRP
+is_VBZ
+not_RB
+very_RB
+well_RB
+known_VBN
+._.
+
+I_PRP
+would_MD
+like_VB
+to_TO
+change_VB
+the_DT
+rule_NN
+not_RB
+to_TO
+speak_VB
+in_IN
+Spanish_NNP
+at_IN
+school_NN
+because_IN
+most_JJS
+of_IN
+us_PRP
+feel_VBP
+more_RBR
+comfortable_JJ
+speaking_NNS
+in_IN
+Spanish_NNP
+but_CC
+I_PRP
+guess_VBD
+to_TO
+learn_VB
+._.
+
+Then_RB
+you_PRP
+could_MD
+find_VB
+the_DT
+cheapest_JJ
+good_JJ
+and_CC
+in_IN
+that_DT
+case_NN
+,_,
+you_PRP
+probably_RB
+buy_VB
+it_PRP
+needlessly_.
+._.
+
+Because_RB
+of_IN
+it_PRP
+I_PRP
+believe_VBP
+it_PRP
+is_VBZ
+the_DT
+best_JJS
+date_NN
+for_IN
+travel_NN
+You_PRP
+asked_VBD
+me_PRP
+about_IN
+accommodations_NN
+or_CC
+Camp_NNP
+California_NNP
+._.
+
+The_DT
+first_JJ
+thing_NN
+that_IN
+dissapoint_WDT
+me_PRP
+was_VBD
+the_DT
+starring_NN
+._.
+
+So_RB
+I_PRP
+was_VBD
+suspended_RB
+,_,
+I_PRP
+had_VBD
+a_DT
+fight_NN
+with_IN
+one_CD
+of_IN
+my_PRP$
+best_JJS
+friend_NN
+,_,
+all_DT
+because_IN
+she_PRP
+was_VBD
+n't_RB
+very_RB
+good_JJ
+at_IN
+keeping_PRP$
+secrets_NNS
+._.
+
+After_IN
+having_VBG
+thought_NN
+about_IN
+this_DT
+video_NN
+and_CC
+asked_VBD
+different_JJ
+people_NNS
+so_RB
+as_RB
+to_TO
+know_VB
+what_WP
+they_PRP
+suggested_VBD
+,_,
+I_PRP
+reached_VBD
+the_DT
+following_JJ
+conclusions_NNS
+:_:
+we_PRP
+must_MD
+film_VB
+the_DT
+lessons_NNS
+which_WDT
+are_VBP
+the_DT
+most_RBS
+important_JJ
+and_CC
+the_DT
+activities_NNS
+which_WDT
+take_VBP
+a_DT
+great_JJ
+part_NN
+in_IN
+a_DT
+day_NN
+at_IN
+school_NN
+;_:
+this_DT
+being_NN
+in_IN
+three_CD
+parts_NNS
+._.
+
+I_PRP
+'ve_VBP
+asked_VBN
+my_PRP$
+mom_NNS
+and_CC
+my_PRP$
+friends_NNS
+and_CC
+everybody_NN
+did_VBD
+n't_RB
+know_VB
+where_WRB
+it_PRP
+was_VBD
+._.
+
+Well_UH
+,_,
+the_DT
+two_CD
+activities_NNS
+that_IN
+I_PRP
+would_MD
+to_TO
+choose_PRP
+are_VBP
+basketball_VBN
+and_CC
+singing_NN
+._.
+
+Thank_WRB
+you_PRP
+in_IN
+advanced_VBN
+for_IN
+your_PRP$
+comprehention_NNS
+and_CC
+we_PRP
+look_VBP
+forward_RB
+to_TO
+hearing_VB
+for_IN
+you_PRP
+._.
+
+if_IN
+we_PRP
+used_VBD
+,_,
+we_PRP
+would_MD
+be_VB
+sent_VBN
+to_TO
+the_DT
+head_NN
+office_NN
+of_IN
+the_DT
+school_NN
+._.
+
+Do_WRB
+you_PRP
+know_VB
+what_WP
+Kim_VBZ
+,_,
+I_PRP
+'ve_VBP
+never_RB
+thought_VBN
+before_IN
+,_,
+that_IN
+enjoying_DT
+yourself_NN
+like_IN
+this_DT
+,_,
+could_MD
+be_VB
+weirdly_.
+._.
+
+It_PRP
+also_RB
+makes_VBZ
+me_PRP
+write_VBP
+to_TO
+my_PRP$
+friends_NNS
+by_IN
+e-mail_NN
+._.
+
+And_CC
+is_VBZ
+it_PRP
+better_VBD
+to_TO
+have_VB
+change_NN
+or_CC
+checks_NN
+?_.
+
+I_PRP
+could_MD
+n't_RB
+write_VB
+you_PRP
+because_IN
+I_PRP
+was_VBD
+very_RB
+busy_.
+._.
+
+I_PRP
+can_MD
+hardly_RB
+await_VB
+your_PRP$
+reply_NNS
+!_.
+
+AFTER_PRP
+THE_.
+MEETING_.
+WE_.
+RECIEVED_.
+ALL_.
+THE_.
+SAME_.
+CLOTHES_.
+._.
+
+I_PRP
+would_MD
+like_VB
+to_TO
+spend_VB
+my_PRP$
+time_NN
+at_IN
+your_PRP$
+Camp_JJ
+site_NNS
+in_IN
+log_NN
+cabins_.
+._.
+
+,_,
+What_WP
+is_VBZ
+your_PRP$
+name_NN
+,_,
+house_NN
+,_,
+dog_NN
+,_,
+cat_RB
+,_,
+boy_NN
+,_,
+girls_NNS
+etc_''
+,_,
+I_PRP
+am_VBP
+very_RB
+happy_JJ
+that_IN
+I_PRP
+promed_VBD
+to_TO
+myself_PRP
+learn_MD
+spanish_VB
+this_DT
+sommar_NN
+at_IN
+the_DT
+Huntingdon_NN
+College_.
+._.
+
+At_IN
+first_JJ
+my_FW
+favourite_FW
+actor_FW
+Danny_FW
+Brook_FW
+did_VBD
+n't_RB
+perform_VB
+without_IN
+any_DT
+explictions_NN
+,_,
+and_CC
+the_DT
+show_NN
+should_MD
+started_VB
+at_IN
+19:30_PRP
+instead_RB
+of_IN
+20:15_DT
+!!_NN
+
+I_PRP
+ca_MD
+n't_RB
+stand_VB
+wearing_IN
+a_DT
+suit_NN
+or_CC
+kit_RB
+like_IN
+which_WDT
+has_VBZ
+been_VBN
+showed_VBN
+in_IN
+Starwars_NN
+!_.
+
+In_IN
+my_PRP$
+opinion_NN
+we_PRP
+must_MD
+spend_VB
+more_JJR
+time_NN
+for_IN
+more_RBR
+interesting_JJ
+than_IN
+shopping_PRP$
+things_NNS
+like_IN
+sport_NNP
+,_,
+reading_RB
+,_,
+chating_CC
+about_IN
+ideas_NNS
+which_WDT
+make_VBP
+our_PRP$
+lives_NNS
+better_.
+._.
+
+I_PRP
+can_MD
+play_VB
+well_RB
+basketball_RB
+,_,
+because_IN
+I_PRP
+use_VBP
+to_TO
+practice_VB
+basketball_VBN
+,_,
+when_WRB
+I_PRP
+go_VBP
+to_TO
+the_DT
+club_NN
+every_.
+Saturday_.
+._.
+
+Finally_RB
+,_,
+I_PRP
+think_VBP
+it_PRP
+was_VBD
+a_DT
+good_JJ
+idea_NN
+the_DT
+fact_NN
+to_TO
+buy_VB
+only_RB
+one_CD
+ticket_NNS
+for_IN
+all_PDT
+the_DT
+events_NNS
+since_IN
+I_PRP
+just_RB
+spent_VBN
+the_DT
+time_NN
+watching_,
+and_CC
+enjoying_IN
+all_DT
+of_IN
+them_PRP
+._.
+
+However_RB
+,_,
+the_DT
+technology_NN
+never_RB
+stops_RB
+,_,
+we_PRP
+always_RB
+search_RBR
+new_JJ
+things_NNS
+because_IN
+we_PRP
+are_VBP
+made_VBN
+to_TO
+compete_VB
+,_,
+discover_RB
+,_,
+think_VBP
+things_NNS
+which_WDT
+we_PRP
+do_VBP
+n't_RB
+know_VB
+._.
+
+I_PRP
+had_VBD
+gone_VBN
+to_TO
+the_DT
+show_NN
+which_WDT
+according_VBZ
+to_TO
+the_DT
+advertisement_NN
+was_VBD
+supposed_VBN
+to_TO
+begin_VB
+at_IN
+19:30_NNP
+,_,
+but_CC
+the_DT
+show_NN
+did_VBD
+not_RB
+start_VB
+until_IN
+20:15_NN
+._.
+
+Now_WRB
+I_PRP
+will_MD
+give_VB
+you_PRP
+the_DT
+informations_NN
+which_WDT
+you_PRP
+asked_VBD
+for_IN
+._.
+
+You_PRP
+should_MD
+back_RB
+my_PRP$
+money_NN
+immedeastry_,
+because_IN
+that_DT
+night_NN
+was_VBD
+far_RB
+from_IN
+parfect_NN
+._.
+
+First_RB
+of_IN
+al_NNP
+,_,
+in_IN
+my_PRP$
+opinion_NN
+,_,
+TV_PRP
+has_VBZ
+a_DT
+great_JJ
+education_NN
+functions_''
+,_,
+and_CC
+also_RB
+makes_VBZ
+the_DT
+world_NN
+become_.
+small_.
+._.
+
+this_DT
+lesson_NN
+techer_,
+you_PRP
+how_VBD
+to_TO
+organise_VB
+what_WP
+you_PRP
+want_VBP
+to_TO
+write_VB
+._.
+
+First_JJ
+time_NN
+,_,
+when_WRB
+I_PRP
+saw_VBD
+the_DT
+advertisement_NN
+on_IN
+the_DT
+newspaper_NN
+,_,
+I_PRP
+really_RB
+appreciated_.
+._.
+
+In_IN
+the_DT
+addition_NN
+when_WRB
+you_PRP
+organize_VBD
+the_DT
+next_JJ
+year_NN
+'s_POS
+international_JJ
+arts_NNS
+festival_''
+,_,
+could_MD
+you_PRP
+arrange_VBD
+more_JJR
+plays_NNS
+and_CC
+films_NN
+._.
+
+But_CC
+after_IN
+all_PDT
+the_DT
+party_NN
+was_VBD
+great_JJ
+._.
+
+In_IN
+fact_NN
+queuing_VBZ
+up_RB
+in_IN
+front_NN
+of_IN
+every_DT
+ticket_JJ
+office_NN
+is_VBZ
+wasting_DT
+time_NN
+._.
+
+After_IN
+entering_VBG
+you_PRP
+will_MD
+see_VB
+the_DT
+signed_JJ
+conference_NN
+room_.
+._.
+
+Firstly_NNP
+,_,
+I_PRP
+would_MD
+like_VB
+to_TO
+inform_VB
+that_IN
+I_PRP
+prefer_VBP
+travelling_VBN
+in_IN
+July_VBG
+to_TO
+travelling_VB
+in_IN
+another_DT
+month_NN
+._.
+
+Personally_NNP
+,_,
+I_PRP
+do_VBP
+think_VB
+televisions_PRP
+is_VBZ
+the_DT
+most_RBS
+important_JJ
+invention_NN
+._.
+
+Suddenly_RB
+,_,
+I_PRP
+heard_VBD
+of_IN
+"_DT
+help_NN
+,_,
+help_VB
+"_VBN
+in_IN
+my_PRP$
+distance_NN
+._.
+
+You_PRP
+can_MD
+walk_VB
+to_TO
+the_DT
+top_NN
+of_IN
+the_DT
+tower_NN
+and_CC
+it_PRP
+shows_VBD
+you_PRP
+a_DT
+beautiful_JJ
+view_NN
+._.
+
+Fortunately_DT
+today_NN
+everyone_NN
+can_MD
+take_VB
+an_DT
+aeroplane_NN
+and_CC
+go_VB
+to_TO
+America_NNP
+,_,
+Australia_NNP
+or_CC
+wherever_RB
+else_RB
+he_PRP
+wants_VBZ
+!_.
+
+I_PRP
+never_RB
+did_VBD
+Surfing_VBN
+in_IN
+my_PRP$
+life_NN
+but_CC
+I_PRP
+am_VBP
+a_DT
+very_JJ
+good_JJ
+Snowboarder_NNS
+and_CC
+this_DT
+could_MD
+be_VB
+an_DT
+advantage_NN
+._.
+
+"_PRP
+Um_VBP
+very_RB
+unpleased_VBN
+that_IN
+I_PRP
+have_VBP
+to_TO
+write_VB
+you_PRP
+this_DT
+letter_NN
+._.
+
+One_PRP
+of_IN
+my_PRP$
+favourite_NNS
+books_WDT
+is_VBZ
+without_IN
+doubts_NNP
+,_,
+Wuthering_PRP
+Heights_VBD
+a_DT
+famous_JJ
+book_NN
+written_VBN
+by_IN
+Emily_NN
+Brontë_.
+._.
+
+First_RB
+of_IN
+all_DT
+,_,
+I_PRP
+was_VBD
+surpprising_VBN
+that_IN
+Danny_DT
+Brook_NN
+and_CC
+Tina_WRB
+Truelove_PRP
+did_VBD
+not_RB
+played_VBN
+._.
+
+When_WRB
+shopping_PRP
+,_,
+we_PRP
+do_VBP
+n't_RB
+need_VBN
+to_TO
+wait_VB
+the_DT
+Kasse_NN
+to_TO
+take_VB
+every_DT
+article_NN
+'s_POS
+note_NN
+by_IN
+hand_NN
+._.
+
+In_IN
+the_DT
+big_JJ
+room_NN
+where_WRB
+we_PRP
+'ll_MD
+have_VB
+the_DT
+party_NN
+,_,
+it_PRP
+'ll_MD
+be_VB
+some_DT
+picturs_NN
+of_IN
+our_PRP$
+college_NN
+,_,
+
+In_IN
+fact_NN
+if_IN
+I_PRP
+'m_VBP
+not_RB
+in_IN
+the_DT
+right_JJ
+mood_NN
+I_PRP
+become_VB
+nervous_VBN
+because_IN
+I_PRP
+ca_MD
+n't_RB
+find_VB
+anything_NN
+._.
+
+Even_RB
+if_IN
+the_DT
+photograph_JJ
+made_NNS
+are_VBP
+modest_DT
+work_NN
+,_,
+I_PRP
+am_VBP
+really_RB
+interested_VBN
+in_IN
+this_DT
+activity_NN
+._.
+
+We_PRP
+had_VBD
+been_VBN
+told_VBN
+that_IN
+discounts_VBG
+to_TO
+the_DT
+ticket-prices_NN
+were_VBD
+possible_JJ
+but_CC
+at_IN
+the_DT
+evening_NN
+of_IN
+the_DT
+show_NN
+no_DT
+discounts_NN
+or_CC
+special_JJ
+offers_NNS
+whatsoever_WDT
+were_VBD
+offered_.
+._.
+
+I_PRP
+was_VBD
+part_NN
+of_IN
+the_DT
+staff_NN
+,_,
+
+Why_PRP
+is_VBZ
+it_PRP
+every_DT
+thing_NN
+that_IN
+on_IN
+the_DT
+canidates_NN
+were_VBD
+wrong_JJ
+and_CC
+different_NNS
+what_WP
+we_PRP
+had_VBD
+._.
+
+First_RB
+of_IN
+all_DT
+,_,
+everybody_NN
+has_VBZ
+rights_VBN
+to_TO
+keep_VB
+their_PRP$
+own_JJ
+private_JJ
+life_NN
+,_,
+especially_RB
+when_WRB
+they_PRP
+are_VBP
+in_IN
+serious_JJ
+situations_NNS
+such_JJ
+as_IN
+divorce_NN
+and_CC
+a_DT
+family_NN
+member_WDT
+'s_VBZ
+or_CC
+the_DT
+closest_JJS
+friend_NN
+'s_POS
+death_NN
+._.
+
+And_CC
+also_RB
+,_,
+it_PRP
+was_VBD
+written_VBN
+that_IN
+the_DT
+discounts_NN
+were_VBD
+available_JJ
+but_CC
+they_PRP
+were_VBD
+not_RB
+._.
+
+Last_NNP
+weekend_NNP
+,_,
+I_PRP
+have_VBP
+been_VBN
+in_IN
+London_NNP
+with_IN
+my_PRP$
+friend_NN
+and_CC
+I_PRP
+saw_VBD
+your_PRP$
+musical_JJ
+show_NN
+"_,
+over_IN
+the_DT
+Rainbow_NN
+"_.
+._.
+
+To_TO
+begin_VB
+my_PRP$
+complains_``
+I_PRP
+can_MD
+start_VB
+with_IN
+the_DT
+actor_NN
+-_:
+was_VBD
+a_DT
+different_JJ
+one_NN
+,_,
+not_RB
+Danny_.
+Brook_.
+._.
+
+As_RB
+soon_RB
+as_IN
+the_DT
+arrangement_NN
+for_IN
+the_DT
+party_NN
+started_VBD
+,_,
+she_PRP
+began_VBD
+to_TO
+feel_VB
+nervous_VBN
+and_CC
+anxious_RB
+because_IN
+she_PRP
+wanted_VBD
+to_TO
+tell_VB
+everything_NN
+to_TO
+her_PRP$
+bestfriend_NNS
+._.
+
+So_RB
+I_PRP
+think_VBP
+you_PRP
+'d_MD
+better_RB
+to_TO
+wear_VB
+a_DT
+dress_NN
+._.
+
+In_IN
+conclusion_NNP
+,_,
+do_VBP
+n't_RB
+forget_VBN
+that_IN
+a_DT
+job_NN
+is_VBZ
+just_RB
+spent_VBN
+in_IN
+your_PRP$
+"_NNS
+spare_IN
+"_DT
+time_NN
+._.
+
+Which_DT
+kind_NN
+of_IN
+clothes_PRP
+have_VBP
+I_PRP
+to_TO
+put_VB
+in_IN
+my_PRP$
+case_NN
+?_.
+
+I_PRP
+am_VBP
+writing_VBG
+to_TO
+you_PRP
+to_TO
+give_VB
+some_DT
+requiered_JJ
+information_NN
+._.
+
+That_DT
+'s_VBZ
+why_WRB
+I_PRP
+'d_MD
+like_VB
+to_TO
+feel_VB
+adventurally_.
+._.
+
+Usually_PRP
+if_IN
+you_PRP
+ask_VBP
+them_PRP
+what_WP
+they_PRP
+would_MD
+desire_VB
+most_RB
+,_,
+the_DT
+answer_NN
+is_VBZ
+:_:
+"_:
+I_PRP
+would_MD
+like_VB
+to_TO
+be_VB
+able_JJ
+to_TO
+live_VB
+like_IN
+ordinary_JJ
+people_NNS
+do_VBP
+"_VBN
+
+Thank_WRB
+you_PRP
+for_IN
+the_DT
+letter_NN
+that_IN
+conformed_DT
+first_JJ
+prize_.
+._.
+
+You_PRP
+'ll_MD
+be_VB
+agree_VBN
+with_IN
+me_PRP
+that_IN
+45_PRP$
+minutes_NNS
+to_TO
+waiting_VB
+for_IN
+the_DT
+starting_NN
+of_IN
+the_DT
+show_NN
+is_VBZ
+a_DT
+too_RB
+long_JJ
+time_NN
+._.
+
+About_PRP
+accomodation_VBD
+in_IN
+tents_NNS
+or_CC
+log_NNP
+cabins_NNP
+,_,
+I_PRP
+would_MD
+enjoy_VB
+much_RB
+more_JJR
+being_NN
+in_IN
+tents_NNS
+as_IN
+I_PRP
+believe_VBP
+is_VBZ
+the_DT
+right_JJ
+type_NN
+of_IN
+accomodation_NN
+for_IN
+going_VBG
+camping_.
+?_.
+
+It_PRP
+means_VBZ
+on_IN
+second_JJ
+day_NN
+of_IN
+our_PRP$
+trip_NN
+and_CC
+it_PRP
+starts_VBZ
+at_IN
+10.00_NN
+in_IN
+the_DT
+morning_NN
+untill_.
+19.00_.
+._.
+
+Therefor_WRB
+I_PRP
+would_MD
+n't_RB
+change_VB
+anything_NN
+in_IN
+my_PRP$
+home_NN
+life_NN
+and_CC
+neither_RB
+in_IN
+my_PRP$
+school_NN
+life_NN
+._.
+
+Technology_PRP
+brings_VBZ
+me_PRP
+a_DT
+lot_NN
+of_IN
+new_JJ
+possibilities_IN
+every_DT
+day_NN
+,_,
+and_CC
+it_PRP
+also_RB
+makes_VBZ
+everything_NN
+easier_.
+._.
+
+The_DT
+technology_NN
+is_VBZ
+the_DT
+future_NN
+,_,
+and_CC
+the_DT
+present_NN
+._.
+
+I_PRP
+also_RB
+would_MD
+like_VB
+to_TO
+remark_VB
+that_IN
+this_DT
+change_NN
+does_VBZ
+not_RB
+increment_IN
+the_DT
+cost_NN
+of_IN
+the_DT
+trip_NN
+,_,
+because_IN
+the_DT
+London_NNP
+Fashion_,
+And_CC
+Leisure_WRB
+Show_PRP
+is_VBZ
+free_JJ
+for_IN
+students_NNS
+._.
+
+My_PRP$
+second_JJ
+task_NN
+was_VBD
+that_IN
+I_PRP
+had_VBD
+to_TO
+look_VB
+in_IN
+all_PDT
+the_DT
+bags_NN
+of_IN
+the_DT
+fans_NN
+to_TO
+collect_VB
+"_DT
+dangerous_JJ
+"_NN
+items_''
+,_,
+I_PRP
+saw_VBD
+really_RB
+funny_JJ
+things_NNS
+like_IN
+teeth-bruches_NN
+in_IN
+the_DT
+bags_NN
+._.
+
+Thank_WRB
+you_PRP
+very_RB
+much_RB
+and_CC
+I_PRP
+hope_MD
+hearing_VB
+from_IN
+you_PRP
+soon_RB
+._.
+
+Finally_RB
+,_,
+I_PRP
+give_VBP
+you_PRP
+some_DT
+suggestions_NNS
+which_WDT
+could_MD
+spend_VB
+for_IN
+about_IN
+3_CD
+hours_NNS
+in_IN
+the_DT
+national_JJ
+museum_NN
+in_IN
+my_PRP$
+area_NN
+._.
+
+Machines_NNP
+,_,
+such_JJ
+as_IN
+a_DT
+dish_JJ
+washer_NNS
+,_,
+laundry_DT
+machine_NN
+and_CC
+remote_JJ
+controller_TO
+help_VB
+us_PRP
+jut_VBD
+to_TO
+relax_VB
+or_CC
+do_VB
+a_DT
+little_JJ
+work_NN
+necessary_.
+._.
+
+First_RB
+of_IN
+al_NNP
+,_,
+I_PRP
+want_VBP
+to_TO
+thank_VB
+you_PRP
+for_IN
+the_DT
+interesting_JJ
+programme_NNS
+,_,
+which_WDT
+you_PRP
+already_RB
+have_VB
+organised_.
+._.
+
+Suddenly_RB
+,_,
+she_PRP
+heart_VB
+a_DT
+men_NNS
+voice_VBP
+called_VBN
+her_PRP$
+"_NNS
+Sara_.
+..._.
+Sara_.
+._.
+look_VBP
+down_RB
+to_TO
+the_DT
+river_NN
+._.
+"_.
+
+If_IN
+you_PRP
+are_VBP
+used_VBN
+to_TO
+go_VB
+to_TO
+the_DT
+Shopping_NN
+very_RB
+often_RB
+,_,
+maybe_PRP
+is_VBZ
+because_IN
+you_PRP
+do_VBP
+n't_RB
+know_VB
+about_IN
+all_PDT
+the_DT
+others_NNS
+good_JJ
+things_NNS
+you_PRP
+can_MD
+do_VB
+on_IN
+your_PRP$
+weekend_NNS
+._.
+
+The_DT
+uniform_NN
+,_,
+we_PRP
+are_VBP
+wearing_PRP
+has_VBZ
+to_TO
+be_VB
+perfect_JJ
+._.
+
+Firstly_NNP
+,_,
+the_DT
+actors_NN
+were_VBD
+different_JJ
+from_IN
+the_DT
+ones_NNS
+written_VBN
+in_IN
+the_DT
+advertisement_NN
+which_WDT
+was_VBD
+very_RB
+disappointing_JJ
+for_IN
+me_PRP
+._.
+
+First_RB
+,_,
+I_PRP
+expected_VBD
+to_TO
+see_VB
+Danny_VBN
+Brook_,
+but_CC
+a_DT
+different_JJ
+actor_NNS
+appeared_VBD
+without_IN
+any_DT
+explanation_NN
+._.
+
+After_IN
+all_DT
+this_NN
+,_,
+I_PRP
+want_VBP
+to_TO
+know_VB
+if_IN
+I_PRP
+will_MD
+have_VB
+some_DT
+money_NN
+back_.
+._.
+
+Another_DT
+bad_JJ
+thing_NN
+is_VBZ
+that_DT
+people_NNS
+want_VBP
+something_NN
+very_RB
+badly_RB
+,_,
+and_CC
+they_PRP
+ca_MD
+n't_RB
+afford_VB
+it_PRP
+._.
+
+We_PRP
+would_MD
+like_VB
+our_PRP$
+money_NN
+back_RB
+please_VBN
+because_IN
+every_DT
+thing_NN
+gone_VBN
+wrong_JJ
+,_,
+the_DT
+atmosphere_NN
+totally_.
+chanced_.
+!_.
+
+I_PRP
+was_VBD
+so_RB
+exited_,
+and_CC
+happy_JJ
+that_IN
+I_PRP
+ca_MD
+n't_RB
+remember_VB
+what_WP
+I_PRP
+talked_VBD
+with_IN
+the_DT
+band_NN
+._.
+
+First_RB
+of_IN
+all_DT
+,_,
+the_DT
+performers_NNS
+should_MD
+be_VB
+Danny_VBN
+Brook_,
+and_CC
+Tina_NN
+Truelove_.
+._.
+
+You_PRP
+should_MD
+be_VB
+punctual_VBN
+when_WRB
+coming_VBG
+to_TO
+dining_VB
+table_VBN
+,_,
+respectful_RB
+,_,
+do_VBP
+your_PRP$
+home_NN
+works_NNS
+and_CC
+watch_VB
+TV_RB
+less_RBR
+and_CC
+not_RB
+too_RB
+loud_RB
+._.
+
+If_IN
+you_PRP
+say_VB
+that_IN
+the_DT
+wage_NN
+is_VBZ
+far_RB
+from_IN
+satisfaction_NN
+,_,
+why_WRB
+do_VBP
+n't_RB
+you_PRP
+teach_VBD
+younger_JJR
+students_NNS
+as_IN
+a_DT
+private_JJ
+teacher_NN
+._.
+
+We_PRP
+would_MD
+be_VB
+very_RB
+interesting_JJ
+in_IN
+seeing_VBG
+the_DT
+english_JJ
+fashion_NN
+._.
+
+If_IN
+you_PRP
+leave_VBP
+the_DT
+bus_NN
+,_,
+the_DT
+conference_NN
+is_VBZ
+in_IN
+the_DT
+house_NN
+opposite_IN
+the_DT
+road_NN
+._.
+
+However_RB
+,_,
+I_PRP
+have_VBP
+been_VBN
+asked_VBN
+by_IN
+the_DT
+class_NN
+to_TO
+propose_VB
+you_PRP
+another_DT
+visit_NN
+._.
+
+And_CC
+thanks_RB
+again_RB
+for_IN
+offer_WDT
+me_PRP
+two_CD
+weeks_NNS
+at_IN
+Camp_NNP
+California_NNP
+in_IN
+the_DT
+U.S.A._NN
+
+I_PRP
+tried_VBD
+to_TO
+play_VB
+the_DT
+drums_NNS
+but_CC
+I_PRP
+was_VBD
+expelled_VBN
+from_IN
+the_DT
+stage_NN
+by_IN
+a_DT
+member_NN
+of_IN
+the_DT
+group_NN
+who_WP
+was_VBD
+in_IN
+a_DT
+bad_JJ
+mood_NN
+._.
+
+She_PRP
+spent_VBD
+this_DT
+only_JJ
+for_IN
+a_DT
+magazin_NN
+._.
+
+I_PRP
+helped_VBD
+setting_VBG
+up_IN
+the_DT
+sound_NN
+equipment_''
+,_,
+programming_IN
+the_DT
+light_JJ
+system_NN
+on_IN
+the_DT
+computer_NN
+,_,
+tidy_CC
+up_IN
+Madonna_NNP
+'s_POS
+room_NN
+!_.
+
+During_IN
+my_PRP$
+recent_JJ
+holiday_NNS
+in_IN
+London_NNP
+I_PRP
+visited_VBD
+one_CD
+of_IN
+your_PRP$
+shows_NNS
+in_IN
+the_DT
+"_NN
+Circle_.
+Theatre_.
+"_.
+._.
+
+Firstly_NNP
+,_,
+the_DT
+material_NN
+of_IN
+which_WDT
+clothes_PRP
+are_VBP
+made_VBN
+has_VBZ
+a_DT
+wide_JJ
+range_NN
+._.
+
+Because_RB
+,_,
+althoug_WRB
+they_PRP
+are_VBP
+famous_VBN
+they_PRP
+have_VBP
+also_RB
+their_PRP$
+private_JJ
+life_NN
+._.
+
+After_IN
+the_DT
+show_NN
+I_PRP
+went_VBD
+the_DT
+'_FW
+theatre_FW
+restaurant_FW
+'_''
+to_TO
+have_VB
+dinner_VBN
+,_,
+but_CC
+the_DT
+restaurant_NN
+was_VBD
+closed_.
+._.
+
+Thank_WRB
+you_PRP
+for_IN
+your_PRP$
+letter_NN
+,_,
+like_IN
+usual_JJ
+,_,
+it_PRP
+'s_VBZ
+a_DT
+pleisure_NN
+to_TO
+receive_VB
+a_DT
+word_NN
+from_IN
+you_PRP
+._.
+
+The_DT
+advertisement_NN
+outside_IN
+the_DT
+theatre_NN
+explained_VBD
+a_DT
+lot_NN
+of_IN
+interesting_JJ
+things_NNS
+to_TO
+enjoy_VB
+._.
+
+In_IN
+the_DT
+advertisement_NN
+,_,
+you_PRP
+mentioned_VBD
+actors_RB
+,_,
+time_NN
+,_,
+price_TO
+discount_VB
+and_CC
+equipment_NN
+._.
+
+If_IN
+you_PRP
+need_VBP
+any_DT
+information_NN
+,_,
+please_TO
+let_VB
+me_PRP
+know_VBP
+._.
+
+However_RB
+,_,
+it_PRP
+closed_VBD
+because_IN
+it_PRP
+was_VBD
+being_VBG
+decorated_.
+._.
+
+I_PRP
+also_RB
+helped_VBD
+to_TO
+serve_VB
+people_NNS
+who_WP
+would_MD
+like_VB
+drink_NN
+,_,
+
+Would_WRB
+you_PRP
+give_VBP
+me_PRP
+some_DT
+pocket-money_NN
+during_IN
+the_DT
+trip_NN
+._.
+
+i_PRP
+whant_VBD
+to_TO
+know_VB
+some_DT
+questions_NNS
+about_IN
+it_PRP
+._.
+
+I_PRP
+phoned_VBD
+to_TO
+police_VB
+And_CC
+told_VBD
+the_DT
+whole_JJ
+story_NN
+._.
+
+I_PRP
+prefer_VBP
+to_TO
+stay_VB
+in_IN
+log_DT
+cabins_NN
+than_IN
+in_IN
+tentes_NNP
+,_,
+because_IN
+log_DT
+cabins_NN
+has_VBZ
+much_RB
+esctructure_RB
+,_,
+that_IN
+I_PRP
+need_VBP
+to_TO
+stay_VB
+for_IN
+a_DT
+few_JJ
+days_NNS
+._.
+
+The_DT
+dance_NN
+shows_VBZ
+made_VBN
+sight_NN
+for_IN
+our_PRP$
+sour_JJ
+eyes_NNS
+,_,
+
+At_IN
+the_DT
+end_NN
+all_DT
+depends_NN
+in_IN
+our_PRP$
+attitud_NN
+to_TO
+life_NN
+,_,
+including_VBG
+shopping_.
+._.
+
+Molly_NNP
+,_,
+Vance_NNP
+and_CC
+Sally_PRP
+had_VBD
+a_DT
+quick_JJ
+chat_NNS
+and_CC
+said_VBD
+good-bye_VBN
+to_TO
+each_DT
+other_JJ
+as_IN
+,_,
+to_TO
+Molly_VB
+,_,
+they_PRP
+seemed_VBD
+to_TO
+be_VB
+in_IN
+a_DT
+hurry_NN
+and_CC
+as_IN
+Molly_PRP
+knew_VBD
+that_IN
+they_PRP
+have_VBP
+been_VBN
+dating_RB
+,_,
+she_PRP
+wanted_VBD
+them_PRP
+to_TO
+enjoy_VB
+their_PRP$
+own_JJ
+time_NN
+._.
+
+Can_WRB
+you_PRP
+imagine_VBP
+the_DT
+new_JJ
+your_PRP$
+house_NN
+?_.
+
+I_PRP
+hope_VB
+that_IN
+after_IN
+jully_PRP
+wo_MD
+n't_RB
+disturb_IN
+the_DT
+Camp_NNP
+California_NNP
+'s_POS
+plans_NN
+for_IN
+me_PRP
+._.
+
+Functions_NNP
+'_POS
+clothes_NNS
+are_VBP
+the_DT
+way_NN
+to_TO
+love_VB
+animals_.
+!_.
+
+We_PRP
+are_VBP
+all_DT
+very_RB
+interested_VBN
+in_IN
+the_DT
+show_NN
+because_IN
+England_NNP
+people_NNS
+have_VBP
+a_DT
+different_JJ
+kind_NN
+of_IN
+life_NN
+._.
+
+Internet_PRP
+is_VBZ
+very_RB
+handy_RB
+,_,
+you_PRP
+can_MD
+buy_VB
+,_,
+send_VBP
+e-mail_JJ
+messages_NNS
+,_,
+or_CC
+even_RB
+have_VB
+sex_NN
+,_,
+that_WDT
+is_VBZ
+really_RB
+funny_.
+._.
+
+Every_DT
+one_CD
+hopes_NNS
+to_TO
+enjoying_VB
+himself_PRP
+and_CC
+comes_VBZ
+back_RB
+with_IN
+a_DT
+lot_NN
+of_IN
+knowledge_NN
+._.
+
+So_RB
+we_PRP
+suggest_VBD
+to_TO
+put_VB
+it_PRP
+this_DT
+way_NN
+on_IN
+Tuesday_DT
+14_NN
+,_,
+in_IN
+the_DT
+morning_NN
+go_VB
+to_TO
+the_DT
+Science_NNP
+Museum_NNP
+and_CC
+instead_RB
+of_IN
+shopping_NNP
+,_,
+we_PRP
+could_MD
+attend_VB
+the_DT
+London_NNP
+Fashion_POS
+show_NN
+,_,
+because_IN
+will_MD
+be_VB
+the_DT
+latest_JJS
+fashion_NN
+,_,
+leisure_NN
+and_CC
+sports_NNS
+wear_VBP
+,_,
+make_VBP
+up_RB
+,_,
+and_CC
+hair_NN
+styles_''
+,_,
+and_CC
+as_IN
+you_PRP
+know_VBP
+us_PRP
+,_,
+we_PRP
+love_VBP
+all_DT
+those_DT
+topics_NN
+,_,
+and_CC
+it_PRP
+'s_VBZ
+a_DT
+great_JJ
+opportunity_NN
+while_IN
+we_PRP
+are_VBP
+London_.
+._.
+
+I_PRP
+learned_VBD
+swimming_VBN
+at_IN
+my_PRP$
+age_NN
+of_IN
+8_NN
+for_IN
+5_PRP$
+years_NNS
+and_CC
+I_PRP
+still_RB
+love_NN
+swimming_.
+._.
+
+Then_RB
+,_,
+we_PRP
+have_VBP
+to_TO
+be_VB
+as_IN
+best_JJS
+secret_JJ
+keepers_NNS
+as_IN
+possible_JJ
+,_,
+or_CC
+we_PRP
+will_MD
+end_VB
+like_IN
+Ali_NN
+and_CC
+Pat_NN
+._.
+
+The_DT
+church_NN
+is_VBZ
+located_VBN
+on_IN
+a_DT
+place_NN
+where_WRB
+you_PRP
+see_VB
+the_DT
+whole_JJ
+mountain_JJ
+chain_NN
+of_IN
+Rigi_NN
+._.
+
+If_IN
+you_PRP
+'re_VBP
+tire_NN
+,_,
+the_DT
+pill_NN
+can_MD
+give_VB
+you_PRP
+vitamin_VBD
+,_,
+protein_NN
+and_CC
+make_VB
+you_PRP
+refresh_VBD
+
+I_PRP
+have_VBP
+just_RB
+received_VBN
+your_PRP$
+letter_NN
+telling_,
+me_PRP
+I_PRP
+have_VBP
+won_VBD
+the_DT
+first_JJ
+prize_NNS
+in_IN
+your_PRP$
+competition_NN
+,_,
+and_CC
+I_PRP
+am_VBP
+glad_VBN
+for_IN
+it_PRP
+._.
+
+I_PRP
+would_MD
+like_VB
+to_TO
+know_VB
+which_WDT
+sort_NN
+of_IN
+clothes_WDT
+we_PRP
+have_VBP
+to_TO
+take_VB
+with_IN
+us_PRP
+and_CC
+also_RB
+how_WRB
+much_JJ
+money_NN
+is_VBZ
+necessary_JJ
+._.
+
+Another_DT
+point_NN
+is_VBZ
+now_RB
+you_PRP
+do_VBP
+n't_RB
+need_VBN
+to_TO
+go_VB
+out_RB
+just_RB
+for_IN
+shopping_NN
+._.
+
+I_PRP
+spent_VBD
+two_CD
+days_NNS
+at_IN
+the_DT
+International_NNP
+Arts_NNP
+Festival_,
+you_PRP
+have_VBP
+organized_VBN
+._.
+
+When_WRB
+finally_RB
+the_DT
+show_NN
+had_VBD
+started_VBN
+I_PRP
+found_VBD
+out_IN
+that_DT
+Danny_NNP
+Brook_NNP
+was_VBD
+replaced_VBN
+by_IN
+another_DT
+actor_NN
+._.
+
+Plays_NNS
+and_CC
+films_JJ
+qualities_NNS
+were_VBD
+good_JJ
+,_,
+but_CC
+quantities_PRP
+were_VBD
+bad_.
+._.
+
+About_PRP
+accomodation_VBD
+I_PRP
+would_MD
+prefer_VB
+cabins_VBN
+,_,
+because_IN
+I_PRP
+suffer_MD
+alergic_VB
+,_,
+and_CC
+I_PRP
+think_VBP
+tend_RB
+,_,
+would_MD
+be_VB
+not_RB
+very_RB
+suitable_JJ
+for_IN
+my_PRP$
+health_NN
+._.
+
+I_PRP
+'m_VBP
+writting_VBN
+you_PRP
+because_IN
+I_PRP
+wanted_VBD
+to_TO
+tell_VB
+you_PRP
+what_VBD
+a_DT
+bad_JJ
+experience_NN
+I_PRP
+had_VBD
+during_IN
+my_PRP$
+holidays_NNS
+when_WRB
+I_PRP
+went_VBD
+to_TO
+see_VB
+the_DT
+play_NN
+on_IN
+your_PRP$
+theatre_NN
+._.
+
+We_PRP
+can_MD
+see_VB
+the_DT
+latest_JJS
+fashions_NN
+,_,
+leisure_NN
+and_CC
+sports_NNS
+wear_VBP
+,_,
+make_VBP
+up_RB
+,_,
+and_CC
+hairstyles_NNS
+which_WDT
+we_PRP
+will_MD
+learn_VB
+next_JJ
+term_NN
+._.
+
+The_DT
+two_CD
+activities_NNS
+that_IN
+I_PRP
+prefer_VBD
+will_MD
+be_VB
+Basketball_VBN
+,_,
+because_IN
+I_PRP
+had_VBD
+the_DT
+experience_NN
+to_TO
+play_VB
+in_IN
+my_PRP$
+school_NN
+'s_POS
+big_JJ
+for_IN
+almoust_VBG
+a_DT
+year_NN
+,_,
+and_CC
+Photography_NNP
+,_,
+which_WDT
+is_VBZ
+a_DT
+hobby_NN
+that_IN
+I_PRP
+am_VBP
+good_JJ
+at_IN
+and_CC
+I_PRP
+practice_VBD
+since_IN
+I_PRP
+was_VBD
+ten_CD
+._.
+
+I_PRP
+believe_VBP
+there_RB
+are_VBP
+lot_VBN
+of_IN
+why_WRB
+to_TO
+enjoy_VB
+shopping_.
+._.
+
+The_DT
+restaurant_NN
+was_VBD
+closed_VBN
+because_IN
+there_EX
+was_VBD
+n't_RB
+electricity_VBN
+
+In_IN
+August_NNP
+,_,
+I_PRP
+have_VBP
+already_RB
+made_VBN
+another_DT
+appointment_NN
+with_IN
+my_PRP$
+friends_NNS
+._.
+
+They_PRP
+look_VBP
+like_IN
+a_DT
+robotes_NNS
+who_WP
+have_VBP
+to_TO
+do_VB
+their_PRP$
+duties_NNS
+-_:
+to_TO
+buy_VB
+._.
+
+I_PRP
+'m_VBP
+used_VBN
+to_TO
+be_VB
+the_DT
+photographer_NN
+at_IN
+the_DT
+holidays_NN
+with_IN
+my_PRP$
+family_NN
+and_CC
+I_PRP
+know_VB
+how_WRB
+a_DT
+camera_JJ
+works_NNS
+._.
+
+In_IN
+fact_NN
+,_,
+I_PRP
+did_VBD
+._.
+
+I_PRP
+ca_MD
+n't_RB
+believe_VB
+she_PRP
+said_VBD
+that_IN
+,_,
+I_PRP
+was_VBD
+at_IN
+the_DT
+Maria_NNP
+'s_POS
+party_NN
+and_CC
+'cause_RB
+of_IN
+my_PRP$
+distraction_NNS
+,_,
+I_PRP
+said_VBD
+Pat_VBN
+that_IN
+I_PRP
+had_VBD
+lost_VBN
+the_DT
+Jon_NNP
+'s_POS
+shirt_NN
+._.
+
+That_DT
+show_NN
+takes_VBZ
+place_NN
+on_IN
+14th_NNP
+March_NNP
+from_IN
+10.00_NN
+-_.
+19.00_.
+._.
+
+First_RB
+off_IN
+all_DT
+I_PRP
+'ll_MD
+prefer_VB
+to_TO
+travel_VB
+in_IN
+July_NNP
+,_,
+because_IN
+it_PRP
+is_VBZ
+the_DT
+only_JJ
+month_NN
+I_PRP
+have_VBP
+free_JJ
+._.
+
+The_DT
+only_JJ
+effect_NN
+on_IN
+me_PRP
+is_VBZ
+more_RBR
+often_RB
+disagreements_VBN
+with_IN
+my_PRP$
+parents_NNS
+._.
+
+I_PRP
+would_MD
+also_RB
+like_VB
+to_TO
+thank_VB
+you_PRP
+for_IN
+the_DT
+good_JJ
+programme_,
+you_PRP
+made_VBD
+for_IN
+us_PRP
+,_,
+especially_RB
+the_DT
+river_NN
+trip_NN
+to_TO
+Greenwich_PRP
+might_MD
+be_VB
+fascinating_.
+._.
+
+Recently_NNP
+,_,
+I_PRP
+had_VBD
+a_DT
+week_NNP
+'s_POS
+holiday_NN
+in_IN
+London_NNP
+and_CC
+during_IN
+my_PRP$
+stay_NN
+,_,
+I_PRP
+went_VBD
+to_TO
+your_PRP$
+theatre_NN
+to_TO
+see_VB
+"_TO
+Over_VB
+The_DT
+Rainbow_NN
+"_,
+and_CC
+I_PRP
+was_VBD
+really_RB
+disillusioned_.
+._.
+
+Peter_NNP
+got_VBD
+very_RB
+angry_JJ
+and_CC
+told_VBN
+Pat_IN
+why_PRP
+did_VBD
+they_PRP
+say_VB
+that_IN
+to_TO
+him_PRP
+._.
+
+Then_RB
+,_,
+I_PRP
+discovered_VBD
+some_DT
+points_NNS
+and_CC
+I_PRP
+am_VBP
+writing_VBG
+to_TO
+express_VB
+my_PRP$
+suggestion_NN
+and_CC
+recommendations_NN
+._.
+
+We_PRP
+have_VBP
+had_VBD
+a_DT
+quite_RB
+pleasant_JJ
+time_NN
+except_IN
+the_DT
+evening_NN
+._.
+
+And_CC
+we_PRP
+have_VBP
+two_CD
+choices_NNS
+to_TO
+get_VB
+to_TO
+the_DT
+conference_NN
+,_,
+a_DT
+bus_NN
+or_CC
+a_DT
+train_NN
+._.
+
+A_DT
+few_JJ
+days_NNS
+before_IN
+,_,
+I_PRP
+had_VBD
+founded_IN
+a_DT
+little_JJ
+window_NN
+at_IN
+the_DT
+back_NN
+of_IN
+the_DT
+building_NN
+,_,
+so_RB
+I_PRP
+entered_VBD
+by_IN
+this_DT
+way_NN
+and_CC
+by_IN
+chance_NN
+I_PRP
+just_RB
+arrived_VBD
+in_IN
+the_DT
+monney_NNP
+'s_POS
+room_NN
+._.
+
+Pat_PRP
+and_CC
+Ted_NNP
+,_,
+had_VBD
+always_RB
+competition_RB
+,_,
+and_CC
+Ted_RB
+used_VBN
+to_TO
+be_VB
+the_DT
+best_JJS
+,_,
+he_PRP
+never_RB
+had_VBD
+failed_VBN
+and_CC
+people_NNS
+in_IN
+general_JJ
+constums_NN
+to_TO
+like_VB
+more_RBR
+Ted_JJ
+,_,
+I_PRP
+do_VBP
+n't_RB
+now_RB
+why_.
+._.
+
+My_PRP$
+wife_NN
+and_CC
+me_PRP
+went_VBD
+to_TO
+The_DT
+Circle_NNP
+Theatre_POS
+last_JJ
+Saturday_JJ
+evening_NN
+because_IN
+we_PRP
+love_VBP
+the_DT
+main_JJ
+actor_NNS
+,_,
+Danny_PRP
+Brook_.
+._.
+
+I_PRP
+would_MD
+like_VB
+to_TO
+stay_VB
+in_IN
+log_DT
+cabins_NN
+because_IN
+I_PRP
+have_VBP
+bad_JJ
+experiens_NNS
+about_IN
+tents_NNS
+._.
+
+This_DT
+is_VBZ
+very_RB
+nice_,
+when_WRB
+you_PRP
+can_MD
+do_VB
+your_PRP$
+shopping_NNS
+like_IN
+that_DT
+._.
+
+Everyone_PRP
+has_VBZ
+is_VBZ
+own_JJ
+style_NN
+but_CC
+it_PRP
+'s_POS
+obvious_JJ
+that_IN
+many_JJ
+of_IN
+us_PRP
+is_VBZ
+wearing_VBG
+the_DT
+same_JJ
+clothes_NNS
+like_IN
+others_NNS
+._.
+
+I_PRP
+think_VBP
+it_PRP
+was_VBD
+definitely_RB
+not_RB
+a_DT
+perfect_JJ
+evening_NN
+as_IN
+garenteed_NN
+in_IN
+your_PRP$
+advertisement_NNS
+._.
+
+In_IN
+addition_NN
+to_TO
+this_DT
+some_DT
+concert_NN
+halls_WDT
+were_VBD
+too_RB
+small_JJ
+to_TO
+host_VB
+all_DT
+the_DT
+people_NNS
+who_WP
+were_VBD
+there_RB
+fro_IN
+the_DT
+occasion_NN
+and_CC
+,_,
+personally_RB
+speaking_VBG
+the_DT
+show_NN
+could_MD
+be_VB
+done_VBN
+at_IN
+the_DT
+open_JJ
+air_NN
+next_JJ
+year_NN
+,_,
+so_RB
+that_IN
+music_NN
+would_MD
+also_RB
+create_VB
+a_DT
+fantastic_JJ
+atmosphere_NN
+all_.
+around_.
+._.
+
+Thank_WRB
+you_PRP
+for_IN
+your_PRP$
+letter_NN
+of_IN
+asking_VBG
+for_IN
+my_PRP$
+help_NN
+to_TO
+the_DT
+conference_NN
+._.
+
+However_RB
+,_,
+it_PRP
+would_MD
+not_RB
+have_VB
+been_VBN
+such_JJ
+a_DT
+great_JJ
+problem_NN
+if_IN
+the_DT
+show_NN
+on_IN
+the_DT
+proved_VBN
+to_TO
+be_VB
+as_IN
+good_JJ
+as_IN
+they_PRP
+promised_VBD
+but_CC
+it_PRP
+really_RB
+was_VBD
+not_RB
+worth_JJ
+seeing_NNS
+,_,
+especially_RB
+because_IN
+the_DT
+first_JJ
+actor_NNS
+was_VBD
+not_RB
+Danny_VB
+Brook_VBN
+as_IN
+we_PRP
+expected_VBD
+but_CC
+an_DT
+unknown_JJ
+,_,
+clearly_RB
+an_DT
+inexperienced_JJ
+young_JJ
+actor_NNS
+,_,
+named_VBN
+Tom_.
+Douglas_.
+._.
+
+I_PRP
+am_VBP
+writing_VBG
+to_TO
+give_VB
+my_PRP$
+opinion_NN
+about_IN
+the_DT
+International_NNP
+Arts_NNP
+Festival_,
+which_WDT
+was_VBD
+held_VBN
+21st_,
+and_CC
+22nd_NNP
+November_NNP
+._.
+
+(_(
+that_WDT
+was_VBD
+n't_RB
+easy_JJ
+to_TO
+decide_VB
+which_WDT
+activities_VBZ
+I_PRP
+will_MD
+do_VB
+,_,
+cause_NN
+almost_RB
+choice_VB
+interested_VBN
+me_PRP
+)_)
+
+i_PRP
+'d_MD
+prefer_VB
+take_VB
+a_DT
+tent_NN
+because_IN
+it_PRP
+is_VBZ
+more_RBR
+romantic_JJ
+and_CC
+exciting_TO
+spend_VB
+nights_NNS
+in_IN
+the_DT
+tent_NN
+._.
+
+Because_WRB
+you_PRP
+have_VBP
+to_TO
+visit_VB
+many_JJ
+shops_NNS
+and_CC
+see_VB
+many_JJ
+thing_NN
+._.
+
+I_PRP
+was_VBD
+pleased_VBN
+as_IN
+I_PRP
+got_VBD
+it_PRP
+._.
+
+But_CC
+the_DT
+best_JJS
+thing_NN
+that_IN
+we_PRP
+do_VBP
+,_,
+when_WRB
+we_PRP
+make_VBP
+shopp_PRP
+is_VBZ
+spend_IN
+the_DT
+time_NN
+having_VBG
+lunch_NN
+at_IN
+snack_DT
+bar_NN
+,_,
+watching_VBG
+cinema_NN
+and_CC
+play_NN
+games_.
+computer_.
+._.
+
+One_CD
+day_NN
+,_,
+we_PRP
+were_VBD
+sitting_VBG
+in_IN
+the_DT
+dinning-hall_NN
+like_IN
+usually_RB
+._.
+
+It_PRP
+must_MD
+be_VB
+very_RB
+exhausted_VBN
+to_TO
+have_VB
+the_DT
+medias_NN
+around_IN
+you_PRP$
+days_NNS
+and_CC
+nights_NNS
+because_IN
+you_PRP
+ca_MD
+n't_RB
+be_VB
+yourself_VBN
+,_,
+you_PRP
+have_VBP
+to_TO
+show_VB
+your_PRP$
+best_JJS
+side_NN
+and_CC
+character_NN
+._.
+
+I_PRP
+think_VBP
+the_DT
+students_NNS
+will_MD
+enjoy_VB
+this_DT
+sightseeing_NN
+._.
+
+To_TO
+have_VB
+a_DT
+private_JJ
+life_NN
+is_VBZ
+the_DT
+natural_JJ
+desire_NN
+of_IN
+everyone_NN
+and_CC
+the_DT
+famous_JJ
+film_JJ
+stars_NNS
+or_CC
+politicians_TO
+have_VB
+a_DT
+right_NN
+for_IN
+it_PRP
+._.
+
+You_PRP
+will_MD
+ca_VB
+n't_RB
+believe_VB
+how_WRB
+many_JJ
+famous_JJ
+people_NNS
+I_PRP
+known_VBN
+._.
+
+I_PRP
+kept_VBD
+asking_VBG
+myself_PRP
+'_''
+should_MD
+I_PRP
+wake_VBD
+him_PRP
+up_RB
+or_CC
+try_VB
+to_TO
+use_VB
+my_PRP$
+unsure_JJ
+first_JJ
+aid_TO
+skill_VB
+to_TO
+deal_VB
+with_IN
+him_PRP
+._.
+
+I_PRP
+would_MD
+like_VB
+to_TO
+know_VB
+only_RB
+in_IN
+July_NN
+because_IN
+I_PRP
+have_VBP
+set_VBN
+my_PRP$
+holidays_``
+this_DT
+month_NN
+since_IN
+last_JJ
+January_.
+._.
+
+For_IN
+example_NN
+,_,
+put_VBD
+the_DT
+music_NN
+too_RB
+hight_,
+when_WRB
+my_PRP$
+syster_NN
+is_VBZ
+working_NN
+._.
+
+I_PRP
+am_VBP
+very_RB
+good_JJ
+at_IN
+tennis_NN
+and_CC
+photography_JJ
+but_CC
+I_PRP
+would_MD
+prefer_VB
+to_TO
+practice_VB
+new_JJ
+ones_NNS
+,_,
+if_IN
+it_PRP
+is_VBZ
+possible_JJ
+._.
+
+Finaly_NNP
+,_,
+I_PRP
+'d_MD
+like_VB
+to_TO
+practice_NN
+tennis_,
+and_CC
+to_TO
+try_VB
+climbing_.
+._.
+
+It_PRP
+contains_VBZ
+lots_VBN
+of_IN
+archeological_DT
+Etruscans_NN
+founded_,
+and_CC
+some_DT
+remains_VBZ
+about_IN
+Etruscans_NN
+neoropolis_.
+._.
+
+I_PRP
+can_MD
+pay_VB
+my_PRP$
+bills_NNS
+at_IN
+any_DT
+time_NN
+and_CC
+do_VBP
+not_RB
+need_VBN
+to_TO
+wait_VB
+on_IN
+a_DT
+big_JJ
+queue_NN
+to_TO
+be_VB
+attended_VBN
+by_IN
+the_DT
+cashman_NN
+,_,
+I_PRP
+can_MD
+exchange_VB
+photos_VBN
+and_CC
+videos_NNP
+via_NNP
+computer_NNP
+,_,
+I_PRP
+can_MD
+do_VB
+business_NN
+and_CC
+make_VB
+money_NN
+at_IN
+home_NN
+,_,
+and_CC
+so_RB
+on_RB
+._.
+
+As_IN
+I_PRP
+was_VBD
+so_RB
+looking_VBG
+foreward_VBN
+to_TO
+seeing_VB
+Danny_NNP
+'s_POS
+stage_NN
+,_,
+I_PRP
+was_VBD
+very_RB
+disappointed_VBN
+._.
+
+Also_RB
+I_PRP
+like_VBP
+to_TO
+play_VB
+tennis_VBN
+,_,
+which_WDT
+is_VBZ
+beautiful_JJ
+"_JJ
+game_NN
+"_,
+itself_PRP
+and_CC
+good_JJ
+for_IN
+figure_NN
+._.
+
+First_RB
+of_IN
+all_DT
+I_PRP
+have_VBP
+to_TO
+say_VB
+that_IN
+the_DT
+whole_JJ
+festival_NNS
+was_VBD
+a_DT
+greatful_JJ
+success_NN
+and_CC
+I_PRP
+also_RB
+think_VB
+you_PRP
+chose_VBD
+an_DT
+appropriate_JJ
+title_NN
+for_IN
+the_DT
+leaflet_NN
+._.
+
+I_PRP
+am_VBP
+writing_VBG
+to_TO
+answer_VB
+about_IN
+your_PRP$
+invitation_NN
+which_WDT
+I_PRP
+have_VBP
+receved_VBN
+as_IN
+a_DT
+first_JJ
+winner_.
+._.
+
+After_IN
+the_DT
+show_NN
+,_,
+my_PRP$
+friends_NNS
+and_CC
+me_PRP
+decided_VBD
+to_TO
+go_VB
+to_TO
+your_PRP$
+restaurant_NNS
+,_,
+but_CC
+we_PRP
+were_VBD
+amazed_VBN
+to_TO
+find_VB
+it_PRP
+close_RB
+._.
+
+It_PRP
+takes_VBZ
+25_JJ
+minutes_NNS
+that_WDT
+is_VBZ
+convenient_VBN
+to_TO
+us_PRP
+._.
+
+I_PRP
+was_VBD
+training_VBN
+to_TO
+be_VB
+a_DT
+personal_JJ
+assistance_NN
+to_TO
+Madonna_NNP
+herself_.
+._.
+
+Another_DT
+way_NN
+our_PRP$
+home_NN
+could_MD
+be_VB
+different_JJ
+in_IN
+the_DT
+future_NN
+is_VBZ
+probably_RB
+the_DT
+utilitles_NN
+we_PRP
+are_VBP
+using_VBG
+._.
+
+I_PRP
+never_RB
+did_VBD
+surfing_RB
+,_,
+but_CC
+every_DT
+time_NN
+I_PRP
+see_VBP
+surfing_VBN
+on_IN
+television_NN
+I_PRP
+find_VBP
+this_DT
+magic_NN
+._.
+
+I_PRP
+think_VBP
+this_DT
+side_NN
+of_IN
+the_DT
+question_NN
+is_VBZ
+balanced_VBN
+because_IN
+before_IN
+effect_NN
+on_IN
+our_PRP$
+health_NN
+was_VBD
+less_RB
+than_IN
+it_PRP
+is_VBZ
+now_RB
+._.
+
+Write_WRB
+me_PRP
+back_RB
+soon_RB
+and_CC
+tell_VB
+me_PRP
+about_IN
+your_PRP$
+impression_NN
+(_(
+I_PRP
+mean_VBP
+if_IN
+you_PRP
+enjoyed_VBD
+the_DT
+story_NN
+or_CC
+not_RB
+!_.
+)_)
+
+And_CC
+how_WRB
+much_JJ
+money_NN
+I_PRP
+am_VBP
+going_VBG
+to_TO
+need_NN
+to_TO
+have_VB
+there_RB
+with_IN
+me_PRP
+?_.
+
+We_PRP
+like_VBP
+to_TO
+go_VB
+on_IN
+July_NNP
+,_,
+because_IN
+my_PRP$
+wife_NN
+Catrin_VBZ
+just_RB
+have_VB
+holidays_DT
+next_JJ
+month_NN
+._.
+
+In_IN
+the_DT
+other_JJ
+hand_NN
+,_,
+I_PRP
+can_MD
+not_RB
+sing_VBP
+very_RB
+well_RB
+but_CC
+I_PRP
+would_MD
+like_VB
+to_TO
+do_VB
+this_DT
+there_RB
+._.
+
+I_PRP
+have_VBP
+received_VBN
+your_PRP$
+letter_NN
+which_WDT
+is_VBZ
+make_VB
+me_PRP
+happy_.
+._.
+
+I_PRP
+am_MD
+look_VB
+forward_RB
+to_TO
+hearing_VB
+from_IN
+you_PRP
+
+Every_DT
+day_NN
+,_,
+the_DT
+growth_NN
+of_IN
+the_DT
+modern_JJ
+technology_NN
+increases_,
+in_IN
+the_DT
+whole_JJ
+world_NN
+and_CC
+it_PRP
+is_VBZ
+becoming_DT
+essential_JJ
+in_IN
+everybody_NN
+'s_POS
+life_NN
+._.
+
+In_IN
+my_PRP$
+daily_JJ
+life_NN
+I_PRP
+can_MD
+save_VB
+time_NN
+,_,
+but_CC
+I_PRP
+think_VBP
+every_DT
+body_NN
+should_MD
+use_VB
+his_PRP$
+saved_JJ
+time_NN
+for_IN
+things_NNS
+like_IN
+hiking_NNP
+,_,
+walking_RB
+,_,
+swimming_RB
+,_,
+for_IN
+a_DT
+"_JJ
+natural_JJ
+life_NN
+"_,
+and_CC
+not_RB
+for_IN
+a_DT
+life_NN
+in_IN
+a_DT
+technical_JJ
+world_NN
+with_IN
+stress_NN
+and_CC
+sorrows_RB
+because_IN
+we_PRP
+are_VBP
+humans_NNS
+and_CC
+not_RB
+robots_.
+._.
+
+I_PRP
+'m_VBP
+excited_VBN
+to_TO
+go_VB
+on_IN
+holliday_PRP
+there_RB
+and_CC
+thanks_VBD
+to_TO
+you_PRP
+,_,
+I_PRP
+will_MD
+realize_VB
+a_DT
+dream_NN
+that_IN
+I_PRP
+always_RB
+wanted_VBN
+to_TO
+do_VB
+._.
+
+I_PRP
+'ll_MD
+tell_VB
+you_PRP
+two_CD
+activities_NNS
+I_PRP
+chose_.
+._.
+
+It_PRP
+has_VBZ
+abosolutly_RB
+reduced_VBN
+women_PRP
+'s_VBZ
+our_PRP$
+house_NN
+working_VBG
+time_NN
+._.
+
+We_PRP
+do_VBP
+n't_RB
+have_VB
+old-traditioned_VBN
+rules_,
+or_CC
+something_NN
+alike_.
+._.
+
+Last_NNP
+week_,
+I_PRP
+spent_VBD
+my_PRP$
+holiday_NNS
+in_IN
+London_NNP
+and_CC
+I_PRP
+'ve_VBP
+seen_VBN
+your_PRP$
+musical_JJ
+"_NNS
+Over_IN
+the_DT
+rainbow_NN
+'_''
+in_IN
+the_DT
+Circle_NN
+Theatre_,
+and_CC
+I_PRP
+was_VBD
+really_RB
+disappointed_VBN
+._.
+
+Answering_PRP
+on_IN
+our_PRP$
+first_JJ
+question_NN
+about_IN
+where_WRB
+would_MD
+I_PRP
+prefer_VBP
+to_TO
+sleep_VB
+,_,
+I_PRP
+prefer_VBP
+tents_VBN
+because_IN
+it_PRP
+is_VBZ
+closer_VBN
+to_TO
+nature_NN
+and_CC
+I_PRP
+like_VBP
+sleepping_VBN
+in_IN
+sleepping_NNP
+bags_''
+(_(
+=_FW
+BV_FW
+bags_FW
+)_)
+._.
+
+I_PRP
+know_VBP
+you_PRP
+have_VBP
+a_DT
+good_JJ
+taste_NN
+in_IN
+presents_NN
+!_.
+
+So_RB
+all_PDT
+the_DT
+fashion_NN
+industry_WDT
+will_MD
+work_VB
+to_TO
+make_VB
+clothes_RB
+more_RBR
+useful_JJ
+,_,
+practical_JJ
+and_CC
+comfortable_JJ
+._.
+
+In_IN
+reference_NN
+about_IN
+the_DT
+date_NN
+of_IN
+the_DT
+travel_NN
+,_,
+I_PRP
+would_MD
+like_VB
+to_TO
+travel_VB
+in_IN
+July_NN
+because_IN
+at_IN
+the_DT
+moment_NN
+I_PRP
+am_VBP
+working_VBG
+at_IN
+the_DT
+University_NN
+and_CC
+I_PRP
+only_RB
+have_VB
+July_VBN
+to_TO
+take_VB
+my_PRP$
+holidays_NNS
+._.
+
+I_PRP
+'m_VBP
+sure_VBN
+that_IN
+if_IN
+you_PRP
+listen_VB
+to_TO
+it_PRP
+you_PRP
+will_MD
+start_VB
+reading_IN
+the_DT
+book_NN
+immediately_RB
+,_,
+and_CC
+find_VBP
+out_RB
+there_RB
+many_JJ
+challenges_NNS
+for_IN
+your_PRP$
+new_JJ
+carreer_.
+._.
+
+Also_RB
+,_,
+due_JJ
+to_TO
+global_VB
+warming_VBN
+,_,
+sea_NN
+levels_NNS
+might_MD
+rise_VB
+and_CC
+risk_NN
+of_IN
+flooding_PRP
+will_MD
+also_RB
+rise_.
+._.
+
+Modern_JJ
+technology_NN
+has_VBZ
+changed_VBN
+a_DT
+lot_NN
+our_PRP$
+daily_JJ
+life_NN
+._.
+
+So_RB
+I_PRP
+would_MD
+like_VB
+to_TO
+travel_VB
+on_IN
+July_NN
+._.
+
+It_PRP
+was_VBD
+the_DT
+only_JJ
+disappointment_NNS
+during_IN
+my_PRP$
+holiday_NNS
+in_IN
+London_NNP
+,_,
+since_IN
+several_JJ
+points_NNS
+did_VBD
+n't_RB
+worked_VBD
+out_RB
+as_RB
+promised_VBD
+in_IN
+your_PRP$
+advertisement_NNS
+._.
+
+First_RB
+of_IN
+all_DT
+,_,
+I_PRP
+congratulate_VBD
+you_PRP
+on_IN
+making_VBG
+this_DT
+kind_NN
+of_IN
+event_NN
+._.
+
+The_DT
+activities_NNS
+are_VBP
+quite_RB
+hard_JJ
+to_TO
+choose_VB
+really_RB
+,_,
+because_IN
+you_PRP
+have_VBP
+a_DT
+lot_NN
+of_IN
+chose_NNS
+which_WDT
+is_VBZ
+I_PRP
+like_VBP
+._.
+
+Because_RB
+human_JJ
+high_JJ
+wo_NNS
+n't_RB
+change_VB
+so_RB
+much_RB
+,_,
+unless_CC
+10000_JJ
+years_NNS
+passed_.
+._.
+
+After_IN
+I_PRP
+waited_VBD
+for_IN
+about_IN
+45_PRP$
+minutes_NNS
+the_DT
+show_NN
+suddenly_RB
+started_VBN
+but_CC
+I_PRP
+had_VBD
+to_TO
+realize_VB
+that_IN
+the_DT
+main_JJ
+actor_FW
+Danny_FW
+Brook_FW
+,_,
+who_WP
+was_VBD
+the_DT
+reason_NN
+why_WRB
+I_PRP
+went_VBD
+into_IN
+the_DT
+show_NN
+had_VBD
+been_VBN
+traded_VBN
+by_IN
+an_DT
+other_JJ
+actor_NNS
+,_,
+who_WP
+could_MD
+n't_RB
+sing_VB
+as_IN
+half_NN
+as_IN
+good_JJ
+then_RB
+Brook_.
+._.
+
+That_DT
+was_VBD
+a_DT
+pop_JJ
+concert_NN
+with_IN
+lots_NN
+of_IN
+famous_JJ
+singers_NNS
+like_IN
+Madona_NNP
+,_,
+Julio_CC
+Iglesias_NNP
+,_,
+and_CC
+people_NNS
+like_IN
+them_PRP
+
+I_PRP
+decided_VBD
+to_TO
+go_VB
+to_TO
+see_VB
+this_DT
+show_NN
+because_IN
+of_IN
+its_PRP$
+starrings_NNS
+,_,
+but_CC
+at_IN
+the_DT
+day_NN
+I_PRP
+saw_VBD
+it_PRP
+,_,
+a_DT
+different_JJ
+actor_.
+played_.
+._.
+
+I_PRP
+'ve_VBP
+just_RB
+helped_VBD
+for_IN
+staff_NN
+._.
+
+What_WP
+are_VBP
+you_PRP
+dong_VBD
+today_NN
+,_,
+how_WRB
+is_VBZ
+your_PRP$
+school_NN
+?_.
+
+Or_CC
+would_MD
+be_VB
+our_PRP$
+house_NN
+itself_PRP
+alive_.
+?_.
+
+Finally_RB
+,_,
+I_PRP
+am_VBP
+writing_VBG
+to_TO
+request_VB
+a_DT
+full-refund_NN
+for_IN
+my_PRP$
+friends_NNS
+and_CC
+I_PRP
+,_,
+because_IN
+I_PRP
+felt_VBD
+your_PRP$
+advertisement_NNS
+was_VBD
+misleading_.
+._.
+
+But_CC
+last_JJ
+week_,
+we_PRP
+have_VBP
+seen_VBN
+an_DT
+advertisement_NN
+for_IN
+the_DT
+London_NNP
+Fashion_,
+and_CC
+Leisure_NN
+Show_.
+._.
+
+I_PRP
+was_VBD
+very_RB
+please_VBN
+to_TO
+receive_VB
+your_PRP$
+letter_NN
+._.
+
+They_PRP
+have_VBP
+everything_NN
+they_PRP
+want_VBP
+very_RB
+easily_RB
+and_CC
+it_PRP
+is_VBZ
+not_RB
+good_JJ
+for_IN
+their_PRP$
+future_NN
+._.
+
+Everyone_PRP
+likes_VBZ
+sale_RB
+,_,
+but_CC
+those_DT
+so-called_NN
+sale_,
+items_PRP
+are_VBP
+not_RB
+really_RB
+of_IN
+value_NN
+._.
+
+But_CC
+this_DT
+was_VBD
+also_RB
+the_DT
+moment_NN
+when_WRB
+my_PRP$
+nightmare_NNS
+started_VBD
+to_TO
+come_VB
+alive_JJ
+._.
+
+However_RB
+,_,
+we_PRP
+would_MD
+like_VB
+to_TO
+suggest_VB
+you_PRP
+something_NN
+:_:
+
+Before_PRP
+that_IN
+you_PRP
+have_VBP
+to_TO
+think_VB
+why_WRB
+you_PRP
+need_VBP
+to_TO
+earn_VB
+money_NN
+and_CC
+how_WRB
+you_PRP
+do_VBP
+that_IN
+._.
+
+Suddenly_RB
+,_,
+my_PRP$
+father_NN
+realised_,
+he_PRP
+forgot_VBD
+to_TO
+close_VB
+the_DT
+car_NN
+._.
+
+After_NNP
+,_,
+student_NN
+is_VBZ
+making_VBG
+speech_NN
+about_IN
+what_WP
+he_PRP
+or_CC
+she_PRP
+have_VBP
+learned_VBN
+._.
+
+And_CC
+is_VBZ
+it_PRP
+also_RB
+allowed_VBN
+to_TO
+bring_VB
+my_PRP$
+dog_NN
+with_IN
+?_.
+
+Well_UH
+,_,
+I_PRP
+'m_VBP
+also_RB
+bothered_VBN
+about_IN
+what_WP
+'s_VBZ
+going_VBG
+on_IN
+around_IN
+me_PRP
+but_CC
+why_PRP
+did_VBD
+you_PRP
+forget_VBD
+about_IN
+newspapers_NN
+?_.
+
+According_VBG
+to_TO
+your_PRP$
+advertisement_NNS
+,_,
+it_PRP
+stars_MD
+Danny_VB
+Brook_VBN
+and_CC
+Tina_NNP
+Truelove_NNP
+,_,
+but_CC
+surprisinggly_NNP
+,_,
+it_PRP
+was_VBD
+proformed_VBN
+by_IN
+a_DT
+different_JJ
+actor_NNS
+who_WP
+I_PRP
+even_RB
+did_VBD
+n't_RB
+know_VB
+the_DT
+name_NN
+._.
+
+First_RB
+of_IN
+all_DT
+,_,
+I_PRP
+would_MD
+like_VB
+to_TO
+travel_VB
+in_IN
+July_NN
+because_IN
+I_PRP
+can_MD
+apply_VB
+my_PRP$
+holiday_NNS
+only_RB
+in_IN
+July_NN
+._.
+
+However_RB
+,_,
+I_PRP
+manage_VBD
+to_TO
+listen_VB
+the_DT
+music_NN
+and_CC
+I_PRP
+must_MD
+admit_VB
+that_IN
+I_PRP
+liked_VBD
+it_PRP
+._.
+
+I_PRP
+would_MD
+be_VB
+choose_IN
+a_DT
+month_NN
+July_''
+,_,
+because_IN
+I_PRP
+'m_VBP
+free_JJ
+in_IN
+this_DT
+time_NN
+from_IN
+family_NN
+'s_POS
+duties_NNS
+._.
+
+What_WP
+made_VBD
+things_NNS
+even_RB
+worse_PRP
+was_VBD
+that_IN
+the_DT
+leading_JJ
+actor_TO
+Danny_VB
+Brook_PRP
+did_VBD
+not_RB
+appear_VB
+at_IN
+the_DT
+stage_NN
+at_IN
+all_DT
+._.
+
+You_PRP
+advertised_VBD
+for_IN
+my_PRP$
+perfect_JJ
+evening_NN
+out_.
+._.
+
+I_PRP
+was_VBD
+starting_TO
+trainning_VB
+since_IN
+1996_NNP
+,_,
+and_CC
+I_PRP
+have_VBP
+never_RB
+give_VB
+it_PRP
+up_RB
+._.
+
+He_PRP
+cured_VBD
+the_DT
+bird_NN
+to_TO
+fly_VB
+with_IN
+love_NN
+,_,
+and_CC
+the_DT
+bird_NN
+was_VBD
+able_JJ
+to_TO
+fly_VB
+._.
+
+In_IN
+my_PRP$
+home_NN
+,_,
+the_DT
+only_JJ
+things_NNS
+I_PRP
+am_VBP
+not_RB
+allowed_VBN
+to_TO
+do_VB
+are_VBP
+things_NNS
+which_WDT
+can_MD
+disturbe_VB
+my_PRP$
+familly_NNS
+._.
+
+It_PRP
+was_VBD
+about_IN
+Marine_NNP
+,_,
+who_WP
+was_VBD
+our_PRP$
+clase_JJ
+friends_NNS
+._.
+
+Firstly_NNP
+,_,
+Palace_CC
+Hotel_NNP
+has_VBZ
+been_VBN
+booked_VBN
+into_IN
+for_IN
+the_DT
+group_NN
+accomodation_,
+and_CC
+I_PRP
+spoke_VBD
+with_IN
+the_DT
+hotel_NN
+manager_,
+for_IN
+traveling_VBG
+to_TO
+the_DT
+conference_NN
+._.
+
+You_PRP
+ask_VBP
+me_PRP
+for_IN
+some_DT
+informations_NN
+-_:
+here_RB
+they_PRP
+are_VBP
+._.
+
+We_PRP
+regard_VB
+that_IN
+the_DT
+show_NN
+might_MD
+be_VB
+great_JJ
+opportunity_NN
+for_IN
+the_DT
+most_RBS
+of_IN
+us_PRP
+who_WP
+are_VBP
+interested_VBN
+in_IN
+fashion_NN
+and_CC
+leisure_NN
+._.
+
+Bye_PRP
+and_CC
+think_VB
+on_IN
+this_DT
+._.
+
+houses_NNS
+only_RB
+will_MD
+be_VB
+more_RBR
+moderne_JJ
+and_CC
+more_RBR
+practique_JJ
+but_CC
+not_RB
+very_RB
+different_JJ
+from_IN
+our_PRP$
+home_NN
+in_IN
+the_DT
+present_NN
+._.
+
+But_CC
+they_PRP
+do_VBP
+n't_RB
+consider_VB
+the_DT
+problems_NNS
+the_DT
+romours_NN
+may_MD
+bring_VB
+to_TO
+the_DT
+famous_JJ
+family_NN
+or_CC
+couple_NN
+._.
+
+I_PRP
+just_RB
+15_CD
+years_NNS
+old_.
+._.
+
+But_CC
+on_IN
+the_DT
+other_JJ
+hand_NN
+,_,
+technology_NNP
+'s_POS
+products_NNS
+are_VBP
+sometimes_RB
+cheap_,
+and_CC
+I_PRP
+ca_MD
+n't_RB
+afford_VB
+it_PRP
+._.
+
+therefore_RB
+,_,
+I_PRP
+would_MD
+suggest_VB
+going_VBG
+to_TO
+the_DT
+frogs_JJ
+museum_NN
+which_WDT
+is_VBZ
+really_RB
+fashinating_.
+._.
+
+Modern_JJ
+technology_NN
+has_VBZ
+brought_VBN
+many_JJ
+discoveries_NNS
+which_WDT
+have_VBP
+made_VBN
+our_PRP$
+daily_JJ
+lives_NNS
+much_RB
+easier_.
+._.
+
+Pat_PRP
+and_CC
+Scala_PRP
+have_VBP
+been_VBN
+good_JJ
+friends_NNS
+for_IN
+10_PRP$
+years_NNS
+,_,
+their_PRP$
+husband_NN
+too_RB
+._.
+
+By_IN
+problems_NNS
+I_PRP
+mean_VBP
+,_,
+that_IN
+the_DT
+show_NN
+started_VBD
+at_IN
+20.15_NN
+and_CC
+not_RB
+at_IN
+19:30_NN
+or_CC
+why_PRP
+were_VBD
+no_DT
+discounts_NN
+avaivable_.
+?_.
+
+Secondly_NNP
+,_,
+I_PRP
+suppose_VBP
+the_DT
+show_NN
+will_MD
+start_VB
+at_IN
+19:30_NNP
+,_,
+but_CC
+it_PRP
+started_VBD
+t_.
+20:15_.
+._.
+
+Sometime_WRB
+I_PRP
+stay_VBP
+alone_RB
+all_PDT
+the_DT
+day_NN
+but_CC
+I_PRP
+have_VBP
+contacts_VBN
+with_IN
+many_JJ
+people_NNS
+._.
+
+Anyway_NNP
+,_,
+what_WP
+you_PRP
+wanted_VBD
+to_TO
+know_VB
+was_VBD
+what_WP
+has_VBZ
+been_VBN
+my_PRP$
+job_NN
+._.
+
+It_PRP
+is_VBZ
+a_DT
+dream_NN
+becames_IN
+true_JJ
+and_CC
+was_VBD
+really_RB
+unexpected_VBN
+for_IN
+me_PRP
+!_.
+
+What_WP
+a_DT
+fool_NN
+was_VBD
+I_PRP
+._.
+
+I_PRP
+am_VBP
+very_RB
+happy_JJ
+for_IN
+the_DT
+news_NN
+._.
+
+-_IN
+Some_DT
+sequences_NNS
+of_IN
+the_DT
+gym-lesson_NN
+should_MD
+conclude_VB
+the_DT
+part_NN
+of_IN
+the_DT
+film_NN
+showing_IN
+the_DT
+children_NNS
+at_IN
+work_NN
+,_,
+but_CC
+there_EX
+should_MD
+follow_VB
+another_DT
+short_JJ
+part_NN
+that_WDT
+presents_VBZ
+how_WRB
+children_NNS
+have_VBP
+their_PRP$
+lunch_NN
+and_CC
+spend_VB
+their_PRP$
+free-time_NNS
+,_,
+what_WP
+games_VBP
+they_PRP
+play_VBP
+in_IN
+the_DT
+school-yard_NN
+and_CC
+how_WRB
+they_PRP
+have_VBP
+contact_NN
+with_IN
+each_DT
+other_JJ
+._.
+
+Maria_PRP
+was_VBD
+nervous_RB
+,_,
+but_CC
+for_IN
+the_DT
+first_JJ
+time_NN
+,_,
+she_PRP
+could_MD
+talk_VB
+to_TO
+him_PRP
+as_IN
+she_PRP
+never_RB
+did_VBD
+before_IN
+,_,
+and_CC
+at_IN
+the_DT
+end_NN
+of_IN
+the_DT
+day_NN
+,_,
+she_PRP
+was_VBD
+the_DT
+happiest_JJ
+person_NN
+of_IN
+the_DT
+world_NN
+,_,
+she_PRP
+gave_VBD
+her_PRP$
+first_JJ
+kiss_NNS
+and_CC
+she_PRP
+had_VBD
+Pat_PRP
+'s_VBZ
+friendship_RB
+back_RB
+,_,
+after_IN
+all_DT
+,_,
+everything_NN
+happened_VBD
+because_IN
+of_IN
+her_PRP
+._.
+
+Furthermore_NNP
+,_,
+this_DT
+party_NN
+would_MD
+be_VB
+in_IN
+your_PRP$
+hotel_NN
+like_IN
+the_DT
+following_JJ
+years_NNS
+._.
+
+I_PRP
+'m_VBP
+very_RB
+keen_VBN
+on_IN
+photography_NNP
+,_,
+especially_RB
+while_IN
+I_PRP
+'m_VBP
+staying_VBN
+in_IN
+Sates_NN
+._.
+
+Two_CD
+days_NNS
+ago_RB
+her_PRP$
+best_JJS
+friend_NN
+Maria_VBZ
+told_VBN
+her_PRP
+that_IN
+her_PRP$
+parents_NNS
+were_VBD
+going_VBG
+to_TO
+devorce_VB
+,_,
+Maria_PRP
+was_VBD
+so_RB
+upset_VBN
+that_IN
+she_PRP
+could_MD
+n't_RB
+keep_VB
+it_PRP
+herself_.
+._.
+
+It_PRP
+is_VBZ
+more_RBR
+confortable_JJ
+and_CC
+I_PRP
+am_VBP
+afraid_JJ
+about_IN
+wild_NN
+animals_.
+._.
+
+I_PRP
+have_VBP
+already_RB
+,_,
+saw_VBD
+others_NNS
+versions_,
+of_IN
+this_DT
+musical_JJ
+and_CC
+Danny_WRB
+Brook_PRP
+is_VBZ
+a_DT
+bad_JJ
+actor_NNS
+,_,
+who_WP
+ended_VBD
+with_IN
+the_DT
+musical_JJ
+._.
+
+In_IN
+the_DT
+conclusion_NN
+of_IN
+my_PRP$
+report_NN
+I_PRP
+would_MD
+like_VB
+to_TO
+say_VB
+that_IN
+the_DT
+suggestions_NNS
+were_VBD
+made_VBN
+according_VBG
+to_TO
+the_DT
+survey_NN
+made_VBN
+among_IN
+the_DT
+students_NNS
+of_IN
+our_PRP$
+school_NN
+._.
+
+At_IN
+the_DT
+end_NN
+of_IN
+the_DT
+conference_NN
+there_EX
+will_MD
+be_VB
+reseption_VBN
+at_IN
+the_DT
+hotel_NN
+._.
+
+I_PRP
+would_MD
+like_VB
+to_TO
+travel_VB
+in_IN
+July_NN
+because_IN
+I_PRP
+have_VBP
+got_DT
+summer_NN
+holidays_,
+from_IN
+July_VBG
+to_TO
+August_NNP
+and_CC
+I_PRP
+work_VBP
+as_IN
+a_DT
+bank_JJ
+clerk_NN
+in_IN
+August_NNP
+._.
+
+It_PRP
+was_VBD
+very_RB
+well_RB
+organised_RB
+,_,
+the_DT
+shows_NN
+started_VBD
+in_IN
+the_DT
+exactly_JJ
+time_NN
+and_CC
+the_DT
+group_NN
+were_VBD
+well_RB
+performed_VBN
+too_RB
+._.
+
+We_PRP
+can_MD
+need_VB
+our_PRP$
+imagination_NN
+for_IN
+answering_VBG
+these_DT
+questions_NNS
+but_CC
+we_PRP
+will_MD
+never_RB
+know_VB
+the_DT
+right_JJ
+answer_NN
+._.
+
+In_IN
+fact_NN
+I_PRP
+have_VBP
+been_VBN
+playing_VBG
+the_DT
+piano_NN
+for_IN
+children_NNS
+'s_POS
+choir_NN
+for_IN
+5_PRP$
+years_NNS
+._.
+
+it_PRP
+is_VBZ
+fantastic_JJ
+._.
+
+just_RB
+as_IN
+example_NN
+,_,
+internet_CC
+gets_JJ
+hundreds_NNS
+of_IN
+new_JJ
+users_IN
+every_DT
+single_JJ
+day_NN
+._.
+
+I_PRP
+just_RB
+had_VBD
+no_DT
+possibility_NN
+to_TO
+meet_VB
+them_PRP
+after_IN
+school_NN
+,_,
+because_IN
+I_PRP
+had_VBD
+no_DT
+vehicle_NN
+to_TO
+get_VB
+there_RB
+._.
+
+I_PRP
+stood_VBD
+up_RB
+in_IN
+front_NN
+of_IN
+audiences_NN
+and_CC
+I_PRP
+had_VBD
+given_VBN
+an_DT
+attention_NN
+to_TO
+them_PRP
+._.
+
+What_WP
+are_VBP
+you_PRP
+mistaken_VBD
+us_PRP
+for_IN
+,_,
+Mr_PRP
+Smith_.
+?_.
+
+In_IN
+addition_NN
+to_TO
+these_DT
+,_,
+I_PRP
+can_MD
+contact_VB
+to_TO
+anyone_VB
+who_WP
+I_PRP
+want_VBP
+to_TO
+talk_VB
+at_IN
+any_DT
+convenient_JJ
+time_NN
+in_IN
+case_NN
+I_PRP
+need_VBP
+him_PRP
+or_CC
+her_PRP
+,_,
+or_CC
+I_PRP
+am_VBP
+needed_VBN
+._.
+
+Firstly_NNP
+,_,
+it_PRP
+'s_VBZ
+written_VBN
+that_IN
+it_PRP
+will_MD
+be_VB
+played_VBN
+by_IN
+Danny_DT
+Brook_NN
+,_,
+but_CC
+in_IN
+fact_NN
+it_PRP
+was_VBD
+n't_RB
+._.
+
+Firstly_NNP
+,_,
+I_PRP
+want_VBP
+to_TO
+say_VB
+it_PRP
+is_VBZ
+a_DT
+great_JJ
+idea_NN
+to_TO
+have_VB
+this_DT
+international_JJ
+arts_NNS
+festival_''
+,_,
+
+The_DT
+next_JJ
+day_NN
+Mr_IN
+White_NNP
+was_VBD
+charged_VBN
+for_IN
+abuses_NN
+and_CC
+obliged_VBD
+to_TO
+resign_VB
+._.
+
+Secondly_NNP
+,_,
+I_PRP
+will_MD
+like_VB
+to_TO
+tell_VB
+you_PRP
+that_IN
+I_PRP
+can_MD
+only_RB
+travel_VBP
+in_IN
+July_NN
+because_IN
+in_IN
+June_WDT
+I_PRP
+have_VBP
+to_TO
+take_VB
+my_PRP$
+final_JJ
+exams_NNS
+at_IN
+school_NN
+._.
+
+It_PRP
+means_VBZ
+buying_TO
+whatever_VB
+we_PRP
+like_VBP
+,_,
+just_RB
+like_IN
+clothes_NNP
+,_,
+records_VBZ
+,_,
+rings_RB
+,_,
+and_CC
+books_NNS
+._.
+
+I_PRP
+never_RB
+stayed_VBD
+out_RB
+after_IN
+dark_JJ
+today_NN
+except_IN
+accompanying_NN
+by_IN
+my_PRP$
+family_NN
+._.
+
+Of_IN
+course_NN
+,_,
+I_PRP
+could_MD
+listen_VB
+to_TO
+all_DT
+their_PRP$
+music_NN
+which_WDT
+were_VBD
+so_RB
+cool_JJ
+._.
+
+You_PRP
+choose_VBP
+Larry_RB
+,_,
+but_CC
+I_PRP
+thought_VBD
+that_IN
+I_PRP
+was_VBD
+your_PRP$
+best_JJS
+friend_NN
+._.
+"_.
+
+The_DT
+place_NN
+we_PRP
+worked_VBD
+was_VBD
+a_DT
+football_JJ
+pitch_NN
+;_:
+we_PRP
+spent_VBD
+3_CD
+days_NNS
+on_IN
+setting_NN
+up_IN
+the_DT
+stage_NN
+,_,
+the_DT
+equitment_NN
+,_,
+and_CC
+the_DT
+lights_NNS
+._.
+
+Another_DT
+point_NN
+is_VBZ
+that_IN
+the_DT
+discounts_NN
+was_VBD
+n't_RB
+available_JJ
+although_IN
+I_PRP
+could_MD
+red_VB
+it_PRP
+before_IN
+at_IN
+your_PRP$
+notice_NNS
+._.
+
+How_WRB
+could_MD
+you_PRP
+change_VBP
+the_DT
+actors_NN
+without_IN
+saying_VBG
+something_NN
+to_TO
+the_DT
+visitors_NN
+._.
+
+According_VBG
+to_TO
+all_DT
+this_NN
+,_,
+what_WP
+was_VBD
+supposed_VBN
+to_TO
+be_VB
+one_PRP
+of_IN
+my_PRP$
+best_JJS
+nights_NNS
+turned_VBD
+out_RB
+to_TO
+be_VB
+definatly_DT
+one_NN
+of_IN
+the_DT
+worsts_NN
+._.
+
+Some_DT
+people_NNS
+are_VBP
+in_IN
+a_DT
+hurry_JJ
+other_JJ
+are_VBP
+agressive_VBN
+and_CC
+most_RB
+of_IN
+the_DT
+other_JJ
+are_VBP
+very_RB
+stressed_.
+._.
+
+I_PRP
+am_VBP
+not_RB
+very_RB
+good_JJ
+painting_NN
+,_,
+but_CC
+I_PRP
+like_IN
+it_PRP
+because_RB
+is_VBZ
+a_DT
+good_JJ
+oportunity_NN
+to_TO
+practice_VB
+it_PRP
+._.
+
+infact_PRP
+all_PDT
+the_DT
+viewers_NN
+where_WRB
+very_RB
+dissappointed_.
+._.
+
+That_DT
+is_VBZ
+the_DT
+question_NN
+,_,
+which_WDT
+many_JJ
+people_NNS
+ask_VBP
+themselves_PRP
+and_CC
+other_JJ
+people_NNS
+quite_RB
+often_RB
+._.
+
+Pat_PRP
+was_VBD
+not_RB
+a_DT
+very_JJ
+clever_NNS
+teen-ager_,
+and_CC
+while_IN
+she_PRP
+was_VBD
+attending_IN
+the_DT
+Secondary_NN
+School_,
+she_PRP
+had_VBD
+many_JJ
+troubles_NNS
+with_IN
+Chemistry_NN
+._.
+
+And_CC
+checking_VB
+his_PRP$
+body_NN
+condition_.
+._.
+
+I_PRP
+am_VBP
+writing_VBG
+to_TO
+give_VB
+you_PRP
+my_PRP$
+details_NNS
+and_CC
+ask_VB
+some_DT
+more_JJR
+information_NN
+._.
+
+I_PRP
+hope_VB
+I_PRP
+'ve_VBP
+answered_VBN
+all_DT
+you_JJ
+questions_NNS
+and_CC
+I_PRP
+would_MD
+be_VB
+please_VBN
+if_IN
+mine_NN
+could_MD
+also_RB
+be_VB
+answered_VBN
+._.
+
+Then_RB
+,_,
+the_DT
+show_NN
+started_VBD
+t_VBN
+20.15_TO
+pm_VB
+instead_RB
+of_IN
+19.30_NN
+._.
+
+When_WRB
+he_PRP
+come_VBP
+back_JJ
+home_NN
+,_,
+he_PRP
+was_VBD
+surprise_VBN
+because_IN
+Maria_PRP
+was_VBD
+more_RBR
+angry_JJ
+than_IN
+before_NN
+._.
+
+It_PRP
+is_VBZ
+a_DT
+show_NN
+about_IN
+latest_DT
+fashions_NN
+,_,
+leisure_NN
+and_CC
+sports_NNS
+wear_VBP
+,_,
+make_VBP
+up_RB
+and_CC
+hairstyles_NN
+._.
+
+The_DT
+second_JJ
+one_NN
+is_VBZ
+more_RBR
+a_DT
+hobby_NN
+._.
+
+Have_WRB
+you_PRP
+ever_RB
+thought_VBN
+about_IN
+a_DT
+world_NN
+without_IN
+phone_NN
+?_.
+
+But_CC
+the_DT
+most_RBS
+important_JJ
+things_NNS
+to_TO
+enjoy_VB
+shopping_PRP
+is_VBZ
+not_RB
+to_TO
+use_VB
+every_DT
+money_NN
+which_WDT
+you_PRP
+have_VBP
+._.
+
+I_PRP
+was_VBD
+really_RB
+happy_,
+when_WRB
+your_PRP$
+letter_NN
+arrived_,
+and_CC
+I_PRP
+node_VBD
+that_IN
+I_PRP
+won_VBD
+the_DT
+first_JJ
+prize_NNS
+in_IN
+your_PRP$
+competition_NN
+._.
+
+We_PRP
+live_VBP
+in_IN
+a_DT
+small_JJ
+and_CC
+old_JJ
+fashioned_JJ
+town_NN
+and_CC
+Mr._NNP
+White_NNP
+was_VBD
+considered_VBN
+a_DT
+monster_NN
+:_:
+loosing_:
+his_PRP$
+job_NN
+was_VBD
+hard_RB
+for_IN
+him_PRP
+,_,
+but_CC
+even_RB
+harder_PRP
+was_VBD
+the_DT
+loss_NN
+of_IN
+his_PRP$
+beloved_JJ
+pupils_NNS
+who_WP
+were_VBD
+not_RB
+allowed_VBN
+to_TO
+meet_VB
+him_PRP
+;_:
+so_RB
+,_,
+on_IN
+a_DT
+bright_JJ
+summer_NN
+day_NN
+he_PRP
+took_VBD
+his_PRP$
+final_JJ
+decision_NN
+and_CC
+died_VBD
+terrified_VBN
+by_IN
+the_DT
+darkness_NN
+which_WDT
+was_VBD
+nearing_.
+._.
+
+One_PRP
+of_IN
+them_PRP
+was_VBD
+about_IN
+her_PRP$
+boss_NNP
+'_POS
+private_JJ
+life_NN
+:_:
+he_PRP
+had_VBD
+got_.
+illegal_.
+son_.
+._.
+
+When_WRB
+the_DT
+light_NN
+was_VBD
+turned_VBN
+on_IN
+again_RB
+,_,
+I_PRP
+realised_VBD
+how_WRB
+important_JJ
+even_RB
+a_DT
+single_JJ
+light_NN
+bulb_WDT
+would_MD
+be_VB
+,_,
+and_CC
+I_PRP
+was_VBD
+sure_VBN
+I_PRP
+can_MD
+never_RB
+,_,
+ever_RB
+live_VB
+without_IN
+it_PRP
+._.
+
+"_NNP
+X_NNP
+"_NNP
+is_VBZ
+the_DT
+musician_NN
+who_WP
+sang_VBD
+songs_VBN
+at_IN
+a_DT
+pop_JJ
+concert_NN
+._.
+
+I_PRP
+really_RB
+enjoyed_VBD
+it_PRP
+because_IN
+I_PRP
+learnt_VBD
+a_DT
+lot_NN
+of_IN
+tecnical_PRP$
+things_NNS
+I_PRP
+did_VBD
+n't_RB
+know_VB
+;_:
+and_CC
+what_WP
+I_PRP
+also_RB
+enjoyed_PRP
+was_VBD
+the_DT
+good_JJ
+pay_.
+!_.
+
+A_DT
+different_JJ
+actor_NNS
+acted_VBN
+in_IN
+stead_NN
+of_IN
+him_PRP
+._.
+
+Then_RB
+I_PRP
+had_VBD
+pleasure_NN
+listening_VBZ
+to_TO
+your_PRP$
+variety_NN
+of_IN
+concerts_NNS
+._.
+
+They_PRP
+gona_MD
+show_VB
+a_DT
+latest_JJS
+fashion_NN
+,_,
+leisure_NN
+and_CC
+sports_NNS
+wear_VBP
+,_,
+make_VBP
+up_RB
+and_CC
+new_JJ
+hairstyles_.
+._.
+
+On_IN
+5th_NN
+of_IN
+May_NNP
+which_WDT
+was_VBD
+national_JJ
+holiday_NNS
+in_IN
+Japan_NNP
+,_,
+I_PRP
+had_VBD
+a_DT
+part-time_JJ
+work_NN
+at_IN
+a_DT
+pop_JJ
+concert_NN
+in_IN
+the_DT
+Tokyo_NN
+Dome_.
+._.
+
+Despite_IN
+this_DT
+shopping_JJ
+culture_NN
+,_,
+shopping_PRP
+is_VBZ
+not_RB
+always_RB
+enjoyable_RB
+,_,
+
+I_PRP
+am_VBP
+really_RB
+proud_JJ
+to_TO
+be_VB
+the_DT
+winner_NN
+of_IN
+your_PRP$
+competition_NN
+and_CC
+I_PRP
+would_MD
+like_VB
+to_TO
+express_VB
+my_PRP$
+satisfaction_NN
+for_IN
+your_PRP$
+perfect_JJ
+organisation_.
+._.
+
+How_PRP
+has_VBZ
+modern_JJ
+technology_TO
+change_VB
+your_PRP$
+daily_JJ
+life_NN
+?_.
+
+It_PRP
+is_VBZ
+really_RB
+good_JJ
+programme_NNS
+,_,
+especially_RB
+visiting_VBG
+Science_DT
+Museum_NNP
+and_CC
+National_JJ
+Art_NNS
+Gallery_WDT
+would_MD
+be_VB
+great_JJ
+opportunity_NN
+to_TO
+learn_VB
+about_IN
+art_NN
+and_CC
+latest_RB
+improvements_VBN
+in_IN
+science_NN
+._.
+
+The_DT
+cities_NNS
+are_VBP
+the_DT
+main_JJ
+commercial_JJ
+centre_NNS
+,_,
+our_PRP$
+streets_NNS
+are_VBP
+full_JJ
+of_IN
+billboard_NNP
+advertising_POS
+many_JJ
+things_NNS
+and_.
+._.
+
+She_PRP
+told_VBD
+to_TO
+Pat_VB
+that_IN
+she_PRP
+did_VBD
+n't_RB
+want_VBP
+other_JJ
+people_NNS
+know_VBP
+it_PRP
+except_IN
+her_PRP
+._.
+
+It_PRP
+is_VBZ
+popular_JJ
+by_IN
+the_DT
+students_NNS
+._.
+
+She_PRP
+then_RB
+gives_VBZ
+letters_VBN
+to_TO
+her_PRP$
+husband_NN
+'s_POS
+lawyer_NN
+that_WDT
+seem_VBP
+to_TO
+prove_VB
+that_IN
+she_PRP
+has_VBZ
+been_VBN
+unfaithful_VBN
+to_TO
+him_PRP
+and_CC
+that_IN
+she_PRP
+tries_VBZ
+to_TO
+get_VB
+rid_VBN
+of_IN
+him_PRP
+with_IN
+the_DT
+help_NN
+of_IN
+false_JJ
+accusations_.
+._.
+
+What_WP
+else_RB
+,_,
+unless_WRB
+they_PRP
+pass_VB
+the_DT
+exam_NN
+they_PRP
+have_VBP
+to_TO
+get_VB
+extra_DT
+lesson_NN
+or_CC
+test_NN
+._.
+
+Secondly_NNP
+,_,
+I_PRP
+would_MD
+like_VB
+to_TO
+stay_VB
+in_IN
+tents_NNS
+because_IN
+I_PRP
+like_IN
+camping_VBG
+a_DT
+lot_NN
+and_CC
+I_PRP
+do_VBP
+it_PRP
+whenever_VBD
+I_PRP
+can_MD
+._.
+
+I_PRP
+am_VBP
+good_JJ
+diffender_.
+._.
+
+Which_PRP
+was_VBD
+unbelievably_DT
+great_JJ
+and_CC
+also_RB
+to_TO
+be_VB
+able_JJ
+to_TO
+meet_VB
+these_DT
+famous_JJ
+singers_NNS
+made_VBD
+me_PRP
+realise_VBD
+we_PRP
+can_MD
+achieve_VB
+whatever_WRB
+we_PRP
+want_VBP
+._.
+
+I_PRP
+have_VBP
+been_VBN
+swimming_VBN
+for_IN
+8_PRP$
+years_NNS
+for_IN
+a_DT
+club_NN
+and_CC
+enjoying_IN
+a_DT
+lot_NN
+._.
+
+Then_RB
+,_,
+I_PRP
+suddenly_RB
+realised_VBN
+that_IN
+I_PRP
+had_VBD
+no_DT
+choice_NN
+,_,
+so_RB
+I_PRP
+took_VBD
+all_DT
+my_PRP$
+courage_NN
+,_,
+a_DT
+big_JJ
+deep_JJ
+breath_NNS
+,_,
+and_CC
+crossed_VBN
+it_PRP
+!_.
+
+My_PRP$
+Father_NNP
+does_VBZ
+the_DT
+cooking_NN
+,_,
+my_PRP$
+mother_NN
+does_VBZ
+the_DT
+cleaning_NN
+and_CC
+I_PRP
+do_VBP
+tidying_RB
+up_RB
+!_.
+
+He_PRP
+took_VBD
+me_PRP
+right_RB
+in_IN
+front_NN
+of_IN
+my_PRP$
+house_NN
+._.
+
+The_DT
+headmaster_NN
+was_VBD
+extremely_RB
+angry_JJ
+about_IN
+it_PRP
+and_CC
+he_PRP
+gave_VBD
+both_DT
+students_NNS
+a_DT
+heavy_JJ
+punishment_NN
+,_,
+which_WDT
+was_VBD
+suspended_VBN
+from_IN
+school_NN
+for_IN
+a_DT
+week_NN
+._.
+
+And_CC
+always_RB
+,_,
+every_DT
+body_NN
+made_VBD
+it_PRP
+surprisingly_VBP
+well_RB
+._.
+
+Sara_PRP
+remembered_VBD
+the_DT
+was_VBD
+golden_JJ
+fish_.
+._.
+
+When_WRB
+I_PRP
+went_VBD
+to_TO
+her_PRP$
+play_NN
+to_TO
+see_VB
+,_,
+I_PRP
+realy_VBD
+would_MD
+love_VB
+to_TO
+be_VB
+a_DT
+actress_NN
+._.
+
+I_PRP
+am_VBP
+a_DT
+fan_NN
+of_IN
+this_DT
+band_NN
+and_CC
+I_PRP
+have_VBP
+never_RB
+seen_VBN
+them_PRP
+in_IN
+flesh_NN
+._.
+
+I_PRP
+payed_VBD
+the_DT
+same_JJ
+as_IN
+who_WP
+bought_VBZ
+the_DT
+tickets_JJS
+ten_CD
+minutes_NNS
+before_IN
+the_DT
+theatre_NN
+._.
+
+I_PRP
+am_VBP
+satisfied_VBN
+to_TO
+have_VB
+received_VBN
+your_PRP$
+letter_NN
+that_IN
+informed_WDT
+me_PRP
+that_IN
+I_PRP
+have_VBP
+won_VBD
+the_DT
+first_JJ
+prize_NNS
+in_IN
+your_PRP$
+competition_NN
+._.
+
+It_PRP
+was_VBD
+perfectly_RB
+terrible_JJ
+evening_NN
+out_.
+._.
+
+I_PRP
+think_VBP
+it_PRP
+is_VBZ
+great_JJ
+and_CC
+I_PRP
+want_VBP
+to_TO
+try_VB
+it_PRP
+._.
+
+It_PRP
+is_VBZ
+rare_IN
+the_DT
+schools_NNS
+that_WDT
+do_VBP
+n't_RB
+have_VB
+a_DT
+multimedia_JJ
+centre_NNS
+with_IN
+many_JJ
+computers_NN
+to_TO
+the_DT
+students_JJ
+use_NN
+._.
+
+Technology_PRP
+brought_VBD
+simple_JJ
+solutions_NN
+to_TO
+my_PRP$
+life_NN
+._.
 

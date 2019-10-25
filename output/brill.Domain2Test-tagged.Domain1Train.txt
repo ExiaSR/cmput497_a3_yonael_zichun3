@@ -1,8170 +1,7626 @@
-Gavin_
-PRP paused_
-NN wearily_
-NN ._
-.
-
-``_
-`` You_
-PRP ca_
-MD n't_
-RB stay_
-RB here_
-RB with_
-IN me_
-PRP ._
-.
-
-It_
-PRP 's_
-VBZ late_
-JJ and_
-CC you_
-PRP said_
-VBD they_
-PRP 'd_
-MD be_
-VB here_
-RB by_
-IN dawn_
-NNP ''_
-'' ._
-.
-
-You_
-PRP ca_
-MD n't_
-RB make_
-VB me_
-PRP go_
-VB ''_
-'' ._
-.
-
-Gavin_
-PRP sank_
-VBP down_
-RB again_
-RB into_
-IN his_
-PRP$ chair_
-NNS and_
-CC began_
-VBD to_
-TO rock_
-NN ._
-.
-
-He_
-PRP was_
-VBD thinking_
-NN of_
-IN Rittenhouse_
-NN and_
-CC how_
-WRB he_
-PRP had_
-VBD left_
-VBN him_
-PRP there_
-RB ,_
-, to_
-TO rock_
-VB to_
-TO death_
-NN on_
-IN the_
-DT porch_
-NN of_
-IN the_
-DT Splendide_
-NN ._
-.
-
-It_
-PRP was_
-VBD the_
-DT only_
-JJ thing_
-NN in_
-IN his_
-PRP$ life_
-NN for_
-IN which_
-WDT he_
-PRP felt_
-VBD guilt_
-NN ._
-.
-
-Beneath_
-IN his_
-PRP$ black_
-NN shirt_
-IN his_
-PRP$ frail_
-JJ shoulders_
-NNS shook_
-, and_
-CC croaks_
-RB of_
-IN pain_
-PRP broke_
-VBD from_
-IN his_
-PRP$ throat_
-NNS ,_
-, the_
-DT stored_
-NN pain_
-IN shattering_
-DT free_
-JJ in_
-IN slow_
-JJ gasps_
-NNS ,_
-, terrible_
-JJ to_
-TO see_
-VB ._
-.
-
-Clayton_
-PRP tried_
-VBD to_
-TO call_
-VB back_
-RB the_
-DT face_
-NN of_
-IN the_
-DT man_
-NN he_
-PRP had_
-VBD known_
-VBN ._
-.
-
-Against_
-IN that_
-DT other_
-JJ man_
-NN he_
-PRP could_
-MD rally_
-VB his_
-PRP$ anger_
-NN ;_
-: ;_
-: against_
-IN this_
-DT bent_
-JJ man_
-NN in_
-IN the_
-DT chair_
-NN he_
-PRP was_
-VBD powerless_
-NN ._
-.
-
-Gavin_
-NNP 's_
-POS lips_
-NNP moved_
-VBD so_
-RB that_
-IN Clayton_
-PRP had_
-VBD to_
-TO stoop_
-VB to_
-TO catch_
-VB the_
-DT words_
-NNS ._
-.
-
-``_
-`` Do_
-FW you_
-FW remember_
-FW Big_
-FW Charlie_
-FW ''_
-'' ?_
-. ?_
-.
-
-He_
-PRP whispered_
-VBD ._
-.
-
-He_
-PRP stuck_
-VBD with_
-IN me_
-PRP all_
-PDT these_
-DT years_
-NNS ._
-.
-
-Just_
-RB a_
-DT half-breed_
-JJ 'pache_
-NNS ,_
-, never_
-RB said_
-VBD much_
-RB ,_
-, never_
-RB meant_
-VBD anythin_
-VBN to_
-TO me_
-PRP ,_
-, but_
-CC he_
-PRP stuck_
-VBD with_
-IN me_
-PRP ._
-.
-
-He_
-PRP got_
-VBD into_
-IN a_
-DT fight_
-NN with_
-IN Tom_
-NNP English_
-NNP ,_
-, your_
-PRP$ brother_
-NNP 's_
-POS son_
-NN ._
-.
-
-It_
-PRP was_
-VBD a_
-DT fair_
-JJ fight_
-NNS ,_
-, the_
-DT boy_
-NN provoked_
-, it_
-PRP --_
-: Big_
-: Charlie_
-PRP told_
-VBD me_
-PRP so_
-RB ._
-.
-
-I_
-PRP believed_
-VBD him_
-PRP ._
-.
-
-They_
-PRP killed_
-MD Big_
-VB Charlie_
-VBN ,_
-, dumped_
-CC his_
-PRP$ body_
-NN in_
-IN my_
-PRP$ rose_
-JJ garden_
-NN two_
-CD nights_
-NNS ago_
-RB ._
-.
-
-My_
-PRP$ men_
-NNS ,_
-, they_
-PRP all_
-DT left_
-NN me_
-PRP ._
-.
-
-Just_
-PRP cleared_
-VBP out_
-RB ._
-.
-
-I_
-PRP did_
-VBD n't_
-RB understand_
-VB why_
-WRB ,_
-, Clay_
-NNP ._
-.
-
-They_
-PRP just_
-RB all_
-DT cleared_
-NN out_
-NN ._
-.
-
-I_
-PRP treated_
-VBD them_
-PRP fair_
-JJ ''_
-'' He_
-PRP wiped_
-VBD his_
-PRP$ lips_
-NNS with_
-IN a_
-DT sleeve_
-NN ,_
-, then_
-RB stared_
-VBD at_
-IN Clayton_
-NN in_
-IN a_
-DT childish_
-JJ kind_
-NN of_
-IN wonder_
-NN ._
-.
-
-``_
-`` Do_
-WRB you_
-PRP mean_
-VB ''_
-'' --_
-: he_
-PRP asked_
-VBD almost_
-RB shyly_
-NN --_
-: ``_
-`` you_
-PRP want_
-VBP me_
-PRP to_
-TO go_
-VB with_
-IN you_
-PRP ,_
-, wherever_
-WRB you_
-PRP 're_
-VBP goin_
-VBN ''_
-'' ?_
-. ?_
-.
-
-``_
-`` You_
-PRP do_
-VBP n't_
-RB hate_
-VBP me_
-PRP any_
-RB more_
-RBR ''_
-'' ?_
-. ?_
-.
-
-Clayton_
-DT choked_
-NN ,_
-, shook_
-VBD his_
-PRP$ head_
-NN ,_
-, murmuring_
-RB ,_
-, ``_
-`` No_
-NNS ''_
-'' ._
-.
-
-The_
-DT sentry_
-NN was_
-VBD not_
-RB dead_
-JJ ._
-.
-
-He_
-PRP was_
-VBD ,_
-, in_
-IN fact_
-NN ,_
-, showing_
-PRP signs_
-VBD of_
-IN reviving_
-NN ._
-.
-
-He_
-PRP had_
-VBD been_
-VBN carrying_
-IN an_
-DT Enfield_
-NN rifle_
-, and_
-CC a_
-DT holstered_
-JJ navy_
-NN cap-and-ball_
-NN pistol_
-NN ._
-.
-
-A_
-DT bayonet_
-NN hung_
-VBN in_
-IN a_
-DT belt_
-NN scabbard_
-NN ._
-.
-
-He_
-PRP was_
-VBD partially_
-TO uniformed_
-VB in_
-IN a_
-DT cavalry_
-NN tunic_
-, and_
-CC hat_
-NN ._
-.
-
-Mike_
-PRP stripped_
-VBD these_
-DT from_
-IN him_
-PRP and_
-CC donned_
-WRB them_
-PRP ._
-.
-
-He_
-PRP and_
-CC Dean_
-RB tied_
-VBN and_
-CC gagged_
-IN the_
-DT man_
-NN ,_
-, using_
-VBG his_
-PRP$ belt_
-NN and_
-CC shirt_
-NN for_
-IN the_
-DT purpose_
-NN ._
-.
-
-They_
-PRP dragged_
-VBD him_
-PRP inside_
-IN the_
-DT building_
-NN ._
-.
-
-Fiske_
-PRP joined_
-VBD them_
-PRP ,_
-, unsteady_
-CC on_
-IN his_
-PRP$ feet_
-NNS ._
-.
-
-Julia_
-NNP ,_
-, seeing_
-VBG the_
-DT bandage_
-NN ,_
-, rushed_
-VBD to_
-TO him_
-PRP ._
-.
-
-``_
-`` You_
-PRP are_
-VBP hurt_
-VBN ''_
-'' !_
-. !_
-.
-
-She_
-PRP breathed_
-NN ._
-.
-
-I_
-PRP never_
-RB felt_
-VBN better_
-RB in_
-IN my_
-PRP$ life_
-NN ''_
-'' ,_
-, Fiske_
-PRP blustered_
-NN ._
-.
-
-He_
-PRP turned_
-VBD to_
-TO Susan_
-VB and_
-CC kissed_
-WRB her_
-PRP on_
-IN the_
-DT cheek_
-NN ._
-.
-
-``_
-`` Thank_
-WRB you_
-PRP ,_
-, My_
-PRP$ dear_
-NN ''_
-'' ,_
-, he_
-PRP said_
-VBD ._
-.
-
-``_
-`` You_
-PRP are_
-VBP very_
-RB brave_
-JJ ''_
-'' ._
-.
-
-Mike_
-PRP silenced_
-VBD them_
-PRP ._
-.
-
-``_
-`` We_
-PRP 'll_
-MD talk_
-VB later_
-RB ._
-.
-
-First_
-RB ,_
-, we_
-PRP 've_
-VBP got_
-VBN to_
-TO get_
-VB out_
-RB of_
-IN here_
-RB ''_
-'' ._
-.
-
-We_
-PRP 'll_
-MD grab_
-VB horses_
-NNS ''_
-'' ,_
-, Dean_
-PRP said_
-VBD ._
-.
-
-``_
-`` The_
-DT main_
-JJ bunch_
-NN is_
-VBZ outside_
-RB ,_
-, but_
-CC there_
-EX are_
-VBP some_
-DT over_
-RB there_
-RB inside_
-IN the_
-DT wall_
-NN ''_
-'' ._
-.
-
-Mike_
-PRP debated_
-VBD it_
-PRP ,_
-, trying_
-VBG to_
-TO decide_
-VB whether_
-IN Fiske_
-PRP was_
-VBD strong_
-JJ enough_
-JJ to_
-TO ride_
-VB ._
-.
-
-But_
-CC it_
-PRP at_
-IN least_
-JJS offered_
-WRB him_
-PRP a_
-DT chance_
-NN for_
-IN living_
-VBG ._
-.
-
-He_
-PRP had_
-VBD none_
-RB here_
-RB ._
-.
-
-And_
-CC ,_
-, for_
-IN the_
-DT sake_
-NN of_
-IN Julia_
-NN and_
-CC Susan_
-NNP ,_
-, it_
-PRP had_
-VBD to_
-TO be_
-VB tried_
-JJ ._
-.
-
-The_
-DT guerrilla_
-JJ bivouac_
-NN remained_
-NN silent_
-NN ._
-.
-
-Light_
-PRP showed_
-VBD in_
-IN the_
-DT orderly_
-JJ room_
-NN across_
-IN the_
-DT parade_
-JJ ground_
-NN ._
-.
-
-Someone_
-WRB evidently_
-PRP was_
-VBD on_
-IN duty_
-NN there_
-NN ._
-.
-
-No_
-DT doubt_
-NN there_
-EX would_
-MD be_
-VB men_
-NNS guarding_
-IN the_
-DT horses_
-NNS ._
-.
-
-a_
-DT dozen_
-NN animals_
-WDT were_
-VBD held_
-VBN inside_
-IN the_
-DT stockade_
-NN ,_
-, as_
-IN best_
-JJS Mike_
-NN could_
-MD make_
-VB out_
-RB in_
-IN the_
-DT moonlight_
-NN ._
-.
-
-Evidently_
-IN this_
-DT was_
-VBD a_
-DT precaution_
-NN so_
-RB that_
-IN mounts_
-PRP would_
-MD be_
-VB available_
-JJ in_
-IN an_
-DT emergency_
-NN ._
-.
-
-He_
-PRP handed_
-VBD the_
-DT guard_
-NNP 's_
-POS rifle_
-NN to_
-TO Fiske_
-VB ._
-.
-
-``_
-`` Dean_
-NNP and_
-CC myself_
-PRP will_
-MD try_
-VB to_
-TO cut_
-VB out_
-IN horses_
-NNS to_
-TO ride_
-VB ''_
-'' ,_
-, he_
-PRP said_
-VBD ._
-.
-
-``_
-`` We_
-PRP 'll_
-MD stampede_
-VB the_
-DT rest_
-NN ._
-.
-
-You_
-PRP stay_
-VBD with_
-IN the_
-DT ladies_
-NNS ._
-.
-
-All_
-DT of_
-IN you_
-PRP be_
-VB ready_
-JJ to_
-TO ride_
-VB hell_
-VBN for_
-IN leather_
-NNP ''_
-'' ._
-.
-
-He_
-PRP added_
-VBD ,_
-, ``_
-`` If_
-IN this_
-DT does_
-VBZ n't_
-RB work_
-VB out_
-RB ,_
-, the_
-DT three_
-CD of_
-IN you_
-PRP barricade_
-MD yourself_
-VB in_
-IN the_
-DT house_
-NN and_
-CC talk_
-NN terms_
-NNS with_
-IN them_
-PRP ''_
-'' ._
-.
-
-He_
-PRP handed_
-VBD the_
-DT bayonet_
-NN to_
-TO Dean_
-VB and_
-CC kept_
-VBD the_
-DT pistol_
-NN ._
-.
-
-Susan_
-PRP halted_
-MD Dean_
-VB and_
-CC kissed_
-WRB him_
-PRP ._
-.
-
-She_
-PRP clung_
-VBD to_
-TO him_
-PRP ,_
-, talking_
-VBG to_
-TO him_
-PRP ,_
-, and_
-CC dabbing_
-RB at_
-IN her_
-PRP$ eyes_
-NNS ._
-.
-
-Mike_
-PRP turned_
-VBD away_
-RB ._
-.
-
-He_
-PRP was_
-VBD thinking_
-NN that_
-IN the_
-DT way_
-NN she_
-PRP had_
-VBD responded_
-VBN to_
-TO his_
-PRP$ own_
-JJ kiss_
-NNS had_
-VBD n't_
-RB meant_
-VBD what_
-WP he_
-PRP had_
-VBD believed_
-VBN it_
-PRP had_
-VBD ._
-.
-
-He_
-PRP felt_
-VBD unutterably_
-NN weary_
-NN ._
-.
-
-Dean_
-PRP turned_
-VBD from_
-IN Susan_
-NN and_
-CC took_
-VBD Julia_
-TO Fortune_
-VB in_
-IN his_
-PRP$ arms_
-NNS ._
-.
-
-He_
-PRP kissed_
-VBD her_
-PRP also_
-RB ,_
-, and_
-CC with_
-IN deep_
-JJ tenderness_
-NN ._
-.
-
-She_
-PRP too_
-RB began_
-VBD to_
-TO weep_
-VB ._
-.
-
-He_
-PRP released_
-VBD her_
-PRP and_
-CC joined_
-VBD Mike_
-NN ._
-.
-
-``_
-`` All_
-DT right_
-NN ''_
-'' ,_
-, he_
-PRP said_
-VBD ._
-.
-
-Mike_
-PRP only_
-RB said_
-VBD ,_
-, ``_
-`` Later_
-NNS ''_
-'' ._
-.
-
-McLish_
-UH ''_
-'' !_
-. !_
-.
-
-Susan_
-PRP said_
-VBD fiercely_
-NN ._
-.
-
-The_
-DT way_
-NN you_
-PRP were_
-VBD careful_
-JJ ''_
-'' ?_
-. ?_
-.
-
-He_
-PRP snorted_
-NN ._
-.
-
-``_
-`` Running_
-NN around_
-IN in_
-IN the_
-DT moonlight_
-NN almost_
-RB naked_
-JJ and_
-CC slugging_
-IN a_
-DT man_
-NN with_
-IN a_
-DT rock_
-NN ''_
-'' ?_
-. ?_
-.
-
-He_
-PRP kept_
-VBD going_
-VBG ._
-.
-
-He_
-PRP wanted_
-VBD no_
-RB more_
-RBR sentimental_
-JJ scenes_
-NNS with_
-IN her_
-PRP ._
-.
-
-He_
-PRP might_
-MD say_
-VB or_
-CC do_
-VBG something_
-NN foolish_
-NN ._
-.
-
-Something_
-IN all_
-DT of_
-IN them_
-PRP would_
-MD regret_
-VB ._
-.
-
-He_
-PRP might_
-MD tell_
-VB her_
-PRP how_
-MD sorry_
-VB a_
-DT spectacle_
-NN she_
-PRP was_
-VBD making_
-VBG of_
-IN herself_
-PRP ,_
-, pretending_
-VBG to_
-TO be_
-VB blind_
-JJ to_
-TO the_
-DT way_
-NN Julia_
-, Fortune_
-PRP had_
-VBD taken_
-VBN Dean_
-NNP 's_
-POS affections_
-NN from_
-IN her_
-PRP ._
-.
-
-And_
-CC using_
-VBG him_
-PRP ,_
-, Mike_
-CC McLish_
-NNP ,_
-, as_
-IN a_
-DT sop_
-NN to_
-TO her_
-PRP$ pride_
-NN ._
-.
-
-He_
-PRP handed_
-VBD the_
-DT bayonet_
-NN to_
-TO Dean_
-VB and_
-CC kept_
-VBD the_
-DT pistol_
-NN ._
-.
-
-``_
-`` Stay_
-VBZ well_
-RB back_
-RB of_
-IN me_
-PRP ''_
-'' ,_
-, he_
-PRP said_
-VBD ._
-.
-
-``_
-`` I_
-PRP 'm_
-VBP going_
-VBG to_
-TO walk_
-VB up_
-RB to_
-TO the_
-DT horses_
-NNS ,_
-, bold_
-JJ as_
-IN brass_
-NNP ,_
-, pretending_
-VBG I_
-PRP 'm_
-VBP one_
-CD of_
-IN the_
-DT guerrillas_
-NN ._
-.
-
-There_
-EX 's_
-VBZ bound_
-VBN to_
-TO be_
-VB someone_
-VBN on_
-IN guard_
-NNP ,_
-, but_
-CC the_
-DT hat_
-NN might_
-MD fool_
-VB them_
-PRP long_
-IN enough_
-RB for_
-IN me_
-PRP to_
-TO get_
-VB close_
-RB ''_
-'' ._
-.
-
-the_
-DT pistol_
-JJ concealed_
-NNS ,_
-, he_
-PRP walked_
-VBD to_
-TO the_
-DT rear_
-JJ wall_
-NN of_
-IN the_
-DT stockade_
-NN ._
-.
-
-It_
-PRP was_
-VBD pierced_
-VBN by_
-IN a_
-DT wagon_
-NN gate_
-NN built_
-VBD of_
-IN two_
-CD wings_
-NN ._
-.
-
-One_
-PRP wing_
-NN stood_
-NN open_
-NN ._
-.
-
-Mike_
-PRP passed_
-VBD through_
-IN it_
-PRP and_
-CC moved_
-VBD toward_
-IN the_
-DT dark_
-JJ mass_
-NN of_
-IN horses_
-NNS ._
-.
-
-They_
-PRP were_
-VBD tethered_
-RB ,_
-, army_
-DT style_
-NN ,_
-, on_
-IN stable_
-JJ lines_
-NNS ._
-.
-
-A_
-DT voice_
-NN spoke_
-NN near-at-hand_
-NN ._
-.
-
-``_
-`` Who_
-PRP 's_
-VBZ that_
-IN ''_
-'' ?_
-. ?_
-.
-
-me_
-PRP ''_
-'' ,_
-, Mike_
-PRP said_
-VBD ._
-.
-
-``_
-`` Is_
-VBZ that_
-IN you_
-PRP ,_
-, Bill_
-NNP ''_
-'' ?_
-. ?_
-.
-
-He_
-PRP located_
-VBD his_
-PRP$ man_
-NN ._
-.
-
-The_
-DT guard_
-NN stood_
-VBD in_
-IN the_
-DT shadow_
-NN of_
-IN the_
-DT stockade_
-JJ wall_
-NN just_
-RB out_
-RB of_
-IN reach_
-NN of_
-IN the_
-DT moonlight_
-NN ._
-.
-
-Mike_
-PRP kept_
-VBD walking_
-VBN and_
-CC got_
-VBD within_
-IN arm_
-NN 's_
-POS reach_
-NN before_
-IN the_
-DT man_
-NN became_
-VBD suspicious_
-JJ and_
-CC straightened_
-RB from_
-IN his_
-PRP$ lax_
-NNS slouch_
-VBP ._
-.
-
-Mike_
-PRP struck_
-VBD with_
-IN the_
-DT muzzle_
-NN of_
-IN the_
-DT pistol_
-NN ._
-.
-
-But_
-CC the_
-DT luck_
-NN that_
-WDT had_
-VBD been_
-VBN running_
-IN their_
-PRP$ way_
-NN left_
-VBD him_
-PRP ._
-.
-
-The_
-DT guard_
-NN instinctively_
-TO parried_
-VB the_
-DT blow_
-NN with_
-IN his_
-PRP$ rifle_
-NNS ._
-.
-
-He_
-PRP tried_
-VBD to_
-TO veer_
-VB the_
-DT rifle_
-NN around_
-IN to_
-TO fire_
-VB into_
-IN Mike_
-NNP 's_
-POS body_
-NN ._
-.
-
-Mike_
-NNP ,_
-, off_
-IN balance_
-NN ,_
-, managed_
-CC to_
-TO bat_
-VB the_
-DT muzzle_
-NN away_
-RB a_
-DT moment_
-NN before_
-IN it_
-PRP exploded_
-NN ._
-.
-
-The_
-DT bullet_
-NN went_
-NN wide_
-NN ._
-.
-
-Mike_
-PRP swung_
-VBD the_
-DT pistol_
-NN in_
-IN a_
-DT savage_
-NN backlash_
-NN ._
-.
-
-This_
-DT time_
-NN it_
-PRP connected_
-MD solidly_
-VB on_
-IN the_
-DT man_
-NN 's_
-POS temple_
-NN ,_
-, felling_
-WRB him_
-PRP ._
-.
-
-The_
-DT explosion_
-NN of_
-IN the_
-DT rifle_
-NN had_
-VBD crashed_
-VBN against_
-IN the_
-DT walls_
-NNS of_
-IN the_
-DT stockade_
-NN and_
-CC the_
-DT deep_
-JJ echoes_
-NNS were_
-VBD still_
-RB rolling_
-VBN in_
-IN the_
-DT hills_
-NNS ._
-.
-
-The_
-DT startled_
-JJ horses_
-NNS began_
-VBD rearing_
-VBN on_
-IN their_
-PRP$ tethers_
-NNS ._
-.
-
-Dean_
-PRP came_
-VBD rushing_
-RB up_
-RB ._
-.
-
-``_
-`` Are_
-WRB you_
-PRP hit_
-VBD ''_
-'' ?_
-. ?_
-.
-
-He_
-PRP demanded_
-NN ._
-.
-
-the_
-DT fat_
-JJ 's_
-NNS in_
-IN the_
-DT fire_
-NN ''_
-'' !_
-. !_
-.
-
-Mike_
-PRP said_
-VBD ._
-.
-
-``_
-`` There_
-EX 's_
-VBZ no_
-DT chance_
-NN now_
-RB of_
-IN all_
-DT of_
-IN us_
-PRP getting_
-VBP away_
-RB ._
-.
-
-You_
-PRP 'll_
-MD have_
-VB to_
-TO try_
-VB it_
-PRP alone_
-RB ''_
-'' ._
-.
-
-The_
-DT sentry_
-NNP 's_
-POS saddled_
-JJ horse_
-NN stood_
-VBD picketed_
-RB nearby_
-RB ,_
-, having_
-VBG been_
-VBN kept_
-TO handy_
-VB in_
-IN case_
-NN of_
-IN need_
-NN ._
-.
-
-Mike_
-PRP took_
-VBD the_
-DT bayonet_
-NN from_
-IN Dean_
-NNP 's_
-POS hand_
-NN and_
-CC slashed_
-IN the_
-DT picket_
-JJ line_
-NN ._
-.
-
-``_
-`` Up_
-WRB you_
-PRP go_
-VB ''_
-'' !_
-. !_
-.
-
-He_
-PRP said_
-VBD ._
-.
-
-``_
-`` Ride_
-NNS ''_
-'' !_
-. !_
-.
-
-Dean_
-NNP resisted_
-NNP Mike_
-NNP 's_
-POS attempt_
-NN to_
-TO push_
-VB him_
-PRP toward_
-IN the_
-DT horse_
-NN ._
-.
-
-``_
-`` Why_
-WRB not_
-RB you_
-PRP ''_
-'' ?_
-. ?_
-.
-
-He_
-PRP protested_
-VBD ._
-.
-
-Dammit_
-UH ''_
-'' !_
-. !_
-.
-
-Mike_
-PRP said_
-VBD frantically_
-NN ._
-.
-
-``_
-`` You_
-PRP 're_
-VBP lighter_
-VBN than_
-IN me_
-PRP ._
-.
-
-It_
-PRP 's_
-VBZ our_
-PRP$ only_
-JJ chance_
-NN now_
-RB ._
-.
-
-Try_
-PRP to_
-TO find_
-VB these_
-DT Feds_
-NN ._
-.
-
-The_
-DT rest_
-NN of_
-IN us_
-PRP can_
-MD fort_
-VB up_
-RB in_
-IN the_
-DT house_
-NN and_
-CC hang_
-RB on_
-IN until_
-IN you_
-PRP get_
-VBP back_
-RB ._
-.
-
-You_
-PRP 're_
-VBP the_
-DT one_
-NN that_
-WDT 's_
-VBZ taking_
-VBG the_
-DT big_
-JJ chance_
-NN ''_
-'' ._
-.
-
-Dean_
-PRP still_
-RB hesitated_
-RB ,_
-, but_
-CC Mike_
-PRP lifted_
-VBD him_
-PRP almost_
-RB bodily_
-VBN into_
-IN the_
-DT saddle_
-NN and_
-CC thrust_
-IN the_
-DT reins_
-NNS in_
-IN his_
-PRP$ hand_
-NN ._
-.
-
-No_
-DT telling_
-VBG how_
-WRB good_
-JJ this_
-DT horse_
-NN is_
-VBZ ''_
-'' ,_
-, Mike_
-PRP panted_
-NN ._
-.
-
-``_
-`` Favor_
-WRB him_
-PRP and_
-CC save_
-IN something_
-NN in_
-IN case_
-NN you_
-PRP hit_
-VBD trouble_
-NN ._
-.
-
-Watch_
-PRP out_
-RB for_
-IN Apaches_
-`` when_
-WRB it_
-PRP comes_
-VBZ daylight_
-NN ._
-.
-
-Take_
-IN the_
-DT pistol_
-NN ._
-.
-
-You_
-PRP might_
-MD need_
-VB it_
-PRP ._
-.
-
-We_
-PRP 'll_
-MD still_
-RB have_
-VB the_
-DT rifle_
-NN ,_
-, and_
-CC I_
-PRP might_
-MD be_
-VB able_
-JJ to_
-TO round_
-VB up_
-IN some_
-DT more_
-JJR ._
-.
-
-I_
-PRP 'll_
-MD stampede_
-VB the_
-DT rest_
-NN of_
-IN these_
-DT horses_
-NNS so_
-IN they_
-PRP ca_
-MD n't_
-RB chase_
-VB you_
-PRP ''_
-'' ._
-.
-
-Dean_
-PRP leaned_
-VBD from_
-IN the_
-DT saddle_
-NN and_
-CC gave_
-VBD him_
-PRP a_
-DT mighty_
-JJ whack_
-NNS on_
-IN the_
-DT back_
-NN ._
-.
-
-``_
-`` McLish_
-NNS ''_
-'' ,_
-, he_
-PRP said_
-VBD as_
-IN he_
-PRP kicked_
-VBD the_
-DT horse_
-NN into_
-IN motion_
-NN ,_
-, ``_
-`` I_
-PRP 'd_
-MD be_
-VB a_
-DT mighty_
-JJ sad_
-JJ man_
-NN if_
-IN we_
-PRP never_
-RB met_
-RB again_
-RB ''_
-'' ._
-.
-
-he_
-PRP was_
-VBD on_
-IN his_
-PRP$ way_
-NN at_
-IN a_
-DT gallop_
-NN ._
-.
-
-Mike_
-PRP ran_
-VBD down_
-IN the_
-DT line_
-NN ,_
-, slashing_
-PRP picket_
-MD ropes_
-VB with_
-IN the_
-DT bayonet_
-NN ._
-.
-
-He_
-PRP lifted_
-VBD a_
-DT screeching_
-JJ war_
-NN whoop_
-NN ._
-.
-
-That_
-DT touched_
-NN off_
-IN a_
-DT total_
-NN stampede_
-NN ._
-.
-
-He_
-PRP darted_
-VBD inside_
-IN the_
-DT stockade_
-NN and_
-CC freed_
-VBN the_
-DT horses_
-NNS there_
-RB ._
-.
-
-These_
-DT poured_
-NN through_
-IN the_
-DT gate_
-NN and_
-CC joined_
-VBD the_
-DT flight_
-NN ._
-.
-
-The_
-DT animals_
-NN thundered_
-VBZ away_
-RB into_
-IN the_
-DT moonlight_
-NN ,_
-, heading_
-CC for_
-IN the_
-DT ridges_
-NNS ._
-.
-
-The_
-DT guerrillas_
-NN were_
-VBD swarming_
-VBN from_
-IN their_
-PRP$ bivouac_
-NN at_
-IN the_
-DT west_
-JJ end_
-NN of_
-IN the_
-DT enclosure_
-NN ._
-.
-
-Apaches_
-UH ''_
-'' !_
-. !_
-.
-
-Mike_
-PRP yelled_
-NN ._
-.
-
-``_
-`` They_
-PRP 're_
-VBP stealin_
-VBN '_
-IN the_
-DT stock_
-NN ''_
-'' !_
-. !_
-.
-
-He_
-PRP scuttled_
-VBD in_
-IN shadow_
-NN along_
-IN the_
-DT east_
-JJ wall_
-NN of_
-IN the_
-DT stockade_
-NN and_
-CC then_
-RB followed_
-VBD the_
-DT south_
-JJ wall_
-NN until_
-IN he_
-PRP was_
-VBD at_
-IN the_
-DT rear_
-NN of_
-IN the_
-DT two_
-CD frame_
-NN buildings_
-NN ._
-.
-
-He_
-PRP crouched_
-VBP there_
-RB ._
-.
-
-His_
-PRP$ shout_
-NNS had_
-VBD been_
-VBN taken_
-VBN up_
-RB and_
-CC repeated_
-VBN ._
-.
-
-The_
-DT guerrillas_
-NN were_
-VBD running_
-VBG across_
-IN the_
-DT parade_
-JJ ground_
-NN and_
-CC through_
-IN the_
-DT rear_
-JJ gate_
-NN in_
-IN the_
-DT wake_
-NN of_
-IN the_
-DT departing_
-JJ horses_
-NNS ._
-.
-
-All_
-DT were_
-VBD carrying_
-TO guns_
-VB they_
-PRP had_
-VBD seized_
-VBN up_
-RB ,_
-, but_
-CC they_
-PRP were_
-VBD half-clad_
-VBN or_
-CC hardly_
-RB clad_
-VBN at_
-IN all_
-DT ._
-.
-
-Durkin_
-PRP and_
-CC Calhoun_
-NNP came_
-VBD running_
-VBG from_
-IN the_
-DT post_
-NN ._
-.
-
-They_
-PRP had_
-VBD pistols_
-VBN in_
-IN their_
-PRP$ hands_
-NNS ._
-.
-
-They_
-PRP bawled_
-VBP questions_
-NNS that_
-WDT were_
-VBD not_
-RB answered_
-VBN in_
-IN the_
-DT uproar_
-NN ._
-.
-
-They_
-PRP followed_
-VBD the_
-DT others_
-NNS toward_
-IN the_
-DT east_
-JJ gate_
-NN ._
-.
-
-the_
-DT stockade_
-NNP rifles_
-NNP began_
-VBD to_
-TO explode_
-VB as_
-IN some_
-DT of_
-IN the_
-DT guerrillas_
-NN fired_
-VBN at_
-IN shadows_
-NNS that_
-IN they_
-PRP imagined_
-VBP were_
-VBD Apaches_
-NN ._
-.
-
-Mike_
-PRP made_
-VBD a_
-DT dash_
-NN to_
-TO the_
-DT rear_
-NN of_
-IN the_
-DT frame_
-NN buildings_
-NN ._
-.
-
-He_
-PRP crawled_
-VBD beneath_
-IN the_
-DT two_
-CD supply_
-NNS wagons_
-, which_
-WDT stood_
-VBD between_
-IN the_
-DT buildings_
-NNS and_
-CC peered_
-RB around_
-IN a_
-DT corner_
-NN ._
-.
-
-The_
-DT area_
-NN was_
-VBD deserted_
-NN ._
-.
-
-A_
-DT man_
-NN was_
-VBD standing_
-VBG in_
-IN the_
-DT open_
-JJ door_
-NN of_
-IN the_
-DT lighted_
-NNP orderly_
-POS room_
-NN a_
-DT few_
-JJ yards_
-NNS to_
-TO Mike_
-NNP 's_
-POS left_
-NN ,_
-, but_
-CC he_
-PRP ,_
-, too_
-RB ,_
-, suddenly_
-RB made_
-VBN up_
-IN his_
-PRP$ mind_
-NN and_
-CC went_
-VBD racing_
-VBN to_
-TO join_
-VB the_
-DT confused_
-JJ activity_
-NN at_
-IN the_
-DT east_
-JJ end_
-NN of_
-IN the_
-DT stockade_
-NN ._
-.
-
-Mike_
-PRP crawled_
-VBD to_
-TO the_
-DT door_
-NN and_
-CC peered_
-RB in_
-IN ._
-.
-
-The_
-DT orderly_
-JJ room_
-NN seemed_
-VBD to_
-TO be_
-VB deserted_
-JJ ._
-.
-
-A_
-DT lantern_
-NN hung_
-VBN from_
-IN a_
-DT peg_
-NN ,_
-, giving_
-VBG light_
-NN ._
-.
-
-he_
-PRP found_
-VBD that_
-IN three_
-CD rifles_
-NNS were_
-VBD stacked_
-VBN in_
-IN a_
-DT corner_
-NN ._
-.
-
-A_
-DT brace_
-NN of_
-IN pistols_
-NNP ,_
-, holstered_
-CC on_
-IN belts_
-NNP ,_
-, hung_
-VBN from_
-IN a_
-DT peg_
-NN ,_
-, along_
-IN with_
-IN ammunition_
-NN pouches_
-NN ._
-.
-
-An_
-DT ammunition_
-JJ case_
-NN stood_
-VBD open_
-RB ,_
-, containing_
-CC canisters_
-NNS which_
-WDT contained_
-VBP powder_
-NN cartridges_
-NN ._
-.
-
-Mike_
-PRP seized_
-VBD a_
-DT blanket_
-NN from_
-IN a_
-DT pallet_
-NN in_
-IN a_
-DT corner_
-NN ,_
-, spread_
-WRB it_
-PRP on_
-IN the_
-DT floor_
-NN and_
-CC used_
-VBN it_
-PRP to_
-TO form_
-VB a_
-DT bag_
-NN in_
-IN which_
-WDT he_
-PRP placed_
-VBD his_
-PRP$ booty_
-NNS ._
-.
-
-the_
-DT load_
-NN he_
-PRP peered_
-VBD from_
-IN the_
-DT door_
-NN ._
-.
-
-His_
-PRP$ looting_
-NNS of_
-IN the_
-DT orderly_
-JJ room_
-NN had_
-VBD taken_
-VBN only_
-RB a_
-DT minute_
-JJ or_
-CC two_
-CD and_
-CC the_
-DT vicinity_
-NN was_
-VBD still_
-RB clear_
-JJ of_
-IN guerrillas_
-NN ._
-.
-
-He_
-PRP looked_
-VBD at_
-IN the_
-DT looming_
-JJ hoods_
-NNS of_
-IN the_
-DT supply_
-JJ wagons_
-NNS ,_
-, struck_
-VBN by_
-IN a_
-DT new_
-JJ inspiration_
-NN ._
-.
-
-He_
-PRP set_
-VBD his_
-PRP$ bundle_
-NNS down_
-RB ._
-.
-
-Snatching_
-IN the_
-DT lantern_
-NN from_
-IN its_
-PRP$ peg_
-NNS ,_
-, he_
-PRP shattered_
-VBD its_
-PRP$ globe_
-NNS with_
-IN a_
-DT blow_
-NN against_
-IN a_
-DT post_
-NN ._
-.
-
-He_
-PRP picked_
-VBD up_
-IN the_
-DT powder_
-NN canister_
-, and_
-CC ran_
-VBD out_
-RB ._
-.
-
-Bursting_
-DT paper_
-NN cartridges_
-'' ,_
-, he_
-PRP scattered_
-VBD powder_
-VBN beneath_
-IN the_
-DT nearest_
-JJS wagon_
-NN and_
-CC dumped_
-IN the_
-DT contents_
-NNS of_
-IN the_
-DT canister_
-NN upon_
-IN it_
-PRP ._
-.
-
-He_
-PRP shouldered_
-VBD the_
-DT blanket_
-NN again_
-RB ,_
-, backed_
-CC off_
-RB ,_
-, and_
-CC tossed_
-VBD the_
-DT lantern_
-NN with_
-IN its_
-PRP$ open_
-JJ wick_
-NNS beneath_
-IN the_
-DT wagon_
-NN ._
-.
-
-He_
-PRP turned_
-VBD and_
-CC raced_
-RB across_
-IN the_
-DT parade_
-JJ ground_
-NN toward_
-IN the_
-DT rock_
-NN house_
-NN ._
-.
-
-Powder_
-PRP flame_
-MD gushed_
-VB beneath_
-IN the_
-DT wagon_
-NN ._
-.
-
-The_
-DT stockade_
-NN was_
-VBD brilliantly_
-TO lighted_
-VB and_
-CC the_
-DT guerrillas_
-NN sighted_
-, him_
-PRP ._
-.
-
-They_
-PRP realized_
-VBD the_
-DT truth_
-NN ._
-.
-
-Bullets_
-PRP began_
-VBD to_
-TO snap_
-DT past_
-NN him_
-PRP ._
-.
-
-One_
-PRP struck_
-VBD the_
-DT muzzle_
-NN of_
-IN one_
-CD of_
-IN the_
-DT rifles_
-NN that_
-IN projected_
-NN from_
-IN the_
-DT shoulder_
-JJ pack_
-NN ._
-.
-
-Its_
-PRP$ force_
-NN spun_
-, him_
-PRP around_
-RB ,_
-, but_
-CC he_
-PRP recovered_
-, and_
-CC got_
-VBD into_
-IN stride_
-NN again_
-NN ._
-.
-
-A_
-DT bullet_
-NN tore_
-IN the_
-DT earth_
-NN from_
-IN beneath_
-IN his_
-PRP$ foot_
-NN when_
-WRB he_
-PRP was_
-VBD a_
-DT stride_
-NN or_
-CC two_
-CD from_
-IN safety_
-NN ._
-.
-
-Another_
-PRP struck_
-VBD him_
-PRP heavily_
-VBD in_
-IN the_
-DT thigh_
-NN and_
-CC he_
-PRP went_
-VBD down_
-RB ._
-.
-
-Guerrillas_
-PRP were_
-VBD racing_
-VBN toward_
-IN him_
-PRP ._
-.
-
-Susan_
-PRP and_
-CC Julia_
-PRP came_
-VBD from_
-IN the_
-DT door_
-NN and_
-CC dragged_
-WRB him_
-PRP with_
-IN them_
-PRP ._
-.
-
-The_
-DT three_
-CD of_
-IN them_
-PRP floundered_
-VBD through_
-IN the_
-DT door_
-NN into_
-IN the_
-DT interior_
-NN and_
-CC fell_
-VBD in_
-IN a_
-DT heap_
-NN ._
-.
-
-Susan_
-PRP bounced_
-VBD to_
-TO her_
-PRP$ feet_
-NNS and_
-CC slammed_
-IN the_
-DT door_
-NN ._
-.
-
-She_
-PRP crouched_
-VBP aside_
-RB as_
-IN bullets_
-DT beat_
-NN at_
-IN the_
-DT portal_
-NN ,_
-, chewing_
-CC into_
-IN the_
-DT planks_
-NN ._
-.
-
-Some_
-DT tore_
-NN entirely_
-RB through_
-IN the_
-DT whipsawed_
-JJ post_
-NN oak_
-NN ._
-.
-
-The_
-DT iron_
-NN hinges_
-VBZ held_
-VBN ,_
-, but_
-CC the_
-DT planks_
-NN were_
-VBD in_
-IN danger_
-NN of_
-IN being_
-VBG torn_
-VBN from_
-IN the_
-DT crossbars_
-NN ._
-.
-
-Mike_
-PRP rolled_
-VBD to_
-TO Susan_
-VB ,_
-, grasped_
-VBN her_
-PRP around_
-IN the_
-DT knees_
-NNS ,_
-, dragging_
-VBG her_
-PRP off_
-RP her_
-PRP$ feet_
-NNS ._
-.
-
-He_
-PRP hovered_
-VBD over_
-IN her_
-PRP to_
-TO shield_
-VB her_
-PRP ,_
-, for_
-IN spent_
-PRP$ bullets_
-NNS were_
-VBD thudding_
-VBN against_
-IN the_
-DT rear_
-JJ walls_
-NNS ._
-.
-
-He_
-PRP peered_
-VBD from_
-IN a_
-DT loophole_
-NN ._
-.
-
-Guerrillas_
-PRP were_
-VBD only_
-RB a_
-DT dozen_
-NN yards_
-VBZ away_
-RB ,_
-, charging_
-IN the_
-DT house_
-NN ._
-.
-
-Mike_
-PRP snatched_
-VBD a_
-DT pistol_
-NN from_
-IN the_
-DT heap_
-NN of_
-IN scattered_
-DT booty_
-NN and_
-CC fired_
-VBN ._
-.
-
-He_
-PRP dropped_
-VBD a_
-DT man_
-NN with_
-IN the_
-DT first_
-JJ bullet_
-NN ._
-.
-
-the_
-DT same_
-JJ moment_
-NN Wheeler_
-TO Fiske_
-VB fired_
-VBN the_
-DT rifle_
-NNP Mike_
-NNP had_
-VBD given_
-VBN him_
-PRP and_
-CC another_
-DT guerrilla_
-NN was_
-VBD hit_
-NN ._
-.
-
-That_
-DT halted_
-VBG the_
-DT rush_
-NN ._
-.
-
-The_
-DT guerrillas_
-NN scattered_
-VBD for_
-IN cover_
-NN ._
-.
-
-The_
-DT wagons_
-NN were_
-VBD burning_
-NN fiercely_
-NN ._
-.
-
-The_
-DT mudwagon_
-NN had_
-VBD caught_
-VBN fire_
-RB also_
-RB ._
-.
-
-The_
-DT blaze_
-NN was_
-VBD spreading_
-VBN to_
-TO the_
-DT frame_
-NN buildings_
-NN ._
-.
-
-The_
-DT guerrillas_
-NN realized_
-VBD they_
-PRP faced_
-VBD a_
-DT new_
-JJ problem_
-NN ._
-.
-
-``_
-`` Gawdamighty_
-NNS ''_
-'' !_
-. !_
-.
-
-One_
-PRP screeched_
-NN ._
-.
-
-``_
-`` There_
-EX goes_
-VBZ our_
-PRP$ grub_
-`` an_
-DT '_
-JJ ammunition_
-NN ''_
-'' !_
-. !_
-.
-
-a_
-DT bucket_
-JJ line_
-NN going_
-VBG ''_
-'' !_
-. !_
-.
-
-Calhoun_
-NNP shouted_
-NN ._
-.
-
-``_
-`` Hurry_
-NN !_
-. !_
-.
-
-Hurry_
-UH ''_
-'' !_
-. !_
-.
-
-The_
-DT guerrillas_
-NN began_
-VBD a_
-DT frantic_
-JJ search_
-NN for_
-IN pails_
-NN in_
-IN which_
-WDT to_
-TO bring_
-VB water_
-NN from_
-IN the_
-DT spring_
-NN ._
-.
-
-But_
-CC what_
-WP few_
-MD containers_
-VB they_
-PRP found_
-VBD were_
-VBD inadequate_
-NN ._
-.
-
-Many_
-JJ of_
-IN them_
-PRP ,_
-, in_
-IN increasing_
-VBG panic_
-NN ,_
-, came_
-VBD running_
-VBG with_
-IN water_
-NN in_
-IN their_
-PRP$ hats_
-NNS in_
-IN a_
-DT ludicrous_
-JJ effort_
-NN ._
-.
-
-Both_
-DT buildings_
-NNS were_
-VBD in_
-IN flames_
-NN ._
-.
-
-The_
-DT heat_
-NN drove_
-VBD the_
-DT guerrillas_
-JJ back_
-NN ._
-.
-
-The_
-DT roof_
-NN of_
-IN the_
-DT command_
-NN post_
-NN began_
-VBD to_
-TO buckle_
-VB ._
-.
-
-the_
-DT wagons_
-NN to_
-TO the_
-DT spring_
-NN ''_
-'' !_
-. !_
-.
-
-Lew_
-PRP Durkin_
-NN yelled_
-NN ._
-.
-
-'em_
-DT right_
-NN into_
-IN the_
-DT spring_
-NN !_
-. !_
-.
-
-Hustle_
-UH ''_
-'' !_
-. !_
-.
-
-One_
-PRP of_
-IN the_
-DT wagons_
-NN erupted_
-IN a_
-DT massive_
-JJ pillar_
-NNS of_
-IN flame_
-NN ._
-.
-
-A_
-DT sizable_
-JJ supply_
-NNS of_
-IN powder_
-PRP had_
-VBD been_
-VBN touched_
-VBN off_
-RB ._
-.
-
-The_
-DT wagons_
-NN and_
-CC the_
-DT coach_
-NN were_
-VBD beyond_
-IN saving_
-NN and_
-CC so_
-RB were_
-VBD the_
-DT buildings_
-NNS ._
-.
-
-The_
-DT glow_
-NN of_
-IN the_
-DT fire_
-NN reached_
-VBD through_
-IN the_
-DT openings_
-NN in_
-IN the_
-DT windows_
-NN ,_
-, giving_
-VBG light_
-NN enough_
-RB to_
-TO examine_
-VB Mike_
-NNP 's_
-POS wound_
-NN ._
-.
-
-The_
-DT bullet_
-NN had_
-VBD torn_
-VBN through_
-IN the_
-DT flesh_
-NN just_
-RB above_
-IN the_
-DT knee_
-NN ,_
-, inflicting_
-IN an_
-DT ugly_
-JJ gash_
-NNS that_
-WDT was_
-VBD forming_
-IN a_
-DT pool_
-NN of_
-IN blood_
-NN on_
-IN the_
-DT floor_
-NN ._
-.
-
-But_
-CC it_
-PRP had_
-VBD missed_
-IN the_
-DT bone_
-NN and_
-CC had_
-VBD passed_
-VBN on_
-IN through_
-NN ._
-.
-
-Susan_
-PRP and_
-CC Julia_
-PRP ripped_
-MD strips_
-VB from_
-IN their_
-PRP$ clothing_
-NN and_
-CC bound_
-VBN the_
-DT injury_
-NN ._
-.
-
-Mike_
-PRP tested_
-VBD the_
-DT leg_
-NN and_
-CC found_
-VBN that_
-IN he_
-PRP was_
-VBD able_
-JJ to_
-TO hobble_
-VB around_
-IN on_
-IN it_
-PRP ._
-.
-
-Dutch_
-NNP Springs_
-NNP ,_
-, this_
-DT mining_
-NNP supply_
-POS town_
-NN had_
-VBD the_
-DT appearance_
-NN of_
-IN being_
-VBG far_
-RB busier_
-, and_
-CC more_
-RBR prosperous_
-JJ ._
-.
-
-Men_
-PRP crowded_
-VBD the_
-DT streets_
-NNS and_
-CC freight_
-NNP rigs_
-, and_
-CC teams_
-PRP were_
-VBD moving_
-VBG about_
-IN ._
-.
-
-Although_
-WRB they_
-PRP were_
-VBD forced_
-VBN to_
-TO maintain_
-VB a_
-DT sharper_
-JJ watch_
-NNS ,_
-, this_
-DT activity_
-NN enabled_
-VBD them_
-PRP to_
-TO ride_
-VB in_
-IN and_
-CC rack_
-VB their_
-PRP$ broncs_
-NNS without_
-IN any_
-DT particular_
-JJ attention_
-NN being_
-VBG paid_
-VBN them_
-PRP ._
-.
-
-Gyp_
-PRP 'll_
-MD be_
-VB holdin_
-PRP '_
-VBG forth_
-RB in_
-IN some_
-DT bar_
-NN if_
-IN he_
-PRP 's_
-VBZ here_
-RB at_
-IN all_
-DT ''_
-'' ,_
-, Cobb_
-PRP declared_
-VBD ,_
-, glancing_
-CC along_
-IN the_
-DT street_
-NN as_
-IN they_
-PRP stretched_
-VBD their_
-PRP$ legs_
-NNS ._
-.
-
-There_
-EX were_
-VBD no_
-RB less_
-RBR than_
-IN six_
-CD or_
-CC seven_
-CD saloons_
-NNS in_
-IN Ganado_
-NNP ,_
-, not_
-RB counting_
-IN the_
-DT lower_
-JJ class_
-NN dives_
-'' ,_
-, all_
-DT vying_
-NN for_
-IN the_
-DT trade_
-NN of_
-IN celebrating_
-DT miners_
-NN and_
-CC teamsters_
-NN ._
-.
-
-Pat_
-PRP only_
-RB nodded_
-NN ._
-.
-
-``_
-`` Take_
-DT one_
-CD side_
-NN of_
-IN the_
-DT street_
-NN ,_
-, and_
-CC I_
-PRP 'll_
-MD take_
-VB the_
-DT other_
-JJ ''_
-'' ,_
-, he_
-PRP proposed_
-VBD ._
-.
-
-``_
-`` If_
-IN you_
-PRP spot_
-VBD Carmer_
-TO give_
-VB a_
-DT yell_
-NN before_
-IN you_
-PRP move_
-VBP in_
-IN ''_
-'' ._
-.
-
-Cobb_
-NNP 's_
-POS assent_
-NNP was_
-VBD tight_
-NN ._
-.
-
-``_
-`` You_
-PRP do_
-VBP the_
-DT same_
-JJ ._
-.
-
-It_
-PRP 's_
-VBZ all_
-DT I_
-PRP ask_
-VBP ,_
-, Stevens_
-UH ''_
-'' ._
-.
-
-they_
-PRP took_
-VBD different_
-JJ sides_
-NNS of_
-IN the_
-DT main_
-JJ drag_
-NNS and_
-CC systematically_
-TO combed_
-VB the_
-DT bars_
-NN ._
-.
-
-Russ_
-PRP visited_
-VBD two_
-CD places_
-NNS without_
-IN result_
-NN and_
-CC his_
-PRP$ blood_
-JJ pressure_
-NN was_
-VBD down_
-RB to_
-TO zero_
-VB ._
-.
-
-Suddenly_
-WRB it_
-PRP seemed_
-VBD to_
-TO him_
-PRP insane_
-VBD that_
-IN they_
-PRP might_
-MD hope_
-VB to_
-TO locate_
-VB Gyp_
-PRP Carmer_
-VBP so_
-RB casually_
-RB ,_
-, even_
-RB were_
-VBD he_
-PRP to_
-TO prove_
-VB the_
-DT thief_
-NN ._
-.
-
-He_
-PRP tramped_
-VBP out_
-RB of_
-IN the_
-DT Miners_
-JJ Rest_
-NNS with_
-IN his_
-PRP$ hopes_
-NNS plummeting_
-'' ,_
-, and_
-CC headed_
-VBD doggedly_
-VBN for_
-IN the_
-DT Palace_
-JJ Saloon_
-NNS ,_
-, the_
-DT last_
-JJ place_
-NN of_
-IN any_
-DT consequence_
-NN on_
-IN this_
-DT side_
-NN of_
-IN the_
-DT street_
-NN ._
-.
-
-The_
-DT Palace_
-NN was_
-VBD an_
-DT elaborate_
-JJ establishment_
-NN ,_
-, built_
-VBD practically_
-RB on_
-IN stilts_
-NN in_
-IN front_
-NN ,_
-, with_
-IN long_
-JJ flights_
-NNS of_
-IN wooden_
-JJ steps_
-NNS running_
-VBP up_
-RB to_
-TO the_
-DT porch_
-NN ._
-.
-
-Behind_
-IN its_
-PRP$ ornate_
-NNS facade_
-IN the_
-DT notorious_
-NNP dive_
-NNP clung_
-VBD like_
-IN a_
-DT bird_
-NNP 's_
-POS nest_
-NN to_
-TO the_
-DT rocky_
-JJ ribs_
-NNS of_
-IN the_
-DT canyonside_
-NN ._
-.
-
-Russ_
-PRP ran_
-VBD up_
-IN the_
-DT steps_
-NNS quickly_
-RB to_
-TO the_
-DT plank_
-JJ porch_
-NN ._
-.
-
-The_
-DT front_
-NN windows_
-, of_
-IN the_
-DT place_
-NN were_
-VBD long_
-RB and_
-CC narrow_
-JJ ,_
-, reaching_
-CC nearly_
-RB to_
-TO the_
-DT floor_
-NN and_
-CC affording_
-IN an_
-DT unusually_
-RB good_
-JJ view_
-NN of_
-IN the_
-DT interior_
-NN ._
-.
-
-Heading_
-PRP for_
-IN the_
-DT batwings_
-NN ,_
-, Cobb_
-PRP glanced_
-MD perfunctorily_
-VB through_
-IN the_
-DT nearest_
-JJS window_
-NN ,_
-, and_
-CC suddenly_
-RB dodged_
-NN aside_
-NN ._
-.
-
-Nerves_
-DT tight_
-JJ as_
-IN a_
-DT bowstring_
-NN ,_
-, he_
-PRP paused_
-VBD to_
-TO gather_
-VB his_
-PRP$ wits_
-NNS ._
-.
-
-all_
-DT expectation_
-NN ,_
-, Carmer_
-PRP was_
-VBD inside_
-RB ,_
-, clearly_
-RB enjoying_
-VB himself_
-PRP to_
-TO the_
-DT hilt_
-NN and_
-CC already_
-RB so_
-RB tipsy_
-VBN that_
-IN it_
-PRP seemed_
-VBD unlikely_
-VBN he_
-PRP was_
-VBD bothering_
-VBN to_
-TO note_
-VB anything_
-NN or_
-CC anyone_
-NN about_
-IN him_
-PRP ._
-.
-
-Fierce_
-DT anger_
-NN surged_
-NN through_
-NN Russ_
-NN ._
-.
-
-He_
-PRP fought_
-VBD down_
-IN the_
-DT impulse_
-NN to_
-TO rush_
-VB in_
-IN and_
-CC collar_
-IN the_
-DT vicious_
-JJ puncher_
-NNS on_
-IN the_
-DT spot_
-NN ._
-.
-
-the_
-DT porch_
-NN rail_
-, beyond_
-IN view_
-NN of_
-IN the_
-DT bar_
-NN windows_
-'' ,_
-, he_
-PRP feverishly_
-MD scanned_
-VB the_
-DT busy_
-JJ street_
-NN below_
-NN ._
-.
-
-Stevens_
-PRP was_
-VBD nowhere_
-RB in_
-IN sight_
-NN ._
-.
-
-Muffling_
-IN an_
-DT exclamation_
-NN ,_
-, Russ_
-PRP sprang_
-VBD to_
-TO the_
-DT nearest_
-JJS steps_
-NNS and_
-CC ran_
-VBD down_
-RB ._
-.
-
-As_
-IN luck_
-NN had_
-VBD it_
-PRP ,_
-, he_
-PRP had_
-VBD not_
-RB gone_
-VBN twenty_
-CD feet_
-NNS in_
-IN the_
-DT street_
-NN before_
-IN Pat_
-PRP appeared_
-VBD ._
-.
-
-What_
-DT luck_
-NN ,_
-, Cobb_
-UH ''_
-'' ?_
-. ?_
-.
-
-He_
-PRP said_
-VBD swiftly_
-NN ._
-.
-
-Russ_
-PRP pointed_
-VBD upward_
-NN ._
-.
-
-``_
-`` He_
-PRP 's_
-VBZ there_
-RB ''_
-'' ,_
-, he_
-PRP got_
-VBD out_
-IN tersely_
-NNP ,_
-, curbing_
-CC his_
-PRP$ rising_
-NNS excitement_
-VBP ._
-.
-
-Hitching_
-IN his_
-PRP$ cartridge_
-JJ belt_
-NN around_
-IN ,_
-, Pat_
-PRP glanced_
-VBD upward_
-DT briefly_
-NN at_
-IN the_
-DT Palace_
-NN and_
-CC started_
-VBD that_
-DT way_
-NN with_
-IN Cobb_
-NN at_
-IN his_
-PRP$ side_
-NN ._
-.
-
-the_
-DT steps_
-NNS steadily_
-'' ,_
-, they_
-PRP reached_
-VBD the_
-DT top_
-NN and_
-CC headed_
-VBD for_
-IN the_
-DT door_
-NN ._
-.
-
-Pat_
-PRP pushed_
-VBD through_
-IN first_
-JJ ._
-.
-
-Forced_
-PRP behind_
-IN him_
-PRP momentarily_
-RB ,_
-, Russ_
-PRP followed_
-VBD at_
-IN once_
-RB and_
-CC halted_
-RB two_
-CD steps_
-NNS inside_
-VBP ._
-.
-
-His_
-PRP$ eyes_
-NNS widened_
-VBP ._
-.
-
-While_
-IN five_
-CD minutes_
-NNS ago_
-RB the_
-DT place_
-NN had_
-VBD presented_
-VBN a_
-DT scene_
-NN of_
-IN easy_
-JJ revelry_
-NNS ,_
-, with_
-IN Gyp_
-PRP Carmer_
-VBD a_
-DT prominent_
-JJ figure_
-NN ,_
-, it_
-PRP was_
-VBD now_
-RB as_
-IN somnolent_
-NN and_
-CC dull_
-JJ as_
-IN the_
-DT day_
-NN before_
-IN payday_
-NN ._
-.
-
-Carmer_
-WRB himself_
-PRP was_
-VBD nowhere_
-RB to_
-TO be_
-VB seen_
-VBN ._
-.
-
-A_
-DT man_
-NN knocked_
-IN the_
-DT roulette_
-JJ ball_
-NNS about_
-IN idly_
-NN in_
-IN its_
-PRP$ track_
-NNS ,_
-, and_
-CC another_
-DT dozed_
-NN at_
-IN one_
-CD of_
-IN the_
-DT card_
-NN tables_
-NN ._
-.
-
-Two_
-CD men_
-NNS murmured_
-VBD with_
-IN their_
-PRP$ heads_
-NNS together_
-RB at_
-IN the_
-DT end_
-NN of_
-IN the_
-DT bar_
-NN ,_
-, while_
-IN the_
-DT sleek-headed_
-NN bartender_
-: absently_
-: polished_
-: a_
-DT glass_
-NN ._
-.
-
-Looking_
-VBG the_
-DT setup_
-NN over_
-IN ,_
-, Stevens_
-PRP started_
-VBD coolly_
-RB for_
-IN the_
-DT rear_
-NN of_
-IN the_
-DT place_
-NN ._
-.
-
-yuh_
-PRP goin_
-MD '_
-VB ''_
-'' ?_
-. ?_
-.
-
-It_
-PRP was_
-VBD the_
-DT barkeep_
-NN ._
-.
-
-Halting_
-NNP ,_
-, Pat_
-PRP turned_
-VBD to_
-TO survey_
-VB him_
-PRP deliberately_
-NN ._
-.
-
-He_
-PRP did_
-VBD not_
-RB reply_
-VB ,_
-, going_
-VBG on_
-IN toward_
-IN the_
-DT back_
-NN ._
-.
-
-Less_
-PRP assured_
-VBD than_
-IN the_
-DT tall_
-JJ ,_
-, wide-shouldered_
-DT man_
-NN in_
-IN the_
-DT lead_
-NN ,_
-, Cobb_
-PRP followed_
-VBD alertly_
-RB ,_
-, a_
-DT hand_
-NN on_
-IN his_
-PRP$ gun_
-NNS butt_
-VBP ._
-.
-
-The_
-DT bartender_
-NN measured_
-IN this_
-DT situation_
-NN with_
-IN heavy_
-PRP$ eyes_
-NNS and_
-CC decided_
-VBD he_
-PRP wanted_
-VBD no_
-DT part_
-NN of_
-IN it_
-PRP ._
-.
-
-He_
-PRP said_
-VBD no_
-DT more_
-JJR ._
-.
-
-A_
-DT hall_
-NN opened_
-VBN in_
-IN back_
-NN of_
-IN the_
-DT bar_
-NN ,_
-, running_
-VBG toward_
-IN an_
-DT ell_
-NN ._
-.
-
-Pat_
-PRP moved_
-VBD into_
-IN it_
-PRP ._
-.
-
-Small_
-JJ rooms_
-NNS ,_
-, probably_
-RB for_
-IN cards_
-NNP ,_
-, opened_
-VBN off_
-RB on_
-IN either_
-DT side_
-NN ._
-.
-
-All_
-DT the_
-DT doors_
-NN were_
-VBD open_
-RB at_
-IN this_
-DT hour_
-NN except_
-IN one_
-CD ,_
-, and_
-CC it_
-PRP was_
-VBD toward_
-IN this_
-DT that_
-IN Stevens_
-PRP made_
-VBD his_
-PRP$ way_
-NN with_
-IN Russ_
-DT close_
-JJ at_
-IN his_
-PRP$ shoulder_
-NNS ._
-.
-
-The_
-DT door_
-NN was_
-VBD locked_
-NN ._
-.
-
-A_
-DT single_
-JJ kick_
-NNS made_
-VBD it_
-PRP spring_
-VBP open_
-RB ,_
-, shuddering_
-PRP ._
-.
-
-Pat_
-PRP saw_
-VBD Gyp_
-VBN Carmer_
-TO staggering_
-VB forward_
-RB ,_
-, a_
-DT half-filled_
-JJ bottle_
-NN upraised_
-VBZ as_
-IN if_
-IN to_
-TO strike_
-NN ._
-.
-
-Russ_
-PRP sprang_
-VBD through_
-IN to_
-TO bat_
-VB it_
-PRP nimbly_
-NN aside_
-NN ._
-.
-
-With_
-IN a_
-DT bellow_
-NN Carmer_
-TO lunged_
-VB at_
-IN him_
-PRP ._
-.
-
-But_
-CC he_
-PRP was_
-VBD more_
-RBR than_
-IN half-drunk_
-NNP ,_
-, and_
-CC his_
-PRP$ faculties_
-NNS were_
-VBD dulled_
-NN ._
-.
-
-Cobb_
-PRP unleashed_
-VBD a_
-DT single_
-JJ powerful_
-JJ jab_
-NNS that_
-IN sent_
-VBN Gyp_
-TO reeling_
-VB wildly_
-RB and_
-CC crashing_
-RB down_
-RB with_
-IN a_
-DT whining_
-NN groan_
-NN ._
-.
-
-He_
-PRP started_
-VBD to_
-TO struggle_
-VB up_
-RB ,_
-, heaving_
-CC desperately_
-RB ._
-.
-
-Russ_
-PRP gave_
-VBD him_
-PRP a_
-DT brutal_
-JJ thrust_
-NNS that_
-IN tumbled_
-WDT him_
-PRP over_
-IN flat_
-NN on_
-IN his_
-PRP$ stomach_
-NNS ._
-.
-
-Kneeling_
-NNP ,_
-, Cobb_
-PRP planted_
-VBD a_
-DT sturdy_
-JJ knee_
-NN in_
-IN the_
-DT small_
-JJ of_
-IN his_
-PRP$ back_
-NN ,_
-, holding_
-WRB him_
-PRP pinned_
-NN ._
-.
-
-Okay_
-NNP ,_
-, Stevens_
-PRP ._
-.
-
-I_
-PRP 've_
-VBP drawn_
-VBN his_
-PRP$ fangs_
-NN ''_
-'' ,_
-, he_
-PRP snapped_
-VBD ._
-.
-
-``_
-`` Go_
-VB through_
-IN his_
-PRP$ pockets_
-NNS ,_
-, will_
-MD you_
-PRP ?_
-. ?_
-.
-
-If_
-IN we_
-PRP have_
-VBP to_
-TO we_
-PRP 'll_
-MD take_
-VB him_
-PRP apart_
-RB and_
-CC see_
-VB what_
-WP he_
-PRP 's_
-VBZ made_
-VBN of_
-IN ''_
-'' !_
-. !_
-.
-
-Pat_
-PRP pulled_
-MD pocket_
-VB after_
-IN pocket_
-PRP inside_
-RB out_
-RB without_
-IN finding_
-VBG a_
-DT thing_
-NN ._
-.
-
-Cobb_
-PRP watched_
-VBD this_
-DT with_
-IN hunted_
-PRP$ eyes_
-NNS ,_
-, his_
-PRP$ desperate_
-JJ hope_
-NN waning_
-, by_
-IN the_
-DT moment_
-NN ._
-.
-
-Stevens_
-PRP was_
-VBD grunting_
-VBN over_
-IN the_
-DT last_
-JJ empty_
-JJ pocket_
-NNS when_
-WRB Russ_
-PRP abruptly_
-MD rose_
-VB and_
-CC lunged_
-RB toward_
-IN Carmer_
-NNP 's_
-POS hat_
-NN ,_
-, which_
-WDT had_
-VBD tumbled_
-DT half-a-dozen_
-JJ feet_
-NNS away_
-RB when_
-WRB he_
-PRP first_
-RB fell_
-NN ._
-.
-
-Cobb_
-PRP got_
-VBD it_
-PRP ._
-.
-
-Straightening_
-PRP up_
-RB ,_
-, his_
-PRP$ eyes_
-NNS ablaze_
-'' ,_
-, he_
-PRP held_
-VBD out_
-IN the_
-DT battered_
-NN Stetson_
-NN ._
-.
-
-this_
-DT ''_
-'' !_
-. !_
-.
-
-the_
-DT crown_
-NN ,_
-, stuffed_
-CC behind_
-IN the_
-DT stained_
-JJ sweatband_
-NNS ,_
-, could_
-MD be_
-VB seen_
-VBN thin_
-JJ ,_
-, crumpled_
-PRP wads_
-VBD of_
-IN currency_
-NN ._
-.
-
-Carmer_
-NNP 's_
-POS ingenious_
-JJ cache_
-NNS for_
-IN his_
-PRP$ loot_
-NNS had_
-VBD been_
-VBN found_
-VBN ._
-.
-
-Stevens_
-PRP !_
-. !_
-.
-
-You_
-PRP were_
-VBD right_
-NN ''_
-'' ,_
-, Russ_
-PRP exclaimed_
-VBD ,_
-, tearing_
-IN the_
-DT loose_
-JJ bills_
-NNS out_
-IN of_
-IN Carmer_
-NNP 's_
-POS hat_
-NN ._
-.
-
-``_
-`` That_
-DT is_
-VBZ ,_
-, if_
-IN we_
-PRP can_
-MD be_
-VB sure_
-IN this_
-DT is_
-VBZ Colcord_
-JJ 's_
-POS money_
-NN ''_
-'' --_
-: Pat_
-PRP grunted_
-NN ._
-.
-
-``_
-`` Where_
-WRB else_
-PRP would_
-MD he_
-PRP get_
-VB it_
-PRP ?_
-. ?_
-.
-
-Count_
-) what_
-WP you_
-PRP 've_
-VBP got_
-RB there_
-RB ,_
-, Cobb_
-PRP ._
-.
-
-We_
-PRP can_
-MD soon_
-RB tell_
-VB ''_
-'' ._
-.
-
-Russ_
-PRP ran_
-VBD through_
-IN the_
-DT bills_
-NN and_
-CC named_
-VBN an_
-DT amount_
-NN it_
-PRP was_
-VBD highly_
-RB unlikely_
-IN any_
-DT cowpuncher_
-NN would_
-MD come_
-JJ by_
-IN honestly_
-NN ._
-.
-
-Pat_
-PRP nodded_
-VBD ._
-.
-
-It_
-PRP 's_
-VBZ within_
-IN a_
-DT hundred_
-CD of_
-IN what_
-WP Crip_
-PRP had_
-VBD ''_
-'' ,_
-, he_
-PRP declared_
-VBD ._
-.
-
-``_
-`` We_
-PRP know_
-VBP Penny_
-RB spent_
-VBN some_
-DT --_
-: and_
-CC Carmer_
-PRP must_
-MD have_
-VB dropped_
-VBN a_
-DT few_
-JJ dollars_
-NNS getting_
-VBG that_
-IN load_
-NN on_
-IN ''_
-'' ._
-.
-
-the_
-DT money_
-NN over_
-IN ,_
-, Russ_
-TO wiped_
-VB his_
-PRP$ hands_
-NNS on_
-IN his_
-PRP$ pants-legs_
-NNS as_
-IN if_
-IN ridding_
-WDT himself_
-PRP of_
-IN something_
-NN unclean_
-NN ._
-.
-
-His_
-PRP$ glance_
-NNS at_
-IN Gyp_
-DT Carmer_
-NN was_
-VBD disdainful_
-NN ._
-.
-
-``_
-`` Shall_
-WRB we_
-PRP get_
-VBP out_
-RB of_
-IN here_
-RB ''_
-'' ?_
-. ?_
-.
-
-the_
-DT card_
-JJ room_
-NN ,_
-, they_
-PRP moved_
-VBD back_
-RB through_
-IN the_
-DT Palace_
-VBG the_
-DT way_
-NN they_
-PRP had_
-VBD come_
-VBN ._
-.
-
-Glowering_
-PRP looks_
-VBZ met_
-WRB them_
-PRP in_
-IN the_
-DT bar_
-NN ,_
-, but_
-CC there_
-EX was_
-VBD no_
-DT attempt_
-NN to_
-TO halt_
-VB them_
-PRP ._
-.
-
-Pausing_
-PRP in_
-IN the_
-DT outside_
-JJ door_
-NN to_
-TO glance_
-VB behind_
-IN him_
-PRP ,_
-, Pat_
-PRP looked_
-VBD his_
-PRP$ unspoken_
-NNS warning_
-, and_
-CC stepped_
-RB out_
-RB ._
-.
-
-He_
-PRP and_
-CC Cobb_
-RB clattered_
-VBN down_
-IN the_
-DT high_
-JJ steps_
-NNS to_
-TO the_
-DT street_
-NN ._
-.
-
-Neither_
-PRP spoke_
-VBD till_
-VBN they_
-PRP reached_
-VBD their_
-PRP$ horses_
-NNS ._
-.
-
-Pat_
-PRP paused_
-VBP there_
-RB ,_
-, looking_
-VBG across_
-IN at_
-IN the_
-DT young_
-JJ fellow_
-NN ._
-.
-
-It_
-PRP 'll_
-MD be_
-VB a_
-DT pleasure_
-NN for_
-IN you_
-PRP to_
-TO return_
-VB this_
-DT money_
-NN to_
-TO Colcord_
-VB and_
-CC tell_
-VB him_
-PRP about_
-IN it_
-PRP ,_
-, Russ_
-UH ''_
-'' ._
-.
-
-He_
-PRP started_
-VBD to_
-TO return_
-VB it_
-PRP ._
-.
-
-his_
-PRP$ faint_
-JJ surprise_
-NNS Russ_
-VBP held_
-VBN up_
-IN his_
-PRP$ hand_
-NN ._
-.
-
-``_
-`` Not_
-RB me_
-PRP ''_
-'' ,_
-, he_
-PRP ruled_
-NN decidedly_
-NN ._
-.
-
-I_
-PRP 've_
-VBP had_
-VBD enough_
-RB ._
-.
-
-It_
-PRP was_
-VBD you_
-PRP that_
-IN tracked_
-WDT it_
-PRP down_
-RB anyway_
-RB ,_
-, Stevens_
-UH ''_
-'' ,_
-, he_
-PRP pursued_
-VBD strictly_
-RB ._
-.
-
-``_
-`` I_
-PRP 'll_
-MD shove_
-VB along_
-IN home_
-NN ''_
-'' ._
-.
-
-Whatever_
-WDT you_
-PRP say_
-VB ''_
-'' ._
-.
-
-Pat_
-PRP swung_
-VBD into_
-IN the_
-DT saddle_
-NN ,_
-, yet_
-RB still_
-RB he_
-PRP delayed_
-VBD ,_
-, his_
-PRP$ brows_
-NNS puckered_
-VBP ._
-.
-
-``_
-`` You_
-PRP owe_
-VBD it_
-PRP to_
-TO Penny_
-VB to_
-TO give_
-VB her_
-PRP a_
-DT chance_
-NN to_
-TO explain_
-VB that_
-IN she_
-PRP was_
-VBD defending_
-VBG you_
-PRP ,_
-, really_
-RB ''_
-'' ,_
-, he_
-PRP observed_
-NN mildly_
-NN ._
-.
-
-Old_
-NNP Crip_
-NNP was_
-VBD n't_
-RB ''_
-'' ,_
-, retorted_
-PRP Cobb_
-NN tartly_
-NN ._
-.
-
-``_
-`` He_
-PRP 'll_
-MD know_
-VB when_
-WRB you_
-PRP tell_
-VB him_
-PRP ._
-.
-
-But_
-CC I_
-PRP want_
-VBP this_
-DT to_
-TO sink_
-VB in_
-IN awhile_
-NN ._
-.
-
-Then_
-RB maybe_
-RBR next_
-JJ time_
-NN he_
-PRP wo_
-MD n't_
-RB be_
-VB so_
-RB quick_
-JJ on_
-IN the_
-DT trigger_
-NN ''_
-'' ._
-.
-
-Pat_
-PRP had_
-VBD never_
-RB pretended_
-VBN to_
-TO give_
-VB advice_
-VBN in_
-IN such_
-JJ affairs_
-NNS ._
-.
-
-``_
-`` You_
-PRP 're_
-VBP the_
-DT doctor_
-NN ''_
-'' ,_
-, he_
-PRP returned_
-VBD with_
-IN a_
-DT smile_
-NN ._
-.
-
-``_
-`` But_
-CC I_
-PRP still_
-RB think_
-VB Penny_
-PRP 's_
-VBZ an_
-DT awful_
-JJ nice_
-JJ girl_
-NN ,_
-, Russ_
-UH ''_
-'' --_
-: ``_
-`` You_
-PRP do_
-VBP n't_
-RB have_
-VB to_
-TO tell_
-VB me_
-PRP ''_
-'' ,_
-, flashed_
-VBN Cobb_
-NN ._
-.
-
-Giving_
-IN the_
-DT other_
-JJ a_
-DT dark_
-JJ look_
-NN ,_
-, he_
-PRP hauled_
-VBD his_
-PRP$ bronc_
-NNS around_
-IN and_
-CC trotted_
-VBD down_
-RB off_
-IN the_
-DT street_
-NN ._
-.
-
-Pat_
-PRP let_
-VB him_
-PRP go_
-VB ,_
-, following_
-VBG more_
-JJR leisurely_
-NN ._
-.
-
-At_
-IN the_
-DT first_
-JJ restaurant_
-, he_
-PRP sensibly_
-MD pulled_
-VB up_
-RB to_
-TO go_
-VB in_
-IN for_
-IN his_
-PRP$ dinner_
-NNS ,_
-, and_
-CC as_
-IN a_
-DT consequence_
-NN did_
-VBD not_
-RB see_
-VB Cobb_
-PRP strike_
-VBP the_
-DT open_
-JJ range_
-NN at_
-IN the_
-DT mouth_
-NN of_
-IN the_
-DT canyon_
-NN and_
-CC head_
-NN straight_
-RB across_
-IN the_
-DT swells_
-NN for_
-IN Antler_
-NN ._
-.
-
-The_
-DT truth_
-NN was_
-VBD ,_
-, the_
-DT puncher_
-NN was_
-VBD both_
-DT bewildered_
-NN and_
-CC dismayed_
-RB by_
-IN his_
-PRP$ own_
-JJ mixed_
-JJ luck_
-NN ._
-.
-
-``_
-`` Penny_
-PRP 's_
-VBZ always_
-RB glad_
-JJ to_
-TO see_
-VB me_
-PRP over_
-RB there_
-RB ''_
-'' ,_
-, he_
-PRP mused_
-NN bleakly_
-NN ._
-.
-
-Yet_
-RB had_
-VBD he_
-PRP not_
-RB visited_
-IN the_
-DT girl_
-NN at_
-IN Saw_
-PRP Buck_
-VBD he_
-PRP would_
-MD never_
-RB have_
-VB been_
-VBN involved_
-VBN in_
-IN this_
-DT latest_
-NN tangle_
-NN ._
-.
-
-that_
-IN ,_
-, however_
-RB ,_
-, was_
-VBD his_
-PRP$ growing_
-JJ suspicion_
-NNS of_
-IN Chuck_
-NNP Stober_
-NNP 's_
-POS part_
-NN in_
-IN recent_
-JJ events_
-NNS ._
-.
-
-``_
-`` Gyp_
-WRB Carmer_
-PRP could_
-MD n't_
-RB have_
-VB known_
-VBN about_
-IN Colcord_
-NNP 's_
-POS money_
-NN unless_
-, he_
-PRP was_
-VBD told_
-VBN --_
-: and_
-CC who_
-WP else_
-PRP would_
-MD have_
-VB told_
-VBN him_
-PRP ''_
-'' ?_
-. ?_
-.
-
-He_
-PRP asked_
-VBD himself_
-PRP ._
-.
-
-``_
-`` It_
-PRP 's_
-VBZ the_
-DT second_
-JJ time_
-NN War_
-NNP Ax_
-POS hands_
-NNS made_
-VBD a_
-DT play_
-NN for_
-IN that_
-DT money_
-NN ._
-.
-
-an_
-DT accident_
-NN could_
-MD that_
-RB be_
-VB ''_
-'' ?_
-. ?_
-.
-
-home_
-NN ,_
-, he_
-PRP jerked_
-VBD to_
-TO attention_
-NN at_
-IN the_
-DT distant_
-JJ crack_
-NNS of_
-IN a_
-DT gun_
-NN ._
-.
-
-In_
-IN town_
-NN no_
-DT one_
-NN paid_
-VBD much_
-JJ attention_
-NN to_
-TO an_
-DT occasional_
-JJ shot_
-NNS ;_
-: ;_
-: but_
-CC on_
-IN the_
-DT range_
-NN gunfire_
-WDT had_
-VBD a_
-DT meaning_
-NN ._
-.
-
-Hauling_
-PRP up_
-RB ,_
-, Russ_
-PRP listened_
-VBP carefully_
-RB ._
-.
-
-Two_
-CD minutes_
-NNS later_
-RB it_
-PRP came_
-VBD again_
-RB --_
-: a_
-DT double_
-JJ explosion_
-NNS ,_
-, followed_
-VBN by_
-IN a_
-DT third_
-JJ ,_
-, sounding_
-RB more_
-RBR distant_
-JJ ._
-.
-
-Cobb_
-PRP could_
-MD determine_
-VB the_
-DT shots_
-NN came_
-VBD from_
-IN the_
-DT direction_
-NN of_
-IN the_
-DT Antler_
-NNP ranch_
-POS house_
-NN ._
-.
-
-He_
-PRP tightened_
-VBP up_
-RB in_
-IN a_
-DT twinkling_
-NN ._
-.
-
-So_
-RB far_
-RB as_
-IN he_
-PRP knew_
-VBD ,_
-, only_
-RB his_
-PRP$ father_
-NN could_
-MD be_
-VB there_
-RB ._
-.
-
-What_
-WP did_
-VBD it_
-PRP mean_
-VBP ?_
-. ?_
-.
-
-Clapping_
-PRP spurs_
-VBD to_
-TO the_
-DT bronc_
-NN he_
-PRP set_
-VBD off_
-RB at_
-IN a_
-DT sharp_
-JJ canter_
-NNS ,_
-, with_
-IN growing_
-VBG alarm_
-NN ._
-.
-
-His_
-PRP$ first_
-JJ glimpse_
-NN of_
-IN the_
-DT ranch_
-JJ house_
-NN across_
-IN the_
-DT brushy_
-NNS swells_
-VBP told_
-VBN him_
-PRP nothing_
-NN ._
-.
-
-Still_
-IN a_
-DT quarter-mile_
-NN away_
-RB ,_
-, the_
-DT fresh_
-JJ clap_
-NNS of_
-IN guns_
-NNS only_
-RB served_
-VBD to_
-TO increase_
-VB his_
-PRP$ speed_
-NN ._
-.
-
-Setting_
-IN a_
-DT course_
-NN straight_
-RB for_
-IN the_
-DT house_
-NN ,_
-, he_
-PRP was_
-VBD covering_
-VBG ground_
-NN fast_
-, when_
-WRB an_
-DT angry_
-JJ bee_
-NNS buzzed_
-IN past_
-NN close_
-RB to_
-TO his_
-PRP$ face_
-NN ._
-.
-
-it_
-PRP was_
-VBD followed_
-VBN by_
-IN a_
-DT second_
-JJ ,_
-, whining_
-CC even_
-RB closer_
-JJR ,_
-, Cobb_
-PRP swerved_
-VBP sharply_
-RB aside_
-RB into_
-IN a_
-DT depression_
-NN ._
-.
-
-He_
-PRP knew_
-VBD now_
-RB what_
-WP he_
-PRP was_
-VBD up_
-RB against_
-NN ._
-.
-
-Whoever_
-PRP was_
-VBD out_
-RB there_
-RB hiding_
-VBN in_
-IN the_
-DT brushy_
-NNP cover_
-NNP was_
-VBD besieging_
-IN the_
-DT Antler_
-JJ house_
-NN and_
-CC ,_
-, having_
-VBG spotted_
-IN his_
-PRP$ approach_
-NN ,_
-, was_
-VBD determined_
-VBN to_
-TO drive_
-VB him_
-PRP off_
-RB before_
-IN he_
-PRP could_
-MD get_
-VB into_
-IN the_
-DT fight_
-NN ._
-.
-
-himself_
-PRP for_
-IN having_
-VBG ridden_
-VBN out_
-IN the_
-DT last_
-JJ few_
-JJ days_
-NNS without_
-IN a_
-DT rifle_
-NN in_
-IN his_
-PRP$ saddle_
-JJ boot_
-NNS ,_
-, Russ_
-PRP drew_
-VBD his_
-PRP$ Colt_
-NNS and_
-CC examined_
-WRB it_
-PRP briefly_
-NN ._
-.
-
-If_
-IN he_
-PRP wondered_
-VBD whether_
-IN the_
-DT attackers_
-NN would_
-MD allow_
-VB him_
-PRP to_
-TO pull_
-VB away_
-RB unmolested_
-RB ,_
-, he_
-PRP had_
-VBD his_
-PRP$ answer_
-NN a_
-DT moment_
-NN later_
-NN ._
-.
-
-this_
-DT way_
-NN !_
-. !_
-.
-
-He_
-PRP ai_
-VBP n't_
-RB gone_
-VBN far_
-RB ''_
-'' !_
-. !_
-.
-
-A_
-DT harsh_
-JJ cry_
-TO floated_
-VB to_
-TO him_
-PRP across_
-IN the_
-DT brush_
-NN ._
-.
-
-A_
-DT carbine_
-NN cracked_
-VBZ more_
-RBR loudly_
-JJ ,_
-, and_
-CC a_
-DT slug_
-NNP clipped_
-POS fragments_
-NNS from_
-IN the_
-DT brush_
-NN off_
-RB at_
-IN one_
-CD side_
-NN ._
-.
-
-The_
-DT would-be_
-NNP assassin_
-NNP had_
-VBD his_
-PRP$ position_
-NN figured_
-NN pretty_
-NN close_
-NN ._
-.
-
-Dismounting_
-NNP ,_
-, Russ_
-PRP looked_
-VBD about_
-IN hastily_
-NN ._
-.
-
-Toward_
-IN the_
-DT west_
-JJ this_
-DT depression_
-NN led_
-VBN toward_
-IN a_
-DT draw_
-NN ._
-.
-
-Leading_
-IN his_
-PRP$ pony_
-NNS ,_
-, he_
-PRP hurried_
-VBD that_
-DT way_
-NN ,_
-, not_
-RB remounting_
-TO till_
-VB he_
-PRP was_
-VBD well_
-RB below_
-IN the_
-DT level_
-NN of_
-IN the_
-DT surrounding_
-JJ range_
-NN ._
-.
-
-the_
-DT horn_
-NN ,_
-, he_
-PRP urged_
-VBD his_
-PRP$ mount_
-NNS down_
-IN the_
-DT meandering_
-NN draw_
-NN ._
-.
-
-He_
-PRP had_
-VBD not_
-RB covered_
-VBN a_
-DT hundred_
-CD yards_
-NNS before_
-IN a_
-DT gun_
-JJ crashed_
-NNS from_
-IN somewhere_
-NN behind_
-NN ._
-.
-
-He_
-PRP had_
-VBD been_
-VBN sighted_
-RB ,_
-, and_
-CC his_
-PRP$ attacker_
-NNS pumping_
-. shot_
-NN after_
-NN shot_
-NN ._
-.
-
-A_
-DT shot_
-NN or_
-CC two_
-CD went_
-VBD wild_
-VBN before_
-IN Cobb_
-PRP felt_
-VBD something_
-NN tug_
-, at_
-IN his_
-PRP$ foot_
-NN ._
-.
-
-A_
-DT slug_
-NN had_
-VBD torn_
-VBN half_
-RB of_
-IN his_
-PRP$ stirrup-guard_
-NNS away_
-RB ._
-.
-
-A_
-DT second_
-JJ twitched_
-CC his_
-PRP$ shirtsleeve_
-NNS ,_
-, and_
-CC he_
-PRP felt_
-VBD a_
-DT brief_
-JJ burn_
-NNS on_
-IN his_
-PRP$ upper_
-JJ arm_
-NN ._
-.
-
-Another_
-DT snarled_
-NN close_
-NN overhead_
-NN ._
-.
-
-Jumping_
-PRP Jerusalem_
-RB !_
-. !_
-.
-
-Let_
-PRP 's_
-MD get_
-VB out_
-RB of_
-IN here_
-RB ''_
-'' !_
-. !_
-.
-
-the_
-DT first_
-JJ shot_
-NNS Russ_
-WDT had_
-VBD hurled_
-TO his_
-PRP$ mount_
-NN to_
-TO the_
-DT left_
-NN toward_
-IN the_
-DT side_
-NN of_
-IN the_
-DT winding_
-NN draw_
-NN ._
-.
-
-The_
-DT long_
-JJ minute_
-NNS before_
-IN he_
-PRP reached_
-VBD effective_
-JJ cover_
-NN seemed_
-NN endless_
-NN ._
-.
-
-Sweeping_
-IN a_
-DT look_
-NN around_
-IN ,_
-, he_
-PRP saw_
-VBD that_
-IN he_
-PRP was_
-VBD safe_
-JJ for_
-IN the_
-DT moment_
-NN ._
-.
-
-He_
-PRP heard_
-VBD cries_
-VBN from_
-IN behind_
-IN him_
-PRP ,_
-, but_
-CC he_
-PRP could_
-MD make_
-VB out_
-IN no_
-DT words_
-NNS ._
-.
-
-He_
-PRP dashed_
-MD madly_
-VB for_
-IN the_
-DT next_
-JJ elbow_
-TO turn_
-VB in_
-IN the_
-DT draw_
-NN ,_
-, and_
-CC made_
-VBD it_
-PRP ._
-.
-
-Recklessly_
-PRP hurling_
-VBD the_
-DT bronc_
-JJ sidewise_
-NNS into_
-IN an_
-DT intersecting_
-JJ draw_
-NNS ,_
-, he_
-PRP plunged_
-VB forward_
-RB with_
-IN undiminished_
-DT speed_
-NN ._
-.
-
-the_
-DT wash_
-NN climbed_
-VBZ upward_
-RB ,_
-, forcing_
-WRB him_
-PRP toward_
-IN open_
-JJ range_
-NN ._
-.
-
-he_
-PRP must_
-MD chance_
-VB it_
-PRP ._
-.
-
-He_
-PRP clambered_
-VBP out_
-RB of_
-IN the_
-DT dwindling_
-JJ wash_
-NN ,_
-, the_
-DT loose_
-JJ dirt_
-NN flying_
-, behind_
-IN him_
-PRP ,_
-, and_
-CC flashed_
-VBN a_
-DT look_
-NN about_
-NN ._
-.
-
-November_
-IN the_
-DT clouds_
-NNS lifted_
-VBD enough_
-RB to_
-TO carry_
-VB out_
-IN the_
-DT assigned_
-NN missions_
-NN ._
-.
-
-And_
-CC Sweeney_
-PRP Squadron_
-MD put_
-VB its_
-PRP$ first_
-JJ marks_
-NNS on_
-IN the_
-DT combat_
-JJ record_
-NN ._
-.
-
-Every_
-DT plane_
-NN that_
-WDT could_
-MD fly_
-VB was_
-VBD sent_
-VBN into_
-IN the_
-DT air_
-NN ._
-.
-
-Cricket_
-PRP took_
-VBD eight_
-CD ships_
-NNS and_
-CC went_
-VBD south_
-RB across_
-IN the_
-DT Straits_
-NN and_
-CC along_
-IN the_
-DT north_
-JJ coast_
-NNS of_
-IN Mindanao_
-VBG to_
-TO Cagayan_
-VB ._
-.
-
-Anything_
-IN the_
-DT enemy_
-NN flew_
-, or_
-CC floated_
-PRP was_
-VBD his_
-PRP$ target_
-NN ._
-.
-
-Fleischman_
-PRP with_
-IN eight_
-CD was_
-VBD to_
-TO patrol_
-VB the_
-DT Leyte_
-NNP Gulf_
-POS area_
-NN ,_
-, with_
-IN his_
-PRP$ main_
-JJ task_
-NN to_
-TO get_
-VB any_
-DT kamikaze_
-NN before_
-IN they_
-PRP got_
-VBD to_
-TO the_
-DT ships_
-NNS ._
-.
-
-Greg_
-WRB himself_
-PRP took_
-VBD two_
-CD flights_
-NNS ,_
-, with_
-IN Todman_
-DT leading_
-VBG the_
-DT second_
-JJ ,_
-, to_
-TO patrol_
-VB and_
-CC look_
-VB for_
-IN targets_
-NNS of_
-IN opportunities_
-NN around_
-IN Ormoc_
-NN on_
-IN the_
-DT east_
-JJ coast_
-NNS of_
-IN Leyte_
-NN ._
-.
-
-Each_
-DT plane_
-NN carried_
-. two_
-. five-hundred_
-NN pound_
-NN bombs_
-NN ._
-.
-
-A_
-DT weapons_
-NNS carrier_
-WDT took_
-VBD Greg_
-RB ,_
-, Todman_
-RB ,_
-, Belton_
-RB ,_
-, Banjo_
-CC Ferguson_
-NNP ,_
-, and_
-CC Walters_
-JJ and_
-CC the_
-DT others_
-NNS the_
-DT two_
-CD miles_
-NNS from_
-IN the_
-DT bivouac_
-JJ area_
-NN to_
-TO the_
-DT strip_
-NN ._
-.
-
-It_
-PRP was_
-VBD a_
-DT rough_
-JJ long_
-JJ ride_
-NN through_
-IN the_
-DT mud_
-NN and_
-CC pot_
-JJ holes_
-NNS ._
-.
-
-No_
-DT one_
-NN had_
-VBD much_
-RB to_
-TO say_
-VB ._
-.
-
-The_
-DT sky_
-NN glowered_
-VBZ down_
-RB at_
-IN them_
-PRP ._
-.
-
-There_
-EX was_
-VBD a_
-DT feeling_
-NN that_
-IN this_
-DT mission_
-NN would_
-MD be_
-VB canceled_
-VBN like_
-IN all_
-PDT the_
-DT others_
-NNS and_
-CC that_
-IN this_
-DT muddy_
-JJ wet_
-JJ dark_
-JJ world_
-NN of_
-IN combat_
-PRP would_
-MD go_
-VB on_
-IN forever_
-RB ._
-.
-
-The_
-DT truck_
-NN dropped_
-, them_
-PRP off_
-IN at_
-IN the_
-DT various_
-JJ revetments_
-NNS spread_
-VBN through_
-IN the_
-DT jungle_
-NN ._
-.
-
-Donovan_
-NNP snatched_
-NNP Greg_
-NNP 's_
-POS chute_
-NN from_
-IN him_
-PRP with_
-IN a_
-DT belligerent_
-JJ motion_
-NN and_
-CC almost_
-RB ran_
-VBD to_
-TO the_
-DT plane_
-NN with_
-IN it_
-PRP ._
-.
-
-His_
-PRP$ face_
-NN was_
-VBD dark_
-RB as_
-IN the_
-DT sky_
-NN above_
-RB it_
-PRP as_
-IN he_
-PRP stood_
-VBD on_
-IN the_
-DT wing_
-NN and_
-CC waited_
-VBD for_
-IN his_
-PRP$ pilot_
-NNS ._
-.
-
-Greg_
-PRP climbed_
-VBD into_
-IN the_
-DT cockpit_
-JJ feeling_
-NN as_
-IN if_
-IN he_
-PRP had_
-VBD never_
-RB been_
-VBN in_
-IN one_
-NN before_
-NN ._
-.
-
-But_
-CC his_
-PRP$ hands_
-NNS and_
-CC those_
-DT of_
-IN Donovan_
-PRP moved_
-VBD automatically_
-RB adjusting_
-, and_
-CC arranging_
-RB in_
-IN the_
-DT check-out_
-NN procedure_
-NN ._
-.
-
-I_
-PRP 've_
-VBP got_
-VBD her_
-PRP as_
-RB neat_
-JJ as_
-IN I_
-PRP can_
-MD ''_
-'' ,_
-, Donovan_
-PRP said_
-VBD ,_
-, as_
-IN he_
-PRP dropped_
-VBD the_
-DT straps_
-NN of_
-IN the_
-DT Seton_
-JJ harness_
-NNS over_
-IN Greg_
-NNP 's_
-POS shoulders_
-NNS ._
-.
-
-``_
-`` But_
-CC this_
-DT goddamn_
-NN climate_
-NN ._
-.
-
-It_
-PRP 's_
-VBZ for_
-IN carabao_
-PRP not_
-RB airplanes_
-VB ''_
-'' ._
-.
-
-We_
-PRP 'll_
-MD make_
-VB out_
-RB ._
-.
-
-Do_
-PRP n't_
-RB you_
-PRP worry_
-VBD ,_
-, chief_
-JJ ''_
-'' ,_
-, Greg_
-PRP replied_
-VBD ,_
-, wondering_
-CC if_
-IN he_
-PRP himself_
-PRP believed_
-VBD it_
-PRP ._
-.
-
-I_
-PRP guided_
-VBD her_
-PRP to_
-TO the_
-DT divan_
-NN ,_
-, turned_
-VBN off_
-IN the_
-DT TV_
-NN ,_
-, faced_
-VBN her_
-NN ._
-.
-
-She_
-PRP sat_
-VBD quietly_
-RB ,_
-, staring_
-CC at_
-IN me_
-PRP from_
-IN the_
-DT wide_
-JJ eyes_
-NNS ._
-.
-
-And_
-CC what_
-WP eyes_
-NNS they_
-PRP were_
-VBD ._
-.
-
-Big_
-PRP and_
-CC dark_
-JJ ,_
-, a_
-DT melting_
-NN ,_
-, golden_
-JJ brown_
-NN ._
-.
-
-Eyes_
-PRP like_
-IN hot_
-JJ honey_
-NN ,_
-, eyes_
-NNS that_
-IN sizzled_
-NN ._
-.
-
-Plus_
-DT flawless_
-JJ skin_
-NN ,_
-, smooth_
-JJ brow_
-NNS and_
-CC cheeks_
-NNP ,_
-, lips_
-IN that_
-WDT looked_
-VBD as_
-IN if_
-IN you_
-PRP could_
-MD get_
-VB a_
-DT shock_
-NN from_
-IN them_
-PRP ._
-.
-
-It_
-PRP was_
-VBD a_
-DT disturbingly_
-JJ familiar_
-JJ face_
-NN ,_
-, too_
-RB ,_
-, but_
-CC I_
-PRP could_
-MD n't_
-RB remember_
-VB where_
-WRB we_
-PRP had_
-VBD met_
-NN ._
-.
-
-I_
-PRP said_
-VBD ,_
-, ``_
-`` Do_
-WRB we_
-PRP know_
-VBP each_
-DT other_
-JJ ,_
-, Miss_
-NNP ''_
-'' ?_
-. ?_
-.
-
-I_
-PRP remembered_
-VBD reading_
-VBN about_
-IN you_
-PRP in_
-IN the_
-DT papers_
-NNS and_
-CC that_
-IN you_
-PRP lived_
-VBP here_
-RB ,_
-, and_
-CC when_
-WRB it_
-PRP happened_
-VBD all_
-DT I_
-PRP could_
-MD think_
-VB of_
-IN was_
-VBD ''_
-'' --_
-: This_
-DT time_
-NN she_
-PRP stopped_
-VBD the_
-DT rush_
-NN of_
-IN words_
-NNS herself_
-VBP ._
-.
-
-``_
-`` I_
-PRP 'm_
-VBP sorry_
-NN ._
-.
-
-Shall_
-WRB I_
-PRP go_
-VBP on_
-IN ''_
-'' ?_
-. ?_
-.
-
-She_
-PRP smiled_
-NN ._
-.
-
-It_
-PRP was_
-VBD her_
-PRP$ first_
-JJ smile_
-NN ._
-.
-
-worth_
-JJ waiting_
-NNS for_
-IN ._
-.
-
-Sure_
-UH ''_
-'' ._
-.
-
-I_
-PRP said_
-VBD ._
-.
-
-``_
-`` But_
-CC one_
-CD word_
-NN at_
-IN a_
-DT time_
-NN ,_
-, O.K._
-UH ''_
-'' ?_
-. ?_
-.
-
-She_
-PRP was_
-VBD still_
-RB hugging_
-IN the_
-DT stained_
-JJ coat_
-NN around_
-IN her_
-PRP ,_
-, so_
-RB I_
-PRP said_
-VBD ,_
-, ``_
-`` Relax_
-NNP ,_
-, let_
-VB me_
-PRP take_
-VB your_
-PRP$ things_
-NNS ._
-.
-
-Would_
-WRB you_
-PRP like_
-IN a_
-DT drink_
-NN ,_
-, or_
-CC coffee_
-NNP ''_
-'' ?_
-. ?_
-.
-
-thanks_
-UH ''_
-'' ._
-.
-
-She_
-PRP stood_
-VBD up_
-RB ,_
-, pulled_
-IN the_
-DT coat_
-NN from_
-IN her_
-PRP$ shoulders_
-NNS and_
-CC started_
-VBD to_
-TO slide_
-VB it_
-PRP off_
-RB ,_
-, then_
-RB let_
-VB out_
-RP a_
-DT high-pitched_
-JJ scream_
-NNS and_
-CC I_
-PRP let_
-VBD out_
-RP a_
-DT low-pitched_
-NN ,_
-, wobbling_
-DT sound_
-NN like_
-IN a_
-DT muffler_
-NN blowing_
-NN out_
-NN ._
-.
-
-She_
-PRP was_
-VBD wearing_
-VBG nothing_
-NN beneath_
-IN the_
-DT coat_
-NN ._
-.
-
-She_
-PRP jerked_
-VBD the_
-DT coat_
-NN back_
-RB on_
-IN and_
-CC squeezed_
-VBN it_
-PRP around_
-IN her_
-PRP again_
-RB ,_
-, but_
-CC not_
-RB soon_
-RB enough_
-RB ._
-.
-
-There_
-EX had_
-VBD been_
-VBN a_
-DT good_
-JJ second_
-JJ or_
-CC two_
-CD during_
-IN which_
-WDT my_
-PRP$ muffler_
-NNS had_
-VBD been_
-VBN blowing_
-RB out_
-RB ,_
-, and_
-CC now_
-RB I_
-PRP was_
-VBD certain_
-VBN I_
-PRP 'd_
-MD seen_
-VB her_
-PRP$ somewhere_
-NNS before_
-VBP ._
-.
-
-I_
-PRP forgot_
-VBD ''_
-'' !_
-. !_
-.
-
-She_
-PRP yelped_
-NN ._
-.
-
-``_
-`` Oh_
-NNP ,_
-, do_
-VBP forgive_
-VB me_
-PRP ._
-.
-
-I_
-PRP 'm_
-VBP sorry_
-VBN ''_
-'' !_
-. !_
-.
-
-I_
-PRP forgive_
-VB ''_
-'' --_
-: ``_
-`` That_
-DT 's_
-NNS what_
-WP started_
-VBD all_
-PDT the_
-DT trouble_
-NN in_
-IN the_
-DT first_
-JJ place_
-NN ._
-.
-
-Oh_
-NNP ,_
-, dear_
-JJ ,_
-, I_
-PRP 'm_
-VBP all_
-DT unstrung_
-NN ''_
-'' ._
-.
-
-You_
-PRP and_
-CC me_
-PRP both_
-VBD ,_
-, dear_
-JJ ._
-.
-
-Have_
-PRP n't_
-RB we_
-PRP have_
-VBP n't_
-RB I_
-PRP seen_
-VBD you_
-PRP ._
-.
-
-I_
-PRP mean_
-VBP ,_
-, surely_
-RB we_
-PRP 've_
-VBP ''_
-'' --_
-: ``_
-`` You_
-PRP may_
-MD have_
-VB seen_
-VBN me_
-PRP on_
-IN TV_
-NNP ''_
-'' ,_
-, she_
-PRP said_
-VBD ._
-.
-
-``_
-`` I_
-PRP 've_
-VBP done_
-VBN several_
-RB filmed_
-VBN commercials_
-VBN for_
-IN ''_
-'' --_
-: Then_
-RB it_
-PRP hit_
-VBD me_
-PRP ._
-.
-
-``_
-`` Zing_
-NNS ''_
-'' !_
-. !_
-.
-
-I_
-PRP cried_
-NN ._
-.
-
-day_
-NN Matsuo_
-WDT saw_
-VBD a_
-DT marine_
-NN ._
-.
-
-The_
-DT enemy_
-NN came_
-VBD looming_
-VBN around_
-IN a_
-DT bend_
-NN in_
-IN the_
-DT trail_
-NN and_
-CC Matsuo_
-PRP took_
-VBD a_
-DT hasty_
-JJ shot_
-NNS ,_
-, then_
-RB fled_
-VBN without_
-IN knowing_
-VBG the_
-DT result_
-NN ,_
-, ran_
-VBD until_
-IN breath_
-PRP was_
-VBD a_
-DT pain_
-NN in_
-IN his_
-PRP$ chest_
-NN and_
-CC his_
-PRP$ legs_
-NNS were_
-VBD rubbery_
-NN ._
-.
-
-As_
-IN his_
-PRP$ feet_
-NNS slowed_
-'' ,_
-, he_
-PRP felt_
-VBD ashamed_
-VBN of_
-IN the_
-DT panic_
-NN and_
-CC resolved_
-VBN to_
-TO make_
-VB a_
-DT stand_
-NN ._
-.
-
-He_
-PRP crossed_
-VBD the_
-DT next_
-JJ meadow_
-NNS and_
-CC climbed_
-IN a_
-DT tree_
-NN where_
-WRB the_
-DT jungle_
-NN trail_
-NN resumed_
-NN ._
-.
-
-the_
-DT leafiest_
-JJ part_
-NN of_
-IN the_
-DT tree_
-NN ,_
-, straddling_
-IN a_
-DT broad_
-JJ horizontal_
-NN limb_
-'' ,_
-, he_
-PRP could_
-MD see_
-VB over_
-IN the_
-DT meadow_
-NN ._
-.
-
-For_
-IN a_
-DT while_
-NN he_
-PRP was_
-VBD content_
-VBN to_
-TO let_
-VB events_
-TO develop_
-VB in_
-IN their_
-PRP$ good_
-JJ time_
-NN ._
-.
-
-He_
-PRP had_
-VBD no_
-DT doubt_
-NN the_
-DT marine_
-NN was_
-VBD the_
-DT lead_
-JJ scout_
-NNS of_
-IN a_
-DT column_
-NN ,_
-, and_
-CC while_
-IN his_
-PRP$ shot_
-NNS had_
-VBD probably_
-RB bred_
-JJ indecision_
-NNS ,_
-, they_
-PRP would_
-MD soon_
-RB come_
-VBN hunting_
-NN ._
-.
-
-His_
-PRP$ superiors_
-NNS had_
-VBD emphasized_
-VBN that_
-IN marines_
-DT tortured_
-JJ others_
-NNS for_
-IN the_
-DT sheer_
-JJ pleasure_
-NN ._
-.
-
-Yesterday_
-PRP ;_
-: ;_
-: today_
-: ;_
-NNS ;_
-NNS tomorrow_
-NNS :_
-: no_
-DT surrender_
-NN ._
-.
-
-His_
-PRP$ remembering_
-`` the_
-DT self-dictate_
-NN brought_
-VBD no_
-DT peace_
-NN --_
-: only_
-RB a_
-DT faint_
-JJ chill_
-NNS of_
-IN doubt_
-NN ._
-.
-
-He_
-PRP murmured_
-VBD to_
-TO himself_
-PRP ,_
-, with_
-IN firmness_
-NN :_
-: ``_
-`` No_
-DT surrender_
-NN ''_
-'' ._
-.
-
-It_
-PRP was_
-VBD best_
-VBN to_
-TO die_
-VB fighting_
-IN the_
-DT marines_
-NN ._
-.
-
-His_
-PRP$ superiors_
-NNS had_
-VBD also_
-RB preached_
-IN this_
-DT ,_
-, saying_
-VBG it_
-PRP was_
-VBD the_
-DT way_
-NN for_
-IN eternal_
-NN honor_
-NN ._
-.
-
-What_
-WP if_
-IN the_
-DT marines_
-NN never_
-RB came_
-VBD ?_
-. ?_
-.
-
-His_
-PRP$ comrades_
-NNS were_
-VBD all_
-DT dead_
-JJ ._
-.
-
-He_
-PRP had_
-VBD no_
-DT rice_
-NN ._
-.
-
-Then_
-RB it_
-PRP would_
-MD be_
-VB a_
-DT choice_
-NN between_
-IN starvation_
-NN and_
-CC suicide_
-NN ._
-.
-
-Whichever_
-IN the_
-DT way_
-NN ,_
-, he_
-PRP would_
-MD rot_
-VB in_
-IN this_
-DT vast_
-JJ choking_
-CC green_
-JJ ,_
-, his_
-PRP$ wife_
-NN never_
-RB to_
-TO receive_
-VB an_
-DT urn_
-NN of_
-IN his_
-PRP$ ashes_
-NNS ._
-.
-
-He_
-PRP sighed_
-, and_
-CC leaned_
-RB for_
-IN a_
-DT moment_
-NN against_
-IN the_
-DT trunk_
-NN ._
-.
-
-His_
-PRP$ fingers_
-NNS touched_
-VBD the_
-DT bone_
-NN handle_
-, of_
-IN a_
-DT knife_
-NN ._
-.
-
-The_
-DT knife_
-NN ,_
-, an_
-DT ammunition_
-JJ pouch_
-NNS ,_
-, and_
-CC a_
-DT half-filled_
-JJ bottle_
-NN of_
-IN purified_
-DT water_
-NN hung_
-VBN on_
-IN his_
-PRP$ belt_
-NN ._
-.
-
-Besides_
-IN the_
-DT belt_
-NN he_
-PRP wore_
-VBD a_
-DT loin_
-NN cloth_
-NN ._
-.
-
-he_
-PRP looked_
-VBD up_
-RB from_
-IN picking_
-VBG at_
-IN a_
-DT leg_
-NN ulcer_
-'' ,_
-, he_
-PRP saw_
-VBD a_
-DT marine_
-NN in_
-IN the_
-DT jungle_
-NN across_
-IN the_
-DT clearing_
-NN ._
-.
-
-Gloom_
-PRP receded_
-NN ._
-.
-
-The_
-DT marine_
-NN came_
-VBD to_
-TO the_
-DT edge_
-NN of_
-IN the_
-DT green_
-JJ jungle_
-NNS mist_
-, and_
-CC stayed_
-VBD ,_
-, as_
-IN though_
-IN debating_
-NN whether_
-IN to_
-TO brave_
-VB the_
-DT sunlight_
-NN ._
-.
-
-His_
-PRP$ fatigues_
-NNS made_
-VBD a_
-DT streak_
-NN of_
-IN almost_
-RB phosphorescent_
-RBR green_
-JJ in_
-IN the_
-DT mist_
-NN ._
-.
-
-the_
-DT meadow_
-NN ''_
-'' ,_
-, Matsuo_
-PRP said_
-VBD under_
-IN his_
-PRP$ breath_
-NNS ._
-.
-
-The_
-DT man_
-NN leaned_
-, against_
-IN a_
-DT tree_
-NN and_
-CC wiped_
-IN a_
-DT sleeve_
-NN across_
-IN his_
-PRP$ face_
-NN ._
-.
-
-A_
-DT signal_
-NN ?_
-. ?_
-.
-
-Matsuo_
-PRP lifted_
-VBD his_
-PRP$ rifle_
-NNS ,_
-, easing_
-IN the_
-DT sling_
-NN under_
-IN his_
-PRP$ left_
-VBN upper_
-JJ arm_
-NN for_
-IN steadiness_
-NN ._
-.
-
-Fresh_
-PRP on_
-IN his_
-PRP$ mind_
-NN were_
-VBD events_
-NNS of_
-IN the_
-DT past_
-JJ day_
-NN when_
-WRB his_
-PRP$ whole_
-JJ regiment_
-NNS was_
-VBD destroyed_
-VBN in_
-IN the_
-DT hills_
-NNS ._
-.
-
-They_
-PRP had_
-VBD fought_
-VBN from_
-IN caves_
-NNP ,_
-, and_
-CC the_
-DT marines_
-JJ resorted_
-NN to_
-TO burning_
-VB them_
-PRP out_
-IN ._
-.
-
-Even_
-RB now_
-RB ,_
-, like_
-IN a_
-DT ringing_
-NN in_
-IN his_
-PRP$ ears_
-NNS ,_
-, he_
-PRP heard_
-VBD the_
-DT wooooosh_
-NN of_
-IN flame-throwers_
-NNP squirting_
-POS great_
-JJ orange_
-NN billows_
-NN ._
-.
-
-A_
-DT wave_
-NN of_
-IN flame_
-DT rippling_
-NN through_
-IN their_
-PRP$ cave_
-NNS had_
-VBD reached_
-TO Nagamo_
-VB ,_
-, his_
-PRP$ friend_
-NN ,_
-, and_
-CC with_
-IN a_
-DT shriek_
-VBG the_
-DT man_
-NN bolted_
-, through_
-IN the_
-DT entrance_
-NN ,_
-, then_
-RB slowed_
-VBN to_
-TO the_
-DT jerky_
-JJ walk_
-NN of_
-IN a_
-DT puppet_
-NN ,_
-, his_
-PRP$ uniform_
-NNS blazing_
-VBP ._
-.
-
-The_
-DT marines_
-MD let_
-VB him_
-PRP advance_
-NN ._
-.
-
-When_
-WRB he_
-PRP sank_
-VBD on_
-IN his_
-PRP$ knees_
-NNS ,_
-, they_
-PRP had_
-VBD allowed_
-VBN him_
-PRP to_
-TO char_
-VB without_
-IN administering_
-VBG the_
-DT stroke_
-NN of_
-IN mercy_
-NN ._
-.
-
-Matsuo_
-PRP had_
-VBD faked_
-DT death_
-NN and_
-CC was_
-VBD pitched_
-VBN on_
-IN a_
-DT stack_
-NN of_
-IN corpses_
-NNP ,_
-, both_
-DT the_
-DT burned_
-NN and_
-CC the_
-DT unburned_
-NN ,_
-, the_
-DT latter_
-NN decomposing_
-VBZ rapidly_
-RB under_
-IN the_
-DT tropical_
-JJ sun_
-NN ._
-.
-
-The_
-DT callous_
-JJ marines_
-NNS had_
-VBD laughed_
-VBN at_
-IN each_
-DT other_
-NN 's_
-POS retching_
-NN ,_
-, while_
-IN stacking_
-PRP$ bodies_
-NNS ._
-.
-
-Matsuo_
-PRP repeatedly_
-MD choked_
-VB down_
-IN his_
-PRP$ own_
-JJ nausea_
-NN ._
-.
-
-At_
-IN nightfall_
-WDT he_
-PRP had_
-VBD been_
-VBN able_
-JJ to_
-TO sneak_
-VB down_
-IN a_
-DT hillside_
-NN and_
-CC into_
-IN the_
-DT jungle_
-NN ,_
-, reeking_
-CC of_
-IN death_
-NN ._
-.
-
-he_
-PRP peered_
-VBD to_
-TO the_
-DT left_
-NN ,_
-, to_
-TO the_
-DT right_
-NN into_
-IN the_
-DT leafy_
-NN ,_
-, vine-crisscrossed_
-DT maze_
-NN ._
-.
-
-He_
-PRP decided_
-VBD that_
-IN the_
-DT marines_
-NN must_
-MD be_
-VB deploying_
-VBN around_
-IN the_
-DT meadow_
-NN ,_
-, with_
-IN the_
-DT one_
-NN left_
-VBD to_
-TO distract_
-VB him_
-PRP ._
-.
-
-He_
-PRP strained_
-VBD his_
-PRP$ hearing_
-NNS ._
-.
-
-Cautious_
-PRP$ feet_
-NNS stepping_
-VBG on_
-IN leafmold_
-NN ;_
-: ;_
-: faint_
-: creaking_
-: of_
-IN belts_
-NN and_
-CC slings_
-RB ;_
-NNS ;_
-NNS whispers_
-NNS :_
-: he_
-PRP heard_
-VBD none_
-NN of_
-IN these_
-DT ._
-.
-
-Only_
-RB the_
-DT hum_
-NN of_
-IN insects_
-NNS and_
-CC the_
-DT distant_
-JJ fluttering_
-TO call_
-VB of_
-IN a_
-DT bird_
-NN ._
-.
-
-Because_
-WRB he_
-PRP could_
-MD n't_
-RB hear_
-VB them_
-PRP ,_
-, he_
-PRP was_
-VBD more_
-RB convinced_
-JJ they_
-PRP were_
-VBD there_
-RB ._
-.
-
-A_
-DT spectacle_
-NN occurred_
-VBN across_
-IN the_
-DT meadow_
-NN :_
-: the_
-DT lone_
-NNP marine_
-NNP took_
-VBD a_
-DT seat_
-NN on_
-IN the_
-DT ground_
-NN ;_
-: ;_
-: leaning_
-: sidewise_
-: on_
-IN a_
-DT tree_
-NN trunk_
-'' ,_
-, he_
-PRP embraced_
-VBD it_
-PRP ._
-.
-
-Humiliation_
-PRP made_
-VBD Matsuo_
-NN tremble_
-NN ._
-.
-
-While_
-IN his_
-PRP$ comrades_
-NNS cocked_
-IN the_
-DT trap_
-NN ,_
-, that_
-IN one_
-CD behaved_
-NNS as_
-IN if_
-IN it_
-PRP was_
-VBD some_
-DT dull_
-JJ maneuver_
-NN ._
-.
-
-aim_
-NN at_
-IN the_
-DT man_
-NN 's_
-POS face_
-NN ,_
-, Matsuo_
-RB squeezed_
-VBN the_
-DT trigger_
-NN up_
-RB to_
-TO the_
-DT point_
-NN of_
-IN discharge_
-NNP ,_
-, and_
-CC then_
-RB he_
-PRP changed_
-VBD his_
-PRP$ mind_
-NN ._
-.
-
-He_
-PRP wanted_
-VBD the_
-DT arrogant_
-JJ marine_
-NN to_
-TO know_
-VB fear_
-NN ,_
-, and_
-CC so_
-RB he_
-PRP aimed_
-VBD above_
-IN the_
-DT head_
-NN ._
-.
-
-The_
-DT shot_
-JJ reverberated_
-NNS in_
-IN diminishing_
-DT whiplashes_
-NN of_
-IN sound_
-NN ._
-.
-
-Hush_
-PRP followed_
-VBD ._
-.
-
-Like_
-IN a_
-DT mischievous_
-JJ boy_
-NN expecting_
-IN punishment_
-NN ,_
-, Matsuo_
-CC awaited_
-JJ reaction_
-NN from_
-IN the_
-DT jungle_
-NN ._
-.
-
-How_
-WRB stupid_
-PRP to_
-TO give_
-VB his_
-PRP$ position_
-NN away_
-NN ._
-.
-
-The_
-DT jungle_
-NN did_
-VBD not_
-RB retort_
-NN ._
-.
-
-The_
-DT sitter_
-NN remained_
-VBD seated_
-TO hugging_
-VB the_
-DT tree_
-NN ._
-.
-
-Before_
-PRP long_
-RB the_
-DT atmosphere_
-NN reverted_
-VBZ to_
-TO its_
-PRP$ old_
-JJ normalcy_
-NNS ,_
-, and_
-CC insects_
-NNS hummed_
-, and_
-CC birds_
-NNS occasionally_
-RB called_
-VBN ._
-.
-
-Matsuo_
-DT puzzled_
-NN and_
-CC grew_
-VBD anxious_
-VBN over_
-IN the_
-DT complete_
-JJ passiveness_
-NNS ,_
-, concluding_
-CC that_
-IN he_
-PRP was_
-VBD the_
-DT butt_
-NN of_
-IN a_
-DT devilish_
-JJ joke_
-NN ._
-.
-
-Five_
-CD or_
-CC so_
-RB minutes_
-RB later_
-RB the_
-DT marine_
-JJ abruptly_
-NNS pulled_
-VBP up_
-RB and_
-CC stepped_
-RB into_
-IN sunlight_
-NN ,_
-, immediately_
-RB throwing_
-VB his_
-PRP$ hands_
-NNS over_
-IN his_
-PRP$ eyes_
-NNS ._
-.
-
-He_
-PRP went_
-VBD into_
-IN a_
-DT whirling_
-JJ dance_
-NN ,_
-, a_
-DT sort_
-NN of_
-IN blind_
-JJ chasing_
-NNS of_
-IN the_
-DT tail_
-NN ._
-.
-
-It_
-PRP ended_
-VBD when_
-WRB he_
-PRP tumbled_
-: ;_
-: ;_
-: but_
-CC jumping_
-JJ right_
-NN up_
-RB ,_
-, he_
-PRP staggered_
-VBD in_
-IN no_
-DT particular_
-JJ direction_
-NN ._
-.
-
-He_
-PRP wore_
-VBD no_
-DT head_
-NN cover_
-, of_
-IN any_
-DT kind_
-NN and_
-CC ,_
-, more_
-RBR odd_
-JJ ,_
-, had_
-VBD no_
-DT visible_
-JJ weapon_
-NN ._
-.
-
-a_
-DT sudden_
-JJ decisiveness_
-, he_
-PRP lurched_
-VBD in_
-IN Matsuo_
-NNP 's_
-POS direction_
-NN ,_
-, crossing_
-IN the_
-DT meadow_
-NN in_
-IN a_
-DT zigzagging_
-NN gallop_
-NN ._
-.
-
-When_
-WRB he_
-PRP got_
-VBD closer_
-VBN to_
-TO the_
-DT tree_
-NN ,_
-, Matsuo_
-PRP noted_
-VBD the_
-DT wild_
-NNS look_
-VBP on_
-IN his_
-PRP$ face_
-NN ._
-.
-
-The_
-DT pockets_
-NNS of_
-IN his_
-PRP$ jacket_
-NN bulged_
-NN ._
-.
-
-Hand_
-PRP grenades_
-NN ._
-.
-
-The_
-DT bobbing_
-JJ head_
-NN was_
-VBD a_
-DT poor_
-JJ target_
-NN ,_
-, so_
-RB Matsuo_
-TO shot_
-VB him_
-PRP in_
-IN the_
-DT upper_
-JJ trunk_
-NN ._
-.
-
-The_
-DT marine_
-JJ spun_
-NNS ,_
-, clapping_
-IN a_
-DT hand_
-NN high_
-JJ on_
-IN his_
-PRP$ chest_
-NN ,_
-, and_
-CC dived_
-RB forward_
-RB ._
-.
-
-In_
-IN the_
-DT hush_
-NN that_
-WDT followed_
-VBD the_
-DT echoes_
-NN ,_
-, Matsuo_
-PRP was_
-VBD tense_
-NN ._
-.
-
-They_
-PRP could_
-MD come_
-VB on_
-IN him_
-PRP now_
-RB without_
-IN difficulty_
-NN ._
-.
-
-Gradually_
-WRB he_
-PRP reached_
-VBD a_
-DT conclusion_
-NN ._
-.
-
-The_
-DT marine_
-NN was_
-VBD alone_
-RB ,_
-, for_
-IN they_
-PRP were_
-VBD impatient_
-PRP$ people_
-NNS and_
-CC by_
-IN now_
-RB would_
-MD have_
-VB vied_
-VBN to_
-TO knock_
-VB him_
-PRP from_
-IN the_
-DT tree_
-NN ._
-.
-
-the_
-DT tree_
-NN he_
-PRP scrambled_
-, and_
-CC knelt_
-RB at_
-IN the_
-DT edge_
-NN of_
-IN foliage_
-NN ._
-.
-
-The_
-DT marine_
-NN was_
-VBD sprawled_
-IN some_
-DT thirty_
-CD yards_
-NNS away_
-RB ,_
-, one_
-CD arm_
-NN extended_
-NN ._
-.
-
-Matsuo_
-PRP jumped_
-VBD when_
-WRB the_
-DT hidden_
-JJ arm_
-NN flopped_
-NN out_
-NN ._
-.
-
-Reflex_
-PRP ?_
-. ?_
-.
-
-Rifle_
-PRP leveled_
-VBD on_
-IN the_
-DT man_
-NN ,_
-, he_
-PRP made_
-VBD a_
-DT rush_
-NN ._
-.
-
-Heat_
-NNP ,_
-, in_
-IN the_
-DT sunlight_
-NN ,_
-, pressed_
-CC in_
-IN like_
-IN an_
-DT invisible_
-JJ crowd_
-NN ._
-.
-
-He_
-PRP squatted_
-VBN by_
-IN the_
-DT head_
-NN ,_
-, gently_
-RB placing_
-VBG the_
-DT rifle_
-NN on_
-IN the_
-DT ground_
-NN ._
-.
-
-With_
-IN a_
-DT snakestrike_
-JJ motion_
-NN he_
-PRP grasped_
-VBD the_
-DT hair_
-NN ,_
-, and_
-CC ,_
-, twisting_
-RB ,_
-, pulled_
-IN the_
-DT marine_
-NN over_
-IN on_
-IN back_
-NN ._
-.
+Gavin_PRP
+paused_NN
+wearily_NN
+._.
+
+``_``
+You_PRP
+ca_MD
+n't_RB
+stay_RB
+here_RB
+with_IN
+me_PRP
+._.
+
+It_PRP
+'s_VBZ
+late_JJ
+and_CC
+you_PRP
+said_VBD
+they_PRP
+'d_MD
+be_VB
+here_RB
+by_IN
+dawn_NNP
+''_''
+._.
+
+You_PRP
+ca_MD
+n't_RB
+make_VB
+me_PRP
+go_VB
+''_''
+._.
+
+Gavin_PRP
+sank_VBP
+down_RB
+again_RB
+into_IN
+his_PRP$
+chair_NNS
+and_CC
+began_VBD
+to_TO
+rock_NN
+._.
+
+He_PRP
+was_VBD
+thinking_NN
+of_IN
+Rittenhouse_NN
+and_CC
+how_WRB
+he_PRP
+had_VBD
+left_VBN
+him_PRP
+there_RB
+,_,
+to_TO
+rock_VB
+to_TO
+death_NN
+on_IN
+the_DT
+porch_NN
+of_IN
+the_DT
+Splendide_NN
+._.
+
+It_PRP
+was_VBD
+the_DT
+only_JJ
+thing_NN
+in_IN
+his_PRP$
+life_NN
+for_IN
+which_WDT
+he_PRP
+felt_VBD
+guilt_NN
+._.
+
+Beneath_IN
+his_PRP$
+black_NN
+shirt_IN
+his_PRP$
+frail_JJ
+shoulders_NNS
+shook_,
+and_CC
+croaks_RB
+of_IN
+pain_PRP
+broke_VBD
+from_IN
+his_PRP$
+throat_NNS
+,_,
+the_DT
+stored_NN
+pain_IN
+shattering_DT
+free_JJ
+in_IN
+slow_JJ
+gasps_NNS
+,_,
+terrible_JJ
+to_TO
+see_VB
+._.
+
+Clayton_PRP
+tried_VBD
+to_TO
+call_VB
+back_RB
+the_DT
+face_NN
+of_IN
+the_DT
+man_NN
+he_PRP
+had_VBD
+known_VBN
+._.
+
+Against_IN
+that_DT
+other_JJ
+man_NN
+he_PRP
+could_MD
+rally_VB
+his_PRP$
+anger_NN
+;_:
+;_:
+against_IN
+this_DT
+bent_JJ
+man_NN
+in_IN
+the_DT
+chair_NN
+he_PRP
+was_VBD
+powerless_NN
+._.
+
+Gavin_NNP
+'s_POS
+lips_NNP
+moved_VBD
+so_RB
+that_IN
+Clayton_PRP
+had_VBD
+to_TO
+stoop_VB
+to_TO
+catch_VB
+the_DT
+words_NNS
+._.
+
+``_``
+Do_FW
+you_FW
+remember_FW
+Big_FW
+Charlie_FW
+''_''
+?_.
+?_.
+
+He_PRP
+whispered_VBD
+._.
+
+He_PRP
+stuck_VBD
+with_IN
+me_PRP
+all_PDT
+these_DT
+years_NNS
+._.
+
+Just_RB
+a_DT
+half-breed_JJ
+'pache_NNS
+,_,
+never_RB
+said_VBD
+much_RB
+,_,
+never_RB
+meant_VBD
+anythin_VBN
+to_TO
+me_PRP
+,_,
+but_CC
+he_PRP
+stuck_VBD
+with_IN
+me_PRP
+._.
+
+He_PRP
+got_VBD
+into_IN
+a_DT
+fight_NN
+with_IN
+Tom_NNP
+English_NNP
+,_,
+your_PRP$
+brother_NNP
+'s_POS
+son_NN
+._.
+
+It_PRP
+was_VBD
+a_DT
+fair_JJ
+fight_NNS
+,_,
+the_DT
+boy_NN
+provoked_,
+it_PRP
+--_:
+Big_:
+Charlie_PRP
+told_VBD
+me_PRP
+so_RB
+._.
+
+I_PRP
+believed_VBD
+him_PRP
+._.
+
+They_PRP
+killed_MD
+Big_VB
+Charlie_VBN
+,_,
+dumped_CC
+his_PRP$
+body_NN
+in_IN
+my_PRP$
+rose_JJ
+garden_NN
+two_CD
+nights_NNS
+ago_RB
+._.
+
+My_PRP$
+men_NNS
+,_,
+they_PRP
+all_DT
+left_NN
+me_PRP
+._.
+
+Just_PRP
+cleared_VBP
+out_RB
+._.
+
+I_PRP
+did_VBD
+n't_RB
+understand_VB
+why_WRB
+,_,
+Clay_NNP
+._.
+
+They_PRP
+just_RB
+all_DT
+cleared_NN
+out_NN
+._.
+
+I_PRP
+treated_VBD
+them_PRP
+fair_JJ
+''_''
+He_PRP
+wiped_VBD
+his_PRP$
+lips_NNS
+with_IN
+a_DT
+sleeve_NN
+,_,
+then_RB
+stared_VBD
+at_IN
+Clayton_NN
+in_IN
+a_DT
+childish_JJ
+kind_NN
+of_IN
+wonder_NN
+._.
+
+``_``
+Do_WRB
+you_PRP
+mean_VB
+''_''
+--_:
+he_PRP
+asked_VBD
+almost_RB
+shyly_NN
+--_:
+``_``
+you_PRP
+want_VBP
+me_PRP
+to_TO
+go_VB
+with_IN
+you_PRP
+,_,
+wherever_WRB
+you_PRP
+'re_VBP
+goin_VBN
+''_''
+?_.
+?_.
+
+``_``
+You_PRP
+do_VBP
+n't_RB
+hate_VB
+me_PRP
+any_RB
+more_RBR
+''_''
+?_.
+?_.
+
+Clayton_DT
+choked_NN
+,_,
+shook_VBD
+his_PRP$
+head_NN
+,_,
+murmuring_RB
+,_,
+``_``
+No_NNS
+''_''
+._.
+
+The_DT
+sentry_NN
+was_VBD
+not_RB
+dead_JJ
+._.
+
+He_PRP
+was_VBD
+,_,
+in_IN
+fact_NN
+,_,
+showing_PRP
+signs_VBD
+of_IN
+reviving_NN
+._.
+
+He_PRP
+had_VBD
+been_VBN
+carrying_IN
+an_DT
+Enfield_NN
+rifle_,
+and_CC
+a_DT
+holstered_JJ
+navy_NN
+cap-and-ball_NN
+pistol_NN
+._.
+
+A_DT
+bayonet_NN
+hung_VBN
+in_IN
+a_DT
+belt_NN
+scabbard_NN
+._.
+
+He_PRP
+was_VBD
+partially_TO
+uniformed_VB
+in_IN
+a_DT
+cavalry_NN
+tunic_,
+and_CC
+hat_NN
+._.
+
+Mike_PRP
+stripped_VBD
+these_DT
+from_IN
+him_PRP
+and_CC
+donned_WRB
+them_PRP
+._.
+
+He_PRP
+and_CC
+Dean_RB
+tied_VBN
+and_CC
+gagged_IN
+the_DT
+man_NN
+,_,
+using_VBG
+his_PRP$
+belt_NN
+and_CC
+shirt_NN
+for_IN
+the_DT
+purpose_NN
+._.
+
+They_PRP
+dragged_VBD
+him_PRP
+inside_IN
+the_DT
+building_NN
+._.
+
+Fiske_PRP
+joined_VBD
+them_PRP
+,_,
+unsteady_CC
+on_IN
+his_PRP$
+feet_NNS
+._.
+
+Julia_NNP
+,_,
+seeing_VBG
+the_DT
+bandage_NN
+,_,
+rushed_VBD
+to_TO
+him_PRP
+._.
+
+``_``
+You_PRP
+are_VBP
+hurt_VBN
+''_''
+!_.
+!_.
+
+She_PRP
+breathed_NN
+._.
+
+I_PRP
+never_RB
+felt_VBN
+better_RB
+in_IN
+my_PRP$
+life_NN
+''_''
+,_,
+Fiske_PRP
+blustered_NN
+._.
+
+He_PRP
+turned_VBD
+to_TO
+Susan_VB
+and_CC
+kissed_WRB
+her_PRP
+on_IN
+the_DT
+cheek_NN
+._.
+
+``_``
+Thank_WRB
+you_PRP
+,_,
+My_PRP$
+dear_NN
+''_''
+,_,
+he_PRP
+said_VBD
+._.
+
+``_``
+You_PRP
+are_VBP
+very_RB
+brave_JJ
+''_''
+._.
+
+Mike_PRP
+silenced_VBD
+them_PRP
+._.
+
+``_``
+We_PRP
+'ll_MD
+talk_VB
+later_RB
+._.
+
+First_RB
+,_,
+we_PRP
+'ve_VBP
+got_VBN
+to_TO
+get_VB
+out_RB
+of_IN
+here_RB
+''_''
+._.
+
+We_PRP
+'ll_MD
+grab_VB
+horses_NNS
+''_''
+,_,
+Dean_PRP
+said_VBD
+._.
+
+``_``
+The_DT
+main_JJ
+bunch_NN
+is_VBZ
+outside_RB
+,_,
+but_CC
+there_EX
+are_VBP
+some_DT
+over_RB
+there_RB
+inside_IN
+the_DT
+wall_NN
+''_''
+._.
+
+Mike_PRP
+debated_VBD
+it_PRP
+,_,
+trying_VBG
+to_TO
+decide_VB
+whether_IN
+Fiske_PRP
+was_VBD
+strong_JJ
+enough_JJ
+to_TO
+ride_VB
+._.
+
+But_CC
+it_PRP
+at_IN
+least_JJS
+offered_WRB
+him_PRP
+a_DT
+chance_NN
+for_IN
+living_VBG
+._.
+
+He_PRP
+had_VBD
+none_RB
+here_RB
+._.
+
+And_CC
+,_,
+for_IN
+the_DT
+sake_NN
+of_IN
+Julia_NN
+and_CC
+Susan_NNP
+,_,
+it_PRP
+had_VBD
+to_TO
+be_VB
+tried_JJ
+._.
+
+The_DT
+guerrilla_JJ
+bivouac_NN
+remained_NN
+silent_NN
+._.
+
+Light_PRP
+showed_VBD
+in_IN
+the_DT
+orderly_JJ
+room_NN
+across_IN
+the_DT
+parade_JJ
+ground_NN
+._.
+
+Someone_WRB
+evidently_PRP
+was_VBD
+on_IN
+duty_NN
+there_NN
+._.
+
+No_DT
+doubt_NN
+there_EX
+would_MD
+be_VB
+men_NNS
+guarding_IN
+the_DT
+horses_NNS
+._.
+
+a_DT
+dozen_NN
+animals_WDT
+were_VBD
+held_VBN
+inside_IN
+the_DT
+stockade_NN
+,_,
+as_IN
+best_JJS
+Mike_NN
+could_MD
+make_VB
+out_RB
+in_IN
+the_DT
+moonlight_NN
+._.
+
+Evidently_IN
+this_DT
+was_VBD
+a_DT
+precaution_NN
+so_RB
+that_IN
+mounts_PRP
+would_MD
+be_VB
+available_JJ
+in_IN
+an_DT
+emergency_NN
+._.
+
+He_PRP
+handed_VBD
+the_DT
+guard_NNP
+'s_POS
+rifle_NN
+to_TO
+Fiske_VB
+._.
+
+``_``
+Dean_NNP
+and_CC
+myself_PRP
+will_MD
+try_VB
+to_TO
+cut_VB
+out_IN
+horses_NNS
+to_TO
+ride_VB
+''_''
+,_,
+he_PRP
+said_VBD
+._.
+
+``_``
+We_PRP
+'ll_MD
+stampede_VB
+the_DT
+rest_NN
+._.
+
+You_PRP
+stay_VBD
+with_IN
+the_DT
+ladies_NNS
+._.
+
+All_DT
+of_IN
+you_PRP
+be_VB
+ready_JJ
+to_TO
+ride_VB
+hell_VBN
+for_IN
+leather_NNP
+''_''
+._.
+
+He_PRP
+added_VBD
+,_,
+``_``
+If_IN
+this_DT
+does_VBZ
+n't_RB
+work_VB
+out_RB
+,_,
+the_DT
+three_CD
+of_IN
+you_PRP
+barricade_MD
+yourself_VB
+in_IN
+the_DT
+house_NN
+and_CC
+talk_NN
+terms_NNS
+with_IN
+them_PRP
+''_''
+._.
+
+He_PRP
+handed_VBD
+the_DT
+bayonet_NN
+to_TO
+Dean_VB
+and_CC
+kept_VBD
+the_DT
+pistol_NN
+._.
+
+Susan_PRP
+halted_MD
+Dean_VB
+and_CC
+kissed_WRB
+him_PRP
+._.
+
+She_PRP
+clung_VBD
+to_TO
+him_PRP
+,_,
+talking_VBG
+to_TO
+him_PRP
+,_,
+and_CC
+dabbing_RB
+at_IN
+her_PRP$
+eyes_NNS
+._.
+
+Mike_PRP
+turned_VBD
+away_RB
+._.
+
+He_PRP
+was_VBD
+thinking_NN
+that_IN
+the_DT
+way_NN
+she_PRP
+had_VBD
+responded_VBN
+to_TO
+his_PRP$
+own_JJ
+kiss_NNS
+had_VBD
+n't_RB
+meant_VBD
+what_WP
+he_PRP
+had_VBD
+believed_VBN
+it_PRP
+had_VBD
+._.
+
+He_PRP
+felt_VBD
+unutterably_NN
+weary_NN
+._.
+
+Dean_PRP
+turned_VBD
+from_IN
+Susan_NN
+and_CC
+took_VBD
+Julia_TO
+Fortune_VB
+in_IN
+his_PRP$
+arms_NNS
+._.
+
+He_PRP
+kissed_VBD
+her_PRP
+also_RB
+,_,
+and_CC
+with_IN
+deep_JJ
+tenderness_NN
+._.
+
+She_PRP
+too_RB
+began_VBD
+to_TO
+weep_VB
+._.
+
+He_PRP
+released_VBD
+her_PRP
+and_CC
+joined_VBD
+Mike_NN
+._.
+
+``_``
+All_DT
+right_NN
+''_''
+,_,
+he_PRP
+said_VBD
+._.
+
+Mike_PRP
+only_RB
+said_VBD
+,_,
+``_``
+Later_NNS
+''_''
+._.
+
+McLish_UH
+''_''
+!_.
+!_.
+
+Susan_PRP
+said_VBD
+fiercely_NN
+._.
+
+The_DT
+way_NN
+you_PRP
+were_VBD
+careful_JJ
+''_''
+?_.
+?_.
+
+He_PRP
+snorted_NN
+._.
+
+``_``
+Running_NN
+around_IN
+in_IN
+the_DT
+moonlight_NN
+almost_RB
+naked_JJ
+and_CC
+slugging_IN
+a_DT
+man_NN
+with_IN
+a_DT
+rock_NN
+''_''
+?_.
+?_.
+
+He_PRP
+kept_VBD
+going_VBG
+._.
+
+He_PRP
+wanted_VBD
+no_RB
+more_RBR
+sentimental_JJ
+scenes_NNS
+with_IN
+her_PRP
+._.
+
+He_PRP
+might_MD
+say_VB
+or_CC
+do_VBP
+something_NN
+foolish_NN
+._.
+
+Something_IN
+all_DT
+of_IN
+them_PRP
+would_MD
+regret_VB
+._.
+
+He_PRP
+might_MD
+tell_VB
+her_PRP
+how_MD
+sorry_VB
+a_DT
+spectacle_NN
+she_PRP
+was_VBD
+making_VBG
+of_IN
+herself_PRP
+,_,
+pretending_VBG
+to_TO
+be_VB
+blind_JJ
+to_TO
+the_DT
+way_NN
+Julia_,
+Fortune_PRP
+had_VBD
+taken_VBN
+Dean_NNP
+'s_POS
+affections_NN
+from_IN
+her_PRP
+._.
+
+And_CC
+using_VBG
+him_PRP
+,_,
+Mike_CC
+McLish_NNP
+,_,
+as_IN
+a_DT
+sop_NN
+to_TO
+her_PRP$
+pride_NN
+._.
+
+He_PRP
+handed_VBD
+the_DT
+bayonet_NN
+to_TO
+Dean_VB
+and_CC
+kept_VBD
+the_DT
+pistol_NN
+._.
+
+``_``
+Stay_VBZ
+well_RB
+back_RB
+of_IN
+me_PRP
+''_''
+,_,
+he_PRP
+said_VBD
+._.
+
+``_``
+I_PRP
+'m_VBP
+going_VBG
+to_TO
+walk_VB
+up_RB
+to_TO
+the_DT
+horses_NNS
+,_,
+bold_JJ
+as_IN
+brass_NNP
+,_,
+pretending_VBG
+I_PRP
+'m_VBP
+one_CD
+of_IN
+the_DT
+guerrillas_NN
+._.
+
+There_EX
+'s_VBZ
+bound_VBN
+to_TO
+be_VB
+someone_VBN
+on_IN
+guard_NNP
+,_,
+but_CC
+the_DT
+hat_NN
+might_MD
+fool_VB
+them_PRP
+long_IN
+enough_RB
+for_IN
+me_PRP
+to_TO
+get_VB
+close_RB
+''_''
+._.
+
+the_DT
+pistol_JJ
+concealed_NNS
+,_,
+he_PRP
+walked_VBD
+to_TO
+the_DT
+rear_JJ
+wall_NN
+of_IN
+the_DT
+stockade_NN
+._.
+
+It_PRP
+was_VBD
+pierced_VBN
+by_IN
+a_DT
+wagon_NN
+gate_NN
+built_VBD
+of_IN
+two_CD
+wings_NN
+._.
+
+One_PRP
+wing_NN
+stood_NN
+open_NN
+._.
+
+Mike_PRP
+passed_VBD
+through_IN
+it_PRP
+and_CC
+moved_VBD
+toward_IN
+the_DT
+dark_JJ
+mass_NN
+of_IN
+horses_NNS
+._.
+
+They_PRP
+were_VBD
+tethered_RB
+,_,
+army_DT
+style_NN
+,_,
+on_IN
+stable_JJ
+lines_NNS
+._.
+
+A_DT
+voice_NN
+spoke_NN
+near-at-hand_NN
+._.
+
+``_``
+Who_PRP
+'s_VBZ
+that_IN
+''_''
+?_.
+?_.
+
+me_PRP
+''_''
+,_,
+Mike_PRP
+said_VBD
+._.
+
+``_``
+Is_VBZ
+that_IN
+you_PRP
+,_,
+Bill_NNP
+''_''
+?_.
+?_.
+
+He_PRP
+located_VBD
+his_PRP$
+man_NN
+._.
+
+The_DT
+guard_NN
+stood_VBD
+in_IN
+the_DT
+shadow_NN
+of_IN
+the_DT
+stockade_JJ
+wall_NN
+just_RB
+out_RB
+of_IN
+reach_NN
+of_IN
+the_DT
+moonlight_NN
+._.
+
+Mike_PRP
+kept_VBD
+walking_VBN
+and_CC
+got_VBD
+within_IN
+arm_NN
+'s_POS
+reach_NN
+before_IN
+the_DT
+man_NN
+became_VBD
+suspicious_JJ
+and_CC
+straightened_RB
+from_IN
+his_PRP$
+lax_NNS
+slouch_JJ
+._.
+
+Mike_PRP
+struck_VBD
+with_IN
+the_DT
+muzzle_NN
+of_IN
+the_DT
+pistol_NN
+._.
+
+But_CC
+the_DT
+luck_NN
+that_WDT
+had_VBD
+been_VBN
+running_IN
+their_PRP$
+way_NN
+left_VBD
+him_PRP
+._.
+
+The_DT
+guard_NN
+instinctively_TO
+parried_VB
+the_DT
+blow_NN
+with_IN
+his_PRP$
+rifle_NNS
+._.
+
+He_PRP
+tried_VBD
+to_TO
+veer_VB
+the_DT
+rifle_NN
+around_IN
+to_TO
+fire_VB
+into_IN
+Mike_NNP
+'s_POS
+body_NN
+._.
+
+Mike_NNP
+,_,
+off_IN
+balance_NN
+,_,
+managed_CC
+to_TO
+bat_VB
+the_DT
+muzzle_NN
+away_RB
+a_DT
+moment_NN
+before_IN
+it_PRP
+exploded_NN
+._.
+
+The_DT
+bullet_NN
+went_NN
+wide_NN
+._.
+
+Mike_PRP
+swung_VBD
+the_DT
+pistol_NN
+in_IN
+a_DT
+savage_NN
+backlash_NN
+._.
+
+This_DT
+time_NN
+it_PRP
+connected_MD
+solidly_VB
+on_IN
+the_DT
+man_NN
+'s_POS
+temple_NN
+,_,
+felling_WRB
+him_PRP
+._.
+
+The_DT
+explosion_NN
+of_IN
+the_DT
+rifle_NN
+had_VBD
+crashed_VBN
+against_IN
+the_DT
+walls_NNS
+of_IN
+the_DT
+stockade_NN
+and_CC
+the_DT
+deep_JJ
+echoes_NNS
+were_VBD
+still_RB
+rolling_VBN
+in_IN
+the_DT
+hills_NNS
+._.
+
+The_DT
+startled_JJ
+horses_NNS
+began_VBD
+rearing_VBN
+on_IN
+their_PRP$
+tethers_NNS
+._.
+
+Dean_PRP
+came_VBD
+rushing_RB
+up_RB
+._.
+
+``_``
+Are_WRB
+you_PRP
+hit_VBD
+''_''
+?_.
+?_.
+
+He_PRP
+demanded_NN
+._.
+
+the_DT
+fat_JJ
+'s_NNS
+in_IN
+the_DT
+fire_NN
+''_''
+!_.
+!_.
+
+Mike_PRP
+said_VBD
+._.
+
+``_``
+There_EX
+'s_VBZ
+no_DT
+chance_NN
+now_RB
+of_IN
+all_DT
+of_IN
+us_PRP
+getting_VBP
+away_RB
+._.
+
+You_PRP
+'ll_MD
+have_VB
+to_TO
+try_VB
+it_PRP
+alone_RB
+''_''
+._.
+
+The_DT
+sentry_NNP
+'s_POS
+saddled_JJ
+horse_NN
+stood_VBD
+picketed_RB
+nearby_RB
+,_,
+having_VBG
+been_VBN
+kept_TO
+handy_VB
+in_IN
+case_NN
+of_IN
+need_NN
+._.
+
+Mike_PRP
+took_VBD
+the_DT
+bayonet_NN
+from_IN
+Dean_NNP
+'s_POS
+hand_NN
+and_CC
+slashed_IN
+the_DT
+picket_JJ
+line_NN
+._.
+
+``_``
+Up_WRB
+you_PRP
+go_VB
+''_''
+!_.
+!_.
+
+He_PRP
+said_VBD
+._.
+
+``_``
+Ride_NNS
+''_''
+!_.
+!_.
+
+Dean_NNP
+resisted_NNP
+Mike_NNP
+'s_POS
+attempt_NN
+to_TO
+push_VB
+him_PRP
+toward_IN
+the_DT
+horse_NN
+._.
+
+``_``
+Why_WRB
+not_RB
+you_PRP
+''_''
+?_.
+?_.
+
+He_PRP
+protested_VBD
+._.
+
+Dammit_UH
+''_''
+!_.
+!_.
+
+Mike_PRP
+said_VBD
+frantically_NN
+._.
+
+``_``
+You_PRP
+'re_VBP
+lighter_VBN
+than_IN
+me_PRP
+._.
+
+It_PRP
+'s_VBZ
+our_PRP$
+only_JJ
+chance_NN
+now_RB
+._.
+
+Try_PRP
+to_TO
+find_VB
+these_DT
+Feds_NN
+._.
+
+The_DT
+rest_NN
+of_IN
+us_PRP
+can_MD
+fort_VB
+up_RB
+in_IN
+the_DT
+house_NN
+and_CC
+hang_RB
+on_IN
+until_IN
+you_PRP
+get_VBP
+back_RB
+._.
+
+You_PRP
+'re_VBP
+the_DT
+one_NN
+that_WDT
+'s_VBZ
+taking_VBG
+the_DT
+big_JJ
+chance_NN
+''_''
+._.
+
+Dean_PRP
+still_RB
+hesitated_RB
+,_,
+but_CC
+Mike_PRP
+lifted_VBD
+him_PRP
+almost_RB
+bodily_VBN
+into_IN
+the_DT
+saddle_NN
+and_CC
+thrust_IN
+the_DT
+reins_NNS
+in_IN
+his_PRP$
+hand_NN
+._.
+
+No_DT
+telling_VBG
+how_WRB
+good_JJ
+this_DT
+horse_NN
+is_VBZ
+''_''
+,_,
+Mike_PRP
+panted_NN
+._.
+
+``_``
+Favor_WRB
+him_PRP
+and_CC
+save_IN
+something_NN
+in_IN
+case_NN
+you_PRP
+hit_VBD
+trouble_NN
+._.
+
+Watch_PRP
+out_RB
+for_IN
+Apaches_``
+when_WRB
+it_PRP
+comes_VBZ
+daylight_NN
+._.
+
+Take_IN
+the_DT
+pistol_NN
+._.
+
+You_PRP
+might_MD
+need_VB
+it_PRP
+._.
+
+We_PRP
+'ll_MD
+still_RB
+have_VB
+the_DT
+rifle_NN
+,_,
+and_CC
+I_PRP
+might_MD
+be_VB
+able_JJ
+to_TO
+round_VB
+up_IN
+some_DT
+more_JJR
+._.
+
+I_PRP
+'ll_MD
+stampede_VB
+the_DT
+rest_NN
+of_IN
+these_DT
+horses_NNS
+so_IN
+they_PRP
+ca_MD
+n't_RB
+chase_VB
+you_PRP
+''_''
+._.
+
+Dean_PRP
+leaned_VBD
+from_IN
+the_DT
+saddle_NN
+and_CC
+gave_VBD
+him_PRP
+a_DT
+mighty_JJ
+whack_NNS
+on_IN
+the_DT
+back_NN
+._.
+
+``_``
+McLish_NNS
+''_''
+,_,
+he_PRP
+said_VBD
+as_IN
+he_PRP
+kicked_VBD
+the_DT
+horse_NN
+into_IN
+motion_NN
+,_,
+``_``
+I_PRP
+'d_MD
+be_VB
+a_DT
+mighty_JJ
+sad_JJ
+man_NN
+if_IN
+we_PRP
+never_RB
+met_RB
+again_RB
+''_''
+._.
+
+he_PRP
+was_VBD
+on_IN
+his_PRP$
+way_NN
+at_IN
+a_DT
+gallop_NN
+._.
+
+Mike_PRP
+ran_VBD
+down_IN
+the_DT
+line_NN
+,_,
+slashing_PRP
+picket_MD
+ropes_VB
+with_IN
+the_DT
+bayonet_NN
+._.
+
+He_PRP
+lifted_VBD
+a_DT
+screeching_JJ
+war_NN
+whoop_NN
+._.
+
+That_DT
+touched_NN
+off_IN
+a_DT
+total_NN
+stampede_NN
+._.
+
+He_PRP
+darted_VBD
+inside_IN
+the_DT
+stockade_NN
+and_CC
+freed_VBN
+the_DT
+horses_NNS
+there_RB
+._.
+
+These_DT
+poured_NN
+through_IN
+the_DT
+gate_NN
+and_CC
+joined_VBD
+the_DT
+flight_NN
+._.
+
+The_DT
+animals_NN
+thundered_VBZ
+away_RB
+into_IN
+the_DT
+moonlight_NN
+,_,
+heading_CC
+for_IN
+the_DT
+ridges_NNS
+._.
+
+The_DT
+guerrillas_NN
+were_VBD
+swarming_VBN
+from_IN
+their_PRP$
+bivouac_NN
+at_IN
+the_DT
+west_JJ
+end_NN
+of_IN
+the_DT
+enclosure_NN
+._.
+
+Apaches_UH
+''_''
+!_.
+!_.
+
+Mike_PRP
+yelled_NN
+._.
+
+``_``
+They_PRP
+'re_VBP
+stealin_VBN
+'_IN
+the_DT
+stock_NN
+''_''
+!_.
+!_.
+
+He_PRP
+scuttled_VBD
+in_IN
+shadow_NN
+along_IN
+the_DT
+east_JJ
+wall_NN
+of_IN
+the_DT
+stockade_NN
+and_CC
+then_RB
+followed_VBD
+the_DT
+south_JJ
+wall_NN
+until_IN
+he_PRP
+was_VBD
+at_IN
+the_DT
+rear_NN
+of_IN
+the_DT
+two_CD
+frame_NN
+buildings_NN
+._.
+
+He_PRP
+crouched_VBP
+there_RB
+._.
+
+His_PRP$
+shout_NNS
+had_VBD
+been_VBN
+taken_VBN
+up_RB
+and_CC
+repeated_VBN
+._.
+
+The_DT
+guerrillas_NN
+were_VBD
+running_VBG
+across_IN
+the_DT
+parade_JJ
+ground_NN
+and_CC
+through_IN
+the_DT
+rear_JJ
+gate_NN
+in_IN
+the_DT
+wake_NN
+of_IN
+the_DT
+departing_JJ
+horses_NNS
+._.
+
+All_DT
+were_VBD
+carrying_TO
+guns_VB
+they_PRP
+had_VBD
+seized_VBN
+up_RB
+,_,
+but_CC
+they_PRP
+were_VBD
+half-clad_VBN
+or_CC
+hardly_RB
+clad_VBN
+at_IN
+all_DT
+._.
+
+Durkin_PRP
+and_CC
+Calhoun_NNP
+came_VBD
+running_VBG
+from_IN
+the_DT
+post_NN
+._.
+
+They_PRP
+had_VBD
+pistols_VBN
+in_IN
+their_PRP$
+hands_NNS
+._.
+
+They_PRP
+bawled_VBP
+questions_NNS
+that_WDT
+were_VBD
+not_RB
+answered_VBN
+in_IN
+the_DT
+uproar_NN
+._.
+
+They_PRP
+followed_VBD
+the_DT
+others_NNS
+toward_IN
+the_DT
+east_JJ
+gate_NN
+._.
+
+the_DT
+stockade_NNP
+rifles_NNP
+began_VBD
+to_TO
+explode_VB
+as_IN
+some_DT
+of_IN
+the_DT
+guerrillas_NN
+fired_VBN
+at_IN
+shadows_NNS
+that_IN
+they_PRP
+imagined_VBP
+were_VBD
+Apaches_NN
+._.
+
+Mike_PRP
+made_VBD
+a_DT
+dash_NN
+to_TO
+the_DT
+rear_NN
+of_IN
+the_DT
+frame_NN
+buildings_NN
+._.
+
+He_PRP
+crawled_VBD
+beneath_IN
+the_DT
+two_CD
+supply_NNS
+wagons_,
+which_WDT
+stood_VBD
+between_IN
+the_DT
+buildings_NNS
+and_CC
+peered_RB
+around_IN
+a_DT
+corner_NN
+._.
+
+The_DT
+area_NN
+was_VBD
+deserted_NN
+._.
+
+A_DT
+man_NN
+was_VBD
+standing_VBG
+in_IN
+the_DT
+open_JJ
+door_NN
+of_IN
+the_DT
+lighted_NNP
+orderly_POS
+room_NN
+a_DT
+few_JJ
+yards_NNS
+to_TO
+Mike_NNP
+'s_POS
+left_NN
+,_,
+but_CC
+he_PRP
+,_,
+too_RB
+,_,
+suddenly_RB
+made_VBN
+up_IN
+his_PRP$
+mind_NN
+and_CC
+went_VBD
+racing_VBN
+to_TO
+join_VB
+the_DT
+confused_JJ
+activity_NN
+at_IN
+the_DT
+east_JJ
+end_NN
+of_IN
+the_DT
+stockade_NN
+._.
+
+Mike_PRP
+crawled_VBD
+to_TO
+the_DT
+door_NN
+and_CC
+peered_RB
+in_IN
+._.
+
+The_DT
+orderly_JJ
+room_NN
+seemed_VBD
+to_TO
+be_VB
+deserted_JJ
+._.
+
+A_DT
+lantern_NN
+hung_VBN
+from_IN
+a_DT
+peg_NN
+,_,
+giving_VBG
+light_NN
+._.
+
+he_PRP
+found_VBD
+that_IN
+three_CD
+rifles_NNS
+were_VBD
+stacked_VBN
+in_IN
+a_DT
+corner_NN
+._.
+
+A_DT
+brace_NN
+of_IN
+pistols_NNP
+,_,
+holstered_CC
+on_IN
+belts_NNP
+,_,
+hung_VBN
+from_IN
+a_DT
+peg_NN
+,_,
+along_IN
+with_IN
+ammunition_NN
+pouches_NN
+._.
+
+An_DT
+ammunition_JJ
+case_NN
+stood_VBD
+open_RB
+,_,
+containing_CC
+canisters_NNS
+which_WDT
+contained_VBP
+powder_NN
+cartridges_NN
+._.
+
+Mike_PRP
+seized_VBD
+a_DT
+blanket_NN
+from_IN
+a_DT
+pallet_NN
+in_IN
+a_DT
+corner_NN
+,_,
+spread_WRB
+it_PRP
+on_IN
+the_DT
+floor_NN
+and_CC
+used_VBN
+it_PRP
+to_TO
+form_VB
+a_DT
+bag_NN
+in_IN
+which_WDT
+he_PRP
+placed_VBD
+his_PRP$
+booty_NNS
+._.
+
+the_DT
+load_NN
+he_PRP
+peered_VBD
+from_IN
+the_DT
+door_NN
+._.
+
+His_PRP$
+looting_NNS
+of_IN
+the_DT
+orderly_JJ
+room_NN
+had_VBD
+taken_VBN
+only_RB
+a_DT
+minute_JJ
+or_CC
+two_CD
+and_CC
+the_DT
+vicinity_NN
+was_VBD
+still_RB
+clear_JJ
+of_IN
+guerrillas_NN
+._.
+
+He_PRP
+looked_VBD
+at_IN
+the_DT
+looming_JJ
+hoods_NNS
+of_IN
+the_DT
+supply_JJ
+wagons_NNS
+,_,
+struck_VBN
+by_IN
+a_DT
+new_JJ
+inspiration_NN
+._.
+
+He_PRP
+set_VBD
+his_PRP$
+bundle_NNS
+down_RB
+._.
+
+Snatching_IN
+the_DT
+lantern_NN
+from_IN
+its_PRP$
+peg_NNS
+,_,
+he_PRP
+shattered_VBD
+its_PRP$
+globe_NNS
+with_IN
+a_DT
+blow_NN
+against_IN
+a_DT
+post_NN
+._.
+
+He_PRP
+picked_VBD
+up_IN
+the_DT
+powder_NN
+canister_,
+and_CC
+ran_VBD
+out_RB
+._.
+
+Bursting_DT
+paper_NN
+cartridges_''
+,_,
+he_PRP
+scattered_VBD
+powder_VBN
+beneath_IN
+the_DT
+nearest_JJS
+wagon_NN
+and_CC
+dumped_IN
+the_DT
+contents_NNS
+of_IN
+the_DT
+canister_NN
+upon_IN
+it_PRP
+._.
+
+He_PRP
+shouldered_VBD
+the_DT
+blanket_NN
+again_RB
+,_,
+backed_CC
+off_RB
+,_,
+and_CC
+tossed_VBD
+the_DT
+lantern_NN
+with_IN
+its_PRP$
+open_JJ
+wick_NNS
+beneath_IN
+the_DT
+wagon_NN
+._.
+
+He_PRP
+turned_VBD
+and_CC
+raced_RB
+across_IN
+the_DT
+parade_JJ
+ground_NN
+toward_IN
+the_DT
+rock_NN
+house_NN
+._.
+
+Powder_PRP
+flame_MD
+gushed_VB
+beneath_IN
+the_DT
+wagon_NN
+._.
+
+The_DT
+stockade_NN
+was_VBD
+brilliantly_TO
+lighted_VB
+and_CC
+the_DT
+guerrillas_NN
+sighted_,
+him_PRP
+._.
+
+They_PRP
+realized_VBD
+the_DT
+truth_NN
+._.
+
+Bullets_PRP
+began_VBD
+to_TO
+snap_DT
+past_NN
+him_PRP
+._.
+
+One_PRP
+struck_VBD
+the_DT
+muzzle_NN
+of_IN
+one_CD
+of_IN
+the_DT
+rifles_NN
+that_IN
+projected_NN
+from_IN
+the_DT
+shoulder_JJ
+pack_NN
+._.
+
+Its_PRP$
+force_NN
+spun_,
+him_PRP
+around_RB
+,_,
+but_CC
+he_PRP
+recovered_,
+and_CC
+got_VBD
+into_IN
+stride_NN
+again_NN
+._.
+
+A_DT
+bullet_NN
+tore_IN
+the_DT
+earth_NN
+from_IN
+beneath_IN
+his_PRP$
+foot_NN
+when_WRB
+he_PRP
+was_VBD
+a_DT
+stride_NN
+or_CC
+two_CD
+from_IN
+safety_NN
+._.
+
+Another_PRP
+struck_VBD
+him_PRP
+heavily_VBD
+in_IN
+the_DT
+thigh_NN
+and_CC
+he_PRP
+went_VBD
+down_RB
+._.
+
+Guerrillas_PRP
+were_VBD
+racing_VBN
+toward_IN
+him_PRP
+._.
+
+Susan_PRP
+and_CC
+Julia_PRP
+came_VBD
+from_IN
+the_DT
+door_NN
+and_CC
+dragged_WRB
+him_PRP
+with_IN
+them_PRP
+._.
+
+The_DT
+three_CD
+of_IN
+them_PRP
+floundered_VBD
+through_IN
+the_DT
+door_NN
+into_IN
+the_DT
+interior_NN
+and_CC
+fell_VBD
+in_IN
+a_DT
+heap_NN
+._.
+
+Susan_PRP
+bounced_VBD
+to_TO
+her_PRP$
+feet_NNS
+and_CC
+slammed_IN
+the_DT
+door_NN
+._.
+
+She_PRP
+crouched_VBP
+aside_RB
+as_IN
+bullets_DT
+beat_NN
+at_IN
+the_DT
+portal_NN
+,_,
+chewing_CC
+into_IN
+the_DT
+planks_NN
+._.
+
+Some_DT
+tore_NN
+entirely_RB
+through_IN
+the_DT
+whipsawed_JJ
+post_NN
+oak_NN
+._.
+
+The_DT
+iron_NN
+hinges_VBZ
+held_VBN
+,_,
+but_CC
+the_DT
+planks_NN
+were_VBD
+in_IN
+danger_NN
+of_IN
+being_VBG
+torn_VBN
+from_IN
+the_DT
+crossbars_NN
+._.
+
+Mike_PRP
+rolled_VBD
+to_TO
+Susan_VB
+,_,
+grasped_VBN
+her_PRP
+around_IN
+the_DT
+knees_NNS
+,_,
+dragging_VBG
+her_PRP
+off_RP
+her_PRP$
+feet_NNS
+._.
+
+He_PRP
+hovered_VBD
+over_IN
+her_PRP
+to_TO
+shield_VB
+her_PRP
+,_,
+for_IN
+spent_PRP$
+bullets_NNS
+were_VBD
+thudding_VBN
+against_IN
+the_DT
+rear_JJ
+walls_NNS
+._.
+
+He_PRP
+peered_VBD
+from_IN
+a_DT
+loophole_NN
+._.
+
+Guerrillas_PRP
+were_VBD
+only_RB
+a_DT
+dozen_NN
+yards_VBZ
+away_RB
+,_,
+charging_IN
+the_DT
+house_NN
+._.
+
+Mike_PRP
+snatched_VBD
+a_DT
+pistol_NN
+from_IN
+the_DT
+heap_NN
+of_IN
+scattered_DT
+booty_NN
+and_CC
+fired_VBN
+._.
+
+He_PRP
+dropped_VBD
+a_DT
+man_NN
+with_IN
+the_DT
+first_JJ
+bullet_NN
+._.
+
+the_DT
+same_JJ
+moment_NN
+Wheeler_TO
+Fiske_VB
+fired_VBN
+the_DT
+rifle_NNP
+Mike_NNP
+had_VBD
+given_VBN
+him_PRP
+and_CC
+another_DT
+guerrilla_NN
+was_VBD
+hit_NN
+._.
+
+That_DT
+halted_VBG
+the_DT
+rush_NN
+._.
+
+The_DT
+guerrillas_NN
+scattered_VBD
+for_IN
+cover_NN
+._.
+
+The_DT
+wagons_NN
+were_VBD
+burning_NN
+fiercely_NN
+._.
+
+The_DT
+mudwagon_NN
+had_VBD
+caught_VBN
+fire_RB
+also_RB
+._.
+
+The_DT
+blaze_NN
+was_VBD
+spreading_VBN
+to_TO
+the_DT
+frame_NN
+buildings_NN
+._.
+
+The_DT
+guerrillas_NN
+realized_VBD
+they_PRP
+faced_VBD
+a_DT
+new_JJ
+problem_NN
+._.
+
+``_``
+Gawdamighty_NNS
+''_''
+!_.
+!_.
+
+One_PRP
+screeched_NN
+._.
+
+``_``
+There_EX
+goes_VBZ
+our_PRP$
+grub_``
+an_DT
+'_JJ
+ammunition_NN
+''_''
+!_.
+!_.
+
+a_DT
+bucket_JJ
+line_NN
+going_VBG
+''_''
+!_.
+!_.
+
+Calhoun_NNP
+shouted_NN
+._.
+
+``_``
+Hurry_NN
+!_.
+!_.
+
+Hurry_UH
+''_''
+!_.
+!_.
+
+The_DT
+guerrillas_NN
+began_VBD
+a_DT
+frantic_JJ
+search_NN
+for_IN
+pails_NN
+in_IN
+which_WDT
+to_TO
+bring_VB
+water_NN
+from_IN
+the_DT
+spring_NN
+._.
+
+But_CC
+what_WP
+few_MD
+containers_VB
+they_PRP
+found_VBD
+were_VBD
+inadequate_NN
+._.
+
+Many_JJ
+of_IN
+them_PRP
+,_,
+in_IN
+increasing_VBG
+panic_NN
+,_,
+came_VBD
+running_VBG
+with_IN
+water_NN
+in_IN
+their_PRP$
+hats_NNS
+in_IN
+a_DT
+ludicrous_JJ
+effort_NN
+._.
+
+Both_DT
+buildings_NNS
+were_VBD
+in_IN
+flames_NN
+._.
+
+The_DT
+heat_NN
+drove_VBD
+the_DT
+guerrillas_JJ
+back_NN
+._.
+
+The_DT
+roof_NN
+of_IN
+the_DT
+command_NN
+post_NN
+began_VBD
+to_TO
+buckle_VB
+._.
+
+the_DT
+wagons_NN
+to_TO
+the_DT
+spring_NN
+''_''
+!_.
+!_.
+
+Lew_PRP
+Durkin_NN
+yelled_NN
+._.
+
+'em_DT
+right_NN
+into_IN
+the_DT
+spring_NN
+!_.
+!_.
+
+Hustle_UH
+''_''
+!_.
+!_.
+
+One_PRP
+of_IN
+the_DT
+wagons_NN
+erupted_IN
+a_DT
+massive_JJ
+pillar_NNS
+of_IN
+flame_NN
+._.
+
+A_DT
+sizable_JJ
+supply_NNS
+of_IN
+powder_PRP
+had_VBD
+been_VBN
+touched_VBN
+off_RB
+._.
+
+The_DT
+wagons_NN
+and_CC
+the_DT
+coach_NN
+were_VBD
+beyond_IN
+saving_NN
+and_CC
+so_RB
+were_VBD
+the_DT
+buildings_NNS
+._.
+
+The_DT
+glow_NN
+of_IN
+the_DT
+fire_NN
+reached_VBD
+through_IN
+the_DT
+openings_NN
+in_IN
+the_DT
+windows_NN
+,_,
+giving_VBG
+light_NN
+enough_RB
+to_TO
+examine_VB
+Mike_NNP
+'s_POS
+wound_NN
+._.
+
+The_DT
+bullet_NN
+had_VBD
+torn_VBN
+through_IN
+the_DT
+flesh_NN
+just_RB
+above_IN
+the_DT
+knee_NN
+,_,
+inflicting_IN
+an_DT
+ugly_JJ
+gash_NNS
+that_WDT
+was_VBD
+forming_IN
+a_DT
+pool_NN
+of_IN
+blood_NN
+on_IN
+the_DT
+floor_NN
+._.
+
+But_CC
+it_PRP
+had_VBD
+missed_IN
+the_DT
+bone_NN
+and_CC
+had_VBD
+passed_VBN
+on_IN
+through_NN
+._.
+
+Susan_PRP
+and_CC
+Julia_PRP
+ripped_MD
+strips_VB
+from_IN
+their_PRP$
+clothing_NN
+and_CC
+bound_VBN
+the_DT
+injury_NN
+._.
+
+Mike_PRP
+tested_VBD
+the_DT
+leg_NN
+and_CC
+found_VBN
+that_IN
+he_PRP
+was_VBD
+able_JJ
+to_TO
+hobble_VB
+around_IN
+on_IN
+it_PRP
+._.
+
+Dutch_NNP
+Springs_NNP
+,_,
+this_DT
+mining_NNP
+supply_POS
+town_NN
+had_VBD
+the_DT
+appearance_NN
+of_IN
+being_VBG
+far_RB
+busier_,
+and_CC
+more_RBR
+prosperous_JJ
+._.
+
+Men_PRP
+crowded_VBD
+the_DT
+streets_NNS
+and_CC
+freight_NNP
+rigs_,
+and_CC
+teams_PRP
+were_VBD
+moving_VBG
+about_IN
+._.
+
+Although_WRB
+they_PRP
+were_VBD
+forced_VBN
+to_TO
+maintain_VB
+a_DT
+sharper_JJ
+watch_NNS
+,_,
+this_DT
+activity_NN
+enabled_VBD
+them_PRP
+to_TO
+ride_VB
+in_IN
+and_CC
+rack_VB
+their_PRP$
+broncs_NNS
+without_IN
+any_DT
+particular_JJ
+attention_NN
+being_VBG
+paid_VBN
+them_PRP
+._.
+
+Gyp_PRP
+'ll_MD
+be_VB
+holdin_PRP
+'_VBP
+forth_RB
+in_IN
+some_DT
+bar_NN
+if_IN
+he_PRP
+'s_VBZ
+here_RB
+at_IN
+all_DT
+''_''
+,_,
+Cobb_PRP
+declared_VBD
+,_,
+glancing_CC
+along_IN
+the_DT
+street_NN
+as_IN
+they_PRP
+stretched_VBD
+their_PRP$
+legs_NNS
+._.
+
+There_EX
+were_VBD
+no_RB
+less_RBR
+than_IN
+six_CD
+or_CC
+seven_CD
+saloons_NNS
+in_IN
+Ganado_NNP
+,_,
+not_RB
+counting_IN
+the_DT
+lower_JJ
+class_NN
+dives_''
+,_,
+all_DT
+vying_NN
+for_IN
+the_DT
+trade_NN
+of_IN
+celebrating_DT
+miners_NN
+and_CC
+teamsters_NN
+._.
+
+Pat_PRP
+only_RB
+nodded_NN
+._.
+
+``_``
+Take_DT
+one_CD
+side_NN
+of_IN
+the_DT
+street_NN
+,_,
+and_CC
+I_PRP
+'ll_MD
+take_VB
+the_DT
+other_JJ
+''_''
+,_,
+he_PRP
+proposed_VBD
+._.
+
+``_``
+If_IN
+you_PRP
+spot_VBD
+Carmer_TO
+give_VB
+a_DT
+yell_NN
+before_IN
+you_PRP
+move_VBP
+in_IN
+''_''
+._.
+
+Cobb_NNP
+'s_POS
+assent_NNP
+was_VBD
+tight_NN
+._.
+
+``_``
+You_PRP
+do_VBP
+the_DT
+same_JJ
+._.
+
+It_PRP
+'s_VBZ
+all_DT
+I_PRP
+ask_VBP
+,_,
+Stevens_UH
+''_''
+._.
+
+they_PRP
+took_VBD
+different_JJ
+sides_NNS
+of_IN
+the_DT
+main_JJ
+drag_NNS
+and_CC
+systematically_TO
+combed_VB
+the_DT
+bars_NN
+._.
+
+Russ_PRP
+visited_VBD
+two_CD
+places_NNS
+without_IN
+result_NN
+and_CC
+his_PRP$
+blood_JJ
+pressure_NN
+was_VBD
+down_RB
+to_TO
+zero_VB
+._.
+
+Suddenly_WRB
+it_PRP
+seemed_VBD
+to_TO
+him_PRP
+insane_VBD
+that_IN
+they_PRP
+might_MD
+hope_VB
+to_TO
+locate_VB
+Gyp_PRP
+Carmer_VBP
+so_RB
+casually_RB
+,_,
+even_RB
+were_VBD
+he_PRP
+to_TO
+prove_VB
+the_DT
+thief_NN
+._.
+
+He_PRP
+tramped_VBP
+out_RB
+of_IN
+the_DT
+Miners_JJ
+Rest_NNS
+with_IN
+his_PRP$
+hopes_NNS
+plummeting_''
+,_,
+and_CC
+headed_VBD
+doggedly_VBN
+for_IN
+the_DT
+Palace_JJ
+Saloon_NNS
+,_,
+the_DT
+last_JJ
+place_NN
+of_IN
+any_DT
+consequence_NN
+on_IN
+this_DT
+side_NN
+of_IN
+the_DT
+street_NN
+._.
+
+The_DT
+Palace_NN
+was_VBD
+an_DT
+elaborate_JJ
+establishment_NN
+,_,
+built_VBD
+practically_RB
+on_IN
+stilts_NN
+in_IN
+front_NN
+,_,
+with_IN
+long_JJ
+flights_NNS
+of_IN
+wooden_JJ
+steps_NNS
+running_VBP
+up_RB
+to_TO
+the_DT
+porch_NN
+._.
+
+Behind_IN
+its_PRP$
+ornate_NNS
+facade_IN
+the_DT
+notorious_NNP
+dive_NNP
+clung_VBD
+like_IN
+a_DT
+bird_NNP
+'s_POS
+nest_NN
+to_TO
+the_DT
+rocky_JJ
+ribs_NNS
+of_IN
+the_DT
+canyonside_NN
+._.
+
+Russ_PRP
+ran_VBD
+up_IN
+the_DT
+steps_NNS
+quickly_RB
+to_TO
+the_DT
+plank_JJ
+porch_NN
+._.
+
+The_DT
+front_NN
+windows_,
+of_IN
+the_DT
+place_NN
+were_VBD
+long_RB
+and_CC
+narrow_JJ
+,_,
+reaching_CC
+nearly_RB
+to_TO
+the_DT
+floor_NN
+and_CC
+affording_IN
+an_DT
+unusually_RB
+good_JJ
+view_NN
+of_IN
+the_DT
+interior_NN
+._.
+
+Heading_PRP
+for_IN
+the_DT
+batwings_NN
+,_,
+Cobb_PRP
+glanced_MD
+perfunctorily_VB
+through_IN
+the_DT
+nearest_JJS
+window_NN
+,_,
+and_CC
+suddenly_RB
+dodged_NN
+aside_NN
+._.
+
+Nerves_DT
+tight_JJ
+as_IN
+a_DT
+bowstring_NN
+,_,
+he_PRP
+paused_VBD
+to_TO
+gather_VB
+his_PRP$
+wits_NNS
+._.
+
+all_DT
+expectation_NN
+,_,
+Carmer_PRP
+was_VBD
+inside_RB
+,_,
+clearly_RB
+enjoying_VB
+himself_PRP
+to_TO
+the_DT
+hilt_NN
+and_CC
+already_RB
+so_RB
+tipsy_VBN
+that_IN
+it_PRP
+seemed_VBD
+unlikely_VBN
+he_PRP
+was_VBD
+bothering_VBN
+to_TO
+note_VB
+anything_NN
+or_CC
+anyone_NN
+about_IN
+him_PRP
+._.
+
+Fierce_DT
+anger_NN
+surged_NN
+through_NN
+Russ_NN
+._.
+
+He_PRP
+fought_VBD
+down_IN
+the_DT
+impulse_NN
+to_TO
+rush_VB
+in_IN
+and_CC
+collar_IN
+the_DT
+vicious_JJ
+puncher_NNS
+on_IN
+the_DT
+spot_NN
+._.
+
+the_DT
+porch_NN
+rail_,
+beyond_IN
+view_NN
+of_IN
+the_DT
+bar_NN
+windows_''
+,_,
+he_PRP
+feverishly_MD
+scanned_VB
+the_DT
+busy_JJ
+street_NN
+below_NN
+._.
+
+Stevens_PRP
+was_VBD
+nowhere_RB
+in_IN
+sight_NN
+._.
+
+Muffling_IN
+an_DT
+exclamation_NN
+,_,
+Russ_PRP
+sprang_VBD
+to_TO
+the_DT
+nearest_JJS
+steps_NNS
+and_CC
+ran_VBD
+down_RB
+._.
+
+As_IN
+luck_NN
+had_VBD
+it_PRP
+,_,
+he_PRP
+had_VBD
+not_RB
+gone_VBN
+twenty_CD
+feet_NNS
+in_IN
+the_DT
+street_NN
+before_IN
+Pat_PRP
+appeared_VBD
+._.
+
+What_DT
+luck_NN
+,_,
+Cobb_UH
+''_''
+?_.
+?_.
+
+He_PRP
+said_VBD
+swiftly_NN
+._.
+
+Russ_PRP
+pointed_VBD
+upward_NN
+._.
+
+``_``
+He_PRP
+'s_VBZ
+there_RB
+''_''
+,_,
+he_PRP
+got_VBD
+out_IN
+tersely_NNP
+,_,
+curbing_CC
+his_PRP$
+rising_NNS
+excitement_JJ
+._.
+
+Hitching_IN
+his_PRP$
+cartridge_JJ
+belt_NN
+around_IN
+,_,
+Pat_PRP
+glanced_VBD
+upward_DT
+briefly_NN
+at_IN
+the_DT
+Palace_NN
+and_CC
+started_VBD
+that_DT
+way_NN
+with_IN
+Cobb_NN
+at_IN
+his_PRP$
+side_NN
+._.
+
+the_DT
+steps_NNS
+steadily_''
+,_,
+they_PRP
+reached_VBD
+the_DT
+top_NN
+and_CC
+headed_VBD
+for_IN
+the_DT
+door_NN
+._.
+
+Pat_PRP
+pushed_VBD
+through_IN
+first_JJ
+._.
+
+Forced_PRP
+behind_IN
+him_PRP
+momentarily_RB
+,_,
+Russ_PRP
+followed_VBD
+at_IN
+once_RB
+and_CC
+halted_RB
+two_CD
+steps_NNS
+inside_JJ
+._.
+
+His_PRP$
+eyes_NNS
+widened_JJ
+._.
+
+While_IN
+five_CD
+minutes_NNS
+ago_RB
+the_DT
+place_NN
+had_VBD
+presented_VBN
+a_DT
+scene_NN
+of_IN
+easy_JJ
+revelry_NNS
+,_,
+with_IN
+Gyp_PRP
+Carmer_VBD
+a_DT
+prominent_JJ
+figure_NN
+,_,
+it_PRP
+was_VBD
+now_RB
+as_IN
+somnolent_NN
+and_CC
+dull_JJ
+as_IN
+the_DT
+day_NN
+before_IN
+payday_NN
+._.
+
+Carmer_WRB
+himself_PRP
+was_VBD
+nowhere_RB
+to_TO
+be_VB
+seen_VBN
+._.
+
+A_DT
+man_NN
+knocked_IN
+the_DT
+roulette_JJ
+ball_NNS
+about_IN
+idly_NN
+in_IN
+its_PRP$
+track_NNS
+,_,
+and_CC
+another_DT
+dozed_NN
+at_IN
+one_CD
+of_IN
+the_DT
+card_NN
+tables_NN
+._.
+
+Two_CD
+men_NNS
+murmured_VBD
+with_IN
+their_PRP$
+heads_NNS
+together_RB
+at_IN
+the_DT
+end_NN
+of_IN
+the_DT
+bar_NN
+,_,
+while_IN
+the_DT
+sleek-headed_NN
+bartender_:
+absently_:
+polished_:
+a_DT
+glass_NN
+._.
+
+Looking_VBG
+the_DT
+setup_NN
+over_IN
+,_,
+Stevens_PRP
+started_VBD
+coolly_RB
+for_IN
+the_DT
+rear_NN
+of_IN
+the_DT
+place_NN
+._.
+
+yuh_PRP
+goin_MD
+'_VB
+''_''
+?_.
+?_.
+
+It_PRP
+was_VBD
+the_DT
+barkeep_NN
+._.
+
+Halting_NNP
+,_,
+Pat_PRP
+turned_VBD
+to_TO
+survey_VB
+him_PRP
+deliberately_NN
+._.
+
+He_PRP
+did_VBD
+not_RB
+reply_VB
+,_,
+going_VBG
+on_IN
+toward_IN
+the_DT
+back_NN
+._.
+
+Less_PRP
+assured_VBD
+than_IN
+the_DT
+tall_JJ
+,_,
+wide-shouldered_DT
+man_NN
+in_IN
+the_DT
+lead_NN
+,_,
+Cobb_PRP
+followed_VBD
+alertly_RB
+,_,
+a_DT
+hand_NN
+on_IN
+his_PRP$
+gun_NNS
+butt_JJ
+._.
+
+The_DT
+bartender_NN
+measured_IN
+this_DT
+situation_NN
+with_IN
+heavy_PRP$
+eyes_NNS
+and_CC
+decided_VBD
+he_PRP
+wanted_VBD
+no_DT
+part_NN
+of_IN
+it_PRP
+._.
+
+He_PRP
+said_VBD
+no_DT
+more_JJR
+._.
+
+A_DT
+hall_NN
+opened_VBN
+in_IN
+back_NN
+of_IN
+the_DT
+bar_NN
+,_,
+running_VBG
+toward_IN
+an_DT
+ell_NN
+._.
+
+Pat_PRP
+moved_VBD
+into_IN
+it_PRP
+._.
+
+Small_JJ
+rooms_NNS
+,_,
+probably_RB
+for_IN
+cards_NNP
+,_,
+opened_VBN
+off_RB
+on_IN
+either_DT
+side_NN
+._.
+
+All_DT
+the_DT
+doors_NN
+were_VBD
+open_RB
+at_IN
+this_DT
+hour_NN
+except_IN
+one_CD
+,_,
+and_CC
+it_PRP
+was_VBD
+toward_IN
+this_DT
+that_IN
+Stevens_PRP
+made_VBD
+his_PRP$
+way_NN
+with_IN
+Russ_DT
+close_JJ
+at_IN
+his_PRP$
+shoulder_NNS
+._.
+
+The_DT
+door_NN
+was_VBD
+locked_NN
+._.
+
+A_DT
+single_JJ
+kick_NNS
+made_VBD
+it_PRP
+spring_VBP
+open_RB
+,_,
+shuddering_PRP
+._.
+
+Pat_PRP
+saw_VBD
+Gyp_VBN
+Carmer_TO
+staggering_VB
+forward_RB
+,_,
+a_DT
+half-filled_JJ
+bottle_NN
+upraised_VBZ
+as_IN
+if_IN
+to_TO
+strike_NN
+._.
+
+Russ_PRP
+sprang_VBD
+through_IN
+to_TO
+bat_VB
+it_PRP
+nimbly_NN
+aside_NN
+._.
+
+With_IN
+a_DT
+bellow_NN
+Carmer_TO
+lunged_VB
+at_IN
+him_PRP
+._.
+
+But_CC
+he_PRP
+was_VBD
+more_RBR
+than_IN
+half-drunk_NNP
+,_,
+and_CC
+his_PRP$
+faculties_NNS
+were_VBD
+dulled_NN
+._.
+
+Cobb_PRP
+unleashed_VBD
+a_DT
+single_JJ
+powerful_JJ
+jab_NNS
+that_IN
+sent_VBN
+Gyp_TO
+reeling_VB
+wildly_RB
+and_CC
+crashing_RB
+down_RB
+with_IN
+a_DT
+whining_NN
+groan_NN
+._.
+
+He_PRP
+started_VBD
+to_TO
+struggle_VB
+up_RB
+,_,
+heaving_CC
+desperately_RB
+._.
+
+Russ_PRP
+gave_VBD
+him_PRP
+a_DT
+brutal_JJ
+thrust_NNS
+that_IN
+tumbled_WDT
+him_PRP
+over_IN
+flat_NN
+on_IN
+his_PRP$
+stomach_NNS
+._.
+
+Kneeling_NNP
+,_,
+Cobb_PRP
+planted_VBD
+a_DT
+sturdy_JJ
+knee_NN
+in_IN
+the_DT
+small_JJ
+of_IN
+his_PRP$
+back_NN
+,_,
+holding_WRB
+him_PRP
+pinned_NN
+._.
+
+Okay_NNP
+,_,
+Stevens_PRP
+._.
+
+I_PRP
+'ve_VBP
+drawn_VBN
+his_PRP$
+fangs_NN
+''_''
+,_,
+he_PRP
+snapped_VBD
+._.
+
+``_``
+Go_VB
+through_IN
+his_PRP$
+pockets_NNS
+,_,
+will_MD
+you_PRP
+?_.
+?_.
+
+If_IN
+we_PRP
+have_VBP
+to_TO
+we_PRP
+'ll_MD
+take_VB
+him_PRP
+apart_RB
+and_CC
+see_VB
+what_WP
+he_PRP
+'s_VBZ
+made_VBN
+of_IN
+''_''
+!_.
+!_.
+
+Pat_PRP
+pulled_MD
+pocket_VB
+after_IN
+pocket_PRP
+inside_RB
+out_RB
+without_IN
+finding_VBG
+a_DT
+thing_NN
+._.
+
+Cobb_PRP
+watched_VBD
+this_DT
+with_IN
+hunted_PRP$
+eyes_NNS
+,_,
+his_PRP$
+desperate_JJ
+hope_NN
+waning_,
+by_IN
+the_DT
+moment_NN
+._.
+
+Stevens_PRP
+was_VBD
+grunting_VBN
+over_IN
+the_DT
+last_JJ
+empty_JJ
+pocket_NNS
+when_WRB
+Russ_PRP
+abruptly_MD
+rose_VB
+and_CC
+lunged_RB
+toward_IN
+Carmer_NNP
+'s_POS
+hat_NN
+,_,
+which_WDT
+had_VBD
+tumbled_DT
+half-a-dozen_JJ
+feet_NNS
+away_RB
+when_WRB
+he_PRP
+first_RB
+fell_NN
+._.
+
+Cobb_PRP
+got_VBD
+it_PRP
+._.
+
+Straightening_PRP
+up_RB
+,_,
+his_PRP$
+eyes_NNS
+ablaze_''
+,_,
+he_PRP
+held_VBD
+out_IN
+the_DT
+battered_NN
+Stetson_NN
+._.
+
+this_DT
+''_''
+!_.
+!_.
+
+the_DT
+crown_NN
+,_,
+stuffed_CC
+behind_IN
+the_DT
+stained_JJ
+sweatband_NNS
+,_,
+could_MD
+be_VB
+seen_VBN
+thin_JJ
+,_,
+crumpled_PRP
+wads_VBD
+of_IN
+currency_NN
+._.
+
+Carmer_NNP
+'s_POS
+ingenious_JJ
+cache_NNS
+for_IN
+his_PRP$
+loot_NNS
+had_VBD
+been_VBN
+found_VBN
+._.
+
+Stevens_PRP
+!_.
+!_.
+
+You_PRP
+were_VBD
+right_NN
+''_''
+,_,
+Russ_PRP
+exclaimed_VBD
+,_,
+tearing_IN
+the_DT
+loose_JJ
+bills_NNS
+out_IN
+of_IN
+Carmer_NNP
+'s_POS
+hat_NN
+._.
+
+``_``
+That_DT
+is_VBZ
+,_,
+if_IN
+we_PRP
+can_MD
+be_VB
+sure_IN
+this_DT
+is_VBZ
+Colcord_JJ
+'s_POS
+money_NN
+''_''
+--_:
+Pat_PRP
+grunted_NN
+._.
+
+``_``
+Where_WRB
+else_PRP
+would_MD
+he_PRP
+get_VB
+it_PRP
+?_.
+?_.
+
+Count_)
+what_WP
+you_PRP
+'ve_VBP
+got_RB
+there_RB
+,_,
+Cobb_PRP
+._.
+
+We_PRP
+can_MD
+soon_RB
+tell_VB
+''_''
+._.
+
+Russ_PRP
+ran_VBD
+through_IN
+the_DT
+bills_NN
+and_CC
+named_VBN
+an_DT
+amount_NN
+it_PRP
+was_VBD
+highly_RB
+unlikely_IN
+any_DT
+cowpuncher_NN
+would_MD
+come_JJ
+by_IN
+honestly_NN
+._.
+
+Pat_PRP
+nodded_VBD
+._.
+
+It_PRP
+'s_VBZ
+within_IN
+a_DT
+hundred_CD
+of_IN
+what_WP
+Crip_PRP
+had_VBD
+''_''
+,_,
+he_PRP
+declared_VBD
+._.
+
+``_``
+We_PRP
+know_VBP
+Penny_RB
+spent_VBN
+some_DT
+--_:
+and_CC
+Carmer_PRP
+must_MD
+have_VB
+dropped_VBN
+a_DT
+few_JJ
+dollars_NNS
+getting_VBG
+that_IN
+load_NN
+on_IN
+''_''
+._.
+
+the_DT
+money_NN
+over_IN
+,_,
+Russ_TO
+wiped_VB
+his_PRP$
+hands_NNS
+on_IN
+his_PRP$
+pants-legs_NNS
+as_IN
+if_IN
+ridding_WDT
+himself_PRP
+of_IN
+something_NN
+unclean_NN
+._.
+
+His_PRP$
+glance_NNS
+at_IN
+Gyp_DT
+Carmer_NN
+was_VBD
+disdainful_NN
+._.
+
+``_``
+Shall_WRB
+we_PRP
+get_VBP
+out_RB
+of_IN
+here_RB
+''_''
+?_.
+?_.
+
+the_DT
+card_JJ
+room_NN
+,_,
+they_PRP
+moved_VBD
+back_RB
+through_IN
+the_DT
+Palace_VBG
+the_DT
+way_NN
+they_PRP
+had_VBD
+come_VBN
+._.
+
+Glowering_PRP
+looks_VBZ
+met_WRB
+them_PRP
+in_IN
+the_DT
+bar_NN
+,_,
+but_CC
+there_EX
+was_VBD
+no_DT
+attempt_NN
+to_TO
+halt_VB
+them_PRP
+._.
+
+Pausing_PRP
+in_IN
+the_DT
+outside_JJ
+door_NN
+to_TO
+glance_VB
+behind_IN
+him_PRP
+,_,
+Pat_PRP
+looked_VBD
+his_PRP$
+unspoken_NNS
+warning_,
+and_CC
+stepped_RB
+out_RB
+._.
+
+He_PRP
+and_CC
+Cobb_RB
+clattered_VBN
+down_IN
+the_DT
+high_JJ
+steps_NNS
+to_TO
+the_DT
+street_NN
+._.
+
+Neither_PRP
+spoke_VBD
+till_VBN
+they_PRP
+reached_VBD
+their_PRP$
+horses_NNS
+._.
+
+Pat_PRP
+paused_VBP
+there_RB
+,_,
+looking_VBG
+across_IN
+at_IN
+the_DT
+young_JJ
+fellow_NN
+._.
+
+It_PRP
+'ll_MD
+be_VB
+a_DT
+pleasure_NN
+for_IN
+you_PRP
+to_TO
+return_VB
+this_DT
+money_NN
+to_TO
+Colcord_VB
+and_CC
+tell_VB
+him_PRP
+about_IN
+it_PRP
+,_,
+Russ_UH
+''_''
+._.
+
+He_PRP
+started_VBD
+to_TO
+return_VB
+it_PRP
+._.
+
+his_PRP$
+faint_JJ
+surprise_NNS
+Russ_VBP
+held_VBN
+up_IN
+his_PRP$
+hand_NN
+._.
+
+``_``
+Not_RB
+me_PRP
+''_''
+,_,
+he_PRP
+ruled_NN
+decidedly_NN
+._.
+
+I_PRP
+'ve_VBP
+had_VBD
+enough_RB
+._.
+
+It_PRP
+was_VBD
+you_PRP
+that_IN
+tracked_WDT
+it_PRP
+down_RB
+anyway_RB
+,_,
+Stevens_UH
+''_''
+,_,
+he_PRP
+pursued_VBD
+strictly_RB
+._.
+
+``_``
+I_PRP
+'ll_MD
+shove_VB
+along_IN
+home_NN
+''_''
+._.
+
+Whatever_WDT
+you_PRP
+say_VB
+''_''
+._.
+
+Pat_PRP
+swung_VBD
+into_IN
+the_DT
+saddle_NN
+,_,
+yet_RB
+still_RB
+he_PRP
+delayed_VBD
+,_,
+his_PRP$
+brows_NNS
+puckered_JJ
+._.
+
+``_``
+You_PRP
+owe_VBD
+it_PRP
+to_TO
+Penny_VB
+to_TO
+give_VB
+her_PRP
+a_DT
+chance_NN
+to_TO
+explain_VB
+that_IN
+she_PRP
+was_VBD
+defending_VBG
+you_PRP
+,_,
+really_RB
+''_''
+,_,
+he_PRP
+observed_NN
+mildly_NN
+._.
+
+Old_NNP
+Crip_NNP
+was_VBD
+n't_RB
+''_''
+,_,
+retorted_PRP
+Cobb_NN
+tartly_NN
+._.
+
+``_``
+He_PRP
+'ll_MD
+know_VB
+when_WRB
+you_PRP
+tell_VB
+him_PRP
+._.
+
+But_CC
+I_PRP
+want_VBP
+this_DT
+to_TO
+sink_VB
+in_IN
+awhile_NN
+._.
+
+Then_RB
+maybe_RBR
+next_JJ
+time_NN
+he_PRP
+wo_MD
+n't_RB
+be_VB
+so_RB
+quick_JJ
+on_IN
+the_DT
+trigger_NN
+''_''
+._.
+
+Pat_PRP
+had_VBD
+never_RB
+pretended_VBN
+to_TO
+give_VB
+advice_VBN
+in_IN
+such_JJ
+affairs_NNS
+._.
+
+``_``
+You_PRP
+'re_VBP
+the_DT
+doctor_NN
+''_''
+,_,
+he_PRP
+returned_VBD
+with_IN
+a_DT
+smile_NN
+._.
+
+``_``
+But_CC
+I_PRP
+still_RB
+think_VB
+Penny_PRP
+'s_VBZ
+an_DT
+awful_JJ
+nice_JJ
+girl_NN
+,_,
+Russ_UH
+''_''
+--_:
+``_``
+You_PRP
+do_VBP
+n't_RB
+have_VB
+to_TO
+tell_VB
+me_PRP
+''_''
+,_,
+flashed_VBN
+Cobb_NN
+._.
+
+Giving_IN
+the_DT
+other_JJ
+a_DT
+dark_JJ
+look_NN
+,_,
+he_PRP
+hauled_VBD
+his_PRP$
+bronc_NNS
+around_IN
+and_CC
+trotted_VBD
+down_RB
+off_IN
+the_DT
+street_NN
+._.
+
+Pat_PRP
+let_VB
+him_PRP
+go_VB
+,_,
+following_VBG
+more_JJR
+leisurely_NN
+._.
+
+At_IN
+the_DT
+first_JJ
+restaurant_,
+he_PRP
+sensibly_MD
+pulled_VB
+up_RB
+to_TO
+go_VB
+in_IN
+for_IN
+his_PRP$
+dinner_NNS
+,_,
+and_CC
+as_IN
+a_DT
+consequence_NN
+did_VBD
+not_RB
+see_VB
+Cobb_PRP
+strike_VBP
+the_DT
+open_JJ
+range_NN
+at_IN
+the_DT
+mouth_NN
+of_IN
+the_DT
+canyon_NN
+and_CC
+head_NN
+straight_RB
+across_IN
+the_DT
+swells_NN
+for_IN
+Antler_NN
+._.
+
+The_DT
+truth_NN
+was_VBD
+,_,
+the_DT
+puncher_NN
+was_VBD
+both_DT
+bewildered_NN
+and_CC
+dismayed_RB
+by_IN
+his_PRP$
+own_JJ
+mixed_JJ
+luck_NN
+._.
+
+``_``
+Penny_PRP
+'s_VBZ
+always_RB
+glad_JJ
+to_TO
+see_VB
+me_PRP
+over_RB
+there_RB
+''_''
+,_,
+he_PRP
+mused_NN
+bleakly_NN
+._.
+
+Yet_RB
+had_VBD
+he_PRP
+not_RB
+visited_IN
+the_DT
+girl_NN
+at_IN
+Saw_PRP
+Buck_VBD
+he_PRP
+would_MD
+never_RB
+have_VB
+been_VBN
+involved_VBN
+in_IN
+this_DT
+latest_NN
+tangle_NN
+._.
+
+that_IN
+,_,
+however_RB
+,_,
+was_VBD
+his_PRP$
+growing_JJ
+suspicion_NNS
+of_IN
+Chuck_NNP
+Stober_NNP
+'s_POS
+part_NN
+in_IN
+recent_JJ
+events_NNS
+._.
+
+``_``
+Gyp_WRB
+Carmer_PRP
+could_MD
+n't_RB
+have_VB
+known_VBN
+about_IN
+Colcord_NNP
+'s_POS
+money_NN
+unless_,
+he_PRP
+was_VBD
+told_VBN
+--_:
+and_CC
+who_WP
+else_PRP
+would_MD
+have_VB
+told_VBN
+him_PRP
+''_''
+?_.
+?_.
+
+He_PRP
+asked_VBD
+himself_PRP
+._.
+
+``_``
+It_PRP
+'s_VBZ
+the_DT
+second_JJ
+time_NN
+War_NNP
+Ax_POS
+hands_NNS
+made_VBD
+a_DT
+play_NN
+for_IN
+that_DT
+money_NN
+._.
+
+an_DT
+accident_NN
+could_MD
+that_RB
+be_VB
+''_''
+?_.
+?_.
+
+home_NN
+,_,
+he_PRP
+jerked_VBD
+to_TO
+attention_NN
+at_IN
+the_DT
+distant_JJ
+crack_NNS
+of_IN
+a_DT
+gun_NN
+._.
+
+In_IN
+town_NN
+no_DT
+one_NN
+paid_VBD
+much_JJ
+attention_NN
+to_TO
+an_DT
+occasional_JJ
+shot_NNS
+;_:
+;_:
+but_CC
+on_IN
+the_DT
+range_NN
+gunfire_WDT
+had_VBD
+a_DT
+meaning_NN
+._.
+
+Hauling_PRP
+up_RB
+,_,
+Russ_PRP
+listened_VBP
+carefully_RB
+._.
+
+Two_CD
+minutes_NNS
+later_RB
+it_PRP
+came_VBD
+again_RB
+--_:
+a_DT
+double_JJ
+explosion_NNS
+,_,
+followed_VBN
+by_IN
+a_DT
+third_JJ
+,_,
+sounding_RB
+more_RBR
+distant_JJ
+._.
+
+Cobb_PRP
+could_MD
+determine_VB
+the_DT
+shots_NN
+came_VBD
+from_IN
+the_DT
+direction_NN
+of_IN
+the_DT
+Antler_NNP
+ranch_POS
+house_NN
+._.
+
+He_PRP
+tightened_VBP
+up_RB
+in_IN
+a_DT
+twinkling_NN
+._.
+
+So_RB
+far_RB
+as_IN
+he_PRP
+knew_VBD
+,_,
+only_RB
+his_PRP$
+father_NN
+could_MD
+be_VB
+there_RB
+._.
+
+What_WP
+did_VBD
+it_PRP
+mean_VBP
+?_.
+?_.
+
+Clapping_PRP
+spurs_VBD
+to_TO
+the_DT
+bronc_NN
+he_PRP
+set_VBD
+off_RB
+at_IN
+a_DT
+sharp_JJ
+canter_NNS
+,_,
+with_IN
+growing_VBG
+alarm_NN
+._.
+
+His_PRP$
+first_JJ
+glimpse_NN
+of_IN
+the_DT
+ranch_JJ
+house_NN
+across_IN
+the_DT
+brushy_NNS
+swells_VBP
+told_VBN
+him_PRP
+nothing_NN
+._.
+
+Still_IN
+a_DT
+quarter-mile_NN
+away_RB
+,_,
+the_DT
+fresh_JJ
+clap_NNS
+of_IN
+guns_NNS
+only_RB
+served_VBD
+to_TO
+increase_VB
+his_PRP$
+speed_NN
+._.
+
+Setting_IN
+a_DT
+course_NN
+straight_RB
+for_IN
+the_DT
+house_NN
+,_,
+he_PRP
+was_VBD
+covering_VBG
+ground_NN
+fast_,
+when_WRB
+an_DT
+angry_JJ
+bee_NNS
+buzzed_IN
+past_NN
+close_RB
+to_TO
+his_PRP$
+face_NN
+._.
+
+it_PRP
+was_VBD
+followed_VBN
+by_IN
+a_DT
+second_JJ
+,_,
+whining_CC
+even_RB
+closer_JJR
+,_,
+Cobb_PRP
+swerved_VBP
+sharply_RB
+aside_RB
+into_IN
+a_DT
+depression_NN
+._.
+
+He_PRP
+knew_VBD
+now_RB
+what_WP
+he_PRP
+was_VBD
+up_RB
+against_NN
+._.
+
+Whoever_PRP
+was_VBD
+out_RB
+there_RB
+hiding_VBN
+in_IN
+the_DT
+brushy_NNP
+cover_NNP
+was_VBD
+besieging_IN
+the_DT
+Antler_JJ
+house_NN
+and_CC
+,_,
+having_VBG
+spotted_IN
+his_PRP$
+approach_NN
+,_,
+was_VBD
+determined_VBN
+to_TO
+drive_VB
+him_PRP
+off_RB
+before_IN
+he_PRP
+could_MD
+get_VB
+into_IN
+the_DT
+fight_NN
+._.
+
+himself_PRP
+for_IN
+having_VBG
+ridden_VBN
+out_IN
+the_DT
+last_JJ
+few_JJ
+days_NNS
+without_IN
+a_DT
+rifle_NN
+in_IN
+his_PRP$
+saddle_JJ
+boot_NNS
+,_,
+Russ_PRP
+drew_VBD
+his_PRP$
+Colt_NNS
+and_CC
+examined_WRB
+it_PRP
+briefly_NN
+._.
+
+If_IN
+he_PRP
+wondered_VBD
+whether_IN
+the_DT
+attackers_NN
+would_MD
+allow_VB
+him_PRP
+to_TO
+pull_VB
+away_RB
+unmolested_RB
+,_,
+he_PRP
+had_VBD
+his_PRP$
+answer_NN
+a_DT
+moment_NN
+later_NN
+._.
+
+this_DT
+way_NN
+!_.
+!_.
+
+He_PRP
+ai_VBP
+n't_RB
+gone_VBN
+far_RB
+''_''
+!_.
+!_.
+
+A_DT
+harsh_JJ
+cry_TO
+floated_VB
+to_TO
+him_PRP
+across_IN
+the_DT
+brush_NN
+._.
+
+A_DT
+carbine_NN
+cracked_VBZ
+more_RBR
+loudly_JJ
+,_,
+and_CC
+a_DT
+slug_NNP
+clipped_POS
+fragments_NNS
+from_IN
+the_DT
+brush_NN
+off_RB
+at_IN
+one_CD
+side_NN
+._.
+
+The_DT
+would-be_NNP
+assassin_NNP
+had_VBD
+his_PRP$
+position_NN
+figured_NN
+pretty_NN
+close_NN
+._.
+
+Dismounting_NNP
+,_,
+Russ_PRP
+looked_VBD
+about_IN
+hastily_NN
+._.
+
+Toward_IN
+the_DT
+west_JJ
+this_DT
+depression_NN
+led_VBN
+toward_IN
+a_DT
+draw_NN
+._.
+
+Leading_IN
+his_PRP$
+pony_NNS
+,_,
+he_PRP
+hurried_VBD
+that_DT
+way_NN
+,_,
+not_RB
+remounting_TO
+till_VB
+he_PRP
+was_VBD
+well_RB
+below_IN
+the_DT
+level_NN
+of_IN
+the_DT
+surrounding_JJ
+range_NN
+._.
+
+the_DT
+horn_NN
+,_,
+he_PRP
+urged_VBD
+his_PRP$
+mount_NNS
+down_IN
+the_DT
+meandering_NN
+draw_NN
+._.
+
+He_PRP
+had_VBD
+not_RB
+covered_VBN
+a_DT
+hundred_CD
+yards_NNS
+before_IN
+a_DT
+gun_JJ
+crashed_NNS
+from_IN
+somewhere_NN
+behind_NN
+._.
+
+He_PRP
+had_VBD
+been_VBN
+sighted_RB
+,_,
+and_CC
+his_PRP$
+attacker_NNS
+pumping_.
+shot_NN
+after_NN
+shot_NN
+._.
+
+A_DT
+shot_NN
+or_CC
+two_CD
+went_VBD
+wild_VBN
+before_IN
+Cobb_PRP
+felt_VBD
+something_NN
+tug_,
+at_IN
+his_PRP$
+foot_NN
+._.
+
+A_DT
+slug_NN
+had_VBD
+torn_VBN
+half_RB
+of_IN
+his_PRP$
+stirrup-guard_NNS
+away_RB
+._.
+
+A_DT
+second_JJ
+twitched_CC
+his_PRP$
+shirtsleeve_NNS
+,_,
+and_CC
+he_PRP
+felt_VBD
+a_DT
+brief_JJ
+burn_NNS
+on_IN
+his_PRP$
+upper_JJ
+arm_NN
+._.
+
+Another_DT
+snarled_NN
+close_NN
+overhead_NN
+._.
+
+Jumping_PRP
+Jerusalem_.
+!_.
+!_.
+
+Let_PRP
+'s_MD
+get_VB
+out_RB
+of_IN
+here_RB
+''_''
+!_.
+!_.
+
+the_DT
+first_JJ
+shot_NNS
+Russ_WDT
+had_VBD
+hurled_TO
+his_PRP$
+mount_NN
+to_TO
+the_DT
+left_NN
+toward_IN
+the_DT
+side_NN
+of_IN
+the_DT
+winding_NN
+draw_NN
+._.
+
+The_DT
+long_JJ
+minute_NNS
+before_IN
+he_PRP
+reached_VBD
+effective_JJ
+cover_NN
+seemed_NN
+endless_NN
+._.
+
+Sweeping_IN
+a_DT
+look_NN
+around_IN
+,_,
+he_PRP
+saw_VBD
+that_IN
+he_PRP
+was_VBD
+safe_JJ
+for_IN
+the_DT
+moment_NN
+._.
+
+He_PRP
+heard_VBD
+cries_VBN
+from_IN
+behind_IN
+him_PRP
+,_,
+but_CC
+he_PRP
+could_MD
+make_VB
+out_IN
+no_DT
+words_NNS
+._.
+
+He_PRP
+dashed_MD
+madly_VB
+for_IN
+the_DT
+next_JJ
+elbow_TO
+turn_VB
+in_IN
+the_DT
+draw_NN
+,_,
+and_CC
+made_VBD
+it_PRP
+._.
+
+Recklessly_PRP
+hurling_VBD
+the_DT
+bronc_JJ
+sidewise_NNS
+into_IN
+an_DT
+intersecting_JJ
+draw_NNS
+,_,
+he_PRP
+plunged_VB
+forward_RB
+with_IN
+undiminished_DT
+speed_NN
+._.
+
+the_DT
+wash_NN
+climbed_VBZ
+upward_RB
+,_,
+forcing_WRB
+him_PRP
+toward_IN
+open_JJ
+range_NN
+._.
+
+he_PRP
+must_MD
+chance_VB
+it_PRP
+._.
+
+He_PRP
+clambered_VBP
+out_RB
+of_IN
+the_DT
+dwindling_JJ
+wash_NN
+,_,
+the_DT
+loose_JJ
+dirt_NN
+flying_,
+behind_IN
+him_PRP
+,_,
+and_CC
+flashed_VBN
+a_DT
+look_NN
+about_NN
+._.
+
+November_IN
+the_DT
+clouds_NNS
+lifted_VBD
+enough_RB
+to_TO
+carry_VB
+out_IN
+the_DT
+assigned_NN
+missions_NN
+._.
+
+And_CC
+Sweeney_PRP
+Squadron_MD
+put_VB
+its_PRP$
+first_JJ
+marks_NNS
+on_IN
+the_DT
+combat_JJ
+record_NN
+._.
+
+Every_DT
+plane_NN
+that_WDT
+could_MD
+fly_VB
+was_VBD
+sent_VBN
+into_IN
+the_DT
+air_NN
+._.
+
+Cricket_PRP
+took_VBD
+eight_CD
+ships_NNS
+and_CC
+went_VBD
+south_RB
+across_IN
+the_DT
+Straits_NN
+and_CC
+along_IN
+the_DT
+north_JJ
+coast_NNS
+of_IN
+Mindanao_VBG
+to_TO
+Cagayan_VB
+._.
+
+Anything_IN
+the_DT
+enemy_NN
+flew_,
+or_CC
+floated_PRP
+was_VBD
+his_PRP$
+target_NN
+._.
+
+Fleischman_PRP
+with_IN
+eight_CD
+was_VBD
+to_TO
+patrol_VB
+the_DT
+Leyte_NNP
+Gulf_POS
+area_NN
+,_,
+with_IN
+his_PRP$
+main_JJ
+task_NN
+to_TO
+get_VB
+any_DT
+kamikaze_NN
+before_IN
+they_PRP
+got_VBD
+to_TO
+the_DT
+ships_NNS
+._.
+
+Greg_WRB
+himself_PRP
+took_VBD
+two_CD
+flights_NNS
+,_,
+with_IN
+Todman_DT
+leading_VBG
+the_DT
+second_JJ
+,_,
+to_TO
+patrol_VB
+and_CC
+look_VB
+for_IN
+targets_NNS
+of_IN
+opportunities_NN
+around_IN
+Ormoc_NN
+on_IN
+the_DT
+east_JJ
+coast_NNS
+of_IN
+Leyte_NN
+._.
+
+Each_DT
+plane_NN
+carried_.
+two_.
+five-hundred_NN
+pound_NN
+bombs_NN
+._.
+
+A_DT
+weapons_NNS
+carrier_WDT
+took_VBD
+Greg_RB
+,_,
+Todman_RB
+,_,
+Belton_RB
+,_,
+Banjo_CC
+Ferguson_NNP
+,_,
+and_CC
+Walters_JJ
+and_CC
+the_DT
+others_NNS
+the_DT
+two_CD
+miles_NNS
+from_IN
+the_DT
+bivouac_JJ
+area_NN
+to_TO
+the_DT
+strip_NN
+._.
+
+It_PRP
+was_VBD
+a_DT
+rough_JJ
+long_JJ
+ride_NN
+through_IN
+the_DT
+mud_NN
+and_CC
+pot_JJ
+holes_NNS
+._.
+
+No_DT
+one_NN
+had_VBD
+much_RB
+to_TO
+say_VB
+._.
+
+The_DT
+sky_NN
+glowered_VBZ
+down_RB
+at_IN
+them_PRP
+._.
+
+There_EX
+was_VBD
+a_DT
+feeling_NN
+that_IN
+this_DT
+mission_NN
+would_MD
+be_VB
+canceled_VBN
+like_IN
+all_PDT
+the_DT
+others_NNS
+and_CC
+that_IN
+this_DT
+muddy_JJ
+wet_JJ
+dark_JJ
+world_NN
+of_IN
+combat_PRP
+would_MD
+go_VB
+on_IN
+forever_RB
+._.
+
+The_DT
+truck_NN
+dropped_,
+them_PRP
+off_IN
+at_IN
+the_DT
+various_JJ
+revetments_NNS
+spread_VBN
+through_IN
+the_DT
+jungle_NN
+._.
+
+Donovan_NNP
+snatched_NNP
+Greg_NNP
+'s_POS
+chute_NN
+from_IN
+him_PRP
+with_IN
+a_DT
+belligerent_JJ
+motion_NN
+and_CC
+almost_RB
+ran_VBD
+to_TO
+the_DT
+plane_NN
+with_IN
+it_PRP
+._.
+
+His_PRP$
+face_NN
+was_VBD
+dark_RB
+as_IN
+the_DT
+sky_NN
+above_RB
+it_PRP
+as_IN
+he_PRP
+stood_VBD
+on_IN
+the_DT
+wing_NN
+and_CC
+waited_VBD
+for_IN
+his_PRP$
+pilot_NNS
+._.
+
+Greg_PRP
+climbed_VBD
+into_IN
+the_DT
+cockpit_JJ
+feeling_NN
+as_IN
+if_IN
+he_PRP
+had_VBD
+never_RB
+been_VBN
+in_IN
+one_NN
+before_NN
+._.
+
+But_CC
+his_PRP$
+hands_NNS
+and_CC
+those_DT
+of_IN
+Donovan_PRP
+moved_VBD
+automatically_RB
+adjusting_,
+and_CC
+arranging_RB
+in_IN
+the_DT
+check-out_NN
+procedure_NN
+._.
+
+I_PRP
+'ve_VBP
+got_VBD
+her_PRP
+as_RB
+neat_JJ
+as_IN
+I_PRP
+can_MD
+''_''
+,_,
+Donovan_PRP
+said_VBD
+,_,
+as_IN
+he_PRP
+dropped_VBD
+the_DT
+straps_NN
+of_IN
+the_DT
+Seton_JJ
+harness_NNS
+over_IN
+Greg_NNP
+'s_POS
+shoulders_NNS
+._.
+
+``_``
+But_CC
+this_DT
+goddamn_NN
+climate_NN
+._.
+
+It_PRP
+'s_VBZ
+for_IN
+carabao_PRP
+not_RB
+airplanes_VB
+''_''
+._.
+
+We_PRP
+'ll_MD
+make_VB
+out_RB
+._.
+
+Do_PRP
+n't_RB
+you_PRP
+worry_VBD
+,_,
+chief_JJ
+''_''
+,_,
+Greg_PRP
+replied_VBD
+,_,
+wondering_CC
+if_IN
+he_PRP
+himself_PRP
+believed_VBD
+it_PRP
+._.
+
+I_PRP
+guided_VBD
+her_PRP
+to_TO
+the_DT
+divan_NN
+,_,
+turned_VBN
+off_IN
+the_DT
+TV_NN
+,_,
+faced_VBN
+her_NN
+._.
+
+She_PRP
+sat_VBD
+quietly_RB
+,_,
+staring_CC
+at_IN
+me_PRP
+from_IN
+the_DT
+wide_JJ
+eyes_NNS
+._.
+
+And_CC
+what_WP
+eyes_NNS
+they_PRP
+were_VBD
+._.
+
+Big_PRP
+and_CC
+dark_JJ
+,_,
+a_DT
+melting_NN
+,_,
+golden_JJ
+brown_NN
+._.
+
+Eyes_PRP
+like_IN
+hot_JJ
+honey_NN
+,_,
+eyes_NNS
+that_IN
+sizzled_NN
+._.
+
+Plus_DT
+flawless_JJ
+skin_NN
+,_,
+smooth_JJ
+brow_NNS
+and_CC
+cheeks_NNP
+,_,
+lips_IN
+that_WDT
+looked_VBD
+as_IN
+if_IN
+you_PRP
+could_MD
+get_VB
+a_DT
+shock_NN
+from_IN
+them_PRP
+._.
+
+It_PRP
+was_VBD
+a_DT
+disturbingly_JJ
+familiar_JJ
+face_NN
+,_,
+too_RB
+,_,
+but_CC
+I_PRP
+could_MD
+n't_RB
+remember_VB
+where_WRB
+we_PRP
+had_VBD
+met_NN
+._.
+
+I_PRP
+said_VBD
+,_,
+``_``
+Do_WRB
+we_PRP
+know_VBP
+each_DT
+other_JJ
+,_,
+Miss_NNP
+''_''
+?_.
+?_.
+
+I_PRP
+remembered_VBD
+reading_VBN
+about_IN
+you_PRP
+in_IN
+the_DT
+papers_NNS
+and_CC
+that_IN
+you_PRP
+lived_VBP
+here_RB
+,_,
+and_CC
+when_WRB
+it_PRP
+happened_VBD
+all_DT
+I_PRP
+could_MD
+think_VB
+of_IN
+was_VBD
+''_''
+--_:
+This_DT
+time_NN
+she_PRP
+stopped_VBD
+the_DT
+rush_NN
+of_IN
+words_NNS
+herself_JJ
+._.
+
+``_``
+I_PRP
+'m_VBP
+sorry_NN
+._.
+
+Shall_WRB
+I_PRP
+go_VBP
+on_IN
+''_''
+?_.
+?_.
+
+She_PRP
+smiled_NN
+._.
+
+It_PRP
+was_VBD
+her_PRP$
+first_JJ
+smile_NN
+._.
+
+worth_JJ
+waiting_NNS
+for_IN
+._.
+
+Sure_UH
+''_''
+._.
+
+I_PRP
+said_VBD
+._.
+
+``_``
+But_CC
+one_CD
+word_NN
+at_IN
+a_DT
+time_NN
+,_,
+O.K._UH
+''_''
+?_.
+?_.
+
+She_PRP
+was_VBD
+still_RB
+hugging_IN
+the_DT
+stained_JJ
+coat_NN
+around_IN
+her_PRP
+,_,
+so_RB
+I_PRP
+said_VBD
+,_,
+``_``
+Relax_NNP
+,_,
+let_VB
+me_PRP
+take_VB
+your_PRP$
+things_NNS
+._.
+
+Would_WRB
+you_PRP
+like_IN
+a_DT
+drink_NN
+,_,
+or_CC
+coffee_NNP
+''_''
+?_.
+?_.
+
+thanks_UH
+''_''
+._.
+
+She_PRP
+stood_VBD
+up_RB
+,_,
+pulled_IN
+the_DT
+coat_NN
+from_IN
+her_PRP$
+shoulders_NNS
+and_CC
+started_VBD
+to_TO
+slide_VB
+it_PRP
+off_RB
+,_,
+then_RB
+let_VB
+out_RP
+a_DT
+high-pitched_JJ
+scream_NNS
+and_CC
+I_PRP
+let_VBD
+out_RP
+a_DT
+low-pitched_NN
+,_,
+wobbling_DT
+sound_NN
+like_IN
+a_DT
+muffler_NN
+blowing_NN
+out_NN
+._.
+
+She_PRP
+was_VBD
+wearing_VBG
+nothing_NN
+beneath_IN
+the_DT
+coat_NN
+._.
+
+She_PRP
+jerked_VBD
+the_DT
+coat_NN
+back_RB
+on_IN
+and_CC
+squeezed_VBN
+it_PRP
+around_IN
+her_PRP
+again_RB
+,_,
+but_CC
+not_RB
+soon_RB
+enough_RB
+._.
+
+There_EX
+had_VBD
+been_VBN
+a_DT
+good_JJ
+second_JJ
+or_CC
+two_CD
+during_IN
+which_WDT
+my_PRP$
+muffler_NNS
+had_VBD
+been_VBN
+blowing_RB
+out_RB
+,_,
+and_CC
+now_RB
+I_PRP
+was_VBD
+certain_VBN
+I_PRP
+'d_MD
+seen_VB
+her_PRP$
+somewhere_NNS
+before_JJ
+._.
+
+I_PRP
+forgot_VBD
+''_''
+!_.
+!_.
+
+She_PRP
+yelped_NN
+._.
+
+``_``
+Oh_NNP
+,_,
+do_VBP
+forgive_VB
+me_PRP
+._.
+
+I_PRP
+'m_VBP
+sorry_VBN
+''_''
+!_.
+!_.
+
+I_PRP
+forgive_VB
+''_''
+--_:
+``_``
+That_DT
+'s_NNS
+what_WP
+started_VBD
+all_PDT
+the_DT
+trouble_NN
+in_IN
+the_DT
+first_JJ
+place_NN
+._.
+
+Oh_NNP
+,_,
+dear_JJ
+,_,
+I_PRP
+'m_VBP
+all_DT
+unstrung_NN
+''_''
+._.
+
+You_PRP
+and_CC
+me_PRP
+both_VBD
+,_,
+dear_JJ
+._.
+
+Have_PRP
+n't_RB
+we_PRP
+have_VB
+n't_RB
+I_PRP
+seen_VBD
+you_PRP
+._.
+
+I_PRP
+mean_VBP
+,_,
+surely_RB
+we_PRP
+'ve_VBP
+''_''
+--_:
+``_``
+You_PRP
+may_MD
+have_VB
+seen_VBN
+me_PRP
+on_IN
+TV_NNP
+''_''
+,_,
+she_PRP
+said_VBD
+._.
+
+``_``
+I_PRP
+'ve_VBP
+done_VBN
+several_RB
+filmed_VBN
+commercials_VBN
+for_IN
+''_''
+--_:
+Then_RB
+it_PRP
+hit_VBD
+me_PRP
+._.
+
+``_``
+Zing_NNS
+''_''
+!_.
+!_.
+
+I_PRP
+cried_NN
+._.
+
+day_NN
+Matsuo_WDT
+saw_VBD
+a_DT
+marine_NN
+._.
+
+The_DT
+enemy_NN
+came_VBD
+looming_VBN
+around_IN
+a_DT
+bend_NN
+in_IN
+the_DT
+trail_NN
+and_CC
+Matsuo_PRP
+took_VBD
+a_DT
+hasty_JJ
+shot_NNS
+,_,
+then_RB
+fled_VBN
+without_IN
+knowing_VBG
+the_DT
+result_NN
+,_,
+ran_VBD
+until_IN
+breath_PRP
+was_VBD
+a_DT
+pain_NN
+in_IN
+his_PRP$
+chest_NN
+and_CC
+his_PRP$
+legs_NNS
+were_VBD
+rubbery_NN
+._.
+
+As_IN
+his_PRP$
+feet_NNS
+slowed_''
+,_,
+he_PRP
+felt_VBD
+ashamed_VBN
+of_IN
+the_DT
+panic_NN
+and_CC
+resolved_VBN
+to_TO
+make_VB
+a_DT
+stand_NN
+._.
+
+He_PRP
+crossed_VBD
+the_DT
+next_JJ
+meadow_NNS
+and_CC
+climbed_IN
+a_DT
+tree_NN
+where_WRB
+the_DT
+jungle_NN
+trail_NN
+resumed_NN
+._.
+
+the_DT
+leafiest_JJ
+part_NN
+of_IN
+the_DT
+tree_NN
+,_,
+straddling_IN
+a_DT
+broad_JJ
+horizontal_NN
+limb_''
+,_,
+he_PRP
+could_MD
+see_VB
+over_IN
+the_DT
+meadow_NN
+._.
+
+For_IN
+a_DT
+while_NN
+he_PRP
+was_VBD
+content_VBN
+to_TO
+let_VB
+events_TO
+develop_VB
+in_IN
+their_PRP$
+good_JJ
+time_NN
+._.
+
+He_PRP
+had_VBD
+no_DT
+doubt_NN
+the_DT
+marine_NN
+was_VBD
+the_DT
+lead_JJ
+scout_NNS
+of_IN
+a_DT
+column_NN
+,_,
+and_CC
+while_IN
+his_PRP$
+shot_NNS
+had_VBD
+probably_RB
+bred_JJ
+indecision_NNS
+,_,
+they_PRP
+would_MD
+soon_RB
+come_VBN
+hunting_NN
+._.
+
+His_PRP$
+superiors_NNS
+had_VBD
+emphasized_VBN
+that_IN
+marines_DT
+tortured_JJ
+others_NNS
+for_IN
+the_DT
+sheer_JJ
+pleasure_NN
+._.
+
+Yesterday_PRP
+;_:
+;_:
+today_:
+;_:
+;_NNS
+tomorrow_NNS
+:_:
+no_DT
+surrender_NN
+._.
+
+His_PRP$
+remembering_``
+the_DT
+self-dictate_NN
+brought_VBD
+no_DT
+peace_NN
+--_:
+only_RB
+a_DT
+faint_JJ
+chill_NNS
+of_IN
+doubt_NN
+._.
+
+He_PRP
+murmured_VBD
+to_TO
+himself_PRP
+,_,
+with_IN
+firmness_NN
+:_:
+``_``
+No_DT
+surrender_NN
+''_''
+._.
+
+It_PRP
+was_VBD
+best_VBN
+to_TO
+die_VB
+fighting_IN
+the_DT
+marines_NN
+._.
+
+His_PRP$
+superiors_NNS
+had_VBD
+also_RB
+preached_IN
+this_DT
+,_,
+saying_VBG
+it_PRP
+was_VBD
+the_DT
+way_NN
+for_IN
+eternal_NN
+honor_NN
+._.
+
+What_WP
+if_IN
+the_DT
+marines_NN
+never_RB
+came_VBD
+?_.
+?_.
+
+His_PRP$
+comrades_NNS
+were_VBD
+all_DT
+dead_JJ
+._.
+
+He_PRP
+had_VBD
+no_DT
+rice_NN
+._.
+
+Then_RB
+it_PRP
+would_MD
+be_VB
+a_DT
+choice_NN
+between_IN
+starvation_NN
+and_CC
+suicide_NN
+._.
+
+Whichever_IN
+the_DT
+way_NN
+,_,
+he_PRP
+would_MD
+rot_VB
+in_IN
+this_DT
+vast_JJ
+choking_CC
+green_JJ
+,_,
+his_PRP$
+wife_NN
+never_RB
+to_TO
+receive_VB
+an_DT
+urn_NN
+of_IN
+his_PRP$
+ashes_NNS
+._.
+
+He_PRP
+sighed_,
+and_CC
+leaned_RB
+for_IN
+a_DT
+moment_NN
+against_IN
+the_DT
+trunk_NN
+._.
+
+His_PRP$
+fingers_NNS
+touched_VBD
+the_DT
+bone_NN
+handle_,
+of_IN
+a_DT
+knife_NN
+._.
+
+The_DT
+knife_NN
+,_,
+an_DT
+ammunition_JJ
+pouch_NNS
+,_,
+and_CC
+a_DT
+half-filled_JJ
+bottle_NN
+of_IN
+purified_DT
+water_NN
+hung_VBN
+on_IN
+his_PRP$
+belt_NN
+._.
+
+Besides_IN
+the_DT
+belt_NN
+he_PRP
+wore_VBD
+a_DT
+loin_NN
+cloth_NN
+._.
+
+he_PRP
+looked_VBD
+up_RB
+from_IN
+picking_VBG
+at_IN
+a_DT
+leg_NN
+ulcer_''
+,_,
+he_PRP
+saw_VBD
+a_DT
+marine_NN
+in_IN
+the_DT
+jungle_NN
+across_IN
+the_DT
+clearing_NN
+._.
+
+Gloom_PRP
+receded_NN
+._.
+
+The_DT
+marine_NN
+came_VBD
+to_TO
+the_DT
+edge_NN
+of_IN
+the_DT
+green_JJ
+jungle_NNS
+mist_,
+and_CC
+stayed_VBD
+,_,
+as_IN
+though_IN
+debating_NN
+whether_IN
+to_TO
+brave_VB
+the_DT
+sunlight_NN
+._.
+
+His_PRP$
+fatigues_NNS
+made_VBD
+a_DT
+streak_NN
+of_IN
+almost_RB
+phosphorescent_RBR
+green_JJ
+in_IN
+the_DT
+mist_NN
+._.
+
+the_DT
+meadow_NN
+''_''
+,_,
+Matsuo_PRP
+said_VBD
+under_IN
+his_PRP$
+breath_NNS
+._.
+
+The_DT
+man_NN
+leaned_,
+against_IN
+a_DT
+tree_NN
+and_CC
+wiped_IN
+a_DT
+sleeve_NN
+across_IN
+his_PRP$
+face_NN
+._.
+
+A_DT
+signal_NN
+?_.
+?_.
+
+Matsuo_PRP
+lifted_VBD
+his_PRP$
+rifle_NNS
+,_,
+easing_IN
+the_DT
+sling_NN
+under_IN
+his_PRP$
+left_VBN
+upper_JJ
+arm_NN
+for_IN
+steadiness_NN
+._.
+
+Fresh_PRP
+on_IN
+his_PRP$
+mind_NN
+were_VBD
+events_NNS
+of_IN
+the_DT
+past_JJ
+day_NN
+when_WRB
+his_PRP$
+whole_JJ
+regiment_NNS
+was_VBD
+destroyed_VBN
+in_IN
+the_DT
+hills_NNS
+._.
+
+They_PRP
+had_VBD
+fought_VBN
+from_IN
+caves_NNP
+,_,
+and_CC
+the_DT
+marines_JJ
+resorted_NN
+to_TO
+burning_VB
+them_PRP
+out_IN
+._.
+
+Even_RB
+now_RB
+,_,
+like_IN
+a_DT
+ringing_NN
+in_IN
+his_PRP$
+ears_NNS
+,_,
+he_PRP
+heard_VBD
+the_DT
+wooooosh_NN
+of_IN
+flame-throwers_NNP
+squirting_POS
+great_JJ
+orange_NN
+billows_NN
+._.
+
+A_DT
+wave_NN
+of_IN
+flame_DT
+rippling_NN
+through_IN
+their_PRP$
+cave_NNS
+had_VBD
+reached_TO
+Nagamo_VB
+,_,
+his_PRP$
+friend_NN
+,_,
+and_CC
+with_IN
+a_DT
+shriek_VBG
+the_DT
+man_NN
+bolted_,
+through_IN
+the_DT
+entrance_NN
+,_,
+then_RB
+slowed_VBN
+to_TO
+the_DT
+jerky_JJ
+walk_NN
+of_IN
+a_DT
+puppet_NN
+,_,
+his_PRP$
+uniform_NNS
+blazing_JJ
+._.
+
+The_DT
+marines_MD
+let_VB
+him_PRP
+advance_NN
+._.
+
+When_WRB
+he_PRP
+sank_VBD
+on_IN
+his_PRP$
+knees_NNS
+,_,
+they_PRP
+had_VBD
+allowed_VBN
+him_PRP
+to_TO
+char_VB
+without_IN
+administering_VBG
+the_DT
+stroke_NN
+of_IN
+mercy_NN
+._.
+
+Matsuo_PRP
+had_VBD
+faked_DT
+death_NN
+and_CC
+was_VBD
+pitched_VBN
+on_IN
+a_DT
+stack_NN
+of_IN
+corpses_NNP
+,_,
+both_DT
+the_DT
+burned_NN
+and_CC
+the_DT
+unburned_NN
+,_,
+the_DT
+latter_NN
+decomposing_VBZ
+rapidly_RB
+under_IN
+the_DT
+tropical_JJ
+sun_NN
+._.
+
+The_DT
+callous_JJ
+marines_NNS
+had_VBD
+laughed_VBN
+at_IN
+each_DT
+other_NN
+'s_POS
+retching_NN
+,_,
+while_IN
+stacking_PRP$
+bodies_NNS
+._.
+
+Matsuo_PRP
+repeatedly_MD
+choked_VB
+down_IN
+his_PRP$
+own_JJ
+nausea_NN
+._.
+
+At_IN
+nightfall_WDT
+he_PRP
+had_VBD
+been_VBN
+able_JJ
+to_TO
+sneak_VB
+down_IN
+a_DT
+hillside_NN
+and_CC
+into_IN
+the_DT
+jungle_NN
+,_,
+reeking_CC
+of_IN
+death_NN
+._.
+
+he_PRP
+peered_VBD
+to_TO
+the_DT
+left_NN
+,_,
+to_TO
+the_DT
+right_NN
+into_IN
+the_DT
+leafy_NN
+,_,
+vine-crisscrossed_DT
+maze_NN
+._.
+
+He_PRP
+decided_VBD
+that_IN
+the_DT
+marines_NN
+must_MD
+be_VB
+deploying_VBN
+around_IN
+the_DT
+meadow_NN
+,_,
+with_IN
+the_DT
+one_NN
+left_VBD
+to_TO
+distract_VB
+him_PRP
+._.
+
+He_PRP
+strained_VBD
+his_PRP$
+hearing_NNS
+._.
+
+Cautious_PRP$
+feet_NNS
+stepping_VBG
+on_IN
+leafmold_NN
+;_:
+;_:
+faint_:
+creaking_:
+of_IN
+belts_NN
+and_CC
+slings_RB
+;_:
+;_NNS
+whispers_NNS
+:_:
+he_PRP
+heard_VBD
+none_NN
+of_IN
+these_DT
+._.
+
+Only_RB
+the_DT
+hum_NN
+of_IN
+insects_NNS
+and_CC
+the_DT
+distant_JJ
+fluttering_TO
+call_VB
+of_IN
+a_DT
+bird_NN
+._.
+
+Because_WRB
+he_PRP
+could_MD
+n't_RB
+hear_VB
+them_PRP
+,_,
+he_PRP
+was_VBD
+more_RB
+convinced_JJ
+they_PRP
+were_VBD
+there_RB
+._.
+
+A_DT
+spectacle_NN
+occurred_VBN
+across_IN
+the_DT
+meadow_NN
+:_:
+the_DT
+lone_NNP
+marine_NNP
+took_VBD
+a_DT
+seat_NN
+on_IN
+the_DT
+ground_NN
+;_:
+;_:
+leaning_:
+sidewise_:
+on_IN
+a_DT
+tree_NN
+trunk_''
+,_,
+he_PRP
+embraced_VBD
+it_PRP
+._.
+
+Humiliation_PRP
+made_VBD
+Matsuo_NN
+tremble_NN
+._.
+
+While_IN
+his_PRP$
+comrades_NNS
+cocked_IN
+the_DT
+trap_NN
+,_,
+that_IN
+one_CD
+behaved_NNS
+as_IN
+if_IN
+it_PRP
+was_VBD
+some_DT
+dull_JJ
+maneuver_NN
+._.
+
+aim_NN
+at_IN
+the_DT
+man_NN
+'s_POS
+face_NN
+,_,
+Matsuo_RB
+squeezed_VBN
+the_DT
+trigger_NN
+up_RB
+to_TO
+the_DT
+point_NN
+of_IN
+discharge_NNP
+,_,
+and_CC
+then_RB
+he_PRP
+changed_VBD
+his_PRP$
+mind_NN
+._.
+
+He_PRP
+wanted_VBD
+the_DT
+arrogant_JJ
+marine_NN
+to_TO
+know_VB
+fear_NN
+,_,
+and_CC
+so_RB
+he_PRP
+aimed_VBD
+above_IN
+the_DT
+head_NN
+._.
+
+The_DT
+shot_JJ
+reverberated_NNS
+in_IN
+diminishing_DT
+whiplashes_NN
+of_IN
+sound_NN
+._.
+
+Hush_PRP
+followed_VBD
+._.
+
+Like_IN
+a_DT
+mischievous_JJ
+boy_NN
+expecting_IN
+punishment_NN
+,_,
+Matsuo_CC
+awaited_JJ
+reaction_NN
+from_IN
+the_DT
+jungle_NN
+._.
+
+How_WRB
+stupid_PRP
+to_TO
+give_VB
+his_PRP$
+position_NN
+away_NN
+._.
+
+The_DT
+jungle_NN
+did_VBD
+not_RB
+retort_NN
+._.
+
+The_DT
+sitter_NN
+remained_VBD
+seated_TO
+hugging_VB
+the_DT
+tree_NN
+._.
+
+Before_PRP
+long_RB
+the_DT
+atmosphere_NN
+reverted_VBZ
+to_TO
+its_PRP$
+old_JJ
+normalcy_NNS
+,_,
+and_CC
+insects_NNS
+hummed_,
+and_CC
+birds_NNS
+occasionally_RB
+called_VBN
+._.
+
+Matsuo_DT
+puzzled_NN
+and_CC
+grew_VBD
+anxious_VBN
+over_IN
+the_DT
+complete_JJ
+passiveness_NNS
+,_,
+concluding_CC
+that_IN
+he_PRP
+was_VBD
+the_DT
+butt_NN
+of_IN
+a_DT
+devilish_JJ
+joke_NN
+._.
+
+Five_CD
+or_CC
+so_RB
+minutes_RB
+later_RB
+the_DT
+marine_JJ
+abruptly_NNS
+pulled_VBP
+up_RB
+and_CC
+stepped_RB
+into_IN
+sunlight_NN
+,_,
+immediately_RB
+throwing_VB
+his_PRP$
+hands_NNS
+over_IN
+his_PRP$
+eyes_NNS
+._.
+
+He_PRP
+went_VBD
+into_IN
+a_DT
+whirling_JJ
+dance_NN
+,_,
+a_DT
+sort_NN
+of_IN
+blind_JJ
+chasing_NNS
+of_IN
+the_DT
+tail_NN
+._.
+
+It_PRP
+ended_VBD
+when_WRB
+he_PRP
+tumbled_:
+;_:
+;_:
+but_CC
+jumping_JJ
+right_NN
+up_RB
+,_,
+he_PRP
+staggered_VBD
+in_IN
+no_DT
+particular_JJ
+direction_NN
+._.
+
+He_PRP
+wore_VBD
+no_DT
+head_NN
+cover_,
+of_IN
+any_DT
+kind_NN
+and_CC
+,_,
+more_RBR
+odd_JJ
+,_,
+had_VBD
+no_DT
+visible_JJ
+weapon_NN
+._.
+
+a_DT
+sudden_JJ
+decisiveness_,
+he_PRP
+lurched_VBD
+in_IN
+Matsuo_NNP
+'s_POS
+direction_NN
+,_,
+crossing_IN
+the_DT
+meadow_NN
+in_IN
+a_DT
+zigzagging_NN
+gallop_NN
+._.
+
+When_WRB
+he_PRP
+got_VBD
+closer_VBN
+to_TO
+the_DT
+tree_NN
+,_,
+Matsuo_PRP
+noted_VBD
+the_DT
+wild_NNS
+look_VBP
+on_IN
+his_PRP$
+face_NN
+._.
+
+The_DT
+pockets_NNS
+of_IN
+his_PRP$
+jacket_NN
+bulged_NN
+._.
+
+Hand_PRP
+grenades_NN
+._.
+
+The_DT
+bobbing_JJ
+head_NN
+was_VBD
+a_DT
+poor_JJ
+target_NN
+,_,
+so_RB
+Matsuo_TO
+shot_VB
+him_PRP
+in_IN
+the_DT
+upper_JJ
+trunk_NN
+._.
+
+The_DT
+marine_JJ
+spun_NNS
+,_,
+clapping_IN
+a_DT
+hand_NN
+high_JJ
+on_IN
+his_PRP$
+chest_NN
+,_,
+and_CC
+dived_RB
+forward_RB
+._.
+
+In_IN
+the_DT
+hush_NN
+that_WDT
+followed_VBD
+the_DT
+echoes_NN
+,_,
+Matsuo_PRP
+was_VBD
+tense_NN
+._.
+
+They_PRP
+could_MD
+come_VB
+on_IN
+him_PRP
+now_RB
+without_IN
+difficulty_NN
+._.
+
+Gradually_WRB
+he_PRP
+reached_VBD
+a_DT
+conclusion_NN
+._.
+
+The_DT
+marine_NN
+was_VBD
+alone_RB
+,_,
+for_IN
+they_PRP
+were_VBD
+impatient_PRP$
+people_NNS
+and_CC
+by_IN
+now_RB
+would_MD
+have_VB
+vied_VBN
+to_TO
+knock_VB
+him_PRP
+from_IN
+the_DT
+tree_NN
+._.
+
+the_DT
+tree_NN
+he_PRP
+scrambled_,
+and_CC
+knelt_RB
+at_IN
+the_DT
+edge_NN
+of_IN
+foliage_NN
+._.
+
+The_DT
+marine_NN
+was_VBD
+sprawled_IN
+some_DT
+thirty_CD
+yards_NNS
+away_RB
+,_,
+one_CD
+arm_NN
+extended_NN
+._.
+
+Matsuo_PRP
+jumped_VBD
+when_WRB
+the_DT
+hidden_JJ
+arm_NN
+flopped_NN
+out_NN
+._.
+
+Reflex_PRP
+?_.
+?_.
+
+Rifle_PRP
+leveled_VBD
+on_IN
+the_DT
+man_NN
+,_,
+he_PRP
+made_VBD
+a_DT
+rush_NN
+._.
+
+Heat_NNP
+,_,
+in_IN
+the_DT
+sunlight_NN
+,_,
+pressed_CC
+in_IN
+like_IN
+an_DT
+invisible_JJ
+crowd_NN
+._.
+
+He_PRP
+squatted_VBN
+by_IN
+the_DT
+head_NN
+,_,
+gently_RB
+placing_VBG
+the_DT
+rifle_NN
+on_IN
+the_DT
+ground_NN
+._.
+
+With_IN
+a_DT
+snakestrike_JJ
+motion_NN
+he_PRP
+grasped_VBD
+the_DT
+hair_NN
+,_,
+and_CC
+,_,
+twisting_RB
+,_,
+pulled_IN
+the_DT
+marine_NN
+over_IN
+on_IN
+back_NN
+._.
 
