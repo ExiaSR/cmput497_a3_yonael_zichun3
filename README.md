@@ -53,6 +53,10 @@ $ make test-hmm > test-hmm-output.txt
 $ make test-brill > test-brill-output.txt
 ```
 
+## Output
+
+Output tagged sentences are avaliable under `output/` directory following such convention `<tagger_name>.<test_file>-tagged.<train_file>.txt`.
+
 ## Authors
 
 -   Yonael Bekele

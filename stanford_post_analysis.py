@@ -56,7 +56,7 @@ def main():
     test_files = get_files("A3DataCleaned")
 
     for tagged_file in tagged_files:
-        tmp = re.search(r"(.*)-tagged.(.*).txt", tagged_file["name"])
+        tmp = re.search(r"stanford.(.*)-tagged.(.*).txt", tagged_file["name"])
         test_name = tmp.group(1)
         model_name = tmp.group(2)
 

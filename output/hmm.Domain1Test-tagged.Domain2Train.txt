@@ -1,0 +1,13322 @@
+American_
+NNP democratic_
+NNP thought_
+VBD ,_
+, pointed_
+VBD up_
+IN the_
+DT relation_
+NN between_
+IN the_
+DT Protestant_
+JJ movement_
+NN in_
+IN this_
+DT country_
+NN and_
+CC the_
+DT development_
+NN of_
+IN a_
+DT social_
+JJ religion_
+NN ,_
+, which_
+WDT he_
+PRP called_
+VBD the_
+DT American_
+JJ Democratic_
+NN Faith_
+. ._
+.
+
+Those_
+DT familiar_
+JJ with_
+IN his_
+PRP$ work_
+NN will_
+MD remember_
+VB that_
+IN he_
+PRP placed_
+VBD the_
+DT incipience_
+NN of_
+IN the_
+DT democratic_
+JJ faith_
+NN at_
+IN around_
+RB 1850_
+. ._
+.
+
+And_
+CC he_
+PRP describes_
+VBP it_
+PRP as_
+IN a_
+DT balanced_
+JJ polarity_
+NN between_
+IN the_
+DT notions_
+NN of_
+IN the_
+DT free_
+JJ individual_
+NNS and_
+CC what_
+WP he_
+PRP called_
+VBD the_
+DT fundamental_
+JJ law_
+NN ._
+.
+
+I_
+PRP want_
+VBP to_
+TO say_
+VB more_
+RBR about_
+IN Gabriel_
+NNP 's_
+POS so-called_
+NNP fundamental_
+POS law_
+NN ._
+.
+
+But_
+CC first_
+RB I_
+PRP want_
+VBP to_
+TO quote_
+VB him_
+PRP on_
+IN the_
+DT relationship_
+NN that_
+IN he_
+PRP found_
+VBD between_
+IN religion_
+NN and_
+CC politics_
+NNS in_
+IN this_
+DT country_
+NN and_
+CC what_
+WP happened_
+VBD to_
+TO it_
+PRP ._
+.
+
+He_
+PRP points_
+VBZ out_
+RB that_
+IN from_
+IN the_
+DT time_
+NN of_
+IN Jackson_
+NNP on_
+IN through_
+IN World_
+NNP War_
+NNP 1_
+NNP ,_
+, ,_
+, evangelical_
+CC Protestantism_
+PRP was_
+VBD a_
+DT dominant_
+JJ influence_
+NN in_
+IN the_
+DT social_
+NN and_
+CC political_
+JJ life_
+NN of_
+IN America_
+NNP ._
+.
+
+He_
+PRP terms_
+VBD this_
+DT early_
+JJ enthusiasm_
+. ``_
+`` Romantic_
+UH Christianity_
+UH ''_
+'' and_
+CC concludes_
+VBD that_
+IN its_
+PRP$ similarity_
+NN to_
+TO democratic_
+VB beliefs_
+VBN of_
+IN that_
+DT day_
+NN is_
+VBZ so_
+RB great_
+JJ that_
+IN ``_
+`` the_
+DT doctrine_
+NN of_
+IN liberty_
+DT seems_
+NN but_
+CC a_
+DT secular_
+JJ version_
+NN of_
+IN its_
+PRP$ counterpart_
+NNS in_
+IN evangelical_
+DT Protestantism_
+NN ''_
+'' ._
+.
+
+Let_
+VB me_
+PRP quote_
+VBP him_
+PRP even_
+RB more_
+JJR fully_
+NNS ,_
+, for_
+IN his_
+PRP$ analysis_
+NN is_
+VBZ important_
+JJ to_
+TO my_
+PRP$ theme_
+NN ._
+.
+
+He_
+PRP says_
+VBZ :_
+: ``_
+`` beside_
+IN the_
+DT Protestant_
+JJ philosophy_
+NN of_
+IN Progress_
+NNP ,_
+, as_
+IN expressed_
+NN in_
+IN radical_
+NNP or_
+CC conservative_
+CD millenarianism_
+NNS ,_
+, should_
+MD be_
+VB placed_
+VBN the_
+DT doctrine_
+NN of_
+IN the_
+DT democratic_
+JJ faith_
+NN which_
+WDT affirmed_
+VBD it_
+PRP to_
+TO be_
+VB the_
+DT duty_
+NN of_
+IN the_
+DT destiny_
+NN of_
+IN the_
+DT United_
+JJ States_
+NN to_
+TO assist_
+VB in_
+IN the_
+DT creation_
+NN of_
+IN a_
+DT better_
+JJR world_
+NN by_
+IN keeping_
+PRP lighted_
+VBD the_
+DT beacon_
+NN of_
+IN democracy_
+NNP ''_
+'' ._
+.
+
+He_
+PRP specifies_
+'' ,_
+, ``_
+`` in_
+IN the_
+DT middle_
+JJ period_
+NN of_
+IN the_
+DT Nineteenth_
+NN Century_
+IN it_
+PRP was_
+VBD colored_
+VBN by_
+IN Christian_
+DT supernaturalism_
+NN ,_
+, in_
+IN the_
+DT Twentieth_
+NNP Century_
+VBD it_
+PRP was_
+VBD affected_
+VBN by_
+IN naturalism_
+NN ._
+.
+
+But_
+CC in_
+IN every_
+DT period_
+NN it_
+PRP has_
+VBZ been_
+VBN humanism_
+RB ''_
+'' ._
+.
+
+And_
+CC let_
+VB me_
+PRP add_
+VB ,_
+, utopianism_
+UH ,_
+, also_
+RB ._
+.
+
+Some_
+DT fourteen_
+NN or_
+CC fifteen_
+CD years_
+NNS ago_
+RB ,_
+, in_
+IN an_
+DT essay_
+NN I_
+PRP called_
+VBD The_
+DT Leader_
+NN Follows_
+: --_
+: Where_
+UH ?_
+. ?_
+.
+
+I_
+PRP used_
+VBD his_
+PRP$ polarity_
+NN to_
+TO illustrate_
+VB what_
+WP I_
+PRP thought_
+VBD had_
+VBD happened_
+VBN to_
+TO us_
+PRP in_
+IN that_
+DT form_
+NN of_
+IN liberalism_
+WRB we_
+PRP call_
+VB Progressivism_
+. ._
+.
+
+It_
+PRP seemed_
+VBD to_
+TO me_
+PRP that_
+IN the_
+DT liberals_
+NN had_
+VBD scrapped_
+IN the_
+DT balanced_
+NN polarity_
+, and_
+CC reposed_
+VBD both_
+DT liberty_
+NN and_
+CC the_
+DT fundamental_
+JJ law_
+NN in_
+IN the_
+DT common_
+JJ man_
+NN ._
+.
+
+That_
+DT is_
+VBZ to_
+TO say_
+VB Gabriel_
+NNP 's_
+POS fundamental_
+JJ law_
+NN had_
+VBD been_
+VBN so_
+RB much_
+JJ modified_
+NN by_
+IN this_
+DT time_
+NN that_
+IN it_
+PRP was_
+VBD neither_
+RB fundamental_
+, nor_
+CC law_
+NN any_
+DT more_
+NN ._
+.
+
+It_
+PRP is_
+VBZ a_
+DT weakness_
+NN of_
+IN Gabriel_
+NNP 's_
+POS analysis_
+NN that_
+IN he_
+PRP never_
+RB seems_
+VB to_
+TO realize_
+VB that_
+IN his_
+PRP$ so-called_
+NN fundamental_
+POS law_
+NN had_
+VBD already_
+RB been_
+VBN cut_
+DT loose_
+JJ from_
+IN its_
+PRP$ foundations_
+NN when_
+WRB it_
+PRP was_
+VBD adapted_
+VBN to_
+TO democracy_
+VB ._
+.
+
+And_
+CC with_
+IN Progressivism_
+IN the_
+DT Religion_
+NN of_
+IN Humanity_
+PRP was_
+VBD replacing_
+, what_
+WP Gabriel_
+PRP called_
+VBD Christian_
+. supernaturalism_
+. ._
+.
+
+And_
+CC the_
+DT common_
+JJ man_
+NN was_
+VBD developing_
+IN mythic_
+DT power_
+NN ,_
+, or_
+CC charisma_
+RB ,_
+, on_
+IN his_
+PRP$ own_
+JJ ._
+.
+
+During_
+IN the_
+DT decade_
+NN that_
+WP followed_
+VBD ,_
+, the_
+DT common_
+JJ man_
+NN ,_
+, as_
+IN that_
+DT piece_
+NN put_
+VBD it_
+PRP ,_
+, grew_
+VBD uncomfortable_
+VBN as_
+IN the_
+DT Voice_
+NN of_
+IN God_
+NNP and_
+CC fled_
+VBD from_
+IN behind_
+IN Saint_
+NNP Woodrow_
+NNP (_
+( Wilson_
+NNP )_
+VBD only_
+RB to_
+TO learn_
+VB from_
+IN Science_
+NNP ,_
+, to_
+TO his_
+PRP$ shocked_
+JJ relief_
+NN that_
+IN after_
+IN all_
+DT there_
+RB was_
+VBD no_
+DT God_
+NNP he_
+PRP had_
+VBD to_
+TO speak_
+VB for_
+IN and_
+CC that_
+IN he_
+PRP was_
+VBD just_
+RB an_
+DT animal_
+NN anyhow_
+: --_
+: that_
+IN there_
+EX was_
+VBD a_
+DT chemical_
+JJ formula_
+NN for_
+IN him_
+PRP ,_
+, and_
+CC that_
+IN too_
+RB much_
+RB could_
+MD n't_
+RB be_
+VB expected_
+VBN of_
+IN him_
+PRP ._
+.
+
+The_
+DT socialism_
+JJ implicit_
+NN in_
+IN the_
+DT slogan_
+NN of_
+IN the_
+DT Roosevelt_
+JJ Revolution_
+NN ,_
+, freedom_
+NN from_
+IN want_
+NNP and_
+CC fear_
+NN ,_
+, seems_
+IN a_
+DT far_
+JJ cry_
+NN from_
+IN the_
+DT individualism_
+NN of_
+IN the_
+DT First_
+JJ Amendment_
+NN to_
+TO the_
+DT Constitution_
+NN ,_
+, or_
+CC of_
+IN the_
+DT Jacksonian_
+JJ frontier_
+NN ._
+.
+
+What_
+WP had_
+VBD happened_
+VBN to_
+TO the_
+DT common_
+JJ man_
+NN ?_
+. ?_
+.
+
+French_
+NNP Egalitarianism_
+NNP had_
+VBD had_
+VBD only_
+RB nominal_
+JJ influence_
+NN in_
+IN this_
+DT country_
+NN before_
+IN the_
+DT days_
+NNS of_
+IN Popularism_
+NN ._
+.
+
+The_
+DT riotous_
+JJ onrush_
+NN of_
+IN industrialism_
+NN after_
+IN the_
+DT War_
+NN for_
+IN Southern_
+DT Independence_
+NN and_
+CC the_
+DT general_
+NN secular_
+TO drift_
+VB to_
+TO the_
+DT Religion_
+NN of_
+IN Humanity_
+NNP ,_
+, however_
+RB ,_
+, prepared_
+VBN the_
+DT way_
+NN for_
+IN a_
+DT reception_
+NN of_
+IN the_
+DT French_
+NNP Revolution_
+NNP 's_
+POS socialistic_
+JJ offspring_
+NN of_
+IN one_
+CD sort_
+NN of_
+IN another_
+DT ._
+.
+
+The_
+DT first_
+JJ of_
+IN which_
+WDT to_
+TO find_
+VB important_
+JJ place_
+NN in_
+IN our_
+PRP$ federal_
+NNS government_
+WP was_
+VBD the_
+DT graduated_
+NN income_
+TO tax_
+VB under_
+IN Wilson_
+NNP ._
+.
+
+Moreover_
+`` the_
+DT centralization_
+NN of_
+IN our_
+PRP$ economy_
+NNS during_
+IN the_
+DT 1920s_
+NN ,_
+, the_
+DT dislocations_
+NN of_
+IN the_
+DT Depression_
+NN ,_
+, the_
+DT common_
+JJ ethos_
+NN of_
+IN Materialism_
+DT everywhere_
+NN ,_
+, all_
+DT contributed_
+NN in_
+IN various_
+PRP$ ways_
+NNS to_
+TO the_
+DT face-lifting_
+NN that_
+IN replaced_
+DT Mike_
+NN Fink_
+, and_
+CC the_
+DT Great_
+JJ Gatsby_
+NN with_
+IN the_
+DT anonymous_
+JJ physiognomy_
+NN of_
+IN the_
+DT Little_
+NN People_
+. ._
+.
+
+However_
+UH ,_
+, it_
+PRP is_
+VBZ important_
+JJ to_
+TO trace_
+VB the_
+DT philosophy_
+NN of_
+IN the_
+DT French_
+NNP Revolution_
+VBD to_
+TO its_
+PRP$ sources_
+NN to_
+TO understand_
+VB the_
+DT common_
+NN democratic_
+POS origin_
+NN of_
+IN individualism_
+NNP and_
+CC socialism_
+NNS and_
+CC the_
+DT influence_
+NN of_
+IN the_
+DT latter_
+NN on_
+IN the_
+DT former_
+JJ ._
+.
+
+That_
+DT John_
+NNP Locke_
+NNP 's_
+POS philosophy_
+NN of_
+IN the_
+DT social_
+JJ contract_
+NN fathered_
+IN the_
+DT American_
+JJ Revolution_
+NN with_
+IN its_
+PRP$ Declaration_
+NNS of_
+IN Independence_
+NNP ,_
+, I_
+PRP believe_
+VB ,_
+, we_
+PRP generally_
+MD accept_
+VB ._
+.
+
+Yet_
+UH ,_
+, after_
+IN Rousseau_
+PRP had_
+VBD given_
+VBN the_
+DT social_
+NN contract_
+IN a_
+DT new_
+JJ twist_
+NN with_
+IN his_
+PRP$ notion_
+NNS of_
+IN the_
+DT General_
+JJ Will_
+NN ,_
+, the_
+DT same_
+JJ philosophy_
+NN ,_
+, it_
+PRP may_
+MD be_
+VB said_
+VBD ,_
+, became_
+VBD the_
+DT idea_
+NN source_
+, of_
+IN the_
+DT French_
+NNP Revolution_
+VBD also_
+RB ._
+.
+
+The_
+DT importance_
+NN of_
+IN Rousseau_
+NNP 's_
+POS twist_
+NN has_
+VBZ not_
+RB always_
+RB been_
+VBN clear_
+JJ to_
+TO us_
+PRP ,_
+, however_
+RB ._
+.
+
+This_
+DT notion_
+NN of_
+IN the_
+DT General_
+JJ Will_
+NNS gave_
+VBD rise_
+VBN to_
+TO the_
+DT Commune_
+NN of_
+IN Paris_
+NNP in_
+IN the_
+DT Revolution_
+NN and_
+CC later_
+RB brought_
+VBD Napoleon_
+VBN to_
+TO dictatorship_
+NN ._
+.
+
+And_
+CC it_
+PRP is_
+VBZ clearly_
+RB argued_
+VBN by_
+IN Lord_
+NNP Percy_
+VBD of_
+IN Newcastle_
+NNP ,_
+, in_
+IN his_
+PRP$ remarkable_
+JJ long_
+JJ essay_
+NN ,_
+, The_
+DT Heresy_
+JJ Of_
+NN Democracy_
+'' ,_
+, and_
+CC in_
+IN a_
+DT more_
+JJR general_
+IN way_
+NN by_
+IN Voegelin_
+NNP ,_
+, in_
+IN his_
+PRP$ New_
+NNP Science_
+NNP Of_
+NNP Politics_
+NNP ,_
+, that_
+IN this_
+DT same_
+JJ Rousseauan_
+JJ idea_
+NN ,_
+, descending_
+VBG through_
+IN European_
+JJ democracy_
+NN ,_
+, is_
+VBZ the_
+DT source_
+NN of_
+IN Marx_
+NNP 's_
+POS theory_
+NN of_
+IN the_
+DT dictatorship_
+NN of_
+IN the_
+DT proletariat_
+NN ._
+.
+
+This_
+DT is_
+VBZ important_
+JJ to_
+TO understanding_
+VB the_
+DT position_
+NN that_
+IN doctrinaire_
+PRP$ liberals_
+NNS found_
+VBD themselves_
+PRP in_
+IN after_
+IN World_
+NNP War_
+NNP 2_
+NNP ,_
+, and_
+CC our_
+PRP$ great_
+JJ democratic_
+NN victory_
+, that_
+WP brought_
+VBD no_
+DT peace_
+NN ._
+.
+
+The_
+DT long_
+JJ road_
+NN that_
+WP had_
+VBD taken_
+VBN liberals_
+VBN in_
+IN this_
+DT country_
+NN into_
+IN the_
+DT social_
+JJ religion_
+NN of_
+IN democracy_
+NNP ,_
+, into_
+IN a_
+DT worship_
+NN of_
+IN man_
+NN ,_
+, led_
+VBD logically_
+VBN to_
+TO the_
+DT Marxist_
+JJ dream_
+NN of_
+IN a_
+DT classless_
+JJ society_
+NN under_
+IN a_
+DT Socialist_
+NN State_
+. ._
+.
+
+And_
+CC the_
+DT ussr_
+JJ existed_
+NN as_
+IN the_
+DT revolutionary_
+JJ experiment_
+NN in_
+IN radical_
+DT socialism_
+NN ,_
+, the_
+DT ultimate_
+NN exemplar_
+. ._
+.
+
+And_
+CC by_
+IN the_
+DT time_
+NN the_
+DT war_
+NN ended_
+'' ,_
+, liberal_
+JJ leadership_
+NN in_
+IN this_
+DT country_
+NN was_
+VBD spiritually_
+. Marxist_
+. ._
+.
+
+We_
+PRP will_
+MD recall_
+VB that_
+IN the_
+DT still_
+RB confident_
+TO liberals_
+VB of_
+IN the_
+DT Truman_
+NN administration_
+VBD gathered_
+VBN with_
+IN other_
+JJ Western_
+TO utopians_
+VB in_
+IN San_
+NNP Francisco_
+VBD to_
+TO set_
+VB up_
+RP the_
+DT legal_
+JJ framework_
+NN ,_
+, finally_
+RB and_
+CC at_
+IN last_
+JJ ,_
+, to_
+TO rationalize_
+DT war_
+NN --_
+: to_
+TO rationalize_
+VB want_
+VB and_
+CC fear_
+NN --_
+: out_
+RB of_
+IN the_
+DT world_
+NN :_
+: the_
+DT United_
+NN Nations_
+. ._
+.
+
+We_
+PRP of_
+IN the_
+DT liberal-led_
+JJ world_
+NN got_
+VBD all_
+RB set_
+VB for_
+IN peace_
+NN and_
+CC rehabilitation_
+NNS ._
+.
+
+Then_
+RB suddenly_
+RB we_
+PRP found_
+VBD ourselves_
+VBN in_
+IN the_
+DT middle_
+NN of_
+IN another_
+DT fight_
+NN ,_
+, an_
+DT irrational_
+NN ,_
+, an_
+DT indecent_
+NN ,_
+, an_
+DT undeclared_
+NN and_
+CC immoral_
+JJ war_
+NN with_
+IN our_
+PRP$ strongest_
+NNS (_
+( and_
+CC some_
+DT had_
+VBD thought_
+VBN noblest_
+. )_
+. ally_
+. ._
+.
+
+During_
+IN the_
+DT next_
+JJ five_
+CD years_
+NNS the_
+DT leaders_
+NN of_
+IN the_
+DT Fair_
+NN Deal_
+VBD reluctantly_
+RB backed_
+VBD down_
+RB from_
+IN the_
+DT optimistic_
+JJ expectations_
+NN of_
+IN the_
+DT New_
+NNP Deal_
+'' ._
+.
+
+During_
+IN the_
+DT next_
+JJ five_
+CD years_
+NNS liberal_
+JJ leaders_
+NN in_
+IN the_
+DT United_
+JJ States_
+NNS sank_
+VBD in_
+IN the_
+DT cumulative_
+JJ confusion_
+NN attendant_
+'' upon_
+, and_
+CC manifested_
+VBD in_
+IN a_
+DT negative_
+JJ policy_
+NN of_
+IN Containment_
+NN --_
+: and_
+CC the_
+DT bitterest_
+JJ irony_
+NN --_
+: enforced_
+: and_
+CC enforceable_
+VBD only_
+RB by_
+IN threat_
+NN of_
+IN a_
+DT weapon_
+NN that_
+IN we_
+PRP felt_
+VBD the_
+DT greatest_
+JJ distaste_
+NN for_
+IN but_
+PRP could_
+MD not_
+RB abandon_
+: :_
+: the_
+DT atom_
+JJ bomb_
+NN ._
+.
+
+In_
+IN 1952_
+NNP ,_
+, it_
+PRP will_
+MD be_
+VB remembered_
+'' ,_
+, the_
+DT G.O.P._
+NN without_
+IN positive_
+JJ program_
+TO campaigned_
+VB on_
+IN the_
+DT popular_
+JJ disillusionment_
+NN with_
+IN liberal_
+JJ leadership_
+NNS and_
+CC won_
+VBD overwhelmingly_
+. ._
+.
+
+All_
+RB of_
+IN this_
+DT ,_
+, I_
+PRP know_
+VBP ,_
+, is_
+VBZ recent_
+IN history_
+DT familiar_
+JJ to_
+TO you_
+PRP ._
+.
+
+But_
+CC I_
+PRP have_
+VBP been_
+VBN at_
+IN some_
+DT pains_
+NN to_
+TO review_
+VB it_
+PRP as_
+IN the_
+DT drama_
+NN of_
+IN the_
+DT common_
+JJ man_
+NN ,_
+, to_
+TO point_
+NN up_
+IN what_
+WP happened_
+VBD to_
+TO him_
+PRP under_
+IN Eisenhower_
+NNP 's_
+POS leadership_
+NN ._
+.
+
+A_
+DT perceptive_
+JJ journalist_
+NN ,_
+, Sam_
+`` Lubell_
+UH ,_
+, has_
+VBZ phrased_
+WRB it_
+PRP in_
+IN the_
+DT title_
+NN of_
+IN one_
+CD of_
+IN his_
+PRP$ books_
+NNS as_
+IN the_
+DT revolt_
+NN of_
+IN the_
+DT moderates_
+NN ._
+.
+
+He_
+PRP opens_
+VBZ his_
+PRP$ discourse_
+NNS ,_
+, however_
+RB ,_
+, with_
+IN a_
+DT review_
+NN of_
+IN the_
+DT Eisenhower_
+NN inaugural_
+POS festivities_
+NNS at_
+IN which_
+WDT a_
+DT sympathetic_
+JJ press_
+NNS had_
+VBD assembled_
+IN its_
+PRP$ massive_
+JJ talents_
+NN ,_
+, all_
+DT primed_
+NN to_
+TO catch_
+VB some_
+DT revelation_
+NN of_
+IN the_
+DT emerging_
+JJ new_
+JJ age_
+NN ._
+.
+
+The_
+DT show_
+NN was_
+VBD colorful_
+RB ,_
+, indeed_
+RB ,_
+, exuberant_
+UH ,_
+, but_
+CC the_
+DT press_
+NN for_
+IN all_
+DT its_
+PRP$ assiduity_
+NN could_
+MD detect_
+VB no_
+DT note_
+NN of_
+IN a_
+DT fateful_
+JJ rendezvous_
+NN with_
+IN destiny_
+NN ._
+.
+
+Lubell_
+EX offers_
+VBZ his_
+PRP$ book_
+NN as_
+IN an_
+DT explanation_
+NN of_
+IN why_
+WRB there_
+EX was_
+VBD no_
+DT clue_
+NN ._
+.
+
+And_
+CC I_
+PRP select_
+VBD this_
+DT sentence_
+NN as_
+IN its_
+PRP$ pertinent_
+NN summation_
+: :_
+: ``_
+`` in_
+IN essence_
+IN the_
+DT drama_
+NN of_
+IN his_
+PRP$ (_
+( Eisenhower_
+NNP 's_
+POS )_
+) Presidency_
+WP can_
+MD be_
+VB described_
+VBN as_
+IN the_
+DT ordeal_
+NN of_
+IN a_
+DT nation_
+NN turned_
+VBD conservative_
+, and_
+CC struggling_
+VBG --_
+: thus_
+: far_
+RB with_
+IN but_
+CC limited_
+VBD and_
+CC precarious_
+JJ success_
+NN --_
+: to_
+TO give_
+VB effective_
+JJ voice_
+NN and_
+CC force_
+VB to_
+TO that_
+DT conservatism_
+NN ''_
+'' ._
+.
+
+I_
+PRP will_
+MD assume_
+VB that_
+IN we_
+PRP are_
+VBP all_
+DT aware_
+JJ of_
+IN the_
+DT continuing_
+JJ struggle_
+NN ,_
+, with_
+IN its_
+PRP$ limited_
+NNS and_
+CC precarious_
+JJ success_
+NN ,_
+, toward_
+IN conservatism_
+NN ._
+.
+
+It_
+PRP has_
+VBZ moved_
+VBN on_
+IN various_
+DT levels_
+NN ,_
+, it_
+PRP has_
+VBZ been_
+VBN clamorous_
+, and_
+CC confused_
+VBN ._
+.
+
+Obviously_
+`` there_
+EX has_
+VBZ been_
+VBN no_
+DT agreement_
+NN on_
+IN what_
+WP American_
+NNP conservatism_
+NNP is_
+VBZ ,_
+, or_
+CC rather_
+RB ,_
+, what_
+WP it_
+PRP should_
+MD be_
+VB ._
+.
+
+For_
+IN it_
+PRP was_
+VBD neglected_
+RB ,_
+, not_
+RB to_
+TO say_
+VB nascent_
+'' ,_
+, when_
+WRB the_
+DT struggle_
+NN began_
+VBD ._
+.
+
+I_
+PRP saw_
+VBD a_
+DT piece_
+NN the_
+DT other_
+JJ day_
+NN assailing_
+, William_
+NNP Buckley_
+NNP ,_
+, author_
+VBG of_
+IN Man_
+NNP And_
+CC God_
+NNP at_
+IN Yale_
+NNP and_
+CC publisher_
+VBD of_
+IN The_
+DT National_
+JJ Review_
+NN ,_
+, as_
+IN no_
+DT conservative_
+NN at_
+IN all_
+DT ,_
+, but_
+CC an_
+DT old_
+JJ liberal_
+NN ._
+.
+
+I_
+PRP would_
+MD agree_
+VB with_
+IN this_
+DT view_
+NN ._
+.
+
+But_
+CC I_
+PRP 'm_
+VBP not_
+RB here_
+RB to_
+TO define_
+VB conservatism_
+. ._
+.
+
+What_
+WP I_
+PRP am_
+VBP here_
+RB to_
+TO do_
+VB is_
+VBZ to_
+TO report_
+VB on_
+IN the_
+DT gyrations_
+NN of_
+IN the_
+DT struggle_
+NN --_
+: a_
+DT struggle_
+NN that_
+IN amounts_
+VBG to_
+TO self-redefinition_
+VB --_
+: to_
+TO see_
+VB if_
+IN we_
+PRP can_
+MD predict_
+VB its_
+PRP$ future_
+NN course_
+NN ._
+.
+
+One_
+CD of_
+IN the_
+DT obvious_
+JJ conclusions_
+, we_
+PRP can_
+MD make_
+VB on_
+IN the_
+DT basis_
+NN of_
+IN the_
+DT last_
+JJ election_
+NN ,_
+, I_
+PRP suppose_
+VBP ,_
+, is_
+VBZ that_
+IN we_
+PRP ,_
+, the_
+DT majority_
+NN ,_
+, were_
+VBD dissatisfied_
+VBN with_
+IN Eisenhower_
+DT conservatism_
+NN ._
+.
+
+Though_
+NNP ,_
+, to_
+TO be_
+VB sure_
+RB ,_
+, we_
+PRP gave_
+VBD Kennedy_
+IN no_
+DT very_
+JJ positive_
+JJ approval_
+NN in_
+IN the_
+DT margin_
+NN of_
+IN his_
+PRP$ preferment_
+NN ._
+.
+
+This_
+DT is_
+VBZ ,_
+, however_
+RB ,_
+, symptomatic_
+VBG of_
+IN our_
+PRP$ national_
+JJ malaise_
+NN ._
+.
+
+But_
+CC before_
+IN I_
+PRP try_
+VBP to_
+TO diagnose_
+VB it_
+PRP ,_
+, I_
+PRP would_
+MD offer_
+VB other_
+JJ evidence_
+NN ._
+.
+
+I_
+PRP will_
+MD mention_
+VB two_
+CD volumes_
+NNS of_
+IN specific_
+DT comment_
+NN on_
+IN this_
+DT malaise_
+NN that_
+WP appeared_
+VBD last_
+JJ year_
+NN ._
+.
+
+The_
+DT earlier_
+NN of_
+IN them_
+PRP was_
+VBD an_
+DT unofficial_
+JJ enterprise_
+NN ,_
+, sponsored_
+VBG by_
+IN Life_
+DT magazine_
+NN ,_
+, under_
+IN the_
+DT title_
+NN of_
+IN The_
+DT National_
+NN Purpose_
+. ._
+.
+
+The_
+DT contributors_
+NN to_
+TO this_
+DT testament_
+NN were_
+VBD all_
+DT well-known_
+NN :_
+: a_
+DT former_
+JJ Democratic_
+TO candidate_
+VB for_
+IN President_
+NNP ,_
+, a_
+DT New_
+NNP Deal_
+POS poet_
+NN ,_
+, the_
+DT magazine_
+NN 's_
+POS chief_
+JJ editorial_
+JJ writer_
+NN ,_
+, two_
+CD newspaper_
+NNS columnists_
+'' ,_
+, head_
+NN of_
+IN a_
+DT national_
+JJ broadcasting_
+JJ company_
+NN ,_
+, a_
+DT popular_
+JJ Protestant_
+NN evangelist_
+'' ,_
+, etc._
+NNP ._
+. What_
+WDT I_
+PRP want_
+VBP to_
+TO point_
+VB out_
+RB here_
+RB is_
+VBZ that_
+IN all_
+DT of_
+IN them_
+PRP are_
+VBP ex-liberals_
+RB ,_
+, or_
+CC modified_
+CD liberals_
+NNS ,_
+, with_
+IN perhaps_
+RB one_
+CD exception_
+NN ._
+.
+
+I_
+PRP suppose_
+VBP we_
+PRP might_
+MD classify_
+VB Billy_
+NNP Graham_
+VBD as_
+IN an_
+DT old_
+JJ liberal_
+NN ._
+.
+
+And_
+CC I_
+PRP would_
+MD further_
+VB note_
+NN that_
+IN they_
+PRP all_
+RB --_
+: with_
+IN one_
+CD exception_
+NN again_
+RB --_
+: sang_
+: in_
+IN one_
+CD key_
+NN or_
+CC another_
+DT the_
+DT same_
+JJ song_
+NN ._
+.
+
+Its_
+PRP$ refrain_
+NNS was_
+VBD :_
+: ``_
+`` let_
+VB us_
+PRP return_
+VB to_
+TO the_
+DT individualistic_
+JJ democracy_
+NN of_
+IN our_
+PRP$ forefathers_
+NNS for_
+IN our_
+PRP$ salvation_
+NN ''_
+'' ._
+.
+
+Adlai_
+PRP Stevenson_
+MD expressed_
+VB some_
+DT reservations_
+NN about_
+IN this_
+DT return_
+NN ._
+.
+
+Others_
+`` invoked_
+UH technology_
+, and_
+CC common_
+JJ sense_
+NN ._
+.
+
+Only_
+NNP Walter_
+NNP Lippman_
+NNP envisioned_
+VBD the_
+DT possibility_
+NN of_
+IN our_
+PRP$ having_
+VBG ``_
+`` outlived_
+UH most_
+RBS of_
+IN what_
+WP we_
+PRP used_
+VBD to_
+TO regard_
+VB as_
+IN the_
+DT program_
+NN of_
+IN our_
+PRP$ national_
+JJ purposes_
+NNS ''_
+'' ._
+.
+
+the_
+DT most_
+RBS notable_
+JJ thing_
+NN about_
+IN the_
+DT incantation_
+NN of_
+IN these_
+DT ex-liberals_
+NN was_
+VBD that_
+IN the_
+DT one-time_
+JJ shibboleth_
+NN of_
+IN socialism_
+PRP was_
+VBD conspicuously_
+RB absent_
+. ._
+.
+
+The_
+DT second_
+JJ specific_
+JJ comment_
+NN was_
+VBD the_
+DT report_
+NN of_
+IN Eisenhower_
+NNP 's_
+POS Commission_
+NN on_
+IN National_
+DT Goals_
+NN ,_
+, titled_
+UH Goals_
+'' For_
+. Americans_
+. ._
+.
+
+They_
+PRP ,_
+, perhaps_
+RB ,_
+, gave_
+VBD the_
+DT pitch_
+NN of_
+IN their_
+PRP$ position_
+NN in_
+IN the_
+DT preface_
+NN where_
+WRB it_
+PRP was_
+VBD said_
+VBN that_
+IN Eisenhower_
+DT requested_
+NN that_
+IN the_
+DT Commission_
+MD be_
+VB administered_
+VBN by_
+IN the_
+DT American_
+JJ Assembly_
+NN of_
+IN Columbia_
+NNP University_
+NNP ,_
+, because_
+IN it_
+PRP was_
+VBD non-partisan_
+. ._
+.
+
+The_
+DT Commission_
+JJ seems_
+NN to_
+TO represent_
+VB the_
+DT viewpoint_
+NN of_
+IN what_
+WP I_
+PRP would_
+MD call_
+VB the_
+DT unconscious_
+JJ liberal_
+JJ ,_
+, but_
+CC not_
+RB unconscious_
+VB enough_
+RB ,_
+, to_
+TO invoke_
+VB the_
+DT now_
+RB taboo_
+TO symbolism_
+VB of_
+IN socialism_
+NN ._
+.
+
+And_
+CC here_
+RB again_
+RB we_
+PRP hear_
+VB the_
+DT same_
+JJ refrain_
+NNS mentioned_
+VBD above_
+IN :_
+: ``_
+`` the_
+DT paramount_
+JJ goal_
+NN of_
+IN the_
+DT United_
+NN States_
+TO set_
+VB long_
+RB ago_
+RB was_
+VBD to_
+TO guard_
+VB the_
+DT rights_
+NNS of_
+IN the_
+DT individual_
+NN ,_
+, ensure_
+VBG his_
+PRP$ development_
+NNS ,_
+, enlarge_
+VBG his_
+PRP$ opportunity_
+NN ''_
+'' ._
+.
+
+This_
+DT group_
+NN is_
+VBZ secularist_
+RB and_
+CC their_
+PRP$ program_
+NNS tends_
+VBD to_
+TO be_
+VB technological_
+. ._
+.
+
+But_
+CC it_
+PRP is_
+VBZ the_
+DT need_
+NN to_
+TO undertake_
+VB these_
+DT testaments_
+NN that_
+IN I_
+PRP would_
+MD submit_
+VB here_
+RB as_
+IN symptom_
+NN of_
+IN the_
+DT common_
+JJ man_
+NN 's_
+POS malaise_
+NN ._
+.
+
+And_
+CC let_
+VB me_
+PRP add_
+VB Murray_
+NNP 's_
+POS new_
+JJ book_
+NN as_
+IN another_
+DT symptom_
+NN of_
+IN it_
+PRP ,_
+, particularly_
+RB so_
+RB in_
+IN view_
+NN of_
+IN the_
+DT attention_
+NN Time_
+IN magazine_
+PRP gave_
+VBD it_
+PRP when_
+WRB it_
+PRP came_
+VBD out_
+RB recently_
+RB ._
+.
+
+Father_
+`` Murray_
+EX goes_
+VBZ back_
+RB to_
+TO the_
+DT Declaration_
+NN of_
+IN Independence_
+NNP ,_
+, too_
+RB ,_
+, though_
+IN I_
+PRP may_
+MD add_
+VB ,_
+, with_
+IN considerably_
+DT more_
+NN historical_
+. perception_
+. ._
+.
+
+I_
+PRP will_
+MD reserve_
+VB discussion_
+NN of_
+IN it_
+PRP for_
+IN a_
+DT moment_
+NN ,_
+, however_
+RB ,_
+, to_
+TO return_
+VB to_
+TO President_
+VB Kennedy_
+. ._
+.
+
+As_
+IN symptomatic_
+NN of_
+IN the_
+DT common_
+JJ man_
+NN 's_
+POS malaise_
+NN ,_
+, he_
+PRP is_
+VBZ most_
+RBS significant_
+JJ :_
+: a_
+DT liberal_
+JJ and_
+CC a_
+DT Catholic_
+NN ,_
+, elected_
+VBG by_
+IN the_
+DT skin_
+NN of_
+IN his_
+PRP$ teeth_
+NNS ._
+.
+
+Does_
+PRP that_
+IN not_
+RB suggest_
+VB to_
+TO you_
+PRP an_
+DT uncertain_
+JJ and_
+CC uneasy_
+JJ ,_
+, not_
+RB to_
+TO say_
+VB confused_
+VBN ,_
+, state_
+NN of_
+IN the_
+DT public_
+JJ mind_
+NN ?_
+. ?_
+.
+
+What_
+WP is_
+VBZ the_
+DT common_
+JJ man_
+NN 's_
+POS complaint_
+NN ?_
+. ?_
+.
+
+'s_
+PRP take_
+VB a_
+DT panoramic_
+JJ look_
+NN back_
+RB over_
+IN the_
+DT course_
+NN we_
+PRP have_
+VBP come_
+VBN ._
+.
+
+Has_
+`` not_
+RB that_
+IN way_
+NN been_
+VBN lit_
+RB always_
+RB by_
+IN the_
+DT lamp_
+NN of_
+IN liberalism_
+PRP up_
+RB until_
+IN the_
+DT turning_
+VBG back_
+RB under_
+IN Eisenhower_
+NN ?_
+. ?_
+.
+
+And_
+CC the_
+DT basic_
+JJ character_
+NN of_
+IN that_
+DT liberalism_
+NN has_
+VBZ been_
+VBN spiritual_
+RB rather_
+RB than_
+IN economic_
+JJ ._
+.
+
+Ralph_
+`` Gabriel_
+PRP gave_
+VBD it_
+PRP the_
+DT name_
+NN of_
+IN Protestant_
+DT philosophy_
+NN of_
+IN Progress_
+NN ._
+.
+
+But_
+CC there_
+EX 's_
+VBZ a_
+DT subjective_
+JJ side_
+NN to_
+TO that_
+DT utopian_
+NN outlook_
+. ._
+.
+
+our_
+PRP$ society_
+NN have_
+VB a_
+DT runaway_
+NN ,_
+, uncontrollable_
+DT growth_
+NN of_
+IN technology_
+NN which_
+WDT may_
+MD end_
+VB our_
+PRP$ civilization_
+NN ,_
+, or_
+CC a_
+DT normal_
+JJ ,_
+, healthy_
+JJ growth_
+NN ?_
+. ?_
+.
+
+Here_
+RB there_
+RB may_
+MD be_
+VB an_
+DT analogy_
+NN with_
+IN cancer_
+NN :_
+: we_
+PRP can_
+MD detect_
+VB cancers_
+VBN by_
+IN their_
+PRP$ rapidly_
+NN accelerating_
+POS growth_
+NN ,_
+, determinable_
+CC only_
+RB when_
+WRB related_
+VBD to_
+TO the_
+DT more_
+JJR normal_
+JJ rate_
+NN of_
+IN healthy_
+JJ growth_
+NN ._
+.
+
+Should_
+`` the_
+DT accelerating_
+JJ growth_
+NN of_
+IN technology_
+PRP then_
+RB warn_
+VB us_
+PRP ?_
+. ?_
+.
+
+Noting_
+DT such_
+JJ evidence_
+NN is_
+VBZ the_
+DT first_
+JJ step_
+NN ;_
+: ;_
+: and_
+CC almost_
+RB the_
+DT only_
+JJ ``_
+`` cure_
+UH ''_
+'' is_
+VBZ early_
+RB detection_
+, and_
+CC removal_
+NNS ._
+.
+
+One_
+CD way_
+NN to_
+TO determine_
+VB whether_
+IN we_
+PRP have_
+VBP so_
+RB dangerous_
+IN a_
+DT technology_
+NN would_
+MD be_
+VB to_
+TO check_
+VB the_
+DT strength_
+NN of_
+IN our_
+PRP$ society_
+NN 's_
+POS organs_
+NN to_
+TO see_
+VB if_
+IN their_
+PRP$ functioning_
+NN is_
+VBZ as_
+RB healthy_
+JJ as_
+IN before_
+RB ._
+.
+
+an_
+DT objective_
+JJ look_
+NN at_
+IN our_
+PRP$ present_
+JJ procedures_
+NN may_
+MD move_
+VB us_
+PRP to_
+TO consider_
+VB seriously_
+RB this_
+DT possibly_
+NN analogous_
+. situation_
+. ._
+.
+
+In_
+IN any_
+DT event_
+NN ,_
+, whether_
+IN society_
+NN may_
+MD have_
+VB cancer_
+'' ,_
+, or_
+CC merely_
+RB a_
+DT virus_
+JJ infection_
+NN ,_
+, the_
+DT ``_
+`` disease_
+UH ''_
+'' ,_
+, we_
+PRP shall_
+MD find_
+VB ,_
+, is_
+VBZ political_
+RB ,_
+, economical_
+UH ,_
+, social_
+UH ,_
+, and_
+CC even_
+RB medical_
+. ._
+.
+
+Have_
+`` not_
+RB our_
+PRP$ physical_
+JJ abilities_
+NNS already_
+RB deteriorated_
+VBN because_
+IN of_
+IN the_
+DT more_
+JJR sedentary_
+TO lives_
+VB we_
+PRP are_
+VBP now_
+RB living_
+VBG ?_
+. ?_
+.
+
+Hence_
+`` the_
+DT prime_
+JJ issue_
+NN ,_
+, as_
+IN I_
+PRP see_
+VB it_
+PRP ,_
+, is_
+VBZ whether_
+IN a_
+DT democratic_
+NN or_
+CC free_
+JJ society_
+NN can_
+MD master_
+VB technology_
+VBN for_
+IN the_
+DT benefit_
+NN of_
+IN mankind_
+NNP ,_
+, or_
+CC whether_
+IN technology_
+PRP will_
+MD rule_
+VB and_
+CC develop_
+VBD its_
+PRP$ own_
+JJ society_
+NN compatible_
+, with_
+IN its_
+PRP$ own_
+JJ needs_
+NNS as_
+IN a_
+DT force_
+NN of_
+IN nature_
+NN ._
+.
+
+We_
+PRP are_
+VBP already_
+RB committed_
+VBN to_
+TO establishing_
+DT man_
+NN 's_
+POS supremacy_
+NN over_
+IN nature_
+NN and_
+CC everywhere_
+VBD on_
+IN earth_
+NN ,_
+, not_
+RB merely_
+RB in_
+IN the_
+DT limited_
+NN social-political-economical_
+TO context_
+VB we_
+PRP are_
+VBP fond_
+VBN of_
+IN today_
+NN ._
+.
+
+we_
+PRP go_
+VB on_
+IN endlessly_
+RB trying_
+VBG to_
+TO draw_
+VB the_
+DT line_
+NN ,_
+, color_
+NN and_
+CC other_
+JJ ,_
+, as_
+RB to_
+TO which_
+WDT kind_
+NN of_
+IN man_
+NN we_
+PRP wish_
+VBP to_
+TO see_
+VB dominate_
+. ._
+.
+
+We_
+PRP have_
+VBP proved_
+VBN so_
+RB able_
+JJ to_
+TO solve_
+VB technological_
+PRP$ problems_
+NNS that_
+IN to_
+TO contend_
+VB we_
+PRP can_
+MD not_
+RB realize_
+IN a_
+DT universal_
+JJ goal_
+NN in_
+IN the_
+DT immediate_
+JJ future_
+NN is_
+VBZ to_
+TO be_
+VB extremely_
+PRP$ shortsighted_
+NNS ,_
+, if_
+IN nothing_
+NN else_
+RB ._
+.
+
+We_
+PRP must_
+MD believe_
+VB we_
+PRP have_
+VB the_
+DT ability_
+NN to_
+TO affect_
+VB our_
+PRP$ own_
+JJ destinies_
+NN :_
+: otherwise_
+: why_
+WRB try_
+DT anything_
+NN ?_
+. ?_
+.
+
+these_
+DT pages_
+VBZ the_
+DT term_
+. ``_
+`` technology_
+UH ''_
+'' is_
+VBZ used_
+VBN to_
+TO include_
+VB any_
+RB and_
+CC all_
+DT means_
+NN which_
+WDT could_
+MD amplify_
+VB ,_
+, project_
+UH ,_
+, or_
+CC augment_
+JJ man_
+NN 's_
+POS control_
+NN over_
+IN himself_
+PRP and_
+CC over_
+IN other_
+JJ men_
+NNS ._
+.
+
+Naturally_
+`` this_
+DT includes_
+VBZ all_
+DT communication_
+JJ forms_
+NNS ,_
+, e.g._
+`` languages_
+UH ,_
+, or_
+CC any_
+DT social_
+NN ,_
+, political_
+UH ,_
+, economic_
+JJ or_
+CC religious_
+PRP structures_
+MD employed_
+VB for_
+IN such_
+DT control_
+NN ._
+.
+
+Properly_
+PRP mindful_
+VBD of_
+IN all_
+PDT the_
+DT cultures_
+NN in_
+IN existence_
+DT today_
+NN throughout_
+IN the_
+DT world_
+NN ,_
+, we_
+PRP must_
+MD employ_
+VB these_
+DT resources_
+NN without_
+IN war_
+NN or_
+CC violent_
+JJ revolution_
+NN ._
+.
+
+we_
+PRP were_
+VBD creating_
+IN a_
+DT wholly_
+RB new_
+JJ society_
+NN ,_
+, we_
+PRP could_
+MD insist_
+VB that_
+IN our_
+PRP$ social_
+NNS ,_
+, political_
+UH ,_
+, economic_
+JJ and_
+CC philosophic_
+PRP institutions_
+MD foster_
+VB rather_
+RB than_
+IN hamper_
+DT man_
+NN ;_
+: ;_
+: best_
+DT growth_
+NN ._
+.
+
+But_
+CC we_
+PRP can_
+MD not_
+RB start_
+VB off_
+RB with_
+IN a_
+DT clean_
+JJ slate_
+NN ._
+.
+
+So_
+RB we_
+PRP must_
+MD first_
+RB analyze_
+IN our_
+PRP$ present_
+JJ institutions_
+NN with_
+IN respect_
+NN to_
+TO the_
+DT effect_
+NN of_
+IN each_
+DT on_
+IN man_
+NN 's_
+POS major_
+JJ needs_
+NNS ._
+.
+
+which_
+WDT institution_
+VBZ most_
+RBS needs_
+JJ correction_
+NN ,_
+, I_
+PRP would_
+MD say_
+VB the_
+DT corporation_
+NN as_
+IN it_
+PRP exists_
+VBD in_
+IN America_
+DT today_
+NN ._
+.
+
+At_
+IN first_
+JJ glance_
+NN this_
+DT appears_
+NN strange_
+: :_
+: of_
+IN all_
+DT people_
+NNS ,_
+, was_
+VBD not_
+RB America_
+TO founded_
+VB by_
+IN rugged_
+PRP$ individualists_
+NNS who_
+WP established_
+VBZ a_
+DT new_
+JJ way_
+NN of_
+IN life_
+NN still_
+RB inspiring_
+. ``_
+`` undeveloped_
+UH ''_
+'' societies_
+. abroad_
+. ?_
+. ?_
+.
+
+But_
+CC hear_
+VB Harrison_
+PRP E._
+MD Salisbury_
+VB ,_
+, former_
+JJ Moscow_
+TO correspondent_
+VB of_
+IN The_
+DT New_
+NNP York_
+NNP Times_
+NNP ,_
+, and_
+CC author_
+NN of_
+IN ``_
+`` To_
+UH Moscow_
+'' --_
+: And_
+CC Beyond_
+NNP ''_
+'' ._
+.
+
+In_
+IN a_
+DT book_
+NN review_
+, of_
+IN ``_
+`` The_
+DT Soviet_
+NN Cultural_
+TO Offensive_
+VB ''_
+'' ,_
+, he_
+PRP says_
+VBZ ,_
+, ``_
+`` Long_
+VB before_
+IN the_
+DT State_
+JJ Department_
+NN organized_
+IN its_
+PRP$ bureaucracy_
+NNS into_
+IN an_
+DT East-West_
+NN Contacts_
+TO Staff_
+VB in_
+IN order_
+NN to_
+TO wage_
+VB a_
+DT cultural_
+JJ counter-offensive_
+NN within_
+IN Soviet_
+DT borders_
+NN ,_
+, the_
+DT sharp_
+JJ cutting-edge_
+NN of_
+IN American_
+NNP culture_
+NNP had_
+VBD carved_
+IN its_
+PRP$ mark_
+NNS across_
+IN the_
+DT Russian_
+JJ steppes_
+NN ,_
+, as_
+IN when_
+WRB the_
+DT enterprising_
+JJ promoters_
+NN of_
+IN '_
+'' Porgy_
+, And_
+CC Bess_
+NNP '_
+'' overrode_
+, the_
+DT State_
+JJ Department_
+NN to_
+TO carry_
+VB the_
+DT contemporary_
+NN '_
+'' cultural_
+, warfare_
+UH '_
+'' behind_
+IN the_
+DT enemy_
+NN lines_
+. ._
+.
+
+They_
+PRP were_
+VBD not_
+RB diplomats_
+, or_
+CC jazz_
+CD musicians_
+NNS ,_
+, or_
+CC even_
+RB organizers_
+VBN of_
+IN reading-rooms_
+NNP and_
+CC photo-montage_
+CD displays_
+NNS ,_
+, but_
+CC rugged_
+PRP capitalist_
+MD entrepreneurs_
+VB like_
+IN Henry_
+NNP Ford_
+NNP ,_
+, Hugh_
+`` Cooper_
+UH ,_
+, Thomas_
+NNP Campbell_
+NNP ,_
+, the_
+DT International_
+JJ Harvester_
+NN Co._
+'' ,_
+, and_
+CC David_
+NNS W._
+. Griffith_
+. ._
+.
+
+Their_
+PRP$ kind_
+NN created_
+VBD an_
+DT American_
+JJ culture_
+TO superior_
+VB to_
+TO any_
+DT in_
+IN the_
+DT world_
+NN ,_
+, an_
+DT industrial_
+JJ and_
+CC technological_
+JJ culture_
+NN which_
+WDT penetrated_
+MD Russia_
+VB as_
+IN it_
+PRP did_
+VBD almost_
+RB every_
+DT corner_
+NN of_
+IN the_
+DT earth_
+NN without_
+IN a_
+DT nickel_
+NN from_
+IN the_
+DT Federal_
+NN treasury_
+, or_
+CC a_
+DT single_
+JJ governmental_
+TO specialist_
+VB to_
+TO contrive_
+VB directives_
+, or_
+CC program_
+VBD a_
+DT series_
+NN of_
+IN consultations_
+NN of_
+IN interested_
+JJ agencies_
+NN ._
+.
+
+This_
+DT favorable_
+JJ image_
+NN of_
+IN America_
+NNP in_
+IN the_
+DT minds_
+NNS of_
+IN Russian_
+PRP$ men_
+NNS and_
+CC women_
+NNS is_
+VBZ still_
+RB there_
+RB despite_
+IN years_
+NNS of_
+IN energetic_
+PRP anti-American_
+MD propaganda_
+VB ''_
+'' corporations_
+. now_
+RB outmoded_
+. ._
+.
+
+the_
+DT public_
+NN 's_
+POS present_
+JJ attitude_
+NN toward_
+IN business_
+NN stems_
+, from_
+IN the_
+DT fact_
+NN that_
+IN the_
+DT ``_
+`` rugged_
+FW capitalist_
+FW entrepreneur_
+FW ''_
+'' no_
+DT more_
+JJR exists_
+NNS in_
+IN America_
+NNP ._
+.
+
+In_
+IN his_
+PRP$ stead_
+NN is_
+VBZ a_
+DT milquetoast_
+NN version_
+VBD known_
+VBN as_
+IN ``_
+`` the_
+DT corporation_
+NN ''_
+'' ._
+.
+
+But_
+CC even_
+RB if_
+IN we_
+PRP can_
+MD not_
+RB see_
+VB the_
+DT repulsive_
+JJ characteristics_
+NN in_
+IN this_
+DT new_
+JJ image_
+NN of_
+IN America_
+NNP ,_
+, foreigners_
+PRP can_
+MD ;_
+: ;_
+: and_
+CC our_
+PRP$ loss_
+NN of_
+IN ``_
+`` prestige_
+UH ''_
+'' abroad_
+`` is_
+VBZ the_
+DT direct_
+JJ result_
+NN ._
+.
+
+No_
+DT amount_
+NN of_
+IN ballyhoo_
+PRP will_
+MD cover_
+VB up_
+RP the_
+DT sordid_
+JJ facts_
+NNS ._
+.
+
+If_
+IN we_
+PRP want_
+VBP respect_
+VBN from_
+IN ourselves_
+PRP or_
+CC others_
+NNS ,_
+, we_
+PRP will_
+MD have_
+VB to_
+TO earn_
+VB it_
+PRP ._
+.
+
+First_
+UH ,_
+, let_
+VB us_
+PRP realize_
+VBP that_
+IN whatever_
+DT good_
+JJ this_
+DT set-up_
+JJ achieved_
+NN in_
+IN earlier_
+PRP$ times_
+NNS ,_
+, now_
+RB the_
+DT corporation_
+NN per_
+IN se_
+PRP can_
+MD not_
+RB take_
+VB economic_
+. leadership_
+. ._
+.
+
+Businesses_
+PRP must_
+MD develop_
+VB as_
+IN a_
+DT result_
+NN of_
+IN the_
+DT ideas_
+NNS ,_
+, energies_
+NNP and_
+CC ambitions_
+VBD of_
+IN an_
+DT individual_
+NN having_
+VBG purpose_
+NN and_
+CC comprehensive_
+VBD ability_
+VBN within_
+IN one_
+CD mind_
+NN ._
+.
+
+we_
+PRP ``_
+`` forced_
+UH ''_
+'' individuals_
+, to_
+TO assume_
+VB the_
+DT corporate_
+JJ structure_
+NN by_
+IN means_
+NN of_
+IN taxes_
+NNP and_
+CC other_
+JJ legal_
+NN statutes_
+'' ,_
+, we_
+PRP adopted_
+VBP what_
+WP I_
+PRP would_
+MD term_
+: ``_
+`` pseudo-capitalism_
+UH ''_
+'' and_
+CC so_
+RB took_
+VBD a_
+DT major_
+JJ step_
+NN toward_
+IN socialism_
+NN ._
+.
+
+The_
+DT biggest_
+JJS loss_
+NN ,_
+, of_
+IN course_
+NN ,_
+, was_
+VBD the_
+DT individual_
+NN 's_
+POS lessened_
+JJ desire_
+NN and_
+CC ability_
+VBD to_
+TO give_
+VB his_
+PRP$ services_
+NN to_
+TO the_
+DT growth_
+NN of_
+IN his_
+PRP$ company_
+NN and_
+CC our_
+PRP$ economy_
+NN ._
+.
+
+Socialism_
+UH ,_
+, I_
+PRP grant_
+'' ,_
+, has_
+VBZ a_
+DT definite_
+JJ place_
+NN in_
+IN our_
+PRP$ society_
+NN ._
+.
+
+us_
+PRP not_
+RB complain_
+VB of_
+IN the_
+DT evils_
+NN of_
+IN capitalism_
+NN by_
+IN referring_
+VBG to_
+TO a_
+DT form_
+NN that_
+WP is_
+VBZ not_
+RB truly_
+RB capitalistic_
+. ._
+.
+
+Some_
+DT forms_
+NNS of_
+IN capitalism_
+PRP do_
+VBP indeed_
+RB work_
+VB --_
+: superb_
+`` organizations_
+UH ,_
+, a_
+DT credit_
+NN to_
+TO any_
+DT society_
+NN ._
+.
+
+But_
+CC the_
+DT pseudo-capitalism_
+NN which_
+WDT dictates_
+VBD our_
+PRP$ whole_
+JJ economy_
+NN as_
+IN well_
+RB as_
+IN our_
+PRP$ politics_
+NNS and_
+CC social_
+JJ life_
+NN ,_
+, will_
+MD not_
+RB stand_
+VB close_
+RB scrutiny_
+. ._
+.
+
+Its_
+PRP$ pretense_
+NN to_
+TO operate_
+VB in_
+IN the_
+DT public_
+JJ interest_
+NN is_
+VBZ little_
+RB more_
+RBR than_
+IN a_
+DT sham_
+NN ._
+.
+
+It_
+PRP serves_
+MD only_
+RB its_
+PRP$ own_
+JJ stockholders_
+NNS and_
+CC poorly_
+VBD at_
+IN that_
+DT ._
+.
+
+As_
+IN a_
+DT creative_
+JJ enterprise_
+NN ,_
+, its_
+PRP$ abilities_
+NNS are_
+VBP primarily_
+VBN in_
+IN ``_
+`` swallowing_
+UH ''_
+'' creative_
+. enterprises_
+. developed_
+. outside_
+IN its_
+PRP$ own_
+JJ organization_
+NNS (_
+( an_
+DT ability_
+NN made_
+VBD possible_
+JJ by_
+IN us_
+PRP ,_
+, and_
+CC almost_
+RB mandatory_
+. )_
+. ._
+.
+
+As_
+RB to_
+TO benefits_
+VB to_
+TO employees_
+VB ,_
+, it_
+PRP is_
+VBZ notorious_
+RB for_
+IN its_
+PRP$ callous_
+JJ disregard_
+NN except_
+IN where_
+WRB it_
+PRP depends_
+VBZ on_
+IN them_
+PRP for_
+IN services_
+NN ._
+.
+
+The_
+DT corporation_
+NN in_
+IN America_
+NNP is_
+VBZ in_
+IN reality_
+VBG our_
+PRP$ form_
+NN of_
+IN socialism_
+NNP ,_
+, vying_
+VBG in_
+IN a_
+DT sense_
+NN with_
+IN the_
+DT other_
+JJ socialistic_
+JJ form_
+NN that_
+WP has_
+VBZ emerged_
+VBN within_
+IN governmental_
+DT bureaucracy_
+NN ._
+.
+
+But_
+CC while_
+IN the_
+DT corporation_
+NN has_
+VBZ all_
+RB the_
+DT disadvantages_
+NN of_
+IN the_
+DT socialist_
+JJ form_
+NN of_
+IN organization_
+PRP$ (_
+( so_
+RB cumbersome_
+VB it_
+PRP can_
+MD not_
+RB constructively_
+TO do_
+VB much_
+RB of_
+IN anything_
+NN not_
+RB compatible_
+VBN with_
+IN its_
+PRP$ need_
+NN to_
+TO perpetuate_
+VB itself_
+PRP and_
+CC maintain_
+VBD its_
+PRP$ status_
+JJ quo_
+NN )_
+) ,_
+, unluckily_
+CC it_
+PRP does_
+VBZ not_
+RB have_
+VB the_
+DT desirable_
+JJ aspect_
+NN of_
+IN socialism_
+NNP ,_
+, the_
+DT motivation_
+NN to_
+TO operate_
+VB for_
+IN the_
+DT benefit_
+NN of_
+IN society_
+NN as_
+IN a_
+DT whole_
+JJ ._
+.
+
+So_
+RB we_
+PRP are_
+VBP faced_
+VBN with_
+IN a_
+DT vast_
+JJ network_
+NN of_
+IN amorphous_
+PRP entities_
+MD perpetuating_
+VB themselves_
+PRP in_
+IN whatever_
+DT manner_
+NN they_
+PRP can_
+MD ,_
+, without_
+IN regard_
+VBG to_
+TO the_
+DT needs_
+NNS of_
+IN society_
+NN ,_
+, controlling_
+DT society_
+NN and_
+CC forcing_
+VBD upon_
+IN it_
+PRP a_
+DT regime_
+NN representing_
+VBD only_
+RB the_
+DT corporation_
+NN 's_
+POS needs_
+NNS for_
+IN survival_
+NN ._
+.
+
+The_
+DT corporation_
+NN has_
+VBZ a_
+DT limited_
+NN ,_
+, specific_
+DT place_
+NN in_
+IN our_
+PRP$ society_
+NN ._
+.
+
+Ideally_
+`` speaking_
+UH ,_
+, it_
+PRP should_
+MD be_
+VB allowed_
+VBN to_
+TO operate_
+VB only_
+RB where_
+WRB the_
+DT public_
+NN has_
+VBZ a_
+DT great_
+JJ stake_
+NN in_
+IN the_
+DT continuity_
+NN of_
+IN supply_
+NNP or_
+CC services_
+RB ,_
+, and_
+CC where_
+WRB the_
+DT actions_
+NN of_
+IN a_
+DT single_
+JJ proprietor_
+NNS are_
+VBP secondary_
+VBG to_
+TO the_
+DT needs_
+NNS of_
+IN society_
+NN ._
+.
+
+Examples_
+PRP are_
+VBP in_
+IN public_
+DT utilities_
+NN ,_
+, making_
+VBG military_
+'' aircraft_
+, and_
+CC accessories_
+RB ,_
+, or_
+CC where_
+WRB the_
+DT investment_
+NN and_
+CC risk_
+VB for_
+IN a_
+DT proprietorship_
+NN would_
+MD be_
+VB too_
+RB great_
+JJ for_
+IN a_
+DT much_
+RB needed_
+VBN project_
+TO impossible_
+VB to_
+TO achieve_
+VB by_
+IN any_
+DT means_
+NN other_
+JJ than_
+IN the_
+DT corporate_
+JJ form_
+NN ,_
+, e.g._
+NNP constructing_
+POS major_
+JJ airports_
+NNS or_
+CC dams_
+NNS ._
+.
+
+Thus_
+UH ,_
+, if_
+IN corporations_
+PRP are_
+VBP not_
+RB to_
+TO run_
+VB away_
+RB with_
+IN us_
+PRP ,_
+, they_
+PRP must_
+MD become_
+VB quasi-governmental_
+PRP$ institutions_
+NNS ,_
+, subject_
+VBG to_
+TO public_
+DT control_
+NN and_
+CC needs_
+NNS ._
+.
+
+In_
+IN all_
+DT other_
+JJ areas_
+NN ,_
+, private_
+CC initiative_
+VBD of_
+IN the_
+DT ``_
+`` proprietorship_
+UH ''_
+'' type_
+NN should_
+MD be_
+VB urged_
+VBN to_
+TO produce_
+VB the_
+DT desired_
+NN goods_
+, and_
+CC services_
+NNS ._
+.
+
+Proprietorship_
+PRP Avoiding_
+MD runaway_
+VB technology_
+PRP can_
+MD be_
+VB done_
+VBN only_
+RB by_
+IN assuring_
+IN a_
+DT humane_
+JJ society_
+NN ;_
+: ;_
+: and_
+CC for_
+IN this_
+DT human_
+JJ beings_
+NNS must_
+MD be_
+VB firmly_
+RB in_
+IN control_
+NN of_
+IN the_
+DT economics_
+NN on_
+IN which_
+WDT our_
+PRP$ society_
+NN rests_
+. ._
+.
+
+Such_
+DT genuine_
+JJ human_
+JJ leadership_
+IN the_
+DT proprietorship_
+NN can_
+MD offer_
+VB ,_
+, corporations_
+PRP can_
+MD not_
+RB ._
+.
+
+It_
+PRP can_
+MD project_
+VB long-range_
+TO goals_
+VB for_
+IN itself_
+PRP ._
+.
+
+Corporations_
+PRP react_
+MD violently_
+RB to_
+TO short-range_
+VB stimuli_
+'' ,_
+, e.g._
+UH ,_
+, quarterly_
+NNP and_
+CC annual_
+JJ dividend_
+JJ reports_
+NNS ._
+.
+
+Proprietorships_
+PRP can_
+MD establish_
+VB a_
+DT unity_
+NN and_
+CC integrity_
+VBD of_
+IN control_
+NN ;_
+: ;_
+: corporations_
+UH ,_
+, being_
+VBG more_
+RBR amorphous_
+JJ ,_
+, can_
+MD not_
+RB ._
+.
+
+Proprietorships_
+PRP can_
+MD establish_
+VB a_
+DT meaningful_
+JJ identity_
+NN ,_
+, representing_
+IN a_
+DT human_
+JJ personality_
+NN ,_
+, and_
+CC thus_
+PRP establish_
+MD sincere_
+VB relationships_
+VBN with_
+IN customers_
+NNS and_
+CC community_
+NNS ._
+.
+
+Corporations_
+PRP are_
+VBP apt_
+VBN by_
+IN nature_
+NN to_
+TO be_
+VB impersonal_
+JJ ,_
+, inhumane_
+UH ,_
+, shortsighted_
+NNP and_
+CC almost_
+RB exclusively_
+JJ profit-motivated_
+NN ,_
+, a_
+DT picture_
+NN they_
+PRP could_
+MD scarcely_
+RB afford_
+VB to_
+TO present_
+VB to_
+TO the_
+DT public_
+NN ._
+.
+
+The_
+DT proprietor_
+NN is_
+VBZ able_
+JJ to_
+TO create_
+VB a_
+DT leadership_
+JJ impossible_
+NN in_
+IN the_
+DT corporate_
+JJ structure_
+NN with_
+IN its_
+PRP$ board_
+NN of_
+IN directors_
+NNP and_
+CC stockholders_
+NNS ._
+.
+
+Leadership_
+EX is_
+VBZ lacking_
+RB in_
+IN our_
+PRP$ society_
+NN because_
+IN it_
+PRP has_
+VBZ no_
+DT legitimate_
+JJ place_
+NN to_
+TO develop_
+VB ._
+.
+
+Men_
+PRP continuously_
+VBD at_
+IN the_
+DT head_
+NN of_
+IN growing_
+VBG enterprises_
+PRP can_
+MD acquire_
+VB experiences_
+VBN of_
+IN the_
+DT most_
+RBS varied_
+JJ ,_
+, complicated_
+NNP and_
+CC trying_
+VBG type_
+NN so_
+RB that_
+IN at_
+IN maturation_
+WRB they_
+PRP have_
+VB developed_
+IN the_
+DT competence_
+NN and_
+CC willingness_
+VBD to_
+TO accept_
+VB the_
+DT personal_
+JJ responsibility_
+NN so_
+IN sorely_
+PRP needed_
+VBD now_
+RB ._
+.
+
+government_
+PRP must_
+MD establish_
+VB greater_
+TO controls_
+VB upon_
+IN corporations_
+PRP so_
+RB that_
+IN their_
+PRP$ activities_
+NNS promote_
+, what_
+WP is_
+VBZ deemed_
+DT essential_
+JJ to_
+TO the_
+DT national_
+JJ interest_
+NN ._
+.
+
+Proprietorships_
+PRP should_
+MD get_
+VB the_
+DT tax_
+NN advantages_
+VBD now_
+RB accruing_
+VB to_
+TO corporations_
+VB ,_
+, e.g._
+IN the_
+DT chance_
+NN to_
+TO accumulate_
+VB capital_
+VBN so_
+RB vital_
+VBN for_
+IN growth_
+NN ._
+.
+
+Corporations_
+PRP should_
+MD pay_
+VB added_
+PRP$ taxes_
+NNS ,_
+, to_
+TO be_
+VB used_
+VBN for_
+IN educational_
+PRP$ purposes_
+NNS (_
+( not_
+RB necessarily_
+VBN of_
+IN the_
+DT formal_
+JJ type_
+NN )_
+. ._
+.
+
+The_
+DT right_
+JJ to_
+TO leave_
+VB legacies_
+PRP should_
+MD be_
+VB substantially_
+VBN reduced_
+VBN and_
+CC ultimately_
+RB eliminated_
+. ._
+.
+
+To_
+`` perpetuate_
+PRP wealth_
+MD control_
+VB led_
+VBN by_
+IN small_
+JJ groups_
+NNS of_
+IN individuals_
+NNS who_
+WP played_
+VBD no_
+DT role_
+NN in_
+IN its_
+PRP$ creation_
+NN prevents_
+IN those_
+DT with_
+IN real_
+JJ initiative_
+NN from_
+IN coming_
+VBG to_
+TO the_
+DT fore_
+NN ,_
+, and_
+CC is_
+VBZ basically_
+RB anti-democratic_
+. ._
+.
+
+When_
+WRB the_
+DT proprietor_
+JJ dies_
+NN ,_
+, the_
+DT establishment_
+NN should_
+MD become_
+VB a_
+DT corporation_
+NN until_
+IN it_
+PRP is_
+VBZ either_
+DT acquired_
+NN by_
+IN another_
+DT proprietor_
+NN or_
+CC the_
+DT government_
+JJ decides_
+NN to_
+TO drop_
+VB it_
+PRP ._
+.
+
+Strikes_
+PRP should_
+MD be_
+VB declared_
+TO illegal_
+VB against_
+IN corporations_
+NN because_
+IN disagreements_
+PRP would_
+MD have_
+VB to_
+TO be_
+VB settled_
+VBN by_
+IN government_
+PRP representatives_
+MD acting_
+VB as_
+IN controllers_
+NN of_
+IN the_
+DT corporation_
+NN whose_
+TO responsibility_
+VB to_
+TO the_
+DT state_
+NN would_
+MD now_
+RB be_
+VB defined_
+VBN against_
+IN proprietorship_
+NN because_
+IN employees_
+NNP and_
+CC proprietors_
+PRP must_
+MD be_
+VB completely_
+RB interdependent_
+'' ,_
+, as_
+IN they_
+PRP are_
+VBP each_
+DT a_
+DT part_
+NN of_
+IN the_
+DT whole_
+JJ ._
+.
+
+Strikes_
+PRP threatening_
+VBD the_
+DT security_
+NN of_
+IN the_
+DT proprietorship_
+NN ,_
+, if_
+IN internally_
+DT motivated_
+NN ,_
+, prevent_
+IN a_
+DT healthy_
+JJ relationship_
+NN ._
+.
+
+Certainly_
+RB external_
+VB forces_
+PRP should_
+MD not_
+RB be_
+VB applied_
+PRP arbitrarily_
+MD out_
+RB of_
+IN mere_
+JJ power_
+NN available_
+VBD to_
+TO do_
+VB so_
+RB ._
+.
+
+If_
+IN we_
+PRP can_
+MD not_
+RB stop_
+VB warfare_
+VBN in_
+IN our_
+PRP$ own_
+JJ economic_
+JJ system_
+NN ,_
+, how_
+WRB can_
+MD we_
+PRP expect_
+VB to_
+TO abolish_
+VB it_
+PRP internationally_
+. ?_
+. ?_
+.
+
+One_
+CD kind_
+NN of_
+IN proprietorship_
+IN These_
+DT proposals_
+NN would_
+MD go_
+VB far_
+RB toward_
+IN creating_
+IN the_
+DT economic_
+JJ atmosphere_
+NN favoring_
+POS growth_
+NN of_
+IN the_
+DT individual_
+NN ,_
+, who_
+WP ,_
+, in_
+IN turn_
+NN ,_
+, would_
+MD help_
+VB us_
+PRP to_
+TO cope_
+VB with_
+IN runaway_
+DT technology_
+NN ._
+.
+
+Individual_
+DT human_
+JJ strength_
+NN is_
+VBZ needed_
+VBN to_
+TO pit_
+VB against_
+IN an_
+DT inhuman_
+JJ condition_
+NN ._
+.
+
+The_
+DT battle_
+NN is_
+VBZ not_
+RB easy_
+JJ ._
+.
+
+We_
+PRP are_
+VBP tempted_
+VBG to_
+TO blame_
+VB others_
+NNS for_
+IN our_
+PRP$ problems_
+NNS rather_
+RB than_
+IN look_
+NN them_
+PRP straight_
+RB in_
+IN the_
+DT face_
+NN and_
+CC realize_
+WRB they_
+PRP are_
+VBP of_
+IN our_
+PRP$ own_
+JJ making_
+NNS and_
+CC possible_
+JJ of_
+IN solution_
+DT only_
+JJ by_
+IN ourselves_
+PRP with_
+IN the_
+DT help_
+NN of_
+IN desperately_
+PRP needed_
+VBD ,_
+, enlightened_
+JJ ,_
+, competent_
+UH leaders_
+'' ._
+.
+
+Persons_
+PRP developed_
+VBD in_
+IN today_
+NN 's_
+POS corporations_
+NN can_
+MD not_
+RB hope_
+VB to_
+TO serve_
+VB here_
+RB --_
+: a_
+DT judgment_
+JJ based_
+NN on_
+IN experiences_
+NNS of_
+IN my_
+PRP$ own_
+JJ in_
+IN business_
+NN and_
+CC in_
+IN activities_
+NNS outside_
+RB ._
+.
+
+In_
+IN my_
+PRP$ own_
+JJ company_
+NN ,_
+, in_
+IN effect_
+NN a_
+DT partnership_
+NN ,_
+, although_
+IN legally_
+IN a_
+DT corporation_
+NN ,_
+, I_
+PRP have_
+VBP been_
+VBN able_
+JJ to_
+TO do_
+VB many_
+JJ things_
+NNS for_
+IN my_
+PRP$ employees_
+NN which_
+WDT ``_
+`` normal_
+UH ''_
+'' corporations_
+, of_
+IN comparable_
+DT size_
+NN and_
+CC nature_
+PRP would_
+MD have_
+VB been_
+VBN unable_
+VBN to_
+TO do_
+VB ._
+.
+
+Also_
+RB ,_
+, I_
+PRP am_
+VBP convinced_
+VBN that_
+IN if_
+IN my_
+PRP$ company_
+NN were_
+VBD a_
+DT sole_
+NN proprietorship_
+VBD instead_
+RB of_
+IN a_
+DT partnership_
+NN ,_
+, I_
+PRP would_
+MD have_
+VB been_
+VBN even_
+RB abler_
+VB to_
+TO solve_
+VB long-range_
+PRP$ problems_
+NNS for_
+IN myself_
+PRP and_
+CC my_
+PRP$ fellow-employees_
+NN ._
+.
+
+Any_
+DT abilities_
+NN I_
+PRP may_
+MD have_
+VB were_
+VBD achieved_
+VBN in_
+IN their_
+PRP$ present_
+JJ shape_
+NN from_
+IN experience_
+NN in_
+IN sharing_
+NN in_
+IN the_
+DT growth_
+NN and_
+CC control_
+NN of_
+IN my_
+PRP$ business_
+NN ,_
+, coupled_
+VBG with_
+IN raising_
+VBG my_
+PRP$ family_
+NN ._
+.
+
+This_
+DT combined_
+JJ experience_
+NN ,_
+, on_
+IN a_
+DT foundation_
+NN of_
+IN very_
+RB average_
+'' ,_
+, I_
+PRP assure_
+VBP you_
+PRP ,_
+, intelligence_
+NN and_
+CC background_
+NN ,_
+, has_
+CC helped_
+VBD me_
+PRP do_
+VBP things_
+RB many_
+JJ well-informed_
+JJ people_
+NNS would_
+MD bet_
+VB heavily_
+RB against_
+IN ._
+.
+
+Perhaps_
+RB a_
+DT list_
+NN of_
+IN some_
+DT of_
+IN the_
+DT ``_
+`` practices_
+UH ''_
+'' of_
+IN my_
+PRP$ company_
+NN will_
+MD help_
+VB here_
+RB ._
+.
+
+The_
+DT company_
+NN grew_
+VBD out_
+RB of_
+IN efforts_
+NNS by_
+IN two_
+CD completely_
+RB inexperienced_
+JJ men_
+NNS in_
+IN their_
+PRP$ late_
+JJ twenties_
+NN ,_
+, neither_
+RB having_
+VBG a_
+DT formal_
+JJ education_
+NN applicable_
+VBD to_
+TO ,_
+, or_
+CC experience_
+NN in_
+IN ,_
+, manufacturing_
+NNP or_
+CC selling_
+VBD our_
+PRP$ type_
+NN of_
+IN articles_
+NN ._
+.
+
+an_
+DT initial_
+JJ investment_
+NN of_
+IN $_
+$ 1,200_
+CD in_
+IN 1943_
+NNP ,_
+, it_
+PRP has_
+VBZ grown_
+RB ,_
+, with_
+IN no_
+DT additional_
+NN capital_
+POS investment_
+NN ,_
+, to_
+TO a_
+DT present_
+JJ value_
+NN estimated_
+VBN by_
+IN some_
+DT as_
+IN exceeding_
+DT $_
+NN 10,000,000_
+'' (_
+( we_
+PRP do_
+VBP n't_
+RB disclose_
+IN financial_
+PRP$ figures_
+NNS to_
+TO the_
+DT public_
+NN )_
+. ._
+.
+
+Its_
+PRP$ growth_
+NN continues_
+TO steadily_
+VB on_
+IN a_
+DT par_
+NN with_
+IN past_
+JJ growth_
+NN ;_
+: ;_
+: and_
+CC no_
+DT limitation_
+NN is_
+VBZ in_
+IN evidence_
+NN ._
+.
+
+Our_
+PRP$ pin-curl_
+NNS clips_
+, and_
+CC self-locking_
+PRP nuts_
+MD achieved_
+VB dominance_
+VBN in_
+IN just_
+RB a_
+DT few_
+JJ years_
+NNS time_
+NN ,_
+, despite_
+IN substantial_
+NNP ,_
+, well_
+RB established_
+JJ competition_
+NN ._
+.
+
+the_
+DT last_
+JJ years_
+NNS of_
+IN Woodrow_
+NNP Wilson_
+NNP 's_
+POS administration_
+NN ,_
+, a_
+DT red_
+JJ scare_
+TO developed_
+VB in_
+IN our_
+PRP$ country_
+NN ._
+.
+
+Many_
+`` Americans_
+PRP reacted_
+MD irrationally_
+VB to_
+TO the_
+DT challenge_
+NN of_
+IN Russia_
+NNP and_
+CC turned_
+VBD to_
+TO the_
+DT repression_
+NN of_
+IN ideas_
+NNS by_
+IN force_
+NN ._
+.
+
+Postmaster_
+`` General_
+PRP Burleson_
+MD set_
+VB about_
+IN to_
+TO protect_
+VB the_
+DT American_
+JJ people_
+NNS against_
+IN radical_
+PRP$ propaganda_
+NNS that_
+WP might_
+MD be_
+VB spread_
+VBN through_
+IN the_
+DT mails_
+NN ._
+.
+
+Attorney_
+PRP General_
+VBP Palmer_
+PRP made_
+VBD a_
+DT series_
+NN of_
+IN raids_
+NNS that_
+WP sent_
+VBD more_
+JJR than_
+IN 4,000_
+PRP so-called_
+MD radicals_
+VB to_
+TO the_
+DT jails_
+NN ,_
+, in_
+IN direct_
+JJ violation_
+NN of_
+IN their_
+PRP$ constitutional_
+JJ rights_
+NNS ._
+.
+
+Then_
+RB ,_
+, not_
+RB many_
+JJ years_
+NNS later_
+RB ,_
+, the_
+DT Un-American_
+JJ Activities_
+NN Committee_
+'' ,_
+, under_
+IN the_
+DT leadership_
+NN of_
+IN Martin_
+DT Dies_
+NN ,_
+, pilloried_
+CD hundreds_
+NNS of_
+IN decent_
+JJ ,_
+, patriotic_
+CD citizens_
+NNS ._
+.
+
+Anyone_
+`` who_
+WP tried_
+VBD to_
+TO remedy_
+VB some_
+DT of_
+IN the_
+DT most_
+RBS glaring_
+JJ defects_
+NN in_
+IN our_
+PRP$ form_
+NN of_
+IN democracy_
+PRP was_
+VBD denounced_
+VBN as_
+IN a_
+DT traitorous_
+JJ red_
+JJ whose_
+CC real_
+JJ purpose_
+NN was_
+VBD the_
+DT destruction_
+NN of_
+IN our_
+PRP$ government_
+NN ._
+.
+
+This_
+DT hysteria_
+NN reached_
+VBD its_
+PRP$ height_
+NN under_
+IN the_
+DT leadership_
+NN of_
+IN Senator_
+NNP Joseph_
+NNP McCarthy_
+'' ._
+.
+
+Demagogues_
+PRP of_
+IN this_
+DT sort_
+NN found_
+VBD communist_
+VBN bogeys_
+TO lurking_
+VB behind_
+IN any_
+DT new_
+JJ idea_
+NN that_
+WP would_
+MD run_
+VB counter_
+NN to_
+TO stereotyped_
+VB notions_
+. ._
+.
+
+New_
+NNP ideas_
+NNP were_
+VBD dangerous_
+, and_
+CC must_
+MD be_
+VB repressed_
+'' ,_
+, no_
+DT matter_
+NN how_
+. ._
+.
+
+Those_
+`` who_
+WP would_
+MD suppress_
+VB dangerous_
+PRP$ thoughts_
+NNS ,_
+, credit_
+CD ideas_
+NNS with_
+IN high_
+JJ potency_
+NN ._
+.
+
+They_
+PRP give_
+VBP strict_
+JJ interpretation_
+NN to_
+TO William_
+NNP James_
+NNP '_
+POS statement_
+NN that_
+IN ``_
+`` Every_
+DT idea_
+NN that_
+IN enters_
+IN the_
+DT mind_
+NN tends_
+VBD to_
+TO express_
+VB itself_
+PRP ''_
+'' ._
+.
+
+They_
+PRP seem_
+VB to_
+TO believe_
+VB that_
+IN a_
+DT person_
+NN will_
+MD act_
+VB automatically_
+VBN as_
+IN soon_
+RB as_
+IN he_
+PRP contacts_
+VBD something_
+NN new_
+. ._
+.
+
+Hence_
+UH ,_
+, the_
+DT only_
+JJ defensible_
+NNS procedure_
+WP is_
+VBZ to_
+TO repress_
+VB any_
+RB and_
+CC every_
+DT notion_
+NN ,_
+, unless_
+CC it_
+PRP gives_
+MD evidence_
+VB that_
+IN it_
+PRP is_
+VBZ perfectly_
+RB safe_
+. ._
+.
+
+this_
+DT danger_
+NN ,_
+, however_
+RB ,_
+, we_
+PRP are_
+VBP informed_
+VBN on_
+IN every_
+DT hand_
+NN that_
+IN ideas_
+NNS ,_
+, not_
+RB machines_
+'' ,_
+, are_
+VBP our_
+PRP$ finest_
+NN tools_
+: ;_
+: ;_
+: they_
+PRP are_
+VBP priceless_
+RB even_
+RB though_
+IN they_
+PRP can_
+MD not_
+RB be_
+VB recorded_
+VBN on_
+IN a_
+DT ledger_
+JJ page_
+NN ;_
+: ;_
+: they_
+PRP are_
+VBP the_
+DT most_
+JJS valuable_
+NNS of_
+IN commodities_
+NN --_
+: and_
+CC the_
+DT most_
+RBS salable_
+JJ ,_
+, for_
+IN their_
+PRP$ demand_
+NNS far_
+RB exceeds_
+. supply_
+. ._
+.
+
+So_
+RB all-important_
+PRP are_
+VBP ideas_
+RB ,_
+, we_
+PRP are_
+VBP told_
+VBN ,_
+, that_
+IN persons_
+DT successful_
+NN in_
+IN business_
+NN and_
+CC happy_
+JJ in_
+IN social_
+DT life_
+NN usually_
+RB fall_
+VB into_
+IN two_
+CD classes_
+NNS :_
+: those_
+DT who_
+WP invent_
+VBD new_
+JJ ideas_
+NNS of_
+IN their_
+PRP$ own_
+JJ ,_
+, and_
+CC those_
+DT who_
+WP borrow_
+VBD ,_
+, beg_
+UH ,_
+, or_
+CC steal_
+VBD from_
+IN others_
+NNS ._
+.
+
+an_
+DT unrestricted_
+JJ flow_
+NN of_
+IN ideas_
+NNS ,_
+, all_
+DT will_
+MD be_
+VB well_
+RB ,_
+, and_
+CC we_
+PRP are_
+VBP even_
+RB assured_
+VBD that_
+IN ``_
+`` an_
+DT idea_
+NN a_
+DT day_
+NN will_
+MD keep_
+VB the_
+DT sheriff_
+NN away_
+RB ''_
+'' ._
+.
+
+That_
+DT ,_
+, however_
+RB ,_
+, may_
+MD also_
+RB bring_
+VB the_
+DT police_
+NN ,_
+, if_
+IN the_
+DT thinking_
+NN does_
+VBZ not_
+RB meet_
+VB with_
+IN social_
+DT approval_
+NN ._
+.
+
+Criminals_
+UH ,_
+, as_
+IN well_
+RB as_
+IN model_
+PRP$ citizens_
+NNS ,_
+, exercise_
+VBG their_
+PRP$ minds_
+NNS ._
+.
+
+Merely_
+`` having_
+VBG a_
+DT mental_
+JJ image_
+NN of_
+IN some_
+DT sort_
+NN is_
+VBZ not_
+RB the_
+DT all-important_
+NN consideration_
+. ._
+.
+
+course_
+NN ,_
+, there_
+EX must_
+MD be_
+VB clarity_
+: :_
+: a_
+DT single_
+JJ distinct_
+JJ impression_
+NN is_
+VBZ more_
+JJR valuable_
+NNS than_
+IN many_
+JJ fuzzy_
+JJ ones_
+NNS ._
+.
+
+But_
+CC clarity_
+EX is_
+VBZ not_
+RB enough_
+RB ._
+.
+
+The_
+DT writer_
+NN took_
+VBD a_
+DT class_
+NN of_
+IN college_
+NN students_
+VBD to_
+TO the_
+DT state_
+NN hospital_
+, for_
+IN the_
+DT mentally_
+JJ ill_
+NN in_
+IN St._
+NNP Joseph_
+NNP ,_
+, Missouri_
+NNP ._
+.
+
+An_
+DT inmate_
+NN ,_
+, a_
+DT former_
+JJ university_
+NN professor_
+NN ,_
+, expounded_
+VBG to_
+TO us_
+PRP ,_
+, logically_
+NNP and_
+CC clearly_
+RB ,_
+, that_
+DT someone_
+NN was_
+VBD pilfering_
+IN his_
+PRP$ thoughts_
+NNS ._
+.
+
+He_
+PRP appealed_
+VBD to_
+TO us_
+PRP to_
+TO bring_
+VB his_
+PRP$ case_
+NN to_
+TO the_
+DT attention_
+NN of_
+IN the_
+DT authorities_
+NNS that_
+IN justice_
+PRP might_
+MD be_
+VB done_
+VBN ._
+.
+
+Despite_
+`` the_
+DT clarity_
+NN of_
+IN his_
+PRP$ presentation_
+NNS ,_
+, his_
+PRP$ idea_
+NN was_
+VBD not_
+RB of_
+IN Einsteinian_
+DT calibre_
+NN ._
+.
+
+True_
+UH ,_
+, ideas_
+PRP are_
+VBP important_
+JJ ,_
+, perhaps_
+RB life_
+NN 's_
+POS most_
+RBS precious_
+JJ treasures_
+NN ._
+.
+
+But_
+CC have_
+VB we_
+PRP not_
+RB gone_
+VBN overboard_
+RB in_
+IN stressing_
+VBG their_
+PRP$ significance_
+NN ?_
+. ?_
+.
+
+Have_
+`` we_
+PRP not_
+RB actually_
+RB developed_
+JJ idea_
+NN worship_
+. ?_
+. ?_
+.
+
+Ideas_
+`` we_
+PRP must_
+MD have_
+VB ,_
+, and_
+CC we_
+PRP seek_
+VB them_
+PRP everywhere_
+. ._
+.
+
+We_
+PRP scour_
+MD literature_
+VB for_
+IN them_
+PRP ;_
+: ;_
+: here_
+RB we_
+PRP find_
+VB stored_
+IN the_
+DT wisdom_
+NN of_
+IN great_
+JJ minds_
+NNS ._
+.
+
+But_
+CC are_
+VBP all_
+RB these_
+DT works_
+JJ worthy_
+JJ of_
+IN consideration_
+NN ?_
+. ?_
+.
+
+Can_
+`` they_
+PRP stand_
+VB rigid_
+. scrutiny_
+. ?_
+. ?_
+.
+
+Shakespeare_
+NNP 's_
+POS wit_
+NNS and_
+CC wisdom_
+RB ,_
+, his_
+PRP$ profound_
+JJ insight_
+NN into_
+IN human_
+JJ nature_
+NN ,_
+, have_
+VB stood_
+VBD the_
+DT test_
+NN of_
+IN centuries_
+NN ._
+.
+
+But_
+CC was_
+VBD he_
+PRP infallible_
+VBD in_
+IN all_
+DT things_
+NNS ?_
+. ?_
+.
+
+What_
+WP of_
+IN his_
+PRP$ treatment_
+NNS of_
+IN the_
+DT Jew_
+NN in_
+IN The_
+DT Merchant_
+NN Of_
+. Venice_
+. ?_
+. ?_
+.
+
+Shakespeare_
+PRP gives_
+VBP us_
+PRP a_
+DT vivid_
+JJ picture_
+NN of_
+IN Shylock_
+NNP ,_
+, but_
+CC probably_
+RB he_
+PRP never_
+RB saw_
+VBD a_
+DT Jew_
+NN ,_
+, unless_
+VBG in_
+IN some_
+DT of_
+IN his_
+PRP$ travels_
+NN ._
+.
+
+The_
+DT Jews_
+NN had_
+VBD been_
+VBN banished_
+VBN from_
+IN England_
+NNP in_
+IN 1290_
+NNP and_
+CC were_
+VBD not_
+RB permitted_
+VBN to_
+TO return_
+VB before_
+IN 1655_
+NNP ,_
+, when_
+WRB Shakespeare_
+PRP had_
+VBD been_
+VBN dead_
+JJ for_
+IN thirty-nine_
+PRP$ years_
+NNS ._
+.
+
+any_
+DT had_
+VBD escaped_
+TO expulsion_
+VB by_
+IN hiding_
+NN ,_
+, they_
+PRP certainly_
+RB would_
+MD not_
+RB frequent_
+IN the_
+DT market-place_
+NN ._
+.
+
+Shakespeare_
+PRP did_
+VBD not_
+RB usually_
+RB invent_
+IN the_
+DT incidents_
+NN in_
+IN his_
+PRP$ plays_
+NNS ,_
+, but_
+CC borrowed_
+WRB them_
+PRP from_
+IN old_
+JJ stories_
+NN ,_
+, ballads_
+NNS ,_
+, and_
+CC plays_
+RB ,_
+, wove_
+CC them_
+PRP together_
+RB ,_
+, and_
+CC then_
+RB breathed_
+VBN into_
+IN them_
+PRP his_
+PRP$ spark_
+NN of_
+IN life_
+NN ._
+.
+
+Rather_
+RB than_
+IN from_
+IN a_
+DT first-hand_
+JJ study_
+NN of_
+IN Jewish_
+PRP$ people_
+NNS ,_
+, his_
+PRP$ delineation_
+NNS of_
+IN Shylock_
+DT stems_
+NN from_
+IN a_
+DT collection_
+NN of_
+IN Italian_
+JJ stories_
+NN ,_
+, Il_
+`` Pecorone_
+UH ,_
+, published_
+VBG in_
+IN 1558_
+NNP ,_
+, although_
+IN written_
+PRP almost_
+RB two_
+CD centuries_
+NNS earlier_
+. ._
+.
+
+He_
+PRP could_
+MD learn_
+VB at_
+IN second_
+JJ hand_
+NN from_
+IN books_
+NNS ,_
+, but_
+CC could_
+MD not_
+RB thus_
+TO capture_
+VB the_
+DT real_
+JJ Jewish_
+NN spirit_
+. ._
+.
+
+Harris_
+NNP J._
+NNP Griston_
+NNP ,_
+, in_
+IN Shaking_
+IN The_
+DT Dust_
+NN From_
+IN Shakespeare_
+PRP$ (_
+( 216_
+SYM )_
+) ,_
+, writes_
+VBG :_
+: ``_
+`` There_
+EX is_
+VBZ not_
+RB a_
+DT word_
+NN spoken_
+VBN by_
+IN Shylock_
+NN which_
+WDT one_
+PRP would_
+MD expect_
+VB from_
+IN a_
+DT real_
+JJ Jew_
+NN ''_
+'' ._
+.
+
+He_
+PRP took_
+VBD the_
+DT story_
+NN of_
+IN the_
+DT pound_
+NN of_
+IN flesh_
+NN and_
+CC had_
+VBD to_
+TO fasten_
+VB it_
+PRP on_
+IN someone_
+NN ._
+.
+
+The_
+DT Jew_
+NN was_
+VBD the_
+DT safest_
+JJ victim_
+NN ._
+.
+
+No_
+DT Jew_
+NN was_
+VBD on_
+IN hand_
+NN to_
+TO boycott_
+VB his_
+PRP$ financially_
+NN struggling_
+. theater_
+. ._
+.
+
+It_
+PRP would_
+MD have_
+VB been_
+VBN unwise_
+TO policy_
+VB ,_
+, for_
+IN instance_
+NN ,_
+, to_
+TO apply_
+VB the_
+DT pound-of-flesh_
+JJ characterization_
+NN to_
+TO the_
+DT thrifty_
+NN Scotchman_
+. ._
+.
+
+Just_
+RB as_
+IN now_
+DT anyone_
+NN may_
+MD hurl_
+VB insults_
+VBN at_
+IN a_
+DT citizen_
+NN of_
+IN Mars_
+NNP ,_
+, or_
+CC even_
+RB of_
+IN Tikopia_
+NNP ,_
+, and_
+CC no_
+DT senatorial_
+JJ investigation_
+NN will_
+MD result_
+VB ._
+.
+
+Who_
+WP cares_
+VBD about_
+IN them_
+PRP !_
+. !_
+.
+
+Shakespeare_
+EX does_
+VBZ not_
+RB tell_
+VB us_
+PRP that_
+IN Shylock_
+PRP was_
+VBD an_
+DT aberrant_
+NN individual_
+. ._
+.
+
+He_
+PRP sets_
+VBP him_
+PRP forth_
+VBD as_
+IN being_
+VBG typical_
+RP of_
+IN the_
+DT group_
+NN ._
+.
+
+He_
+PRP tells_
+VBZ of_
+IN his_
+PRP$ ``_
+`` Jewish_
+PRP$ heart_
+NN ''_
+'' --_
+: not_
+RB a_
+DT Shylockian_
+JJ heart_
+NN ;_
+: ;_
+: but_
+CC a_
+DT Jewish_
+JJ heart_
+NN ._
+.
+
+This_
+DT would_
+MD make_
+VB anyone_
+NN crafty_
+, and_
+CC cruel_
+RB ,_
+, capable_
+JJ of_
+IN fiendish_
+DT revenge_
+NN ._
+.
+
+There_
+EX is_
+VBZ no_
+DT justification_
+NN for_
+IN such_
+DT misrepresentation_
+NN ._
+.
+
+If_
+IN living_
+VBG Jews_
+PRP were_
+VBD unavailable_
+VBN for_
+IN study_
+NNP ,_
+, the_
+DT Bible_
+NNP was_
+VBD at_
+IN hand_
+NN ._
+.
+
+the_
+DT Old_
+JJ Testament_
+NN would_
+MD have_
+VB shown_
+VBN the_
+DT dramatist_
+NN that_
+IN the_
+DT ideas_
+NNS attributed_
+VBD to_
+TO Shylock_
+PRP were_
+VBD abhorrent_
+VBN to_
+TO the_
+DT Jews_
+NN ._
+.
+
+Are_
+`` we_
+PRP better_
+RB off_
+RB for_
+IN having_
+VBG Shakespeare_
+NNP 's_
+POS idea_
+NN of_
+IN Shylock_
+NN ?_
+. ?_
+.
+
+The_
+DT Merchant_
+NN Of_
+, Venice_
+NNP in_
+IN high_
+JJ school_
+NN and_
+CC college_
+NN has_
+VBZ given_
+VBN many_
+JJ young_
+JJ people_
+NNS their_
+PRP$ notions_
+NNS about_
+IN Jews_
+NN ._
+.
+
+Does_
+`` this_
+DT help_
+NN the_
+DT non-Jew_
+NN to_
+TO understand_
+VB this_
+DT group_
+NN ?_
+. ?_
+.
+
+Thomas_
+NNP De_
+NNP Torquemada_
+NNP ,_
+, Inquisitor-General_
+VBG of_
+IN the_
+DT Spanish_
+NNP Inquisition_
+NNP ,_
+, put_
+VBD many_
+JJ persons_
+NN to_
+TO death_
+NN ._
+.
+
+His_
+PRP$ name_
+NN became_
+VBD synonymous_
+VBN with_
+IN cold-blooded_
+DT cruelty_
+NN ._
+.
+
+Would_
+`` we_
+PRP gain_
+VBD by_
+IN keeping_
+VBG alive_
+IN his_
+PRP$ memory_
+NN and_
+CC besmirching_
+JJ today_
+NN 's_
+POS Roman_
+JJ Catholics_
+NN by_
+IN saying_
+VBG he_
+PRP had_
+VBD a_
+DT Catholic_
+JJ heart_
+NN ?_
+. ?_
+.
+
+Let_
+VB his_
+PRP$ bones_
+NNS and_
+CC his_
+PRP$ memory_
+NN rest_
+NN in_
+IN the_
+DT fifteenth_
+JJ century_
+NN where_
+WRB they_
+PRP belong_
+: ;_
+: ;_
+: he_
+PRP is_
+VBZ out_
+RB of_
+IN place_
+NN in_
+IN our_
+PRP$ times_
+NNS ._
+.
+
+Shakespeare_
+NNP 's_
+POS Shylock_
+NN ,_
+, too_
+RB ,_
+, is_
+VBZ of_
+IN dubious_
+DT value_
+NN in_
+IN the_
+DT modern_
+JJ world_
+NN ._
+.
+
+Ideas_
+UH ,_
+, in_
+IN and_
+CC of_
+IN themselves_
+PRP ,_
+, are_
+VBP not_
+RB necessarily_
+IN the_
+DT greatest_
+JJ good_
+JJ ._
+.
+
+A_
+DT successful_
+NN businessman_
+VBD recently_
+RB prefaced_
+IN his_
+PRP$ address_
+NN to_
+TO a_
+DT luncheon_
+JJ group_
+NN with_
+IN the_
+DT statement_
+NN that_
+IN all_
+DT economists_
+NN should_
+MD be_
+VB sent_
+VBN to_
+TO the_
+DT hospitals_
+NN for_
+IN the_
+DT mentally_
+JJ deranged_
+NN where_
+WRB they_
+PRP and_
+CC their_
+PRP$ theories_
+NN might_
+MD rot_
+VB together_
+RB ._
+.
+
+Will_
+`` his_
+PRP$ words_
+NNS come_
+VBN to_
+TO be_
+VB treasured_
+, and_
+CC quoted_
+VBD through_
+IN the_
+DT years_
+NNS ?_
+. ?_
+.
+
+we_
+PRP are_
+VBP given_
+VBN assurance_
+NN that_
+IN automatically_
+IN all_
+DT ideas_
+NNS will_
+MD be_
+VB sifted_
+, and_
+CC resifted_
+NNS and_
+CC in_
+IN the_
+DT end_
+NN only_
+RB the_
+DT good_
+JJ ones_
+NNS will_
+MD survive_
+VB ._
+.
+
+But_
+CC is_
+VBZ that_
+IN not_
+RB like_
+IN going_
+VBG to_
+TO a_
+DT chemistry_
+NN laboratory_
+, and_
+CC blindly_
+RB pouring_
+VB out_
+RB liquids_
+, and_
+CC powders_
+VBD from_
+IN an_
+DT array_
+NN of_
+IN bottles_
+NNP and_
+CC then_
+RB ,_
+, after_
+IN stirring_
+JJ ,_
+, expecting_
+VBG a_
+DT new_
+JJ wonder_
+NN drug_
+TO inevitably_
+VB to_
+TO result_
+VB ?_
+. ?_
+.
+
+What_
+WP of_
+IN the_
+DT efficiency_
+NN of_
+IN this_
+DT natural_
+JJ instrument_
+NN of_
+IN free_
+JJ discussion_
+NN ?_
+. ?_
+.
+
+Is_
+VBZ there_
+RB some_
+DT magic_
+NN in_
+IN it_
+PRP that_
+IN assures_
+DT results_
+NN ?_
+. ?_
+.
+
+Peter_
+`` B._
+UH Kyne_
+'' (_
+( Pride_
+$ Of_
+CD Palomar_
+NNS ,_
+, 43_
+NNP )_
+) informed_
+WRB us_
+PRP in_
+IN 1921_
+NN that_
+IN we_
+PRP had_
+VBD an_
+DT instinctive_
+JJ dislike_
+NN for_
+IN the_
+DT Japanese_
+NN ,_
+, did_
+VBD the_
+DT heated_
+JJ debates_
+NN of_
+IN the_
+DT Californians_
+NN settle_
+IN the_
+DT truth_
+NN or_
+CC falsity_
+VBD of_
+IN the_
+DT proposition_
+NN ?_
+. ?_
+.
+
+The_
+DT Leopard_
+NN 's_
+POS Spots_
+NNS came_
+VBD from_
+IN the_
+DT pen_
+NN of_
+IN Thomas_
+NNP Dixon_
+VBD in_
+IN 1902_
+NNP ,_
+, and_
+CC in_
+IN this_
+DT he_
+PRP announced_
+VBD an_
+DT ``_
+`` unchangeable_
+UH ''_
+'' law_
+. ._
+.
+
+If_
+IN a_
+DT child_
+NN had_
+VBD a_
+DT single_
+JJ drop_
+NN of_
+IN Negro_
+DT blood_
+NN ,_
+, he_
+PRP would_
+MD revert_
+VB to_
+TO the_
+DT ancestral_
+JJ line_
+NN which_
+WDT ,_
+, except_
+IN as_
+IN slaves_
+NNS under_
+IN a_
+DT superior_
+JJ race_
+NN ,_
+, had_
+VBD not_
+RB made_
+VBD one_
+CD step_
+NN of_
+IN progress_
+NN in_
+IN 3,000_
+PRP$ years_
+NNS ._
+.
+
+That_
+DT doctrine_
+NN has_
+VBZ been_
+VBN accepted_
+VBN by_
+IN many_
+JJ ,_
+, but_
+CC has_
+VBZ it_
+PRP produced_
+VBD good_
+JJ results_
+NN ?_
+. ?_
+.
+
+the_
+DT same_
+JJ vein_
+NN ,_
+, a_
+DT certain_
+JJ short-story_
+NNS plot_
+WP has_
+VBZ been_
+VBN overworked_
+. ._
+.
+
+The_
+DT son_
+NN and_
+CC heir_
+VBD of_
+IN a_
+DT prominent_
+JJ family_
+NN marries_
+IN a_
+DT girl_
+NN who_
+WP has_
+VBZ tell-tale_
+CD shadows_
+NNS on_
+IN the_
+DT half-moons_
+NN of_
+IN her_
+PRP$ finger_
+NN nails_
+. ._
+.
+
+time_
+NN she_
+PRP presents_
+VBD her_
+PRP$ aristocratic_
+JJ husband_
+NN with_
+IN a_
+DT coal-black_
+JJ child_
+NN ._
+.
+
+Is_
+VBZ the_
+DT world_
+NN better_
+RB for_
+IN having_
+VBG this_
+DT idea_
+NN thrust_
+VBD upon_
+IN it_
+PRP ?_
+. ?_
+.
+
+Will_
+UH argument_
+, and_
+CC debate_
+PRP decide_
+VBD its_
+PRP$ truth_
+NN or_
+CC falsity_
+NNS ?_
+. ?_
+.
+
+answers_
+PRP to_
+TO such_
+DT questions_
+NNS we_
+PRP must_
+MD turn_
+VB to_
+TO the_
+DT anthropologists_
+NN ,_
+, the_
+DT biologists_
+NN ,_
+, the_
+DT historians_
+NN ,_
+, the_
+DT psychologists_
+NN ,_
+, and_
+CC the_
+DT sociologists_
+NN ._
+.
+
+Long_
+`` ago_
+RB they_
+PRP consigned_
+VBD the_
+DT notions_
+NN of_
+IN Kyne_
+NNP and_
+CC Dixon_
+VBD to_
+TO the_
+DT scrap_
+NN heap_
+. ._
+.
+
+False_
+CD ideas_
+NNS surfeit_
+IN another_
+DT sector_
+NN of_
+IN our_
+PRP$ life_
+NN ._
+.
+
+For_
+IN several_
+JJ generations_
+NNS much_
+RB fiction_
+VB has_
+PRP appeared_
+VBD dealing_
+VBN with_
+IN the_
+DT steprelationship_
+NN ._
+.
+
+The_
+DT stepmother_
+NN ,_
+, almost_
+RB without_
+IN exception_
+NN ,_
+, has_
+VBZ been_
+VBN presented_
+VBN as_
+IN a_
+DT cruel_
+NN ogress_
+. ._
+.
+
+Children_
+UH ,_
+, conditioned_
+VBG by_
+IN this_
+DT mistaken_
+JJ notion_
+NN ,_
+, have_
+VB feared_
+PRP$ stepmothers_
+NNS ,_
+, while_
+IN adults_
+NNS ,_
+, by_
+IN their_
+PRP$ antagonistic_
+JJ attitudes_
+NNS ,_
+, have_
+VB made_
+VBN the_
+DT role_
+NN of_
+IN the_
+DT substitute_
+NN parents_
+IN a_
+DT difficult_
+JJ one_
+NN ._
+.
+
+Debate_
+EX is_
+VBZ not_
+RB likely_
+JJ to_
+TO resolve_
+VB the_
+DT tensions_
+NN and_
+CC make_
+VB the_
+DT lot_
+NN of_
+IN the_
+DT stepchild_
+VBZ a_
+DT happier_
+JJ one_
+NN ._
+.
+
+Research_
+UH ,_
+, on_
+IN the_
+DT other_
+JJ hand_
+NN ,_
+, has_
+VBZ shown_
+VBN many_
+JJ stepmothers_
+NN to_
+TO be_
+VB eminently_
+RB successful_
+'' ,_
+, some_
+DT far_
+RB better_
+RB than_
+IN the_
+DT real_
+JJ mothers_
+NNS ._
+.
+
+Helen_
+PRP Deutsch_
+MD informed_
+VB us_
+PRP (_
+( The_
+DT Psychology_
+JJ Of_
+NN Women_
+'' ,_
+, Vol._
+`` 2_
+UH ,_
+, ,_
+, 434_
+NNP )_
+) that_
+IN in_
+IN all_
+DT cultures_
+. ``_
+`` the_
+DT term_
+NN '_
+POS stepmother_
+NN '_
+'' automatically_
+. evokes_
+. deprecatory_
+`` implications_
+UH ''_
+'' ,_
+, a_
+DT conclusion_
+NN accepted_
+VBD by_
+IN many_
+JJ ._
+.
+
+Will_
+DT mere_
+JJ debate_
+NN on_
+IN that_
+DT proposition_
+NN ,_
+, even_
+RB though_
+IN it_
+PRP be_
+VB free_
+JJ and_
+CC untrammeled_
+RB ,_
+, remove_
+IN the_
+DT dross_
+NN and_
+CC leave_
+VB a_
+DT residue_
+NN of_
+IN refined_
+DT gold_
+NN ?_
+. ?_
+.
+
+That_
+DT is_
+VBZ questionable_
+RB ,_
+, to_
+TO say_
+VB the_
+DT least_
+JJS ._
+.
+
+Research_
+PRP into_
+IN several_
+JJ cultures_
+NN has_
+VBZ proven_
+IN her_
+PRP$ position_
+NN to_
+TO be_
+VB a_
+DT mistaken_
+JJ one_
+NN ._
+.
+
+ideas_
+PRP are_
+VBP invaluable_
+JJ ._
+.
+
+But_
+CC ideas_
+NNS ,_
+, just_
+RB for_
+IN the_
+DT sake_
+NN of_
+IN having_
+VBG them_
+PRP ,_
+, are_
+VBP not_
+RB enough_
+RB ._
+.
+
+In_
+IN the_
+DT 1930_
+NN 's_
+VBZ ,_
+, cures_
+VBG for_
+IN the_
+DT depression_
+NN literally_
+. flooded_
+. Washington_
+. ._
+.
+
+For_
+IN a_
+DT time_
+NN the_
+DT President_
+NN received_
+VBD hundreds_
+VBN of_
+IN them_
+PRP every_
+DT day_
+NN ,_
+, most_
+RBS of_
+IN them_
+PRP worthless_
+. ._
+.
+
+Ideas_
+PRP need_
+VBP to_
+TO be_
+VB tested_
+'' ,_
+, and_
+CC not_
+RB merely_
+RB by_
+IN argument_
+NNP and_
+CC debate_
+NNS ._
+.
+
+When_
+WRB some_
+DT question_
+NN arises_
+, in_
+IN the_
+DT medical_
+JJ field_
+NN concerning_
+VBG cancer_
+'' ,_
+, for_
+IN instance_
+NN ,_
+, we_
+PRP do_
+VBP not_
+RB turn_
+VB to_
+TO free_
+VB and_
+CC open_
+JJ discussion_
+NN as_
+IN in_
+IN a_
+DT political_
+NN campaign_
+. ._
+.
+
+We_
+PRP have_
+VBP recourse_
+VBG to_
+TO the_
+DT scientifically-trained_
+JJ specialist_
+NN in_
+IN the_
+DT laboratory_
+NN ._
+.
+
+The_
+DT merits_
+NN of_
+IN the_
+DT Salk_
+NN anti-polio_
+IN vaccine_
+PRP were_
+VBD not_
+RB established_
+VBN on_
+IN the_
+DT forensic_
+JJ platform_
+NN or_
+CC in_
+IN newspaper_
+DT editorials_
+NN ,_
+, but_
+CC in_
+IN the_
+DT laboratory_
+NN and_
+CC by_
+IN tests_
+NNS in_
+IN the_
+DT field_
+NN on_
+IN thousands_
+NN of_
+IN children_
+NNS ._
+.
+
+Our_
+PRP$ presidential_
+NN campaigns_
+TO provide_
+VB much_
+RB debate_
+, and_
+CC argument_
+NNS ._
+.
+
+the_
+DT result_
+NN new_
+JJ barnsful_
+NN of_
+IN tested_
+DT knowledge_
+NN on_
+IN the_
+DT basis_
+NN of_
+IN which_
+WDT we_
+PRP can_
+MD with_
+IN confidence_
+NN solve_
+IN our_
+PRP$ domestic_
+JJ and_
+CC international_
+CD problems_
+NNS ?_
+. ?_
+.
+
+Man_
+UH ,_
+, we_
+PRP are_
+VBP told_
+VBN ,_
+, is_
+VBZ endowed_
+RB with_
+IN reason_
+NN and_
+CC is_
+VBZ capable_
+JJ of_
+IN distinguishing_
+DT good_
+JJ from_
+IN bad_
+JJ ._
+.
+
+But_
+CC what_
+WP a_
+DT super-Herculean_
+NN task_
+IN it_
+PRP is_
+VBZ to_
+TO winnow_
+DT anything_
+NN of_
+IN value_
+NN from_
+IN the_
+DT mud-beplastered_
+JJ arguments_
+NNS used_
+VBD so_
+RB freely_
+RB ,_
+, particularly_
+RB since_
+IN such_
+DT common_
+JJ use_
+NN is_
+VBZ made_
+VBN of_
+IN cliches_
+NNP and_
+CC stereotypes_
+RB ,_
+, in_
+IN themselves_
+PRP declarations_
+VBD of_
+IN intellectual_
+DT bankruptcy_
+NN ._
+.
+
+We_
+PRP are_
+VBP reminded_
+RB ,_
+, however_
+RB ,_
+, that_
+DT freedom_
+NN of_
+IN thought_
+NN and_
+CC discussion_
+NN ,_
+, the_
+DT unfettered_
+JJ exchange_
+NN of_
+IN ideas_
+NNS ,_
+, is_
+VBZ basic_
+RB under_
+IN our_
+PRP$ form_
+NN of_
+IN government_
+NN ._
+.
+
+our_
+PRP$ political_
+NNS campaigns_
+CC there_
+EX is_
+VBZ freedom_
+NN to_
+TO think_
+VB ,_
+, to_
+TO examine_
+VB any_
+RB and_
+CC all_
+DT issues_
+NN ,_
+, and_
+CC to_
+TO speak_
+VB without_
+IN restraint_
+NN ._
+.
+
+No_
+DT holds_
+NNS are_
+VBP barred_
+'' ._
+.
+
+But_
+CC have_
+VB the_
+DT results_
+NN been_
+VBN heartening_
+. ?_
+. ?_
+.
+
+May_
+`` we_
+PRP state_
+VBD with_
+IN confidence_
+NN that_
+IN in_
+IN such_
+DT an_
+NN exhibition_
+IN a_
+DT republic_
+NN will_
+MD find_
+VB its_
+PRP$ greatest_
+JJ security_
+NN ?_
+. ?_
+.
+
+We_
+PRP must_
+MD not_
+RB forget_
+VB ,_
+, to_
+TO be_
+VB sure_
+RB ,_
+, that_
+DT free_
+JJ discussion_
+NN and_
+CC debate_
+TO have_
+VB produced_
+. beneficial_
+. results_
+. ._
+.
+
+In_
+IN truth_
+NN ,_
+, we_
+PRP can_
+MD say_
+VB that_
+IN this_
+DT broke_
+VBD the_
+DT power_
+NN of_
+IN Senator_
+NNP Joseph_
+NNP McCarthy_
+NNP ,_
+, who_
+WP was_
+VBD finally_
+RB exposed_
+VBN in_
+IN full_
+JJ light_
+NN to_
+TO the_
+DT American_
+JJ people_
+NNS ._
+.
+
+If_
+IN he_
+PRP had_
+VBD been_
+VBN ``_
+`` liquidated_
+UH ''_
+'' in_
+IN some_
+DT way_
+NN ,_
+, he_
+PRP would_
+MD have_
+VB become_
+VBN a_
+DT martyr_
+NN ,_
+, a_
+DT rallying_
+JJ point_
+NN for_
+IN people_
+NNS who_
+WP shared_
+VBD his_
+PRP$ ideas_
+NNS ._
+.
+
+Debate_
+PRP in_
+IN the_
+DT political_
+NN arena_
+WP can_
+MD be_
+VB productive_
+VBN of_
+IN good_
+JJ ._
+.
+
+But_
+CC it_
+PRP is_
+VBZ a_
+DT clumsy_
+NN and_
+CC wasteful_
+JJ process_
+NN :_
+: it_
+PRP can_
+MD produce_
+VB negative_
+PRP$ results_
+NNS but_
+CC not_
+RB much_
+RB that_
+WP is_
+VBZ positive_
+JJ ._
+.
+
+Debate_
+PRP rid_
+VBP us_
+PRP of_
+IN McCarthy_
+NNP but_
+CC did_
+VBD not_
+RB give_
+VB us_
+PRP much_
+RB that_
+WP is_
+VBZ positive_
+JJ ._
+.
+
+It_
+PRP did_
+VBD something_
+NN to_
+TO clear_
+VB the_
+DT ground_
+NN ,_
+, but_
+CC it_
+PRP erected_
+VBD no_
+DT striking_
+JJ new_
+JJ structure_
+NN ;_
+: ;_
+: it_
+PRP did_
+VBD not_
+RB even_
+RB provide_
+VB the_
+DT architect_
+NN 's_
+POS plan_
+NN for_
+IN anything_
+NN new_
+. ._
+.
+
+the_
+DT field_
+NN of_
+IN the_
+DT natural_
+JJ sciences_
+NN ,_
+, scientifically_
+PRP verified_
+VBP data_
+PRP are_
+VBP quite_
+RB readily_
+'' available_
+, and_
+CC any_
+DT discussion_
+NN can_
+MD be_
+VB shortened_
+VBN with_
+IN good_
+JJ results_
+NN ._
+.
+
+In_
+IN the_
+DT field_
+NN of_
+IN the_
+DT social_
+NN sciences_
+IN a_
+DT considerable_
+JJ fund_
+NN of_
+IN tested_
+DT knowledge_
+NN has_
+VBZ been_
+VBN accumulated_
+IN that_
+WP can_
+MD be_
+VB used_
+VBN to_
+TO good_
+JJ advantage_
+NN ._
+.
+
+no_
+DT means_
+NN would_
+MD we_
+PRP discourage_
+VBD the_
+DT production_
+NN of_
+IN ideas_
+NNS :_
+: they_
+PRP provide_
+VB raw_
+JJ materials_
+NN with_
+IN which_
+WDT to_
+TO work_
+VB ;_
+: ;_
+: they_
+PRP provide_
+MD stimulations_
+VB that_
+DT lead_
+NN to_
+TO further_
+VB production_
+. ._
+.
+
+We_
+PRP would_
+MD establish_
+VB no_
+DT censorship_
+NN ._
+.
+
+recollection_
+`` he_
+PRP has_
+VBZ said_
+VBD :_
+: ``_
+`` Natural_
+NNP or_
+CC man-made_
+NNP objects_
+NNP kept_
+VBD coming_
+VBG into_
+IN my_
+PRP$ head_
+NN ,_
+, but_
+CC I_
+PRP would_
+MD suppress_
+VB them_
+PRP sternly_
+RB ''_
+'' ._
+.
+
+Moreover_
+UH ,_
+, he_
+PRP organized_
+VBD the_
+DT movement_
+NN of_
+IN his_
+PRP$ forms_
+NNS ,_
+, within_
+IN his_
+PRP$ rigorously_
+NN shaped_
+POS space_
+NN ,_
+, into_
+IN highly_
+DT complex_
+NN equilibriums_
+: ;_
+: ;_
+: and_
+CC used_
+VBD gradations_
+VBN of_
+IN color_
+DT value_
+NN as_
+IN well_
+RB as_
+IN sharply_
+DT contrasting_
+NN elementary_
+. colors_
+. ._
+.
+
+The_
+DT worthy_
+JJ Mondrian_
+NN ,_
+, seeing_
+VBG these_
+DT pictures_
+NN ,_
+, said_
+VBD in_
+IN a_
+DT tone_
+NN of_
+IN kindly_
+DT reproof_
+NN :_
+: ``_
+`` But_
+CC you_
+PRP are_
+VBP really_
+RB an_
+DT artist_
+NN of_
+IN the_
+DT naturalistic_
+JJ tradition_
+NN ''_
+'' !_
+. !_
+.
+
+Helion_
+PRP did_
+VBD not_
+RB realize_
+VB it_
+PRP at_
+IN the_
+DT time_
+NN ,_
+, but_
+CC it_
+PRP was_
+VBD true_
+JJ ._
+.
+
+His_
+PRP$ ``_
+`` monumental_
+UH ''_
+'' abstraction_
+'' ,_
+, made_
+VBD up_
+RB of_
+IN smooth_
+JJ ,_
+, metallic_
+CC ``_
+`` non-objects_
+UH ''_
+'' acting_
+, upon_
+IN each_
+DT other_
+JJ with_
+IN great_
+JJ tension_
+NN ,_
+, won_
+VBD Helion_
+DT much_
+JJ acclaim_
+NN during_
+IN the_
+DT 'thirties_
+NN ._
+.
+
+The_
+DT play_
+NN of_
+IN novel_
+PRP lighting_
+MD effects_
+VB also_
+RB entered_
+VBD into_
+IN these_
+DT compositions_
+NN ,_
+, whose_
+NNP controlled_
+POS power_
+NN and_
+CC varied_
+JJ activity_
+NN made_
+VBD them_
+PRP well_
+RB worth_
+. meditating_
+. ._
+.
+
+Helion_
+NNP 's_
+POS work_
+NN showed_
+VBD more_
+JJR and_
+CC more_
+JJR nostalgia_
+NNS for_
+IN the_
+DT world_
+NN of_
+IN man_
+NN and_
+CC nature_
+NN ,_
+, the_
+DT pure_
+JJ abstractionists_
+NN expressed_
+IN some_
+DT disapproval_
+NN ;_
+: ;_
+: but_
+CC Leger_
+RB ,_
+, Arp_
+UH ,_
+, Lipchitz_
+NNP and_
+CC Alexander_
+NNP Calder_
+NNP ,_
+, at_
+IN the_
+DT time_
+NN ,_
+, gave_
+VBD him_
+PRP their_
+PRP$ blessing_
+NN ._
+.
+
+His_
+PRP$ canvases_
+NN nowadays_
+. bore_
+. titles_
+. frankly_
+. declaring_
+`` them_
+PRP to_
+TO be_
+VB ``_
+`` Figures_
+VB In_
+IN Space_
+NNP ''_
+'' ,_
+, or_
+CC ``_
+`` Blue_
+NNP Figure_
+NNP ''_
+'' ,_
+, or_
+CC ``_
+`` Pink_
+UH Figure_
+UH ''_
+'' ;_
+: ;_
+: and_
+CC they_
+PRP had_
+VBD (_
+VBN vaguely_
+RB )_
+) heads_
+, and_
+CC feet_
+NNS ._
+.
+
+Exhibited_
+PRP in_
+IN shows_
+NN in_
+IN London_
+NN in_
+IN 1935_
+NNP ,_
+, and_
+CC in_
+IN New_
+NNP York_
+VBD the_
+DT following_
+JJ year_
+NN ,_
+, the_
+DT new_
+JJ ,_
+, more_
+RBR elaborated_
+JJ abstracts_
+NNS were_
+VBD much_
+RB favored_
+VBN in_
+IN the_
+DT circles_
+NNS of_
+IN the_
+DT modernists_
+NN as_
+IN three-dimentional_
+DT dramas_
+NN of_
+IN great_
+JJ intellectual_
+NN coherence_
+. ._
+.
+
+At_
+IN this_
+DT period_
+NN the_
+DT thirty-year_
+JJ old_
+JJ Helion_
+NNS was_
+VBD ranked_
+. ``_
+`` as_
+IN one_
+CD of_
+IN the_
+DT mature_
+JJ leaders_
+NN of_
+IN the_
+DT modern_
+JJ movement_
+NN ''_
+'' ,_
+, according_
+VBG to_
+TO Herbert_
+VB Read_
+'' ,_
+, ``_
+`` and_
+CC in_
+IN the_
+DT direct_
+JJ line_
+NN of_
+IN descent_
+NN from_
+IN Cezanne_
+NNP ,_
+, Seurat_
+UH ,_
+, Gris_
+NNP and_
+CC Leger_
+NNP ''_
+'' ._
+.
+
+In_
+IN America_
+NNP ,_
+, Meyer_
+CC Schapiro_
+VBD observed_
+VBN that_
+IN ,_
+, unlike_
+IN the_
+DT Mondrian_
+JJ school_
+NN ,_
+, Helion_
+CC ``_
+`` sought_
+VBD a_
+DT return_
+JJ path_
+NN to_
+TO the_
+DT fullness_
+NN of_
+IN nature_
+NN within_
+IN the_
+DT framework_
+NN of_
+IN abstract_
+DT art_
+NN ''_
+'' ._
+.
+
+It_
+PRP is_
+VBZ notable_
+RB that_
+IN at_
+IN this_
+DT time_
+NN he_
+PRP was_
+VBD writing_
+VBG with_
+IN admiration_
+NN of_
+IN Cimabue_
+NNP 's_
+POS and_
+CC Poussin_
+NNP 's_
+POS way_
+NN of_
+IN filling_
+DT space_
+NN ._
+.
+
+Abstract_
+DT art_
+NN was_
+VBD still_
+RB the_
+DT right_
+JJ path_
+NN for_
+IN him_
+PRP ;_
+: ;_
+: but_
+CC ,_
+, he_
+PRP held_
+VBD ,_
+, instead_
+RB of_
+IN continuing_
+NN as_
+IN an_
+DT ``_
+`` art_
+NN of_
+IN reduction_
+NNP ''_
+'' ,_
+, it_
+PRP must_
+MD grow_
+VB ,_
+, must_
+MD make_
+VB a_
+DT place_
+NN for_
+IN the_
+DT contributions_
+NN of_
+IN the_
+DT Raphaels_
+NN and_
+CC Poussins_
+VBD as_
+RB well_
+RB as_
+IN for_
+IN those_
+DT of_
+IN the_
+DT early_
+JJ cubists_
+NNS and_
+CC Mondrian_
+NNS ._
+.
+
+Helion_
+PRP wrote_
+VBD of_
+IN this_
+DT phase_
+NN :_
+: ``_
+`` For_
+IN years_
+NNS I_
+PRP built_
+VBD for_
+IN myself_
+PRP a_
+DT subtle_
+JJ instrument_
+NN of_
+IN relationships_
+NN --_
+: colors_
+: and_
+CC forms_
+NNS without_
+IN a_
+DT name_
+NN ._
+.
+
+I_
+PRP played_
+VBD on_
+IN it_
+PRP my_
+PRP$ secret_
+JJ songs_
+NNS ,_
+, unexplained_
+UH ,_
+, passionate_
+NNP and_
+CC peaceful_
+JJ ''_
+'' ._
+.
+
+his_
+PRP$ own_
+JJ work_
+NN was_
+VBD evolving_
+TO further_
+VB ._
+.
+
+The_
+DT extreme_
+NN limitations_
+IN he_
+PRP sensed_
+VBD in_
+IN all_
+DT current_
+NN abstract_
+POS art_
+NN made_
+VBD that_
+IN seem_
+VB to_
+TO him_
+PRP increasingly_
+MD arid_
+VB and_
+CC cold_
+JJ ._
+.
+
+He_
+PRP was_
+VBD engaged_
+VBN in_
+IN constant_
+PRP$ experiments_
+NNS that_
+WP searched_
+VBD for_
+IN new_
+JJ directions_
+NN ._
+.
+
+Where_
+PRP would_
+MD it_
+PRP all_
+RB lead_
+VB ?_
+. ?_
+.
+
+He_
+PRP himself_
+PRP did_
+VBD not_
+RB know_
+VB ,_
+, as_
+IN he_
+PRP said_
+VBD in_
+IN 1935_
+NN ._
+.
+
+But_
+CC he_
+PRP was_
+VBD ``_
+`` afraid_
+JJ of_
+IN the_
+DT future_
+NN --_
+: he_
+PRP would_
+MD in_
+IN fact_
+NN welcome_
+IN a_
+DT way_
+NN back_
+RB to_
+TO social_
+VB integration_
+'' ,_
+, a_
+DT functional_
+JJ art_
+NN of_
+IN some_
+DT kind_
+NN ''_
+'' ._
+.
+
+the_
+DT 1920_
+NN 's_
+VBZ the_
+DT Abstractionists_
+NN ,_
+, the_
+DT German_
+NNP Bauhaus_
+POS group_
+NN of_
+IN industrial_
+JJ designers_
+NN ,_
+, and_
+CC the_
+DT new_
+JJ architects_
+IN all_
+DT had_
+VBD the_
+DT dream_
+NN of_
+IN some_
+DT well_
+RB ordered_
+VBD utopia_
+RB ,_
+, or_
+CC welfare_
+JJ state_
+NN ,_
+, in_
+IN which_
+WDT their_
+PRP$ neat_
+NNS and_
+CC logical_
+WRB constructions_
+PRP might_
+MD find_
+VB their_
+PRP$ proper_
+JJ place_
+NN ._
+.
+
+But_
+CC whereas_
+VBD the_
+DT postwar_
+JJ American_
+JJ abstractionists_
+TO seem_
+VB to_
+TO Helion_
+VB to_
+TO be_
+VB determined_
+VBN to_
+TO ``_
+`` escape_
+VB ''_
+'' from_
+IN the_
+DT real_
+JJ world_
+NN ,_
+, or_
+CC simply_
+RB to_
+TO rebel_
+VB against_
+IN it_
+PRP ,_
+, the_
+DT ordered_
+JJ abstractions_
+NN which_
+WDT he_
+PRP and_
+CC his_
+PRP$ associates_
+NNS of_
+IN the_
+DT 1930_
+NN 's_
+PRP were_
+VBD painting_
+VBN embodied_
+IN the_
+DT hope_
+NN of_
+IN ``_
+`` improving_
+UH ''_
+'' things_
+. ._
+.
+
+``_
+`` We_
+PRP were_
+VBD possessed_
+VBN by_
+IN visions_
+NNS of_
+IN a_
+DT new_
+JJ civilization_
+NN to_
+TO come_
+VB ,_
+, very_
+RB pure_
+JJ and_
+CC elevated_
+NNP ''_
+'' ,_
+, he_
+PRP has_
+VBZ said_
+VBD ,_
+, ``_
+`` in_
+IN fact_
+NN some_
+DT ideal_
+JJ form_
+NN of_
+IN socialism_
+DT such_
+JJ as_
+IN we_
+PRP had_
+VBD dreamed_
+VBN of_
+IN since_
+IN the_
+DT war_
+NN of_
+IN 1914-1918_
+NNP ''_
+'' ._
+.
+
+this_
+DT the_
+DT 1930_
+NN 's_
+VBZ witnessed_
+IN a_
+DT tragic_
+JJ economic_
+JJ depression_
+NN ,_
+, the_
+DT rise_
+NN of_
+IN Fascist_
+DT dictators_
+NN in_
+IN Europe_
+NNP ,_
+, the_
+DT wasting_
+VBG Civil_
+TO War_
+VB in_
+IN Spain_
+NN ._
+.
+
+Very_
+`` much_
+RB the_
+DT political_
+JJ man_
+NN ,_
+, Helion_
+CC felt_
+VBD himself_
+PRP deeply_
+MD affected_
+VB by_
+IN the_
+DT increasingly_
+NN pessimistic_
+POS atmosphere_
+NN of_
+IN France_
+NNP and_
+CC all_
+DT Europe_
+NNP ,_
+, whose_
+CC foundations_
+PRP seemed_
+VBD to_
+TO him_
+PRP more_
+JJR and_
+CC more_
+RBR shaky_
+JJ ._
+.
+
+In_
+IN 1936_
+WRB he_
+PRP decided_
+VBD to_
+TO migrate_
+VB to_
+TO America_
+NNP ._
+.
+
+The_
+DT Rooseveltian_
+NNP America_
+NNP was_
+VBD a_
+DT haven_
+NN of_
+IN liberalism_
+NNP and_
+CC progress_
+NN and_
+CC seemed_
+VBD to_
+TO him_
+PRP to_
+TO constitute_
+VB the_
+DT last_
+JJ best_
+JJ hope_
+NN for_
+IN civilization_
+NN ._
+.
+
+Helion_
+`` also_
+RB hoped_
+VBD that_
+IN America_
+NNP 's_
+POS mastery_
+NN of_
+IN technology_
+NNP and_
+CC industrial_
+JJ efficiency_
+NN would_
+MD be_
+VB accompanied_
+VBN by_
+IN the_
+DT production_
+NN of_
+IN new_
+JJ and_
+CC beautiful_
+JJ art_
+NN works_
+. ._
+.
+
+``_
+`` I_
+PRP arrived_
+VBD in_
+IN the_
+DT United_
+JJ States_
+NN with_
+IN the_
+DT idea_
+NN of_
+IN establishing_
+WRB myself_
+PRP there_
+RB more_
+JJR or_
+CC less_
+RBR permanently_
+RB and_
+CC finding_
+VBG inspiration_
+RP for_
+IN new_
+JJ compositions_
+NN ''_
+'' ._
+.
+
+New_
+NNP York_
+VBD he_
+PRP was_
+VBD well_
+RB received_
+VBN by_
+IN what_
+WP was_
+VBD then_
+RB only_
+RB a_
+DT small_
+JJ brave_
+TO band_
+VB of_
+IN non-figurative_
+DT artists_
+NN ,_
+, including_
+VBG Alexander_
+NNP Calder_
+NNP ,_
+, George_
+NNP K.L._
+NNP Morris_
+NNP ,_
+, De_
+`` Kooning_
+UH ,_
+, Holty_
+NNP and_
+CC a_
+DT few_
+JJ others_
+NNS ._
+.
+
+After_
+IN a_
+DT year_
+NN in_
+IN a_
+DT studio_
+NN on_
+IN Sheridan_
+NNP Square_
+NNP ,_
+, having_
+VBG married_
+VBN an_
+DT American_
+JJ girl_
+NN who_
+WP was_
+VBD a_
+DT native_
+JJ of_
+IN Virginia_
+NNP ,_
+, Helion_
+CC moved_
+VBD to_
+TO a_
+DT village_
+NN in_
+IN the_
+DT Blue_
+NNP Ridge_
+POS mountains_
+NNS ,_
+, where_
+WRB he_
+PRP produced_
+VBD some_
+DT of_
+IN the_
+DT most_
+JJS imposing_
+NNS of_
+IN his_
+PRP$ abstract_
+NN canvases_
+. ._
+.
+
+The_
+DT darkening_
+JJ world_
+NN scene_
+NN ,_
+, at_
+IN the_
+DT time_
+NN of_
+IN the_
+DT Munich_
+NNP Pact_
+NNP ,_
+, continued_
+VBD to_
+TO trouble_
+VB his_
+PRP$ mind_
+NN even_
+RB in_
+IN his_
+PRP$ remote_
+NN Virginia_
+. studio_
+. ._
+.
+
+``_
+`` Fear_
+PRP possessed_
+VBD me_
+PRP ,_
+, and_
+CC the_
+DT certainty_
+NN of_
+IN war_
+NN ''_
+'' ,_
+, he_
+PRP has_
+VBZ related_
+RB ._
+.
+
+``_
+`` I_
+PRP truly_
+RB smelled_
+JJ blood_
+NN ,_
+, death_
+NN ,_
+, heaps_
+VBG of_
+IN corpses_
+DT everywhere_
+NN ''_
+'' ._
+.
+
+In_
+IN haste_
+WRB he_
+PRP labored_
+VBD to_
+TO finish_
+VB some_
+DT last_
+JJ abstract_
+NN paintings_
+: :_
+: a_
+DT three-panel_
+JJ frieze_
+NN ,_
+, with_
+IN a_
+DT flying_
+NN figure_
+NN and_
+CC a_
+DT fallen_
+JJ figure_
+NN ;_
+: ;_
+: a_
+DT ``_
+`` Double-Figure_
+UH ''_
+'' ,_
+, which_
+WDT went_
+VBD to_
+TO the_
+DT Chicago_
+NNP Art_
+NNP Institute_
+NNP ,_
+, and_
+CC is_
+VBZ considered_
+VBN by_
+IN him_
+PRP the_
+DT most_
+JJS successful_
+NNS of_
+IN his_
+PRP$ abstracts_
+NN ;_
+: ;_
+: and_
+CC in_
+IN early_
+JJ 1939_
+NN ,_
+, a_
+DT ``_
+`` Fallen_
+UH Figure_
+UH ''_
+'' of_
+IN very_
+RB ominous_
+JJ character_
+NN ,_
+, which_
+WDT concluded_
+VBD his_
+PRP$ abstract_
+NN phase_
+. ._
+.
+
+``_
+`` I_
+PRP knew_
+VBD I_
+PRP was_
+VBD carrying_
+VBG on_
+IN with_
+IN abstraction_
+VBG to_
+TO its_
+PRP$ very_
+JJ end_
+NN --_
+: for_
+IN me_
+PRP ''_
+'' ,_
+, he_
+PRP said_
+VBD of_
+IN the_
+DT two_
+CD years_
+NNS '_
+'' output_
+, in_
+IN Virginia_
+NNP ._
+.
+
+With_
+IN those_
+DT paintings_
+NN of_
+IN big_
+JJ constructions_
+, crashing_
+VBG down_
+RB ,_
+, he_
+PRP felt_
+VBD he_
+PRP could_
+MD stop_
+VB ._
+.
+
+They_
+PRP were_
+VBD ,_
+, in_
+IN effect_
+VBG his_
+PRP$ last_
+JJ testament_
+NN to_
+TO non-objective_
+DT art_
+NN ._
+.
+
+He_
+PRP had_
+VBD taken_
+VBN out_
+RB first_
+JJ papers_
+NNS for_
+IN American_
+NNP citizenship_
+: ;_
+: ;_
+: but_
+CC after_
+IN war_
+NN came_
+VBD to_
+TO Europe_
+NNP ,_
+, he_
+PRP decided_
+VBD to_
+TO return_
+VB to_
+TO France_
+VB ,_
+, arriving_
+CC there_
+RB in_
+IN January_
+NNP ,_
+, 1940_
+NNP ._
+.
+
+``_
+`` I_
+PRP hated_
+VBD the_
+DT war_
+NN ''_
+'' ,_
+, he_
+PRP said_
+VBD ,_
+, ``_
+`` but_
+CC thought_
+VBD I_
+PRP ought_
+MD to_
+TO go_
+VB because_
+IN I_
+PRP was_
+VBD ,_
+, perhaps_
+RB ,_
+, one_
+CD of_
+IN those_
+DT who_
+WP had_
+VBD n't_
+RB done_
+VBN enough_
+RB to_
+TO prevent_
+VB it_
+PRP ''_
+'' ._
+.
+
+June_
+NNP ,_
+, 1940_
+UH ,_
+, Sergeant_
+`` Helion_
+UH ,_
+, with_
+IN a_
+DT company_
+NN of_
+IN reserve_
+PRP troops_
+VBP waiting_
+VBG to_
+TO go_
+VB into_
+IN battle_
+NN ,_
+, was_
+VBD sketching_
+IN the_
+DT hills_
+JJ south_
+NN of_
+IN the_
+DT Loire_
+NNP River_
+NNP ,_
+, when_
+WRB the_
+DT war_
+NN suddenly_
+RB rolled_
+VBD in_
+IN upon_
+IN him_
+PRP ._
+.
+
+Its_
+PRP$ first_
+JJ apparition_
+NN was_
+VBD a_
+DT long_
+JJ ,_
+, gloomy_
+CC column_
+VBD of_
+IN refugees_
+DT riding_
+NN in_
+IN farm_
+PRP$ wagons_
+NNS ,_
+, or_
+CC pushing_
+VBG prams_
+'' ._
+.
+
+His_
+PRP$ company_
+NN then_
+RB carried_
+VBN out_
+IN a_
+DT confused_
+NN retreating_
+VBG movement_
+NN until_
+IN it_
+PRP was_
+VBD surrounded_
+VBN by_
+IN the_
+DT Germans_
+NN ,_
+, a_
+DT few_
+JJ days_
+NNS before_
+IN France_
+DT capitulated_
+NN ._
+.
+
+After_
+IN a_
+DT sort_
+NN of_
+IN death_
+NN march_
+, during_
+IN four_
+CD days_
+NNS without_
+IN food_
+NN ,_
+, Helion_
+NNP and_
+CC his_
+PRP$ comrades_
+NNS were_
+VBD shipped_
+VBN by_
+IN cattle-car_
+VBG to_
+TO a_
+DT labor_
+JJ camp_
+NN at_
+IN an_
+DT estate_
+JJ farm_
+NN in_
+IN East_
+NNP Germany_
+NNP ._
+.
+
+A_
+DT year_
+NN later_
+RB they_
+PRP were_
+VBD removed_
+VBN to_
+TO a_
+DT Stalag_
+NN in_
+IN the_
+DT harbor_
+NN of_
+IN Stettin_
+NN ._
+.
+
+At_
+IN the_
+DT time_
+NN of_
+IN his_
+PRP$ capture_
+NNS Helion_
+WP had_
+VBD on_
+IN his_
+PRP$ person_
+NN a_
+DT sketchbook_
+NN he_
+PRP had_
+VBD bought_
+VBN at_
+IN Woolworth_
+PRP 's_
+VBZ in_
+IN New_
+NNP York_
+'' ._
+.
+
+When_
+WRB he_
+PRP was_
+VBD stripped_
+RB ,_
+, deloused_
+NNP and_
+CC numbered_
+VBD by_
+IN his_
+PRP$ guards_
+NNS ,_
+, his_
+PRP$ much-thumbed_
+NNS sketchbook_
+WP was_
+VBD seized_
+VBN and_
+CC thrown_
+VBN on_
+IN a_
+DT pile_
+NN of_
+IN prisoners_
+NNP '_
+POS goods_
+NN to_
+TO be_
+VB confiscated_
+. ._
+.
+
+``_
+`` It_
+PRP was_
+VBD then_
+RB I_
+PRP knew_
+VBD that_
+IN they_
+PRP were_
+VBD making_
+VBG war_
+NN against_
+IN Man_
+NNP ,_
+, the_
+DT individual_
+NN within_
+. !_
+. !_
+.
+
+--_
+: who_
+: questioned_
+PRP$ things_
+NNS when_
+WRB given_
+PRP$ orders_
+NNS ''_
+'' ._
+.
+
+Stettin_
+`` the_
+DT university-educated_
+JJ artist_
+NN ,_
+, who_
+WP had_
+VBD studied_
+VBN German_
+NNP ,_
+, was_
+VBD chosen_
+VBN to_
+TO serve_
+VB as_
+IN interpreter_
+NNP and_
+CC clerk_
+NN in_
+IN the_
+DT office_
+NN of_
+IN the_
+DT Stalag_
+NN commander_
+. ._
+.
+
+In_
+IN secret_
+JJ he_
+PRP also_
+RB acted_
+VBD as_
+IN a_
+DT member_
+NN of_
+IN the_
+DT prisoners_
+NN '_
+'' Central_
+, Committee_
+UH ,_
+, which_
+WDT plotted_
+MD sabotage_
+VB ,_
+, planned_
+VBD a_
+DT few_
+JJ escapes_
+NN ,_
+, and_
+CC maintained_
+VBD a_
+DT hidden_
+JJ control_
+NN over_
+IN the_
+DT wretched_
+JJ French_
+NNP slave-laborers_
+'' ._
+.
+
+the_
+DT Stalag_
+NN ,_
+, Helion_
+CC came_
+VBD to_
+TO know_
+VB and_
+CC love_
+VBD his_
+PRP$ comrades_
+NNS ,_
+, most_
+RBS of_
+IN them_
+DT plain_
+JJ folk_
+NN ,_
+, who_
+WP ,_
+, in_
+IN their_
+PRP$ extremity_
+NNS ,_
+, showed_
+VBD true_
+JJ courage_
+NNS and_
+CC ran_
+VBD great_
+JJ risks_
+NNS to_
+TO help_
+VB each_
+DT other_
+JJ ._
+.
+
+How_
+WRB much_
+RB they_
+PRP esteemed_
+VBP him_
+PRP is_
+VBZ shown_
+VBN by_
+IN the_
+DT fact_
+NN that_
+IN their_
+PRP$ underground_
+JJ committee_
+TO selected_
+VB him_
+PRP as_
+IN one_
+CD of_
+IN the_
+DT few_
+JJ who_
+WP would_
+MD be_
+VB helped_
+VBN to_
+TO escape_
+VB ._
+.
+
+In_
+IN the_
+DT prison_
+NN camp_
+NN 's_
+POS Black_
+NNP Market_
+NNP civilian_
+POS clothes_
+NNS were_
+VBD quietly_
+RB bought_
+, and_
+CC forged_
+CD papers_
+NNS were_
+VBD devised_
+VBN for_
+IN him_
+PRP ;_
+: ;_
+: during_
+IN long_
+JJ weeks_
+NNS the_
+DT plan_
+NN for_
+IN his_
+PRP$ flight_
+NNS was_
+VBD rehearsed_
+. ._
+.
+
+Every_
+DT morning_
+NN contingents_
+, of_
+IN prisoners_
+PRP would_
+MD be_
+VB sent_
+VBN out_
+RB to_
+TO labor_
+VB in_
+IN nearby_
+JJ factories_
+NN ._
+.
+
+One_
+CD evening_
+NN ,_
+, while_
+IN a_
+DT volley-ball_
+JJ game_
+NN was_
+VBD being_
+VBG played_
+RP in_
+IN the_
+DT yard_
+NN among_
+IN the_
+DT prisoners_
+NN remaining_
+VBG there_
+RB ,_
+, a_
+DT simulated_
+JJ melee_
+NNS was_
+VBD staged_
+: --_
+: just_
+RB as_
+IN the_
+DT gates_
+NN were_
+VBD opened_
+VBN to_
+TO admit_
+VB other_
+JJ prisoners_
+, returning_
+VBG from_
+IN work_
+NN ._
+.
+
+As_
+IN Helion_
+PRP wrote_
+VBD afterward_
+RB :_
+: ``_
+`` Their_
+PRP$ sentry_
+NNS followed_
+VBD ._
+.
+
+Four_
+CD hands_
+NNS were_
+VBD stretched_
+VBN toward_
+IN me_
+PRP by_
+IN my_
+PRP$ comrades_
+NNS behind_
+IN me_
+PRP ._
+.
+
+Marquet_
+PRP held_
+VBD my_
+PRP$ briefcase_
+NN ;_
+: ;_
+: Finot_
+PRP held_
+VBD a_
+DT wallet_
+NN with_
+IN my_
+PRP$ money_
+NN and_
+CC papers_
+NNS ;_
+: ;_
+: Moineau_
+: and_
+CC David_
+PRP held_
+VBD nothing_
+NN but_
+CC their_
+PRP$ fingers_
+NNS ._
+.
+
+They_
+PRP felt_
+VBD rough_
+JJ and_
+CC kind_
+NN and_
+CC warm_
+JJ ._
+.
+
+At_
+IN this_
+DT moment_
+NN the_
+DT volley-ball_
+NN hit_
+VBD the_
+DT ground_
+NN ._
+.
+
+Duclos_
+PRP ran_
+VBD toward_
+IN Desprez_
+NN with_
+IN fists_
+NNS raised_
+VBD ._
+.
+
+The_
+DT guards_
+NNS all_
+RB rushed_
+VBD up_
+RB to_
+TO intervene_
+VB ''_
+'' Shedding_
+, his_
+PRP$ prison_
+NN cloak_
+'' ,_
+, Helion_
+DT shot_
+NN through_
+IN the_
+DT gates_
+NN ,_
+, now_
+RB clad_
+VBN in_
+IN civilian_
+DT garments_
+NN and_
+CC with_
+IN the_
+DT passport_
+NN of_
+IN a_
+DT Flemish_
+NN worker_
+. ._
+.
+
+Riding_
+CD trains_
+NNS ,_
+, hitching_
+CC hikes_
+VBD on_
+IN trucks_
+NN across_
+IN Germany_
+NNP ,_
+, slipping_
+VBG through_
+IN guarded_
+DT frontiers_
+NN with_
+IN the_
+DT help_
+NN of_
+IN secret_
+JJ guides_
+NN ,_
+, he_
+PRP eventually_
+VBD reached_
+VBN Vichy_
+TO France_
+VB ,_
+, and_
+CC ,_
+, by_
+IN the_
+DT winter_
+NN of_
+IN 1943_
+NNP ,_
+, was_
+VBD back_
+RB in_
+IN Virginia_
+NNP ._
+.
+
+He_
+PRP wrote_
+VBD :_
+: ``_
+`` To_
+TO escape_
+VB from_
+IN a_
+DT prison_
+NN camp_
+NN required_
+IN a_
+DT very_
+JJ special_
+JJ state_
+NN of_
+IN mind_
+NN ;_
+: ;_
+: not_
+RB only_
+RB loathing_
+VBN of_
+IN captivity_
+NNP ,_
+, but_
+CC a_
+DT faith_
+NN ,_
+, a_
+DT hope_
+NN that_
+WP is_
+VBZ even_
+RB stronger_
+. ._
+.
+
+I_
+PRP left_
+VBD behind_
+IN me_
+PRP brave_
+VBP men_
+NNS ,_
+, whom_
+WP captivity_
+PRP had_
+VBD robbed_
+VBN of_
+IN all_
+DT hope_
+NN ._
+.
+
+They_
+PRP too_
+RB loved_
+VBD their_
+PRP$ families_
+NNS ,_
+, longed_
+VBG for_
+IN their_
+PRP$ villages_
+NN :_
+: yet_
+RB lacked_
+IN the_
+DT faith_
+NN that_
+IN drove_
+DT one_
+NN to_
+TO dare_
+VB the_
+DT fearful_
+JJ chance_
+NN of_
+IN escape_
+NN ''_
+'' ._
+.
+
+It_
+PRP was_
+VBD a_
+DT time_
+NN of_
+IN revelations_
+NNS for_
+IN him_
+PRP ._
+.
+
+Even_
+RB the_
+DT most_
+JJS rational_
+NNS of_
+IN men_
+NNS ,_
+, under_
+IN great_
+JJ stress_
+NN ,_
+, may_
+MD be_
+VB transported_
+VBN by_
+IN a_
+DT new_
+JJ faith_
+NN and_
+CC behave_
+VBD like_
+IN mystics_
+NN ._
+.
+
+Helion_
+PRP knew_
+VBD that_
+IN he_
+PRP owed_
+VBD his_
+PRP$ freedom_
+NN as_
+IN much_
+RB to_
+TO the_
+DT self-sacrifice_
+NN of_
+IN his_
+PRP$ fellow-men_
+NNS in_
+IN Arbeitskommando_
+DT 13_
+NN ,_
+, ,_
+, Stettin_
+UH ,_
+, as_
+RB to_
+TO his_
+PRP$ own_
+JJ fierce_
+JJ will_
+NN and_
+CC love_
+NN of_
+IN life_
+NN ._
+.
+
+After_
+IN that_
+DT ,_
+, he_
+PRP declared_
+'' ,_
+, ``_
+`` to_
+TO return_
+VB to_
+TO freedom_
+NN was_
+VBD to_
+TO fall_
+VB to_
+TO one_
+CD 's_
+POS knees_
+NNS before_
+IN the_
+DT real_
+JJ world_
+NN and_
+CC adore_
+WRB it_
+PRP ''_
+'' ._
+.
+
+In_
+IN prison_
+NN he_
+PRP had_
+VBD been_
+VBN able_
+JJ to_
+TO sketch_
+DT nothing_
+NN but_
+CC figures_
+NNS from_
+IN life_
+NN ,_
+, his_
+PRP$ guards_
+NNS ,_
+, his_
+PRP$ companions_
+NNS in_
+IN misery_
+NN ._
+.
+
+Now_
+RB all_
+RB his_
+PRP$ desires_
+NNS centered_
+, on_
+IN ``_
+`` rediscovering_
+NNP and_
+CC singing_
+VBG of_
+IN the_
+DT prosaic_
+NN and_
+CC yet_
+RB beautiful_
+JJ world_
+NN of_
+IN men_
+NNS and_
+CC objects_
+VBD so_
+RB long_
+JJ barred_
+NN from_
+IN me_
+PRP by_
+IN a_
+DT barbed_
+JJ wire_
+NN fence_
+NN ''_
+'' ._
+.
+
+And_
+CC ,_
+, he_
+PRP added_
+VBD :_
+: ``_
+`` During_
+IN the_
+DT many_
+JJ months_
+NNS in_
+IN prison_
+DT camp_
+NN ,_
+, all_
+DT abstract_
+JJ images_
+NNS vanished_
+VBD from_
+IN my_
+PRP$ mind_
+NN ''_
+'' ._
+.
+
+America_
+NNP ,_
+, he_
+PRP happened_
+VBD to_
+TO see_
+VB his_
+PRP$ old_
+JJ friend_
+NN Jean_
+'' Arp_
+, and_
+CC confided_
+VBN to_
+TO him_
+PRP his_
+PRP$ new_
+JJ resolutions_
+NN ._
+.
+
+Arp_
+PRP protested_
+VBD :_
+: ``_
+`` But_
+CC it_
+PRP is_
+VBZ impossible_
+RB !_
+. !_
+.
+
+Everything_
+NN in_
+IN the_
+DT way_
+NN of_
+IN representation_
+PRP has_
+VBZ already_
+RB been_
+VBN done_
+VBN by_
+IN the_
+DT old_
+JJ masters_
+NN ''_
+'' ._
+.
+
+Helion_
+UH ,_
+, however_
+RB ,_
+, clung_
+VBD to_
+TO the_
+DT belief_
+NN that_
+IN ``_
+`` in_
+IN escaping_
+NN from_
+IN the_
+DT Stalag_
+NN I_
+PRP had_
+VBD also_
+RB escaped_
+VBD from_
+IN Abstraction_
+NNP ''_
+'' ._
+.
+
+his_
+PRP$ Virginia_
+JJ home_
+NN he_
+PRP wrote_
+VBD a_
+DT book_
+NN recording_
+IN his_
+PRP$ prison_
+NN experiences_
+NNS and_
+CC escape_
+VB ,_
+, entitled_
+VBG :_
+: They_
+PRP Shall_
+MD Not_
+RB Have_
+VB Me_
+PRP Published_
+MD originally_
+VB in_
+IN (_
+NNP Helion_
+NNP 's_
+POS )_
+) English_
+NNP by_
+IN Dutton_
+PRP &_
+MD Co._
+VB of_
+IN New_
+NNP York_
+NNP ,_
+, in_
+IN 1943_
+NNP ,_
+, the_
+DT book_
+NN was_
+VBD received_
+VBN by_
+IN the_
+DT press_
+NN as_
+IN a_
+DT work_
+NN of_
+IN astonishing_
+DT literary_
+JJ power_
+NN and_
+CC one_
+CD of_
+IN the_
+DT most_
+RBS realistic_
+JJ accounts_
+NN of_
+IN World_
+NNP War_
+NNP 2_
+NNP ,_
+, from_
+IN the_
+DT French_
+JJ side_
+NN ._
+.
+
+It_
+PRP was_
+VBD very_
+RB widely_
+RB read_
+VB ,_
+, too_
+RB ;_
+: ;_
+: and_
+CC the_
+DT author_
+NN ,_
+, who_
+WP seemed_
+VBD the_
+DT embodiment_
+NN of_
+IN France_
+NNP 's_
+POS rising_
+VBG spirit_
+NN of_
+IN resistance_
+VBG to_
+TO her_
+PRP$ conquerors_
+NNS ,_
+, was_
+VBD much_
+RB complimented_
+VBN for_
+IN his_
+PRP$ daring_
+NN military_
+. action_
+. ._
+.
+
+he_
+PRP showed_
+VBD his_
+PRP$ new_
+JJ figurative_
+TO pictures_
+VB to_
+TO his_
+PRP$ artist_
+NN friends_
+NNS of_
+IN the_
+DT abstract_
+JJ camp_
+NN ,_
+, they_
+PRP paid_
+VBD him_
+PRP no_
+DT compliments_
+NN and_
+CC drew_
+VBD long_
+JJ faces_
+NNS ._
+.
+
+1944_
+`` and_
+CC 1947_
+NNP Helion_
+NNP had_
+VBD a_
+DT series_
+NN of_
+IN one-man_
+DT shows_
+NN --_
+: at_
+IN the_
+DT Paul_
+NN Rosenberg_
+TO Gallery_
+VB in_
+IN New_
+NNP York_
+, and_
+CC in_
+IN Paris_
+NNP --_
+: of_
+IN his_
+PRP$ new_
+JJ realistic_
+NN pictures_
+. ._
+.
+
+They_
+PRP reincarnated_
+VBD the_
+DT figures_
+NNS of_
+IN human_
+JJ beings_
+NNS banished_
+, from_
+IN his_
+PRP$ canvases_
+NNS since_
+IN the_
+DT 1920_
+NN 's_
+POS ._
+.
+
+These_
+DT new_
+JJ pictures_
+TO focussed_
+VB on_
+IN the_
+DT familiar_
+JJ and_
+CC commonplace_
+VBD objects_
+VBN that_
+IN he_
+PRP had_
+VBD heard_
+VBN the_
+DT men_
+NNS in_
+IN his_
+PRP$ prison_
+NN camp_
+, talking_
+VBG about_
+IN as_
+IN the_
+DT things_
+NNS they_
+PRP missed_
+VBD most_
+RB ,_
+, hence_
+CC associated_
+VBD with_
+IN the_
+DT sense_
+NN of_
+IN lost_
+DT freedom_
+NN :_
+: the_
+DT cafe_
+NN at_
+IN the_
+DT corner_
+NN ,_
+, the_
+DT newspaper_
+JJ kiosk_
+NN ,_
+, the_
+DT girls_
+NNS in_
+IN doorways_
+NNS and_
+CC windows_
+NNS along_
+IN the_
+DT street_
+NN ,_
+, the_
+DT golden-crusted_
+NNP French_
+NNP bread_
+VBD they_
+PRP lacked_
+'' ,_
+, the_
+DT cigarettes_
+NNS denied_
+VBD them_
+PRP ._
+.
+
+One_
+CD of_
+IN the_
+DT pictures_
+NN was_
+VBD of_
+IN a_
+DT man_
+NN with_
+IN hat_
+NN drawn_
+VBN over_
+IN his_
+PRP$ face_
+NN ceremoniously_
+TO lighting_
+VB a_
+DT cigarette_
+NN ;_
+: ;_
+: others_
+NNS were_
+VBD of_
+IN men_
+NNS doffing_
+IN their_
+PRP$ hats_
+NNS to_
+TO each_
+DT other_
+JJ ,_
+, carrying_
+VBG umbrellas_
+RP with_
+IN pomp_
+NNP ,_
+, reading_
+VBG newspapers_
+'' ,_
+, or_
+CC simply_
+RB showing_
+VBG loaves_
+RP of_
+IN bread_
+PRP spread_
+VBD out_
+RB ._
+.
+
+Some_
+DT years_
+NNS ago_
+RB Julian_
+VB Huxley_
+TO proposed_
+VB to_
+TO an_
+DT audience_
+NN made_
+VBD up_
+RB of_
+IN members_
+NN of_
+IN the_
+DT British_
+JJ Association_
+NN for_
+IN the_
+DT Advancement_
+NN of_
+IN Science_
+NN that_
+IN ``_
+`` man_
+NN 's_
+POS supernormal_
+NNS or_
+CC extra-sensory_
+WRB faculties_
+PRP are_
+VBP (_
+( now_
+RB )_
+) in_
+IN the_
+DT same_
+JJ case_
+NN as_
+RB were_
+VBD his_
+PRP$ mathematical_
+JJ faculties_
+NN during_
+IN the_
+DT ice_
+JJ age_
+NN ''_
+'' ._
+.
+
+As_
+IN a_
+DT Humanist_
+NN ,_
+, Dr._
+NNP Huxley_
+MD interests_
+VB himself_
+PRP in_
+IN the_
+DT possibilities_
+NNS of_
+IN human_
+JJ development_
+NN ,_
+, and_
+CC one_
+CD thing_
+NN we_
+PRP can_
+MD say_
+VB about_
+IN this_
+DT suggestion_
+NN ,_
+, which_
+WDT comes_
+VBZ from_
+IN a_
+DT leading_
+VBG zoologist_
+'' ,_
+, is_
+VBZ that_
+IN ,_
+, so_
+RB far_
+RB as_
+IN he_
+PRP is_
+VBZ concerned_
+VBN ,_
+, the_
+DT scientific_
+JJ outlook_
+NN places_
+IN no_
+DT rigid_
+JJ limitation_
+NN upon_
+IN the_
+DT idea_
+NN of_
+IN future_
+DT human_
+JJ evolution_
+NN ._
+.
+
+This_
+DT text_
+NN from_
+IN Dr._
+NNP Huxley_
+NNP is_
+VBZ sometimes_
+RB used_
+VBN by_
+IN enthusiasts_
+VBG to_
+TO indicate_
+VB that_
+IN they_
+PRP have_
+VB the_
+DT permission_
+NN of_
+IN the_
+DT scientists_
+NNS to_
+TO press_
+VB the_
+DT case_
+NN for_
+IN a_
+DT wonderful_
+JJ unfoldment_
+NN of_
+IN psychic_
+PRP$ powers_
+NNS in_
+IN human_
+JJ beings_
+NNS ._
+.
+
+There_
+EX may_
+MD be_
+VB a_
+DT case_
+NN of_
+IN this_
+DT sort_
+NN ,_
+, but_
+CC it_
+PRP is_
+VBZ not_
+RB one_
+CD we_
+PRP wish_
+VBP to_
+TO argue_
+VB ,_
+, here_
+RB ._
+.
+
+Even_
+RB if_
+IN people_
+NNS do_
+VBP ,_
+, in_
+IN a_
+DT not_
+RB far_
+RB distant_
+JJ future_
+NN ,_
+, begin_
+VBG to_
+TO read_
+VB one_
+CD another_
+NNS 's_
+POS minds_
+NNS ,_
+, there_
+EX will_
+MD still_
+RB be_
+VB the_
+DT question_
+NN of_
+IN whether_
+IN what_
+WP you_
+PRP find_
+VB in_
+IN another_
+DT man_
+NN 's_
+POS mind_
+NN is_
+VBZ especially_
+RB worth_
+JJ reading_
+NN --_
+: worth_
+: more_
+RBR ,_
+, that_
+WP is_
+VBZ ,_
+, than_
+IN what_
+WP you_
+PRP can_
+MD read_
+VB in_
+IN good_
+JJ books_
+NNS ._
+.
+
+Even_
+RB if_
+IN men_
+NNS eventually_
+TO find_
+VB themselves_
+PRP able_
+VBD to_
+TO look_
+VB through_
+IN walls_
+NNS and_
+CC around_
+IN corners_
+NNS ,_
+, one_
+CD may_
+JJ question_
+NN whether_
+IN this_
+DT will_
+MD help_
+VB them_
+PRP to_
+TO live_
+VB better_
+RB lives_
+. ._
+.
+
+There_
+EX would_
+MD be_
+VB side-conclusions_
+VBN to_
+TO be_
+VB drawn_
+VBN ,_
+, of_
+IN course_
+NN ;_
+: ;_
+: such_
+DT capacities_
+NNS are_
+VBP impressive_
+DT evidence_
+NN pointing_
+VBG to_
+TO a_
+DT conception_
+NN of_
+IN the_
+DT human_
+JJ being_
+NN which_
+WDT does_
+VBZ not_
+RB appear_
+VBN in_
+IN the_
+DT accounts_
+NN of_
+IN biologists_
+NNP and_
+CC organic_
+: evolutionists_
+: ;_
+: ;_
+: but_
+CC the_
+DT basic_
+JJ puzzles_
+NN of_
+IN existence_
+NN would_
+MD still_
+RB be_
+VB puzzling_
+'' ,_
+, and_
+CC we_
+PRP should_
+MD still_
+RB have_
+VB to_
+TO work_
+VB out_
+IN the_
+DT sort_
+NN of_
+IN problems_
+NNS we_
+PRP plan_
+VBD to_
+TO discuss_
+VB in_
+IN this_
+DT article_
+NN ._
+.
+
+All_
+`` we_
+PRP want_
+VBP from_
+IN Dr._
+NNP Huxley_
+NNP 's_
+POS statement_
+NN is_
+VBZ the_
+DT feeling_
+NN that_
+IN this_
+DT is_
+VBZ an_
+DT open_
+JJ world_
+NN ,_
+, in_
+IN the_
+DT view_
+NN of_
+IN the_
+DT best_
+JJS scientific_
+NN opinion_
+'' ,_
+, with_
+IN practically_
+RB no_
+DT directional_
+JJ commitments_
+NN as_
+IN to_
+TO what_
+WDT may_
+MD happen_
+VB next_
+JJ ,_
+, and_
+CC no_
+DT important_
+JJ confinements_
+NN with_
+IN respect_
+NN to_
+TO what_
+WDT may_
+MD be_
+VB possible_
+JJ ._
+.
+
+It_
+PRP seems_
+MD quite_
+RB obvious_
+JJ that_
+IN all_
+PDT the_
+DT really_
+RB difficult_
+TO tasks_
+VB of_
+IN human_
+JJ beings_
+NNS arise_
+, from_
+IN the_
+DT fact_
+NN that_
+IN man_
+NN is_
+VBZ not_
+RB one_
+CD ,_
+, but_
+CC many_
+JJ ._
+.
+
+Each_
+DT man_
+NN ,_
+, that_
+WP is_
+VBZ ,_
+, is_
+VBZ both_
+DT one_
+NN and_
+CC many_
+JJ ._
+.
+
+He_
+PRP is_
+VBZ a_
+DT dreamer_
+NN of_
+IN the_
+DT good_
+JJ society_
+NN with_
+IN a_
+DT plan_
+NN to_
+TO put_
+VB into_
+IN effect_
+NN ,_
+, and_
+CC he_
+PRP is_
+VBZ an_
+DT individual_
+JJ craftsman_
+NN with_
+IN something_
+NN to_
+TO make_
+VB for_
+IN himself_
+PRP and_
+CC the_
+DT people_
+NNS of_
+IN his_
+PRP$ time_
+NN ._
+.
+
+He_
+PRP is_
+VBZ a_
+DT parent_
+NN with_
+IN a_
+DT child_
+NN to_
+TO nurture_
+VB ,_
+, here_
+RB and_
+CC now_
+RB ,_
+, and_
+CC he_
+PRP is_
+VBZ an_
+DT educator_
+NN who_
+WP worries_
+VBD about_
+IN the_
+DT children_
+NNS half_
+DT way_
+NN round_
+IN the_
+DT world_
+NN ._
+.
+
+He_
+PRP is_
+VBZ a_
+DT utopian_
+NN with_
+IN a_
+DT stake_
+NN in_
+IN tomorrow_
+NN and_
+CC he_
+PRP is_
+VBZ a_
+DT vulnerable_
+JJ human_
+NNS made_
+VBD captive_
+VBN by_
+IN the_
+DT circumstances_
+NNS of_
+IN today_
+NN ._
+.
+
+He_
+PRP can_
+MD sacrifice_
+VB himself_
+PRP for_
+IN tomorrow_
+NN and_
+CC he_
+PRP can_
+MD sacrifice_
+VB tomorrow_
+NN for_
+IN himself_
+PRP ._
+.
+
+He_
+PRP is_
+VBZ a_
+DT Craig_
+NN 's_
+POS wife_
+NN who_
+WP agonizes_
+VBD about_
+IN tobacco_
+DT ash_
+NN on_
+IN the_
+DT living_
+NN room_
+NN rug_
+, and_
+CC he_
+PRP is_
+VBZ a_
+DT forgetful_
+JJ genius_
+NNS who_
+WP goes_
+VBZ boating_
+RB with_
+IN the_
+DT town_
+NN baker_
+, when_
+WRB dignitaries_
+PRP from_
+IN the_
+DT local_
+JJ university_
+TO have_
+VB come_
+VBN to_
+TO call_
+VB ._
+.
+
+He_
+PRP is_
+VBZ the_
+DT stern_
+NN guardian_
+, of_
+IN the_
+DT status_
+JJ quo_
+NNS who_
+WP has_
+VBZ raised_
+VBN the_
+DT utilitarian_
+JJ structures_
+NN of_
+IN the_
+DT age_
+NN ,_
+, and_
+CC he_
+PRP is_
+VBZ the_
+DT revolutionary_
+JJ poet_
+NN with_
+IN a_
+DT gun_
+NN in_
+IN his_
+PRP$ hand_
+NN who_
+WP writes_
+VBZ a_
+DT tragic_
+JJ apologetic_
+NN to_
+TO posterity_
+VB for_
+IN the_
+DT men_
+NNS he_
+PRP has_
+VBZ killed_
+VBN ._
+.
+
+What_
+WP will_
+MD be_
+VB the_
+DT final_
+JJ symmetry_
+NN of_
+IN the_
+DT good_
+JJ society_
+NN ?_
+. ?_
+.
+
+For_
+IN what_
+WP do_
+VBP the_
+DT utopians_
+NN labor_
+. ?_
+. ?_
+.
+
+Here_
+RB ,_
+, on_
+IN a_
+DT desk_
+NN ,_
+, is_
+VBZ a_
+DT stack_
+NN of_
+IN pamphlets_
+PRP representing_
+VBD the_
+DT efforts_
+NNS of_
+IN some_
+DT of_
+IN the_
+DT best_
+JJS men_
+NNS of_
+IN the_
+DT day_
+NN to_
+TO penetrate_
+VB these_
+DT questions_
+NNS ._
+.
+
+The_
+DT pamphlets_
+NNS are_
+VBP about_
+IN law_
+NN ,_
+, the_
+DT corporation_
+NN ,_
+, forms_
+NNS of_
+IN government_
+NNP ,_
+, the_
+DT idea_
+NN of_
+IN freedom_
+NN ,_
+, the_
+DT defense_
+NN of_
+IN liberty_
+NNP ,_
+, the_
+DT various_
+JJ lethargies_
+NN which_
+WDT overtake_
+VBD our_
+PRP$ major_
+JJ institutions_
+NN ,_
+, the_
+DT gap_
+NN between_
+IN traditional_
+DT social_
+NN ideals_
+, and_
+CC the_
+DT working_
+VBG mechanisms_
+RP that_
+IN have_
+VB been_
+VBN set_
+VBN in_
+IN motion_
+NN for_
+IN their_
+PRP$ realization_
+NN ._
+.
+
+The_
+DT thing_
+NN that_
+WP is_
+VBZ notable_
+RB in_
+IN all_
+PDT these_
+DT discussions_
+NN is_
+VBZ the_
+DT lack_
+NN of_
+IN ideological_
+DT ardor_
+NN ._
+.
+
+There_
+EX is_
+VBZ another_
+DT kind_
+NN of_
+IN ardor_
+NNP ,_
+, a_
+DT quiet_
+JJ ,_
+, sure_
+JJ devotion_
+NN to_
+TO the_
+DT fundamental_
+JJ decencies_
+NN of_
+IN human_
+JJ life_
+NN ,_
+, but_
+CC no_
+DT angry_
+JJ utopian_
+NN contentions_
+. ._
+.
+
+Actually_
+RB ,_
+, you_
+PRP could_
+MD wish_
+VB for_
+IN some_
+DT passion_
+NN ,_
+, now_
+RB and_
+CC then_
+RB ,_
+, but_
+CC when_
+WRB you_
+PRP look_
+VB around_
+IN the_
+DT world_
+NN and_
+CC see_
+VB the_
+DT little_
+JJ volcanos_
+NN of_
+IN current_
+DT history_
+NN which_
+WDT partisan_
+MD social_
+VB passions_
+TO have_
+VB wrought_
+'' ,_
+, you_
+PRP are_
+VBP glad_
+JJ that_
+IN in_
+IN these_
+DT pamphlets_
+NN there_
+EX is_
+VBZ at_
+IN least_
+IN some_
+DT civilized_
+JJ calm_
+NN ._
+.
+
+You_
+PRP could_
+MD also_
+RB say_
+VB that_
+IN in_
+IN these_
+DT pamphlets_
+NN is_
+VBZ a_
+DT relieving_
+JJ quality_
+NN of_
+IN maturity_
+NN ._
+.
+
+There_
+EX is_
+VBZ essential_
+JJ pleasantness_
+NN in_
+IN reading_
+VBG the_
+DT writing_
+NN of_
+IN men_
+NNS who_
+WP are_
+VBP not_
+RB angry_
+JJ ,_
+, who_
+WP can_
+MD contend_
+VB without_
+IN quarreling_
+NN ._
+.
+
+This_
+DT is_
+VBZ the_
+DT good_
+JJ kind_
+NN of_
+IN sophistication_
+NNP ,_
+, and_
+CC with_
+IN all_
+DT our_
+PRP$ problems_
+NNS and_
+CC crises_
+VBD this_
+DT kind_
+NN of_
+IN sophistication_
+PRP has_
+VBZ flowered_
+RB in_
+IN the_
+DT United_
+JJ States_
+NN during_
+IN recent_
+PRP$ years_
+NNS ._
+.
+
+A_
+DT characteristic_
+JJ expression_
+NN of_
+IN such_
+DT concern_
+NN and_
+CC inquiry_
+EX is_
+VBZ found_
+VBN in_
+IN Joseph_
+NNP P._
+NNP Lyford_
+NNP 's_
+POS Introduction_
+NN To_
+TO The_
+DT Agreeable_
+JJ Autocracies_
+NN ,_
+, a_
+DT recent_
+NN paperback_
+TO study_
+VB of_
+IN the_
+DT institutions_
+NN of_
+IN modern_
+DT democratic_
+JJ society_
+NN ._
+.
+
+Mr._
+NNP Lyford_
+NNP gives_
+POS voice_
+NN to_
+TO a_
+DT temper_
+NN that_
+IN represents_
+NNP ,_
+, we_
+PRP think_
+VBP ,_
+, an_
+DT achieved_
+JJ plateau_
+NN of_
+IN reflective_
+DT thinking_
+NN ._
+.
+
+After_
+IN casting_
+NN about_
+IN for_
+IN a_
+DT way_
+NN of_
+IN describing_
+VBG this_
+DT spirit_
+NN ,_
+, we_
+PRP decided_
+VBD that_
+IN it_
+PRP would_
+MD be_
+VB better_
+RB to_
+TO use_
+VB Mr._
+NNP Lyford_
+NNP 's_
+POS introduction_
+NN as_
+IN an_
+DT illustration_
+NN ._
+.
+
+He_
+PRP begins_
+: :_
+: ``_
+`` At_
+IN one_
+CD time_
+NN it_
+PRP seemed_
+VBD as_
+RB if_
+IN the_
+DT Soviet_
+JJ Union_
+NNS had_
+VBD done_
+VBN us_
+PRP a_
+DT favor_
+NN by_
+IN providing_
+IN a_
+DT striking_
+JJ example_
+NN of_
+IN how_
+WRB not_
+RB to_
+TO behave_
+VB towards_
+IN other_
+JJ peoples_
+NNS and_
+CC other_
+JJ nations_
+NN ._
+.
+
+As_
+IN things_
+NNS turned_
+VBD out_
+RB ,_
+, however_
+RB ,_
+, we_
+PRP have_
+VBP not_
+RB profited_
+VB greatly_
+RB from_
+IN the_
+DT lesson_
+NN :_
+: instead_
+RB of_
+IN persistently_
+DT following_
+VBG a_
+DT national_
+JJ program_
+NN of_
+IN our_
+PRP$ own_
+JJ we_
+PRP have_
+VBP often_
+RB been_
+VBN satisfied_
+VBN to_
+TO be_
+VB against_
+IN whatever_
+WDT Soviet_
+VBD policy_
+PRP seemed_
+VBD to_
+TO be_
+VB at_
+IN the_
+DT moment_
+NN ._
+.
+
+Such_
+DT activity_
+NN may_
+, or_
+CC may_
+VBD not_
+RB have_
+VB irritated_
+VBN the_
+DT Kremlin_
+NN ,_
+, but_
+CC it_
+PRP has_
+VBZ frequently_
+RB condemned_
+TO America_
+VB to_
+TO an_
+DT unnatural_
+JJ defensiveness_
+NNS that_
+WP has_
+VBZ undermined_
+IN our_
+PRP$ effort_
+NN to_
+TO give_
+VB leadership_
+VBN to_
+TO the_
+DT free_
+JJ world_
+NN ._
+.
+
+The_
+DT defensiveness_
+NN has_
+VBZ been_
+VBN exaggerated_
+VBN by_
+IN another_
+DT bad_
+JJ habit_
+NN ,_
+, our_
+PRP$ tendency_
+NN to_
+TO rate_
+VB the_
+DT ``_
+`` goodness_
+UH ''_
+'' or_
+. ``_
+`` badness_
+UH ''_
+'' of_
+IN other_
+JJ nations_
+NN by_
+IN the_
+DT extent_
+NN to_
+TO which_
+WDT they_
+PRP applaud_
+VBD the_
+DT slogans_
+NN we_
+PRP circulate_
+VBD about_
+IN ourselves_
+PRP ._
+.
+
+Since_
+`` the_
+DT slogans_
+MD have_
+VB little_
+JJ application_
+NN to_
+TO reality_
+NN and_
+CC are_
+VBP sanctimonious_
+VBG to_
+TO boot_
+VB ,_
+, the_
+DT applause_
+NN is_
+VBZ faint_
+RB even_
+RB in_
+IN areas_
+NN of_
+IN the_
+DT world_
+NN where_
+WRB we_
+PRP should_
+MD expect_
+VB to_
+TO find_
+VB the_
+DT greatest_
+JJ affection_
+NN for_
+IN free_
+JJ government_
+NN ._
+.
+
+Shocked_
+PRP at_
+IN the_
+DT response_
+NN to_
+TO our_
+PRP$ proclamations_
+NNS ,_
+, we_
+PRP grow_
+VBD more_
+JJR defensive_
+NNS ,_
+, and_
+CC worse_
+JJR ,_
+, we_
+PRP lose_
+VB our_
+PRP$ sense_
+NN of_
+IN humor_
+NN and_
+CC proportion_
+NNS ._
+.
+
+Mr._
+NNP Nehru_
+NNP is_
+VBZ subjected_
+RB to_
+TO stern_
+VB lectures_
+VBN on_
+IN neutralism_
+NN by_
+IN our_
+PRP$ Department_
+NNS of_
+IN State_
+NNP ,_
+, and_
+CC an_
+DT American_
+JJ President_
+NNS observes_
+VBD sourly_
+RB that_
+IN Sweden_
+PRP would_
+MD be_
+VB a_
+DT little_
+JJ less_
+TO neurotic_
+VB if_
+IN it_
+PRP were_
+VBD a_
+DT little_
+JJ more_
+NN capitalistic_
+NN ''_
+'' ._
+.
+
+One_
+CD thing_
+NN you_
+PRP can_
+MD say_
+VB about_
+IN Mr._
+NNP Lyford_
+NNP is_
+VBZ that_
+IN he_
+PRP does_
+VBZ not_
+RB suffer_
+VB from_
+IN any_
+DT insecurity_
+NN as_
+IN an_
+DT American_
+JJ ._
+.
+
+Those_
+`` who_
+WP are_
+VBP insecure_
+TO fear_
+VB to_
+TO be_
+VB candid_
+VBN in_
+IN self-examination_
+NN ._
+.
+
+Only_
+RB the_
+DT strong_
+JJ look_
+NN squarely_
+, at_
+IN weakness_
+NN ._
+.
+
+The_
+DT maturity_
+NN in_
+IN this_
+DT point_
+NN of_
+IN view_
+NN lies_
+, in_
+IN its_
+PRP$ recognition_
+NNS that_
+IN no_
+DT basic_
+JJ problem_
+NN is_
+VBZ ever_
+RB solved_
+VBN without_
+IN being_
+VBG clearly_
+RB understood_
+. ._
+.
+
+Mr._
+NNP Lyford_
+: continues_
+: :_
+: ``_
+`` Even_
+RB if_
+IN the_
+DT self_
+NN portrait_
+IN we_
+PRP distribute_
+VBD for_
+IN popular_
+JJ consumption_
+NNS were_
+VBD accurate_
+IN it_
+PRP would_
+MD be_
+VB dangerous_
+VBN to_
+TO present_
+VB it_
+PRP as_
+IN a_
+DT picture_
+NN of_
+IN the_
+DT ideal_
+JJ society_
+NN ._
+.
+
+We_
+PRP would_
+MD be_
+VB ignoring_
+IN the_
+DT special_
+JJ circumstances_
+NNS of_
+IN other_
+JJ countries_
+NNS ._
+.
+
+The_
+DT picture_
+NN is_
+VBZ the_
+DT more_
+JJR treacherous_
+NNS when_
+WRB it_
+PRP misrepresents_
+VBD the_
+DT facts_
+NNS of_
+IN American_
+JJ life_
+NN ._
+.
+
+The_
+DT discrepancy_
+NN between_
+IN what_
+WP we_
+PRP commonly_
+MD profess_
+VB and_
+CC what_
+WP we_
+PRP practice_
+, or_
+CC tolerate_
+EX is_
+VBZ great_
+JJ ,_
+, and_
+CC it_
+PRP does_
+VBZ not_
+RB escape_
+VB the_
+DT notice_
+NN of_
+IN others_
+NNS ._
+.
+
+If_
+IN our_
+PRP$ sincerity_
+NN is_
+VBZ granted_
+RB ,_
+, and_
+CC it_
+PRP is_
+VBZ granted_
+RB ,_
+, the_
+DT discrepancy_
+NN can_
+MD only_
+RB be_
+VB explained_
+VBN by_
+IN the_
+DT fact_
+NN that_
+IN we_
+PRP have_
+VBP come_
+VBN to_
+TO believe_
+VB hearsay_
+, and_
+CC legend_
+NN about_
+IN ourselves_
+PRP in_
+IN preference_
+VBG to_
+TO an_
+DT understanding_
+NN gained_
+, by_
+IN earnest_
+NN self-examination_
+. ._
+.
+
+What_
+WP is_
+VBZ more_
+JJR ,_
+, the_
+DT legends_
+MD have_
+VB become_
+VBN so_
+RB sacrosanct_
+VBN that_
+IN the_
+DT very_
+JJ habit_
+NN of_
+IN self-examination_
+NNP or_
+CC self-criticism_
+VBD smells_
+VBN of_
+IN low_
+JJ treason_
+NN ,_
+, and_
+CC men_
+NNS who_
+WP practice_
+VBD it_
+PRP are_
+VBP defeatists_
+RB and_
+CC unpatriotic_
+NNS scoundrels_
+. ._
+.
+
+we_
+PRP continue_
+VBD to_
+TO pay_
+VB our_
+PRP$ conversational_
+NNS devotions_
+VBD to_
+TO ``_
+`` free_
+VB private_
+TO enterprise_
+VB ''_
+'' ,_
+, ``_
+`` individual_
+UH initiative_
+UH ''_
+'' ,_
+, ``_
+`` the_
+DT democratic_
+JJ way_
+NN ''_
+'' ,_
+, ``_
+`` government_
+VB of_
+IN the_
+DT people_
+NNS ''_
+'' ,_
+, ``_
+`` competition_
+NN of_
+IN the_
+DT marketplace_
+NN ''_
+'' ,_
+, etc._
+UH ,_
+, we_
+PRP live_
+VBP rather_
+RB comfortably_
+VBN in_
+IN a_
+DT society_
+NN in_
+IN which_
+WDT economic_
+JJ competition_
+NN is_
+VBZ diminishing_
+RB in_
+IN large_
+JJ areas_
+NN ,_
+, bureaucracy_
+WP is_
+VBZ corroding_
+DT representative_
+NN government_
+'' ,_
+, technology_
+WP is_
+VBZ weakening_
+IN the_
+DT citizen_
+NN 's_
+POS confidence_
+NN in_
+IN his_
+PRP$ own_
+JJ power_
+NN to_
+TO make_
+VB decisions_
+'' ,_
+, and_
+CC the_
+DT threat_
+NN of_
+IN war_
+NN is_
+VBZ driving_
+VBG him_
+PRP economically_
+, and_
+CC physically_
+VBD into_
+IN the_
+DT ground_
+NN ''_
+'' ._
+.
+
+The_
+DT interesting_
+JJ thing_
+NN about_
+IN Mr._
+NNP Lyford_
+NNP 's_
+POS approach_
+NN ,_
+, and_
+CC the_
+DT approach_
+NN of_
+IN the_
+DT contributors_
+NN to_
+TO The_
+DT Agreeable_
+NN Autocracies_
+'' (_
+( Oceana_
+CD Publications_
+NNS ,_
+, 1961_
+CC )_
+VBD to_
+TO the_
+DT situation_
+NN of_
+IN American_
+JJ civilization_
+NN ,_
+, is_
+VBZ that_
+IN it_
+PRP is_
+VBZ concerned_
+VBN with_
+IN comprehending_
+IN the_
+DT psychological_
+JJ relationships_
+NN which_
+WDT are_
+VBP having_
+VBG a_
+DT decisive_
+JJ effect_
+NN on_
+IN American_
+JJ life_
+NN ._
+.
+
+In_
+IN an_
+DT ideological_
+JJ argument_
+NN ,_
+, the_
+DT participants_
+MD tend_
+VB to_
+TO thump_
+VB the_
+DT table_
+NN ._
+.
+
+They_
+PRP are_
+VBP determined_
+VBN to_
+TO prove_
+VB something_
+NN ._
+.
+
+The_
+DT new_
+JJ spirit_
+NN ,_
+, so_
+RB well_
+RB illustrated_
+VBN by_
+IN Mr._
+NNP Lyford_
+NNP 's_
+POS work_
+NN ,_
+, is_
+VBZ wholly_
+RB free_
+JJ of_
+IN this_
+DT anxiety_
+NN ._
+.
+
+The_
+DT problem_
+NN is_
+VBZ rather_
+RB to_
+TO find_
+VB out_
+IN what_
+WP is_
+VBZ actually_
+RB happening_
+VBG ,_
+, and_
+CC this_
+DT is_
+VBZ especially_
+RB difficult_
+VBN for_
+IN the_
+DT reason_
+NN that_
+IN ``_
+`` we_
+PRP are_
+VBP busily_
+RB being_
+VBG defended_
+RP from_
+IN a_
+DT knowledge_
+NN of_
+IN the_
+DT present_
+JJ ,_
+, sometimes_
+RB by_
+IN the_
+DT very_
+JJ agencies_
+NN --_
+: our_
+PRP$ educational_
+NN system_
+'' ,_
+, our_
+PRP$ mass_
+NN media_
+'' ,_
+, our_
+PRP$ statesmen_
+NN --_
+: on_
+IN which_
+WDT we_
+PRP have_
+VBP had_
+VBD to_
+TO rely_
+VB most_
+RBS heavily_
+RB for_
+IN understanding_
+NN of_
+IN ourselves_
+PRP ''_
+'' ._
+.
+
+The_
+DT Introduction_
+NN continues_
+: :_
+: ``_
+`` We_
+PRP experience_
+VBD a_
+DT vague_
+JJ uneasiness_
+NN about_
+IN events_
+NNP ,_
+, a_
+DT suspicion_
+NN that_
+IN our_
+PRP$ political_
+NNS and_
+CC economic_
+JJ institutions_
+NN ,_
+, like_
+IN the_
+DT genie_
+NN in_
+IN the_
+DT bottle_
+NN ,_
+, have_
+VB escaped_
+PRP$ confinement_
+NNS and_
+CC that_
+IN we_
+PRP have_
+VBP lost_
+VBN the_
+DT power_
+NN to_
+TO recall_
+VB them_
+PRP ._
+.
+
+We_
+PRP feel_
+VB uncomfortable_
+VBN at_
+IN being_
+VBG bossed_
+RP by_
+IN a_
+DT corporation_
+NN or_
+CC a_
+DT union_
+NN or_
+CC a_
+DT television_
+NN set_
+VBD ,_
+, but_
+CC until_
+IN we_
+PRP have_
+VB some_
+DT knowledge_
+NN about_
+IN these_
+DT phenomena_
+NN and_
+CC what_
+WP they_
+PRP are_
+VBP doing_
+VBG to_
+TO us_
+PRP ,_
+, we_
+PRP can_
+MD hardly_
+RB learn_
+VB to_
+TO control_
+VB them_
+PRP ._
+.
+
+It_
+PRP does_
+VBZ not_
+RB appear_
+VBN that_
+IN we_
+PRP will_
+MD be_
+VB delivered_
+VBN from_
+IN our_
+PRP$ situation_
+NN by_
+IN articles_
+NN on_
+IN The_
+DT National_
+NN Purpose_
+. ._
+.
+
+The_
+DT Agreeable_
+NN Autocracies_
+WP is_
+VBZ an_
+DT attempt_
+NN to_
+TO explore_
+VB some_
+DT of_
+IN the_
+DT institutions_
+NN which_
+WDT both_
+DT reflect_
+NN and_
+CC determine_
+VB the_
+DT character_
+NN of_
+IN the_
+DT free_
+JJ society_
+NN today_
+. ._
+.
+
+The_
+DT men_
+NNS who_
+WP speculate_
+VBD on_
+IN these_
+DT institutions_
+MD have_
+VB ,_
+, for_
+IN the_
+DT most_
+JJS part_
+NN ,_
+, come_
+VBN to_
+TO at_
+IN least_
+DT one_
+NN common_
+: conclusion_
+: :_
+: that_
+DT many_
+JJ of_
+IN the_
+DT great_
+JJ enterprises_
+NNS and_
+CC associations_
+VBD around_
+IN which_
+WDT our_
+PRP$ democracy_
+NN is_
+VBZ formed_
+PRP are_
+VBP in_
+IN themselves_
+PRP autocratic_
+VBD in_
+IN nature_
+NN ,_
+, and_
+CC possessed_
+VBD of_
+IN power_
+NN which_
+WDT can_
+MD be_
+VB used_
+VBN to_
+TO frustrate_
+VB the_
+DT citizen_
+NN who_
+WP is_
+VBZ trying_
+VBG to_
+TO assert_
+VB his_
+PRP$ individuality_
+NNS in_
+IN the_
+DT modern_
+JJ world_
+NN ''_
+'' ._
+.
+
+These_
+DT institutions_
+NN which_
+WDT Mr._
+VBD Lyford_
+. names_
+. ``_
+`` agreeable_
+UH autocracies_
+UH ''_
+'' --_
+: where_
+WRB did_
+VBD they_
+PRP come_
+VB from_
+IN ?_
+. ?_
+.
+
+Of_
+DT one_
+CD thing_
+NN we_
+PRP can_
+MD be_
+VB sure_
+JJ :_
+: they_
+PRP were_
+VBD not_
+RB sketched_
+VB out_
+RB by_
+IN the_
+DT revolutionary_
+JJ theorists_
+NN of_
+IN the_
+DT eighteenth_
+JJ century_
+NN who_
+WP formulated_
+VBZ the_
+DT political_
+NN principles_
+, and_
+CC originally_
+PRP shaped_
+VBD the_
+DT political_
+JJ institutions_
+NN of_
+IN what_
+WP we_
+PRP term_
+VBD the_
+DT ``_
+`` free_
+JJ society_
+NN ''_
+'' ._
+.
+
+No_
+DT doubt_
+NN there_
+RB are_
+VBP historians_
+VBG who_
+WP can_
+MD explain_
+VB to_
+TO a_
+DT great_
+JJ extent_
+NNS what_
+WP happened_
+VBD to_
+TO the_
+DT plans_
+NNS and_
+CC projects_
+VBD of_
+IN the_
+DT eighteenth_
+JJ century_
+NN ._
+.
+
+Going_
+`` back_
+RB over_
+IN this_
+DT ground_
+NN and_
+CC analyzing_
+VBD the_
+DT composition_
+NN of_
+IN forces_
+NNS which_
+WDT have_
+VBP created_
+VBD the_
+DT present_
+JJ scene_
+NN is_
+VBZ one_
+CD of_
+IN the_
+DT tasks_
+JJ undertaken_
+NN by_
+IN the_
+DT Center_
+NN for_
+IN the_
+DT Study_
+NN of_
+IN Democratic_
+DT Institutions_
+NN ,_
+, in_
+IN Santa_
+DT Barbara_
+NN ._
+.
+
+But_
+CC however_
+RB we_
+PRP come_
+VB ,_
+, finally_
+RB ,_
+, to_
+TO explain_
+VB and_
+CC account_
+NN for_
+IN the_
+DT present_
+JJ ,_
+, the_
+DT truth_
+NN we_
+PRP are_
+VBP trying_
+VBG to_
+TO expose_
+VB ,_
+, right_
+RB now_
+RB ,_
+, is_
+VBZ that_
+IN the_
+DT makers_
+NN of_
+IN constitutions_
+NNP and_
+CC the_
+DT designers_
+NN of_
+IN institutions_
+TO find_
+VB it_
+PRP difficult_
+VBD if_
+IN not_
+RB impossible_
+VB to_
+TO anticipate_
+VB the_
+DT behavior_
+NN of_
+IN the_
+DT host_
+NN of_
+IN all_
+DT their_
+PRP$ enterprises_
+NN ._
+.
+
+The_
+DT host_
+NN is_
+VBZ the_
+DT flowing_
+JJ life_
+NN of_
+IN the_
+DT human_
+JJ race_
+NN ._
+.
+
+This_
+DT life_
+NN has_
+VBZ its_
+PRP$ own_
+JJ currents_
+NNS and_
+CC rhythms_
+RB ,_
+, its_
+PRP$ own_
+JJ multiple_
+NN cycles_
+, and_
+CC adaptations_
+NNS ._
+.
+
+On_
+IN occasion_
+NN it_
+PRP produces_
+. extraordinary_
+. novelties_
+. ._
+.
+
+Should_
+PRP Rousseau_
+MD have_
+VB been_
+VBN able_
+JJ to_
+TO leave_
+VB room_
+NN in_
+IN his_
+PRP$ social_
+JJ theory_
+NN for_
+IN the_
+DT advent_
+NN of_
+IN television_
+NNP ,_
+, atomic_
+DT energy_
+NN ,_
+, and_
+CC IBM_
+NNS machines_
+. ?_
+. ?_
+.
+
+How_
+WRB would_
+MD Thomas_
+VB Jefferson_
+TO feel_
+VB after_
+IN reading_
+DT Factories_
+NN In_
+IN The_
+DT Field_
+NN ?_
+. ?_
+.
+
+They_
+PRP tell_
+VBP us_
+PRP ,_
+, sir_
+UH ,_
+, that_
+IN we_
+PRP are_
+VBP free_
+JJ ,_
+, because_
+IN we_
+PRP have_
+VB in_
+IN one_
+CD hand_
+NN a_
+DT ballot_
+NN ,_
+, and_
+CC in_
+IN the_
+DT other_
+JJ a_
+DT stock_
+NN certificate_
+. ._
+.
+
+With_
+IN these_
+DT we_
+PRP shape_
+VBD our_
+PRP$ destiny_
+NNS and_
+CC own_
+JJ private_
+JJ property_
+NN ,_
+, and_
+CC that_
+IN ,_
+, sir_
+UH ,_
+, makes_
+VBG ours_
+IN the_
+DT best_
+JJS of_
+IN all_
+DT possible_
+JJ societies_
+NNS ._
+.
+
+The_
+DT reality_
+NN of_
+IN the_
+DT situation_
+NN ,_
+, however_
+RB ,_
+, is_
+VBZ described_
+RB by_
+IN Mr._
+NNP Lyford_
+: :_
+: ``_
+`` Many_
+JJ of_
+IN us_
+PRP may_
+MD even_
+RB be_
+VB secretly_
+VBN relieved_
+VBN at_
+IN having_
+VBG a_
+DT plausible_
+JJ excuse_
+NN to_
+TO delegate_
+VB ancient_
+JJ civic_
+TO responsibilities_
+VB to_
+TO a_
+DT new_
+JJ bureaucracy_
+NN of_
+IN experts_
+NN ._
+.
+
+Thus_
+`` the_
+DT member_
+NN of_
+IN an_
+DT industrial_
+JJ union_
+NN comes_
+VBZ to_
+TO regard_
+VB his_
+PRP$ officers_
+NNS as_
+IN business_
+NN agents_
+, who_
+WP may_
+MD proceed_
+VB without_
+IN interference_
+NN or_
+CC recall_
+: ;_
+: ;_
+: the_
+DT stockholder_
+NN delivers_
+IN his_
+PRP$ proxy_
+NN ;_
+: ;_
+: and_
+CC the_
+DT citizen_
+NN narrows_
+IN his_
+PRP$ political_
+NNS participation_
+VBD to_
+TO the_
+DT mere_
+JJ act_
+NN of_
+IN voting_
+NN --_
+: if_
+IN he_
+PRP votes_
+VBD at_
+IN all_
+DT ''_
+'' ._
+.
+
+contemporary_
+`` literature_
+EX is_
+VBZ a_
+DT major_
+JJ effort_
+NN to_
+TO counterbalance_
+VB Existentialism_
+, and_
+CC restore_
+VB some_
+DT of_
+IN its_
+PRP$ former_
+JJ lustre_
+NN to_
+TO the_
+DT tarnished_
+JJ image_
+NN of_
+IN the_
+DT species_
+JJ Man_
+NN ,_
+, or_
+CC ,_
+, as_
+RB Malraux_
+VB himself_
+PRP puts_
+VBP it_
+PRP ,_
+, ``_
+`` to_
+TO make_
+VB men_
+NNS conscious_
+, of_
+IN the_
+DT grandeur_
+NN they_
+PRP ignore_
+VB in_
+IN themselves_
+PRP ''_
+'' ._
+. 1_
+RB ,_
+, Andre_
+CC Malraux_
+EX 's_
+VBZ The_
+DT Walnut_
+NN Trees_
+TO Of_
+VB Altenburg_
+PRP was_
+VBD written_
+VBN in_
+IN the_
+DT early_
+JJ years_
+NNS of_
+IN the_
+DT second_
+JJ World_
+NNP War_
+NNP ,_
+, during_
+IN a_
+DT period_
+NN of_
+IN enforced_
+DT leisure_
+NN when_
+WRB he_
+PRP was_
+VBD taken_
+VBN prisoner_
+VBN by_
+IN the_
+DT Germans_
+NN after_
+IN the_
+DT fall_
+NN of_
+IN France_
+NN ._
+.
+
+The_
+DT manuscript_
+NN ,_
+, presumably_
+RB after_
+IN being_
+VBG smuggled_
+RB out_
+RB of_
+IN the_
+DT country_
+NN ,_
+, was_
+VBD published_
+VBN in_
+IN Switzerland_
+NN in_
+IN 1943_
+NN ._
+.
+
+The_
+DT work_
+NN as_
+IN it_
+PRP stands_
+WP is_
+VBZ not_
+RB the_
+DT entire_
+JJ book_
+NN that_
+IN Malraux_
+PRP wrote_
+VBD at_
+IN that_
+DT time_
+NN --_
+: it_
+PRP is_
+VBZ only_
+RB the_
+DT first_
+JJ section_
+NN of_
+IN a_
+DT three-part_
+JJ novel_
+NNS called_
+VBD La_
+: Lutte_
+: avec_
+: l'Ange_
+: ;_
+: ;_
+: and_
+CC this_
+DT first_
+JJ section_
+NNS was_
+VBD somehow_
+RB preserved_
+'' (_
+( there_
+RB are_
+VBP always_
+RB these_
+DT annoying_
+JJ little_
+JJ mysteries_
+NN about_
+IN the_
+DT actual_
+JJ facts_
+NNS of_
+IN Malraux_
+NNP 's_
+POS life_
+NN )_
+) when_
+WRB the_
+DT Gestapo_
+NN destroyed_
+IN the_
+DT rest_
+NN ._
+.
+
+If_
+IN we_
+PRP are_
+VBP to_
+TO believe_
+VB the_
+DT list_
+NN of_
+IN titles_
+DT printed_
+NN in_
+IN Malraux_
+NNP 's_
+POS latest_
+JJS book_
+NN ,_
+, La_
+NNP Metamorphose_
+NNP Des_
+NNP Dieux_
+NNP ,_
+, Vol._
+CC 1_
+EX (_
+( (_
+( 1957_
+SYM )_
+) ,_
+, he_
+PRP is_
+VBZ still_
+RB engaged_
+VBN in_
+IN writing_
+VBG a_
+DT large_
+JJ novel_
+NN under_
+IN his_
+PRP$ original_
+JJ title_
+NN ._
+.
+
+But_
+CC as_
+IN he_
+PRP remarks_
+VBD in_
+IN his_
+PRP$ preface_
+NN to_
+TO The_
+DT Walnut_
+JJ Trees_
+NN ,_
+, ``_
+`` a_
+DT novel_
+NN can_
+MD hardly_
+RB ever_
+RB be_
+VB rewritten_
+PRP ''_
+'' ,_
+, and_
+CC ``_
+`` when_
+WRB this_
+DT one_
+CD appears_
+NNS in_
+IN its_
+PRP$ final_
+JJ form_
+NN ,_
+, the_
+DT form_
+NN of_
+IN the_
+DT first_
+JJ part_
+NN will_
+MD no_
+RB doubt_
+TO be_
+VB radically_
+TO changed_
+VB ''_
+'' ._
+.
+
+Malraux_
+`` pretends_
+UH ,_
+, perhaps_
+RB with_
+IN a_
+DT trifle_
+RB too_
+RB self-conscious_
+IN a_
+DT modesty_
+NN ,_
+, that_
+IN his_
+PRP$ fragmentary_
+JJ work_
+NN will_
+MD accordingly_
+: ``_
+`` appeal_
+VBP only_
+RB to_
+TO the_
+DT curiosity_
+NN of_
+IN bibliophiles_
+NNP ''_
+'' and_
+CC ``_
+`` to_
+TO connoisseurs_
+VB of_
+IN what_
+WP might_
+MD have_
+VB been_
+VBN ''_
+'' ._
+.
+
+Even_
+RB in_
+IN its_
+PRP$ present_
+JJ form_
+NN ,_
+, however_
+RB ,_
+, the_
+DT first_
+JJ part_
+NN of_
+IN Malraux_
+NNP 's_
+POS unrecoverable_
+NNS novel_
+WP is_
+VBZ among_
+IN the_
+DT greatest_
+JJ works_
+NN of_
+IN mid-twentieth_
+DT century_
+NN literature_
+: ;_
+: ;_
+: and_
+CC it_
+PRP should_
+MD be_
+VB far_
+RB better_
+RB known_
+VBN than_
+IN it_
+PRP is_
+VBZ ._
+.
+
+The_
+DT theme_
+NN of_
+IN The_
+DT Walnut_
+NN Trees_
+. Of_
+. Altenburg_
+`` is_
+VBZ most_
+RBS closely_
+RB related_
+VBD to_
+TO its_
+PRP$ immediate_
+JJ predecessor_
+NN in_
+IN Malraux_
+NNP 's_
+POS array_
+NN of_
+IN novels_
+NN :_
+: Man_
+NNP 's_
+POS Hope_
+NN (_
+. 1937_
+. )_
+. ._
+.
+
+This_
+DT magnificent_
+JJ but_
+CC greatly_
+RB underestimated_
+JJ book_
+NN ,_
+, which_
+WDT bodies_
+MD forth_
+VB the_
+DT very_
+JJ form_
+NN and_
+CC pressure_
+NN of_
+IN its_
+PRP$ time_
+NN as_
+IN no_
+DT other_
+JJ comparable_
+JJ creation_
+NN ,_
+, has_
+VBZ suffered_
+TO severely_
+VB from_
+IN having_
+VBG been_
+VBN written_
+VBN about_
+IN an_
+DT historical_
+NN event_
+: --_
+: the_
+DT Spanish_
+NNP Civil_
+NNP War_
+NNP --_
+: that_
+DT is_
+VBZ still_
+RB capable_
+JJ of_
+IN fanning_
+IN the_
+DT smoldering_
+JJ fires_
+NNS of_
+IN old_
+JJ political_
+NN feuds_
+. ._
+.
+
+Even_
+RB so_
+RB apparently_
+RB impartial_
+IN a_
+DT critic_
+NN as_
+IN W.H._
+DT Frohock_
+NN has_
+VBZ taken_
+VBN for_
+IN granted_
+NN that_
+IN the_
+DT book_
+NN was_
+VBD originally_
+PRP intended_
+VBD as_
+IN a_
+DT piece_
+NN of_
+IN Loyalist_
+DT propaganda_
+NN ;_
+: ;_
+: and_
+CC has_
+VBZ then_
+RB gone_
+VBN on_
+IN to_
+TO argue_
+VB ,_
+, with_
+IN unimpeachable_
+DT consistency_
+NN ,_
+, that_
+IN all_
+PDT the_
+DT obviously_
+RB non-propagandistic_
+JJ aspects_
+NNS of_
+IN the_
+DT book_
+NN are_
+VBP simply_
+RB inadvertent_
+. ``_
+`` contradictions_
+UH ''_
+'' ._
+.
+
+Nothing_
+UH ,_
+, however_
+RB ,_
+, could_
+MD be_
+VB farther_
+RB from_
+IN the_
+DT truth_
+NN ._
+.
+
+The_
+DT whole_
+JJ purpose_
+NN of_
+IN Man_
+NNP 's_
+POS Hope_
+NN is_
+VBZ to_
+TO portray_
+VB the_
+DT tragic_
+JJ dialectic_
+NN between_
+IN means_
+NN and_
+CC ends_
+VBD inherent_
+VBN in_
+IN all_
+DT organized_
+JJ political_
+NN violence_
+: --_
+: and_
+CC even_
+RB when_
+WRB such_
+DT violence_
+NN is_
+VBZ a_
+DT necessary_
+JJ and_
+CC legitimate_
+VBD self-defense_
+VBN of_
+IN liberty_
+NNP ,_
+, justice_
+NN and_
+CC human_
+JJ dignity_
+NN ._
+.
+
+Nowhere_
+`` before_
+RB in_
+IN Malraux_
+NNP 's_
+POS pages_
+MD have_
+VB we_
+PRP met_
+VBD such_
+DT impassioned_
+JJ defenders_
+NN of_
+IN a_
+DT ``_
+`` quality_
+NN of_
+IN man_
+NN ''_
+'' which_
+WDT transcends_
+VBD the_
+DT realm_
+NN of_
+IN politics_
+NNS and_
+CC even_
+RB the_
+DT realm_
+NN of_
+IN action_
+NN altogether_
+: --_
+: both_
+CC the_
+DT action_
+NN of_
+IN Malraux_
+NNP 's_
+POS early_
+JJ anarchist-adventurers_
+NN like_
+IN Perken_
+NNP and_
+CC Garine_
+RB ,_
+, and_
+CC the_
+DT self-sacrificing_
+JJ action_
+NN of_
+IN dedicated_
+JJ Communists_
+NN like_
+IN Kyo_
+DT Gisors_
+NN and_
+CC Katow_
+VBD in_
+IN Man_
+NNP 's_
+POS Fate_
+NN ._
+.
+
+``_
+`` Man_
+PRP engages_
+MD only_
+RB a_
+DT small_
+JJ part_
+NN of_
+IN himself_
+PRP in_
+IN an_
+DT action_
+NN ''_
+'' says_
+VBZ old_
+JJ Alvear_
+IN the_
+DT art-historian_
+NN ;_
+: ;_
+: ``_
+`` and_
+CC the_
+DT more_
+JJR the_
+DT action_
+NN claims_
+VBD to_
+TO be_
+VB total_
+'' ,_
+, the_
+DT smaller_
+NN is_
+VBZ the_
+DT part_
+NN of_
+IN man_
+NN engaged_
+VBD ''_
+'' ._
+.
+
+These_
+DT lines_
+NNS never_
+RB cease_
+VB to_
+TO haunt_
+VB the_
+DT book_
+NN amidst_
+IN all_
+PDT the_
+DT exaltations_
+NN of_
+IN combat_
+NN ,_
+, and_
+CC to_
+TO make_
+VB an_
+DT appeal_
+NN for_
+IN a_
+DT larger_
+JJR and_
+CC more_
+JJR elemental_
+CC human_
+JJ community_
+NN than_
+IN one_
+CD based_
+NNS on_
+IN the_
+DT brutal_
+JJ necessities_
+NN of_
+IN war_
+NN ._
+.
+
+It_
+PRP is_
+VBZ this_
+DT larger_
+JJR theme_
+NNS of_
+IN the_
+DT ``_
+`` quality_
+NN of_
+IN man_
+NN ''_
+'' ,_
+, a_
+DT quality_
+NN that_
+IN transcends_
+IN the_
+DT ideological_
+NN and_
+CC flows_
+VBD into_
+IN ``_
+`` the_
+DT human_
+JJ ''_
+'' ,_
+, which_
+WDT now_
+RB forms_
+IN the_
+DT pulsating_
+JJ heart_
+NN of_
+IN Malraux_
+NNP 's_
+POS artistic_
+NN universe_
+. ._
+.
+
+Malraux_
+UH ,_
+, to_
+TO be_
+VB sure_
+RB ,_
+, does_
+VBZ not_
+RB abandon_
+IN the_
+DT world_
+NN of_
+IN violence_
+NN ,_
+, combat_
+NN and_
+CC sudden_
+JJ death_
+NN which_
+WDT has_
+VBZ become_
+VBN his_
+PRP$ hallmark_
+NNS as_
+IN a_
+DT creative_
+JJ artist_
+NN ,_
+, and_
+CC which_
+WDT is_
+VBZ the_
+DT only_
+JJ world_
+NN ,_
+, apparently_
+RB ,_
+, in_
+IN which_
+WDT his_
+PRP$ imagination_
+NN can_
+MD flame_
+VB into_
+IN life_
+NN ._
+.
+
+The_
+DT Walnut_
+NN Trees_
+. Of_
+. Altenburg_
+. includes_
+. not_
+RB one_
+CD war_
+NN but_
+CC two_
+CD ,_
+, and_
+CC throws_
+VBD in_
+IN a_
+DT Turkish_
+NN revolution_
+VBD along_
+RB with_
+IN some_
+DT guerrilla_
+JJ fighting_
+JJ in_
+IN the_
+DT desert_
+NN for_
+IN good_
+JJ measure_
+NN ._
+.
+
+But_
+CC while_
+IN war_
+NN still_
+RB serves_
+VBN as_
+IN a_
+DT catalyst_
+NN for_
+IN the_
+DT values_
+NN that_
+IN Malraux_
+DT wishes_
+NN to_
+TO express_
+VB ,_
+, these_
+DT values_
+NNS are_
+VBP no_
+RB longer_
+RB linked_
+VBN with_
+IN the_
+DT triumph_
+NN or_
+CC defeat_
+VBD of_
+IN any_
+DT cause_
+NN --_
+: whether_
+IN that_
+DT of_
+IN an_
+DT individual_
+JJ assertion_
+NN of_
+IN the_
+DT will-to-power_
+NN ,_
+, or_
+CC a_
+DT collective_
+JJ attempt_
+NN to_
+TO escape_
+VB from_
+IN the_
+DT humiliation_
+NN of_
+IN oppression_
+NN --_
+: as_
+IN their_
+PRP$ necessary_
+JJ condition_
+NN ._
+.
+
+On_
+IN the_
+DT contrary_
+NN ,_
+, the_
+DT frenzy_
+NN and_
+CC furor_
+VBD of_
+IN combat_
+NN is_
+VBZ only_
+RB the_
+DT sombre_
+JJ foil_
+NN against_
+IN which_
+WDT the_
+DT sudden_
+JJ illuminations_
+NN of_
+IN the_
+DT human_
+JJ flash_
+NN forth_
+, with_
+IN the_
+DT piercing_
+JJ radiance_
+NN of_
+IN a_
+DT Caravaggio_
+NN ._
+.
+
+2_
+CD ,_
+, The_
+DT Walnut_
+NN Trees_
+. Of_
+. Altenburg_
+`` is_
+VBZ composed_
+RB in_
+IN the_
+DT form_
+NN of_
+IN a_
+DT triptych_
+NN ,_
+, with_
+IN the_
+DT two_
+CD small_
+JJ side_
+NN panels_
+'' framing_
+, and_
+CC enclosing_
+VBD the_
+DT main_
+JJ central_
+TO episode_
+VB of_
+IN the_
+DT novel_
+NN ._
+.
+

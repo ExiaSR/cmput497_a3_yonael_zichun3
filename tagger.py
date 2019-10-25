@@ -43,6 +43,10 @@ def read_object(filename):
     with open(filename, "rb") as file:
         return dill.load(file)
 
+def save_output(filename, tagged_sentences, dir="output/"):
+    with open(os.path.join(dir, filename), "w") as output_file:
+        output_data = ["{}\n\n".format(" ".join(["_\n".join(token) for token in sentence])) for sentence in tagged_sentences]
+        output_file.writelines(output_data)
 
 def deserialize_data(data_file):
     sentences_raw = [sentence_raw.split("\n") for sentence_raw in data_file.read().split("\n\n")]
@@ -122,6 +126,8 @@ def analyze(tagger, test_deserialized, train_deserialized):
         )
     )
 
+    return tagged_sentences
+
 
 @click.command()
 @click.option("--tagger", "tagger_name", help="Tagger name, [hmm|brill]", required=True)
@@ -140,9 +146,9 @@ def main(tagger_name, model, train_file, test_file, debug):
 
     init_logger(debug)
 
-    model_name = model or "{}.{}.tagger".format(
-        os.path.splitext(ntpath.basename(train_file.name))[0], tagger_name
-    )
+    train_file_name = os.path.splitext(ntpath.basename(train_file.name))[0]
+    test_file_name = os.path.splitext(ntpath.basename(test_file.name))[0]
+    model_name = model or "{}.{}.tagger".format(train_file_name, tagger_name)
 
     train_deserialized = deserialize_data(train_file)
     test_deserialized = deserialize_data(test_file)
@@ -161,7 +167,8 @@ def main(tagger_name, model, train_file, test_file, debug):
     # save_object(tagger.tagger, model_name)
 
     # error analysis
-    analyze(tagger.tagger, test_deserialized, train_deserialized)
+    tagged_sentences = analyze(tagger.tagger, test_deserialized, train_deserialized)
+    save_output("{}.{}-tagged.{}.txt".format(tagger_name, test_file_name, train_file_name), tagged_sentences)
 
 
 if __name__ == "__main__":
