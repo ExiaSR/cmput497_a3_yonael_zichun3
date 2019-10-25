@@ -64,22 +64,49 @@ def main():
         test_sentences = deserialize_data(
             get_file_by_name("{}.cleaned.txt".format(test_name), test_files)["data"]
         )
+        train_sentences = deserialize_data(
+            get_file_by_name("{}.cleaned.txt".format(model_name), test_files)["data"]
+        )
 
         print("Test dataset: {}, Model name: {}".format(test_name, model_name))
         test_analysis = analyze_test(test_sentences)
         occurences_dict = test_analysis[0]
         original_sentences = test_analysis[1]
 
+        # oov analysis
+        oov_report = oov_analysis(train_sentences, test_sentences, tagged_sentences)
+        print(
+            "Results on {total_sentences} sentences and {total_words} words, of which {oov_count} were unknown.".format(
+                **oov_report
+            )
+        )
+        print(
+            "Unknown words right: {oov_right_count} ({0:.4f}%); wrong: {oov_wrong_count} ({1:.4f}%).".format(
+                oov_report["oov_right_count"] / oov_report["oov_count"] * 100.0,
+                oov_report["oov_wrong_count"] / oov_report["oov_count"] * 100.0,
+                **oov_report,
+            )
+        )
+
         mistagged_data = analyze_mistagged(tagged_sentences, test_sentences)
         mislabelled_dict = mistagged_data[0]
         tag_occurences_dict = analyze_test(mistagged_data[1])[0]
+
+        print("\n==========================OOV Sampling========================")
+        print("Sampling: randomly selected 10 sentences that contain OOV words.")
+        print("Format: [(word, (gold_tag, test_tag)), (word, (gold_tag, test_tag))]")
+        print("\n".join(["{}: {}".format(idx+1, str(each)) for idx, each in enumerate(oov_report["random_sample"])]))
+        print("========================End of OOV Sampling======================\n")
 
         # confusion matrix
         gold = tag_list(test_sentences)
         test = tag_list(tagged_sentences)
         cm = nltk.ConfusionMatrix(gold, test)
+        print("\n==========================Confusion Matrix========================")
         print(cm.pretty_format(sort_by_count=True, show_percents=True, truncate=9))
+        print("========================End of Confusion Matrix======================\n")
 
+        # precesion and recall
         stats_report, stats_table = precesion_and_recall(set(gold + test), cm)
         print(stats_table)
 
